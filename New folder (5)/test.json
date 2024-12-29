@@ -1,0 +1,128 @@
+{
+    "Main Partners": {
+        "1996": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Netherlands": "43.30",
+                    "Mauritania": "21.97",
+                    "Norway": "5.78",
+                    "United Kingdom": "5.46",
+                    "Ireland": "5.42"
+                },
+                "Vegetable Products": {
+                    "United States": "63.23",
+                    "Thailand": "14.48",
+                    "Canada": "5.04",
+                    "United Kingdom": "3,55",
+                    "Argentina": "3.12"
+                },
+                "Animal or Vegetable Fats and Oils and their Cleavage Products; Prepared Edible Fats; Animal or Vegetable Waxes": {
+                    "Netherlands": "43.30",
+                    "Mauritania": "21.97",
+                    "Norway": "5.78",
+                    "United Kingdom": "5.46",
+                    "Ireland": "5.42"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "Brasil": "61.06",
+                    "United Kingdom": "12.55",
+                    "Netherlands": "5.91",
+                    "France": "4.20",
+                    "Germany": "2.64"
+                }
+            }
+        }
+    }
+}
+
+console.log(partnerChartData)
+
+
+{
+    "categories": {
+        "Animals & Animal Products": "Animal",
+        01-05_Animal
+      "Vegetable Products": "Vegetable",
+        06-15_Vegetable
+      "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": "Food Products",
+        16-24_FoodProd
+      "Mineral Products": "Minerals",
+        25-26_Minerals
+      "Products of the Chemical or Allied Industries": "Chemicals",
+        28-38_Chemicals
+      "Plastics and Articles thereof; Rubber and Articles thereof": "Plastic or Rubber",
+        39-40_PlastiRub
+      "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": "Hides and Skins",
+        41-43_HidesSkin
+      "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": "Wood",
+        44-49_Wood
+      "Textiles and Textile Articles": "Textiles",
+        50-63_TextCloth
+      "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": "Footwear",
+        64-67_Footwear
+      "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": "Glass and Glassware",
+        68-71_StoneGlas
+      "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": "Ores and Metals",OresMtls
+      "Base Metals and Articles of Base Metal": "Metals",
+        72-83_Metals
+      "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": "Mach and Elec",
+        84-85_MachElec
+      "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": "Transportation",
+        86-89_Transport
+      "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": "Manufactures",manuf
+      "Miscellaneous Manufactured Articles": "Miscellaneous",
+        90-99_Miscellan
+    }
+}
+  
+
+{
+    "categories": {
+        "01-05_Animal": "Animals & Animal Products",
+        "06-15_Vegetable": "Vegetable Products",
+        "16-24_FoodProd": "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes",
+        "25-26_Minerals": "Mineral Products",
+        "28-38_Chemicals": "Products of the Chemical or Allied Industries",
+        "39-40_PlastiRub": "Plastics and Articles thereof; Rubber and Articles thereof",
+        "41-43_HidesSkin": "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)",
+        "44-49_Wood": "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork",
+        "50-63_TextCloth": "Textiles and Textile Articles",
+        "64-67_Footwear": "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair",
+        "68-71_StoneGlas": "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware",
+        "OresMtls": "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin",
+        "72-83_Metals": "Base Metals and Articles of Base Metal",
+        "84-85_MachElec": "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles",
+        "86-89_Transport": "Vehicles, Aircraft, Vessels, and Associated Transport Equipment",
+        "manuf": "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof",
+        "90-99_Miscellan": "Miscellaneous Manufactured Articles",
+    }
+}
+  
+
+  [
+    {'color': '#eecc88', 'label': 'Thailand 1988 Import Partner Share ', 'value': 1358869.87
+    },
+    {'data': {'description': 'Trade Value($): 312,
+            237.70 </br> Share(%): 22.98'
+        }, 'label': 'United States', 'parent': 'Thailand 1988 Import Partner Share ', 'value': 312237.702
+    },
+    {'data': {'description': 'Trade Value($): 264,329.95 </br> Share(%): 19.45'},
+     'label': 'Japan', 'parent': 'Thailand 1988 Import Partner Share ', 'value': 264329.952
+    },
+    {'data': {'description': 'Trade Value($): 155,
+            720.70 </br> Share(%): 11.46'
+        }, 'label': 'Germany', 'parent': 'Thailand 1988 Import Partner Share ', 'value': 155720.697
+    },
+    {'data': {'description': 'Trade Value($): 110,
+            691.64 </br> Share(%): 8.15'
+        }, 'label': 'Unspecified', 'parent': 'Thailand 1988 Import Partner Share ', 'value': 110691.637
+    },
+    {'data': {'description': 'Trade Value($): 74,
+            337.55 </br> Share(%): 5.47'
+        }, 'label': 'United Kingdom', 'parent': 'Thailand 1988 Import Partner Share ', 'value': 74337.545
+    },
+    {'data': {'description': 'Trade Value($): 441,
+            552.34 </br> Share(%): 32.49'
+        }, 'label': 'Others (75) partners', 'parent': 'Thailand 1988 Import Partner Share ', 'value': 441552.337
+    }
+]
