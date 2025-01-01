@@ -72,8 +72,8 @@ product_code = [
     "90-99_Miscellan"
 ]
 
-country = ["BWA"]
-year = generate_years(2000, 2022)
+country = ["CMR"]
+year = generate_years(1995, 2021)
 
 def export_to_csv(partner_data, year, product_code):
     # Open a CSV file to append data
