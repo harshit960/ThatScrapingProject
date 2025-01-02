@@ -1,0 +1,3617 @@
+{
+    "Main Partners": {
+        "1993": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "31.40",
+                    "Netherlands": "12.75",
+                    "New Zealand": "10.74",
+                    "France": "9.79",
+                    "Germany": "5.82"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "15.60",
+                    "France": "15.38",
+                    "Portugal": "8.11",
+                    "United States": "6.38",
+                    "Germany": "5.11"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "15.10",
+                    "Ireland": "14.70",
+                    "Netherlands": "10.04",
+                    "Germany": "9.21",
+                    "Italy": "6.48"
+                },
+                "Mineral Products": {
+                    "Australia": "15.99",
+                    "United States": "11.45",
+                    "Canada": "10.90",
+                    "South Africa": "9.63",
+                    "Russian Federation": "5.29"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "16.80",
+                    "France": "13.04",
+                    "United States": "12.40",
+                    "Netherlands": "10.54",
+                    "Ireland": "8.64"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.91",
+                    "France": "10.60",
+                    "United States": "9.91",
+                    "Belgium-Luxembourg": "9.49",
+                    "Netherlands": "7.83"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Sweden": "15.86",
+                    "Finland": "14.43",
+                    "United States": "11.19",
+                    "Germany": "10.04",
+                    "France": "6.40"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Italy": "18.58",
+                    "Greece": "11.04",
+                    "Indonesia": "7.47",
+                    "Portugal": "6.64",
+                    "Brazil": "6.37"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Special Categories": "41.48",
+                    "Monaco": "7.87",
+                    "France": "5.11",
+                    "United States": "4.65",
+                    "Italy": "4.24"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Germany": "9.01",
+                    "Canada": "8.81",
+                    "United States": "8.02",
+                    "Australia": "6.73",
+                    "Russian Federation": "6.17"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "19.80",
+                    "France": "9.57",
+                    "United States": "6.49",
+                    "Belgium-Luxembourg": "5.44",
+                    "Netherlands": "5.27"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "19.66",
+                    "Germany": "14.37",
+                    "Japan": "12.27",
+                    "Netherlands": "6.40",
+                    "France": "6.28"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "26.99",
+                    "France": "14.93",
+                    "Special Categories": "13.16",
+                    "Japan": "11.43",
+                    "Belgium-Luxembourg": "9.19"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "15.83",
+                    "United States": "12.19",
+                    "France": "8.51",
+                    "Japan": "8.13",
+                    "Netherlands": "5.52"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "21.88",
+                    "Japan": "9.74",
+                    "Germany": "9.44",
+                    "Switzerland": "6.29",
+                    "Hong Kong, China": "6.01"
+                }
+            }
+        },
+        "1994": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "17.11",
+                    "Denmark": "14.28",
+                    "Netherlands": "12.44",
+                    "New Zealand": "10.37",
+                    "France": "9.77"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "16.31",
+                    "France": "13.31",
+                    "Spain": "9.75",
+                    "United States": "5.87",
+                    "Germany": "4.57"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "16.62",
+                    "Ireland": "11.75",
+                    "Netherlands": "10.01",
+                    "Germany": "8.63",
+                    "Italy": "6.36"
+                },
+                "Mineral Products": {
+                    "Australia": "17.34",
+                    "United States": "13.51",
+                    "Canada": "10.86",
+                    "South Africa": "10.83",
+                    "France": "3.76"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "18.08",
+                    "France": "13.77",
+                    "United States": "11.87",
+                    "Netherlands": "11.70",
+                    "Belgium-Luxembourg": "6.90"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "20.64",
+                    "France": "11.85",
+                    "Netherlands": "10.95",
+                    "Belgium-Luxembourg": "10.45",
+                    "United States": "8.17"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Hong Kong, China": "15.17",
+                    "Italy": "12.05",
+                    "China": "10.95",
+                    "India": "9.75",
+                    "Pakistan": "6.32"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Sweden": "15.41",
+                    "Finland": "14.42",
+                    "Germany": "10.33",
+                    "United States": "10.10",
+                    "France": "6.17"
+                },
+                "Textiles and Textile Articles": {
+                    "Hong Kong, China": "10.07",
+                    "Germany": "8.52",
+                    "Italy": "8.40",
+                    "Belgium-Luxembourg": "6.04",
+                    "India": "5.24"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Italy": "19.23",
+                    "Portugal": "11.58",
+                    "Spain": "9.27",
+                    "Indonesia": "7.51",
+                    "Thailand": "5.08"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Special Categories": "35.72",
+                    "Monaco": "7.39",
+                    "France": "7.18",
+                    "Italy": "4.80",
+                    "Germany": "4.52"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Germany": "10.57",
+                    "United States": "9.35",
+                    "Canada": "7.30",
+                    "Australia": "6.93",
+                    "Russian Federation": "6.80"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "19.86",
+                    "France": "9.66",
+                    "United States": "6.39",
+                    "Italy": "5.87",
+                    "Netherlands": "5.47"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "19.14",
+                    "Germany": "14.43",
+                    "Japan": "12.12",
+                    "France": "6.81",
+                    "Netherlands": "6.56"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "28.45",
+                    "France": "16.89",
+                    "Special Categories": "11.97",
+                    "Japan": "8.77",
+                    "Belgium-Luxembourg": "8.51"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "16.52",
+                    "United States": "11.68",
+                    "France": "9.37",
+                    "Japan": "7.32",
+                    "Netherlands": "5.95"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "21.44",
+                    "Germany": "10.14",
+                    "Japan": "8.28",
+                    "Switzerland": "6.64",
+                    "Hong Kong, China": "5.73"
+                }
+            }
+        },
+        "1995": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "17.41",
+                    "Denmark": "13.26",
+                    "Netherlands": "13.22",
+                    "France": "11.29",
+                    "New Zealand": "9.67"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "14.77",
+                    "Ireland": "11.59",
+                    "Netherlands": "10.32",
+                    "Germany": "8.92",
+                    "Italy": "6.79"
+                },
+                "Mineral Products": {
+                    "United States": "15.67",
+                    "Australia": "15.36",
+                    "South Africa": "11.52",
+                    "Canada": "10.51",
+                    "France": "3.66"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "16.84",
+                    "France": "12.90",
+                    "Netherlands": "12.11",
+                    "United States": "11.79",
+                    "Ireland": "8.35"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.72",
+                    "France": "11.76",
+                    "Netherlands": "11.24",
+                    "Belgium-Luxembourg": "10.77",
+                    "United States": "7.72"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Hong Kong, China": "18.19",
+                    "Italy": "12.82",
+                    "China": "11.52",
+                    "India": "8.96",
+                    "Ireland": "5.54"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Sweden": "14.28",
+                    "Finland": "12.69",
+                    "United States": "11.17",
+                    "Germany": "10.87",
+                    "France": "7.00"
+                },
+                "Textiles and Textile Articles": {
+                    "Hong Kong, China": "9.23",
+                    "Italy": "8.68",
+                    "Germany": "8.42",
+                    "Belgium-Luxembourg": "6.46",
+                    "India": "5.54"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Italy": "19.29",
+                    "Portugal": "12.13",
+                    "Spain": "8.42",
+                    "Indonesia": "7.87",
+                    "Hong Kong, China": "6.12"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Special Categories": "35.63",
+                    "United States": "9.15",
+                    "Monaco": "7.67",
+                    "France": "6.54",
+                    "Germany": "5.02"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "18.45",
+                    "France": "9.88",
+                    "United States": "6.78",
+                    "Netherlands": "5.82",
+                    "Sweden": "5.76"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "18.90",
+                    "Germany": "15.54",
+                    "Japan": "11.47",
+                    "France": "6.97",
+                    "Netherlands": "6.44"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "32.37",
+                    "France": "14.51",
+                    "Special Categories": "8.79",
+                    "Japan": "8.74",
+                    "Belgium-Luxembourg": "8.31"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "17.34",
+                    "United States": "11.86",
+                    "France": "9.04",
+                    "Japan": "7.02",
+                    "Netherlands": "6.16"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "22.02",
+                    "Germany": "10.32",
+                    "Japan": "7.49",
+                    "Switzerland": "5.78",
+                    "Hong Kong, China": "5.70"
+                }
+            }
+        },
+        "1996": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Netherlands": "16.65",
+                    "Ireland": "15.61",
+                    "Denmark": "13.03",
+                    "France": "10.72",
+                    "New Zealand": "9.11"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "16.10",
+                    "France": "11.70",
+                    "Spain": "10.73",
+                    "United States": "6.50",
+                    "Belgium-Luxembourg": "4.60"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "15.08",
+                    "Ireland": "11.50",
+                    "Netherlands": "9.28",
+                    "Germany": "7.96",
+                    "Italy": "7.88"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "16.60",
+                    "United States": "13.98",
+                    "France": "13.31",
+                    "Netherlands": "9.68",
+                    "Ireland": "8.50"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.52",
+                    "France": "11.64",
+                    "Netherlands": "10.87",
+                    "Belgium-Luxembourg": "10.01",
+                    "United States": "8.72"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Hong Kong, China": "21.06",
+                    "Italy": "13.72",
+                    "China": "11.50",
+                    "India": "7.60",
+                    "Ireland": "4.71"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Sweden": "14.31",
+                    "Finland": "14.20",
+                    "United States": "12.82",
+                    "Germany": "9.92",
+                    "France": "6.10"
+                },
+                "Textiles and Textile Articles": {
+                    "Hong Kong, China": "9.58",
+                    "Italy": "8.65",
+                    "Germany": "7.43",
+                    "Belgium-Luxembourg": "6.19",
+                    "India": "5.23"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Italy": "18.26",
+                    "Portugal": "11.52",
+                    "Indonesia": "7.35",
+                    "Spain": "7.08",
+                    "China": "6.63"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Switzerland": "34.05",
+                    "Belgium-Luxembourg": "11.52",
+                    "United States": "8.14",
+                    "France": "6.60",
+                    "Italy": "5.06"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "13.08",
+                    "Germany": "9.98",
+                    "Russian Federation": "9.82",
+                    "Canada": "8.10",
+                    "France": "6.28"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "17.98",
+                    "France": "9.14",
+                    "United States": "7.11",
+                    "Sweden": "6.03",
+                    "Netherlands": "5.81"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "19.48",
+                    "Germany": "13.97",
+                    "Japan": "9.34",
+                    "Netherlands": "7.01",
+                    "France": "6.06"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "30.27",
+                    "France": "15.80",
+                    "Special Categories": "10.13",
+                    "Japan": "7.72",
+                    "Belgium-Luxembourg": "7.14"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "16.25",
+                    "United States": "12.53",
+                    "France": "8.82",
+                    "Netherlands": "6.06",
+                    "Japan": "6.02"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "22.41",
+                    "Germany": "10.30",
+                    "Japan": "6.81",
+                    "Hong Kong, China": "5.96",
+                    "Netherlands": "5.66"
+                }
+            }
+        },
+        "1997": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "16.11",
+                    "Netherlands": "13.90",
+                    "Denmark": "13.13",
+                    "France": "11.53",
+                    "New Zealand": "8.78"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "16.24",
+                    "Ireland": "11.22",
+                    "Netherlands": "9.30",
+                    "Italy": "8.11",
+                    "Germany": "7.35"
+                },
+                "Mineral Products": {
+                    "Australia": "16.91",
+                    "United States": "13.30",
+                    "South Africa": "11.23",
+                    "Canada": "11.17",
+                    "France": "3.42"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "16.42",
+                    "France": "14.27",
+                    "United States": "13.85",
+                    "Netherlands": "9.76",
+                    "Ireland": "8.84"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.02",
+                    "France": "11.40",
+                    "Netherlands": "11.34",
+                    "Belgium-Luxembourg": "9.64",
+                    "United States": "9.11"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Hong Kong, China": "19.03",
+                    "Italy": "12.72",
+                    "China": "11.95",
+                    "India": "7.95",
+                    "France": "4.17"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Finland": "14.36",
+                    "Sweden": "13.78",
+                    "United States": "11.21",
+                    "Germany": "10.61",
+                    "France": "6.16"
+                },
+                "Textiles and Textile Articles": {
+                    "Hong Kong, China": "9.52",
+                    "Italy": "8.62",
+                    "Germany": "6.72",
+                    "Belgium-Luxembourg": "6.33",
+                    "France": "5.34"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Italy": "18.69",
+                    "Portugal": "11.99",
+                    "Belgium-Luxembourg": "7.62",
+                    "Spain": "6.96",
+                    "China": "6.05"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Switzerland": "30.03",
+                    "United States": "9.76",
+                    "Belgium-Luxembourg": "6.96",
+                    "South Africa": "5.57",
+                    "France": "5.24"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "13.53",
+                    "Germany": "11.27",
+                    "Russian Federation": "7.64",
+                    "Canada": "7.31",
+                    "Australia": "6.25"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "18.52",
+                    "France": "8.71",
+                    "United States": "7.74",
+                    "Netherlands": "6.13",
+                    "Italy": "5.70"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "19.43",
+                    "Germany": "13.12",
+                    "Japan": "8.79",
+                    "Netherlands": "7.07",
+                    "France": "6.32"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "24.82",
+                    "France": "13.97",
+                    "Belgium-Luxembourg": "9.64",
+                    "Japan": "8.48",
+                    "Spain": "5.60"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "14.92",
+                    "United States": "12.29",
+                    "France": "8.70",
+                    "Netherlands": "6.15",
+                    "Japan": "6.06"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "21.92",
+                    "Germany": "9.41",
+                    "Japan": "7.39",
+                    "Hong Kong, China": "6.25",
+                    "Netherlands": "5.96"
+                }
+            }
+        },
+        "1998": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "16.83",
+                    "Netherlands": "13.98",
+                    "Denmark": "11.95",
+                    "France": "10.97",
+                    "New Zealand": "8.12"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "17.26",
+                    "Spain": "12.59",
+                    "France": "10.60",
+                    "United States": "6.73",
+                    "Belgium-Luxembourg": "4.77"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "17.37",
+                    "Ireland": "10.71",
+                    "Netherlands": "9.21",
+                    "Italy": "8.20",
+                    "Germany": "7.05"
+                },
+                "Mineral Products": {
+                    "United States": "19.86",
+                    "Australia": "13.21",
+                    "Canada": "12.55",
+                    "South Africa": "10.70",
+                    "Brazil": "3.55"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "15.88",
+                    "France": "14.74",
+                    "United States": "13.10",
+                    "Netherlands": "9.75",
+                    "Ireland": "8.49"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.71",
+                    "Netherlands": "11.13",
+                    "France": "10.99",
+                    "Belgium-Luxembourg": "9.42",
+                    "United States": "9.20"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Hong Kong, China": "21.65",
+                    "China": "13.83",
+                    "Italy": "13.34",
+                    "India": "7.25",
+                    "France": "4.11"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Finland": "14.05",
+                    "Sweden": "13.38",
+                    "United States": "10.59",
+                    "Germany": "10.46",
+                    "France": "6.81"
+                },
+                "Textiles and Textile Articles": {
+                    "Hong Kong, China": "9.80",
+                    "Italy": "8.65",
+                    "Germany": "7.25",
+                    "Belgium-Luxembourg": "6.62",
+                    "Netherlands": "5.55"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Italy": "19.96",
+                    "Portugal": "11.84",
+                    "Belgium-Luxembourg": "7.00",
+                    "Spain": "6.99",
+                    "China": "6.93"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "16.47",
+                    "Germany": "10.35",
+                    "Russian Federation": "8.33",
+                    "Canada": "7.08",
+                    "France": "5.26"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "17.26",
+                    "United States": "9.05",
+                    "France": "8.46",
+                    "Netherlands": "6.49",
+                    "Italy": "5.74"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "18.92",
+                    "Germany": "13.36",
+                    "Japan": "8.78",
+                    "Netherlands": "8.28",
+                    "France": "6.09"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "22.70",
+                    "France": "13.64",
+                    "Belgium-Luxembourg": "9.85",
+                    "Japan": "7.50",
+                    "Spain": "6.37"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "14.55",
+                    "United States": "12.28",
+                    "France": "8.53",
+                    "Netherlands": "6.70",
+                    "Japan": "5.99"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "23.38",
+                    "Germany": "8.95",
+                    "Japan": "8.04",
+                    "Hong Kong, China": "5.76",
+                    "Netherlands": "5.52"
+                }
+            }
+        },
+        "1999": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "15.86",
+                    "Netherlands": "14.82",
+                    "Denmark": "13.05",
+                    "France": "10.47",
+                    "New Zealand": "7.42"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "18.57",
+                    "Spain": "11.96",
+                    "France": "9.73",
+                    "United States": "5.72",
+                    "Belgium": "3.97"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "17.64",
+                    "Ireland": "11.14",
+                    "Netherlands": "9.60",
+                    "Germany": "7.65",
+                    "Italy": "7.22"
+                },
+                "Mineral Products": {
+                    "United States": "21.03",
+                    "Canada": "13.38",
+                    "Australia": "13.32",
+                    "South Africa": "8.57",
+                    "Special Categories": "5.78"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "15.52",
+                    "France": "14.63",
+                    "United States": "13.54",
+                    "Ireland": "9.38",
+                    "Netherlands": "9.06"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.82",
+                    "France": "10.84",
+                    "Netherlands": "10.81",
+                    "United States": "9.56",
+                    "Belgium": "8.82"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Hong Kong, China": "23.24",
+                    "China": "16.17",
+                    "Italy": "10.50",
+                    "India": "7.70",
+                    "France": "4.59"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Finland": "13.81",
+                    "Sweden": "12.27",
+                    "Germany": "10.83",
+                    "United States": "10.13",
+                    "France": "6.34"
+                },
+                "Textiles and Textile Articles": {
+                    "Hong Kong, China": "10.91",
+                    "Italy": "7.67",
+                    "Germany": "7.16",
+                    "Belgium": "6.63",
+                    "Turkey": "5.31"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Italy": "19.19",
+                    "Portugal": "11.35",
+                    "Vietnam": "7.27",
+                    "China": "7.09",
+                    "Belgium": "6.68"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Switzerland": "33.26",
+                    "South Africa": "8.81",
+                    "Belgium": "6.58",
+                    "United States": "6.28",
+                    "Russian Federation": "5.80"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "11.70",
+                    "Germany": "10.41",
+                    "South Africa": "9.19",
+                    "Russian Federation": "7.93",
+                    "Canada": "6.98"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "17.44",
+                    "United States": "10.02",
+                    "France": "8.05",
+                    "Italy": "5.98",
+                    "Netherlands": "5.94"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "18.18",
+                    "Germany": "12.43",
+                    "Japan": "8.57",
+                    "Netherlands": "7.96",
+                    "France": "6.45"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "25.46",
+                    "Special Categories": "17.52",
+                    "France": "12.77",
+                    "Belgium": "9.49",
+                    "Japan": "6.93"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "14.63",
+                    "United States": "12.30",
+                    "France": "8.41",
+                    "Netherlands": "6.26",
+                    "Japan": "5.74"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "22.33",
+                    "Germany": "8.09",
+                    "Special Categories": "7.92",
+                    "Japan": "6.38",
+                    "Hong Kong, China": "5.70"
+                }
+            }
+        },
+        "2000": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Netherlands": "15.76",
+                    "Ireland": "14.59",
+                    "Denmark": "13.51",
+                    "France": "8.72",
+                    "New Zealand": "6.27"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "18.30",
+                    "Spain": "11.94",
+                    "France": "10.22",
+                    "United States": "6.26",
+                    "Belgium": "4.05"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "14.92",
+                    "Ireland": "9.15",
+                    "Netherlands": "9.11",
+                    "Germany": "8.13",
+                    "Italy": "7.55"
+                },
+                "Mineral Products": {
+                    "United States": "23.79",
+                    "Canada": "14.05",
+                    "Australia": "11.45",
+                    "South Africa": "8.65",
+                    "Germany": "7.87"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "16.52",
+                    "France": "14.44",
+                    "Germany": "13.74",
+                    "Ireland": "10.94",
+                    "Netherlands": "9.80"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.40",
+                    "Netherlands": "10.34",
+                    "France": "10.26",
+                    "Belgium": "9.92",
+                    "United States": "9.02"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "37.83",
+                    "Italy": "14.15",
+                    "India": "7.68",
+                    "France": "4.98",
+                    "Pakistan": "3.26"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Finland": "13.15",
+                    "United States": "10.96",
+                    "Sweden": "10.27",
+                    "Germany": "10.24",
+                    "France": "6.26"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "11.53",
+                    "Hong Kong, China": "6.49",
+                    "Turkey": "6.09",
+                    "Italy": "5.99",
+                    "Belgium": "5.84"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "16.91",
+                    "Italy": "16.11",
+                    "Vietnam": "11.32",
+                    "Portugal": "8.26",
+                    "Spain": "6.10"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Switzerland": "21.80",
+                    "South Africa": "12.74",
+                    "United States": "11.05",
+                    "Belgium": "4.09",
+                    "Russian Federation": "3.76"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "13.86",
+                    "Germany": "11.51",
+                    "Canada": "7.37",
+                    "Russian Federation": "6.98",
+                    "France": "6.16"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "17.10",
+                    "United States": "9.52",
+                    "France": "7.46",
+                    "Italy": "5.51",
+                    "Netherlands": "4.93"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "17.56",
+                    "Germany": "11.93",
+                    "Japan": "9.41",
+                    "Netherlands": "7.69",
+                    "Ireland": "5.31"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "27.36",
+                    "France": "14.13",
+                    "Japan": "13.26",
+                    "Belgium": "11.19",
+                    "Spain": "7.68"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "13.68",
+                    "United States": "12.71",
+                    "France": "7.56",
+                    "Japan": "7.05",
+                    "Netherlands": "6.32"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Unspecified": "51.90",
+                    "United States": "10.43",
+                    "China": "6.40",
+                    "Germany": "4.42",
+                    "Japan": "3.25"
+                }
+            }
+        },
+        "2001": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Denmark": "15.51",
+                    "Netherlands": "14.81",
+                    "Ireland": "14.26",
+                    "France": "8.19",
+                    "Germany": "6.14"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "19.01",
+                    "Spain": "12.98",
+                    "France": "9.59",
+                    "United States": "5.71",
+                    "Belgium": "3.84"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "14.06",
+                    "Netherlands": "9.05",
+                    "Ireland": "8.79",
+                    "Germany": "7.84",
+                    "Italy": "6.84"
+                },
+                "Mineral Products": {
+                    "United States": "25.25",
+                    "Canada": "17.94",
+                    "Germany": "9.21",
+                    "Australia": "8.84",
+                    "South Africa": "8.32"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "18.99",
+                    "France": "13.65",
+                    "Germany": "12.31",
+                    "Ireland": "11.00",
+                    "Netherlands": "10.74"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "18.56",
+                    "France": "10.93",
+                    "Belgium": "10.58",
+                    "United States": "9.10",
+                    "Netherlands": "9.05"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "37.06",
+                    "Italy": "14.89",
+                    "India": "6.97",
+                    "France": "4.77",
+                    "Netherlands": "3.80"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Sweden": "12.18",
+                    "Finland": "11.82",
+                    "Germany": "11.18",
+                    "United States": "9.59",
+                    "France": "6.69"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "12.84",
+                    "Turkey": "7.39",
+                    "Italy": "5.96",
+                    "Belgium": "5.93",
+                    "Hong Kong, China": "5.71"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "16.29",
+                    "Italy": "14.62",
+                    "Vietnam": "11.80",
+                    "Belgium": "8.13",
+                    "Portugal": "7.25"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "13.82",
+                    "South Africa": "9.72",
+                    "Peru": "6.59",
+                    "Belgium": "6.33",
+                    "Italy": "5.04"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "15.24",
+                    "Germany": "11.38",
+                    "Canada": "8.24",
+                    "France": "6.93",
+                    "Russian Federation": "5.75"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "17.20",
+                    "United States": "9.93",
+                    "France": "8.75",
+                    "Italy": "5.45",
+                    "China": "5.11"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "18.62",
+                    "Germany": "11.86",
+                    "Japan": "8.53",
+                    "Netherlands": "7.36",
+                    "China": "5.90"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "29.38",
+                    "France": "14.03",
+                    "Japan": "12.14",
+                    "Belgium": "12.04",
+                    "Spain": "8.07"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "14.40",
+                    "United States": "13.03",
+                    "France": "7.96",
+                    "Japan": "6.51",
+                    "Netherlands": "6.32"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Unspecified": "53.15",
+                    "United States": "9.72",
+                    "China": "6.07",
+                    "Germany": "4.46",
+                    "Netherlands": "3.31"
+                }
+            }
+        },
+        "2002": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "15.97",
+                    "Netherlands": "14.69",
+                    "Denmark": "13.09",
+                    "France": "8.88",
+                    "Germany": "6.27"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "20.72",
+                    "Spain": "13.80",
+                    "France": "8.57",
+                    "United States": "4.96",
+                    "Germany": "4.18"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "14.17",
+                    "Netherlands": "9.66",
+                    "Ireland": "9.51",
+                    "Germany": "9.19",
+                    "Australia": "6.32"
+                },
+                "Mineral Products": {
+                    "United States": "22.31",
+                    "Canada": "16.01",
+                    "South Africa": "12.94",
+                    "Australia": "9.08",
+                    "Germany": "5.35"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "16.45",
+                    "France": "13.19",
+                    "Germany": "12.92",
+                    "Ireland": "12.24",
+                    "Netherlands": "9.87"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.88",
+                    "France": "10.48",
+                    "Belgium": "10.30",
+                    "Netherlands": "8.81",
+                    "United States": "7.97"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "38.49",
+                    "Italy": "14.62",
+                    "India": "7.75",
+                    "France": "5.18",
+                    "Belgium": "3.34"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "12.71",
+                    "Finland": "11.69",
+                    "Sweden": "11.51",
+                    "United States": "8.47",
+                    "France": "6.17"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "13.87",
+                    "Turkey": "9.08",
+                    "Italy": "6.39",
+                    "Belgium": "5.68",
+                    "Hong Kong, China": "5.39"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "15.80",
+                    "Italy": "14.41",
+                    "Vietnam": "12.38",
+                    "Belgium": "9.37",
+                    "Portugal": "7.18"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "South Africa": "15.42",
+                    "United States": "6.99",
+                    "Botswana": "6.88",
+                    "Russian Federation": "6.40",
+                    "Peru": "4.98"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "12.86",
+                    "Germany": "12.68",
+                    "France": "7.90",
+                    "Canada": "6.94",
+                    "Russian Federation": "5.96"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "18.29",
+                    "France": "8.50",
+                    "United States": "8.07",
+                    "Italy": "6.13",
+                    "China": "5.84"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "14.95",
+                    "Germany": "13.77",
+                    "Japan": "8.03",
+                    "Netherlands": "7.25",
+                    "China": "6.95"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "15.22",
+                    "United States": "10.54",
+                    "France": "7.87",
+                    "China": "6.55",
+                    "Netherlands": "6.02"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Unspecified": "41.09",
+                    "United States": "10.51",
+                    "China": "8.72",
+                    "Germany": "5.85",
+                    "Netherlands": "3.51"
+                }
+            }
+        },
+        "2003": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Denmark": "17.13",
+                    "Ireland": "17.08",
+                    "Netherlands": "14.90",
+                    "France": "8.72",
+                    "Germany": "6.14"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "21.64",
+                    "Spain": "13.10",
+                    "France": "8.62",
+                    "Germany": "4.52",
+                    "United States": "4.29"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "14.51",
+                    "Ireland": "10.34",
+                    "Netherlands": "9.27",
+                    "Germany": "8.62",
+                    "Italy": "6.44"
+                },
+                "Mineral Products": {
+                    "United States": "23.46",
+                    "Canada": "12.66",
+                    "South Africa": "11.39",
+                    "Australia": "10.35",
+                    "Germany": "8.24"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "14.33",
+                    "France": "13.90",
+                    "Germany": "12.54",
+                    "Ireland": "11.16",
+                    "Netherlands": "9.40"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "37.52",
+                    "Italy": "15.31",
+                    "India": "6.76",
+                    "France": "5.85",
+                    "Belgium": "3.26"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Finland": "12.59",
+                    "Germany": "12.15",
+                    "Sweden": "10.97",
+                    "United States": "7.38",
+                    "France": "6.34"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "14.95",
+                    "Turkey": "9.35",
+                    "Italy": "6.13",
+                    "Belgium": "5.53",
+                    "Hong Kong, China": "5.33"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "18.08",
+                    "Italy": "14.49",
+                    "Vietnam": "14.15",
+                    "Portugal": "6.83",
+                    "Netherlands": "6.75"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "South Africa": "15.57",
+                    "Botswana": "6.86",
+                    "Canada": "6.37",
+                    "Australia": "5.66",
+                    "United States": "5.13"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Germany": "13.54",
+                    "United States": "12.48",
+                    "France": "7.94",
+                    "Russian Federation": "6.93",
+                    "Canada": "6.88"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "18.38",
+                    "France": "8.68",
+                    "United States": "7.08",
+                    "Italy": "6.69",
+                    "China": "6.29"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "Germany": "14.47",
+                    "United States": "13.53",
+                    "Japan": "7.73",
+                    "China": "7.65",
+                    "Netherlands": "7.40"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "32.90",
+                    "France": "12.10",
+                    "Japan": "12.07",
+                    "Belgium": "10.11",
+                    "Spain": "7.77"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "16.28",
+                    "United States": "9.32",
+                    "France": "7.81",
+                    "China": "7.02",
+                    "Netherlands": "5.96"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Unspecified": "42.15",
+                    "United States": "9.72",
+                    "China": "9.56",
+                    "Germany": "6.02",
+                    "Italy": "3.71"
+                }
+            }
+        },
+        "2004": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "19.05",
+                    "Netherlands": "14.37",
+                    "Denmark": "13.32",
+                    "France": "9.07",
+                    "Germany": "6.50"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "21.54",
+                    "Spain": "12.86",
+                    "France": "8.42",
+                    "Germany": "4.49",
+                    "Italy": "4.41"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "14.54",
+                    "Ireland": "10.01",
+                    "Germany": "9.50",
+                    "Netherlands": "8.98",
+                    "Italy": "6.80"
+                },
+                "Mineral Products": {
+                    "United States": "24.57",
+                    "Canada": "10.73",
+                    "South Africa": "10.69",
+                    "Australia": "8.95",
+                    "Germany": "5.85"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "13.70",
+                    "Germany": "12.80",
+                    "France": "11.71",
+                    "Netherlands": "9.55",
+                    "Ireland": "9.13"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "20.52",
+                    "France": "10.24",
+                    "Belgium": "10.10",
+                    "Netherlands": "9.98",
+                    "Italy": "6.39"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "38.87",
+                    "Italy": "15.57",
+                    "India": "7.09",
+                    "France": "5.49",
+                    "Hong Kong, China": "3.35"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "13.21",
+                    "Finland": "10.84",
+                    "Sweden": "10.60",
+                    "France": "7.13",
+                    "United States": "6.81"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "15.86",
+                    "Turkey": "9.27",
+                    "Italy": "5.97",
+                    "Belgium": "5.58",
+                    "India": "4.57"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "20.34",
+                    "Vietnam": "15.92",
+                    "Italy": "12.69",
+                    "Netherlands": "6.94",
+                    "Spain": "5.73"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "South Africa": "11.80",
+                    "Botswana": "9.68",
+                    "Canada": "8.82",
+                    "United States": "5.51",
+                    "Russian Federation": "4.58"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "12.15",
+                    "Germany": "11.65",
+                    "Canada": "9.16",
+                    "Russian Federation": "6.89",
+                    "France": "6.42"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "16.67",
+                    "France": "7.71",
+                    "Italy": "6.82",
+                    "China": "6.76",
+                    "United States": "6.35"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "Germany": "13.35",
+                    "United States": "12.40",
+                    "Netherlands": "9.19",
+                    "China": "8.49",
+                    "Japan": "7.39"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "34.26",
+                    "Japan": "11.59",
+                    "France": "10.70",
+                    "Belgium": "8.49",
+                    "Spain": "8.42"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "16.11",
+                    "United States": "8.72",
+                    "China": "7.55",
+                    "France": "7.38",
+                    "Netherlands": "6.81"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Unspecified": "38.76",
+                    "China": "10.34",
+                    "United States": "10.08",
+                    "Germany": "6.43",
+                    "Italy": "4.14"
+                }
+            }
+        },
+        "2005": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "15.89",
+                    "Denmark": "13.91",
+                    "Netherlands": "13.76",
+                    "France": "9.21",
+                    "Germany": "6.79"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "21.22",
+                    "Spain": "12.94",
+                    "France": "8.25",
+                    "Germany": "4.92",
+                    "Italy": "4.51"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "15.28",
+                    "Germany": "9.74",
+                    "Netherlands": "9.73",
+                    "Ireland": "9.47",
+                    "Italy": "7.31"
+                },
+                "Mineral Products": {
+                    "United States": "26.74",
+                    "South Africa": "12.49",
+                    "Brazil": "9.57",
+                    "Australia": "8.94",
+                    "Germany": "4.64"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "13.48",
+                    "United States": "12.85",
+                    "France": "11.79",
+                    "Netherlands": "9.59",
+                    "Ireland": "9.15"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "41.01",
+                    "Italy": "14.04",
+                    "India": "8.75",
+                    "France": "5.88",
+                    "Hong Kong, China": "3.44"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "13.47",
+                    "Sweden": "10.67",
+                    "Finland": "8.72",
+                    "United States": "7.60",
+                    "France": "7.04"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "22.40",
+                    "Turkey": "9.35",
+                    "Italy": "5.92",
+                    "India": "5.57",
+                    "Belgium": "5.18"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "28.89",
+                    "Vietnam": "14.31",
+                    "Italy": "10.67",
+                    "Netherlands": "7.01",
+                    "Belgium": "4.58"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Botswana": "13.60",
+                    "South Africa": "11.12",
+                    "Canada": "8.20",
+                    "United States": "5.41",
+                    "Russian Federation": "5.12"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "12.62",
+                    "Germany": "12.01",
+                    "Canada": "7.05",
+                    "France": "6.69",
+                    "South Africa": "6.59"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "16.96",
+                    "France": "7.87",
+                    "China": "7.56",
+                    "United States": "6.54",
+                    "Italy": "6.50"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "Germany": "13.17",
+                    "United States": "11.36",
+                    "Netherlands": "9.26",
+                    "China": "8.99",
+                    "Japan": "7.78"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "31.13",
+                    "Japan": "10.96",
+                    "France": "10.71",
+                    "Belgium": "10.19",
+                    "Spain": "9.14"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "15.26",
+                    "China": "8.87",
+                    "United States": "8.25",
+                    "France": "7.04",
+                    "Netherlands": "6.91"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Unspecified": "39.56",
+                    "China": "11.29",
+                    "United States": "9.16",
+                    "Germany": "6.44",
+                    "Italy": "3.58"
+                }
+            }
+        },
+        "2006": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "16.57",
+                    "Denmark": "14.14",
+                    "Netherlands": "13.26",
+                    "France": "9.01",
+                    "Germany": "7.24"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "21.14",
+                    "Spain": "13.26",
+                    "France": "7.93",
+                    "Italy": "4.71",
+                    "Germany": "4.60"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "15.65",
+                    "Netherlands": "10.17",
+                    "Germany": "9.65",
+                    "Ireland": "9.17",
+                    "Italy": "6.60"
+                },
+                "Mineral Products": {
+                    "United States": "34.21",
+                    "South Africa": "10.36",
+                    "Brazil": "10.21",
+                    "Canada": "5.70",
+                    "Australia": "5.50"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "13.40",
+                    "Germany": "13.01",
+                    "France": "11.76",
+                    "Netherlands": "10.24",
+                    "Ireland": "9.81"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "France": "19.26",
+                    "Germany": "18.09",
+                    "Belgium": "9.35",
+                    "Netherlands": "8.17",
+                    "China": "5.87"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "41.87",
+                    "Italy": "14.18",
+                    "India": "8.08",
+                    "France": "6.06",
+                    "Hong Kong, China": "3.60"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "13.64",
+                    "Sweden": "10.66",
+                    "Finland": "9.67",
+                    "United States": "7.92",
+                    "China": "6.45"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "22.12",
+                    "Turkey": "9.03",
+                    "India": "5.75",
+                    "Italy": "5.48",
+                    "Belgium": "5.40"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "29.69",
+                    "Vietnam": "13.44",
+                    "Italy": "9.17",
+                    "Belgium": "7.59",
+                    "Netherlands": "5.61"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "South Africa": "11.97",
+                    "United States": "10.54",
+                    "Botswana": "8.41",
+                    "Canada": "6.75",
+                    "China": "6.22"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "16.23",
+                    "Germany": "10.40",
+                    "France": "6.30",
+                    "South Africa": "5.89",
+                    "Russian Federation": "5.47"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "16.46",
+                    "China": "8.11",
+                    "France": "7.91",
+                    "United States": "6.39",
+                    "Italy": "6.01"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "Germany": "13.44",
+                    "United States": "10.18",
+                    "China": "9.25",
+                    "Netherlands": "9.01",
+                    "Japan": "5.97"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "33.33",
+                    "Belgium": "10.25",
+                    "France": "9.79",
+                    "Japan": "8.80",
+                    "Spain": "8.43"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "15.61",
+                    "China": "9.03",
+                    "United States": "8.10",
+                    "France": "7.22",
+                    "Netherlands": "6.82"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Unspecified": "48.32",
+                    "China": "9.99",
+                    "United States": "8.02",
+                    "Germany": "5.57",
+                    "Netherlands": "3.29"
+                }
+            }
+        },
+        "2007": {
+            "Imports": {
+                "Vegetable Products": {
+                    "Netherlands": "21.44",
+                    "Spain": "12.11",
+                    "France": "7.61",
+                    "Germany": "4.44",
+                    "Italy": "4.40"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "15.14",
+                    "Netherlands": "10.43",
+                    "Germany": "9.20",
+                    "Ireland": "8.90",
+                    "Italy": "6.46"
+                },
+                "Mineral Products": {
+                    "United States": "31.19",
+                    "South Africa": "14.91",
+                    "Brazil": "11.06",
+                    "Canada": "4.98",
+                    "Netherlands": "4.80"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "13.95",
+                    "Ireland": "12.30",
+                    "United States": "11.40",
+                    "France": "10.55",
+                    "Netherlands": "10.28"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.76",
+                    "Belgium": "10.40",
+                    "France": "10.30",
+                    "Netherlands": "9.12",
+                    "China": "7.08"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "41.68",
+                    "Italy": "15.40",
+                    "India": "8.71",
+                    "France": "6.19",
+                    "Hong Kong, China": "3.51"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "13.88",
+                    "Sweden": "10.22",
+                    "Finland": "8.92",
+                    "United States": "7.01",
+                    "China": "6.99"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "24.61",
+                    "Turkey": "10.06",
+                    "India": "6.34",
+                    "Italy": "5.69",
+                    "Belgium": "5.03"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "31.38",
+                    "Vietnam": "12.42",
+                    "Italy": "10.40",
+                    "India": "5.13",
+                    "Netherlands": "5.09"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "South Africa": "16.49",
+                    "United States": "9.97",
+                    "Canada": "6.96",
+                    "China": "6.03",
+                    "Germany": "4.60"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "12.50",
+                    "Germany": "10.35",
+                    "Canada": "8.98",
+                    "South Africa": "7.41",
+                    "Russian Federation": "6.31"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "16.86",
+                    "China": "9.67",
+                    "France": "7.50",
+                    "United States": "6.09",
+                    "Italy": "5.82"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "Germany": "13.80",
+                    "China": "11.56",
+                    "United States": "10.78",
+                    "Netherlands": "9.95",
+                    "Japan": "5.71"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "34.53",
+                    "Belgium": "10.41",
+                    "France": "9.18",
+                    "Spain": "9.15",
+                    "Japan": "9.13"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "16.45",
+                    "China": "10.53",
+                    "United States": "8.14",
+                    "Netherlands": "6.95",
+                    "France": "6.63"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "25.51",
+                    "China": "12.57",
+                    "Germany": "8.11",
+                    "Canada": "7.08",
+                    "France": "4.44"
+                }
+            }
+        },
+        "2008": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "18.91",
+                    "Netherlands": "14.72",
+                    "Denmark": "10.54",
+                    "France": "9.41",
+                    "Germany": "8.37"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "21.45",
+                    "Spain": "11.49",
+                    "France": "7.30",
+                    "Germany": "4.94",
+                    "Belgium": "4.40"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "14.78",
+                    "Netherlands": "9.95",
+                    "Germany": "9.62",
+                    "Ireland": "7.93",
+                    "Italy": "7.20"
+                },
+                "Mineral Products": {
+                    "United States": "30.99",
+                    "South Africa": "15.81",
+                    "Brazil": "15.46",
+                    "Canada": "5.14",
+                    "Germany": "3.59"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "14.58",
+                    "Ireland": "11.78",
+                    "United States": "11.70",
+                    "France": "11.15",
+                    "Netherlands": "10.78"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.84",
+                    "Belgium": "10.20",
+                    "France": "9.95",
+                    "Netherlands": "8.98",
+                    "China": "7.40"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "42.87",
+                    "Italy": "13.70",
+                    "India": "9.44",
+                    "France": "6.98",
+                    "Hong Kong, China": "3.44"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "14.35",
+                    "Sweden": "9.52",
+                    "Finland": "8.86",
+                    "China": "7.79",
+                    "United States": "7.59"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "31.11",
+                    "Turkey": "8.24",
+                    "India": "6.66",
+                    "Italy": "5.42",
+                    "Bangladesh": "4.82"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "32.97",
+                    "Vietnam": "13.80",
+                    "Italy": "9.52",
+                    "India": "5.38",
+                    "Brazil": "4.71"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "South Africa": "19.06",
+                    "Switzerland": "15.09",
+                    "United States": "11.33",
+                    "Canada": "6.95",
+                    "China": "5.81"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "13.09",
+                    "Germany": "10.02",
+                    "South Africa": "8.62",
+                    "Canada": "8.60",
+                    "Russian Federation": "7.18"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "16.21",
+                    "China": "9.93",
+                    "France": "8.38",
+                    "United States": "6.46",
+                    "Italy": "5.77"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "Germany": "13.37",
+                    "China": "12.75",
+                    "United States": "11.21",
+                    "Netherlands": "8.93",
+                    "Japan": "5.49"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "33.18",
+                    "Belgium": "11.32",
+                    "Japan": "8.91",
+                    "France": "8.74",
+                    "Spain": "8.67"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "15.77",
+                    "China": "12.03",
+                    "United States": "8.44",
+                    "Netherlands": "6.69",
+                    "France": "6.68"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "23.58",
+                    "China": "11.24",
+                    "Germany": "8.23",
+                    "Canada": "7.48",
+                    "Switzerland": "5.94"
+                }
+            }
+        },
+        "2009": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "21.21",
+                    "Netherlands": "15.57",
+                    "France": "10.48",
+                    "Denmark": "10.09",
+                    "Germany": "7.82"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "16.01",
+                    "Spain": "12.27",
+                    "France": "7.45",
+                    "Germany": "5.43",
+                    "Italy": "4.52"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "13.75",
+                    "Netherlands": "10.33",
+                    "Germany": "9.68",
+                    "Ireland": "8.13",
+                    "Italy": "7.52"
+                },
+                "Mineral Products": {
+                    "United States": "23.28",
+                    "Brazil": "19.68",
+                    "South Africa": "12.46",
+                    "Canada": "5.96",
+                    "Germany": "5.50"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "14.49",
+                    "Ireland": "13.79",
+                    "United States": "12.08",
+                    "France": "10.99",
+                    "Netherlands": "10.66"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.97",
+                    "Belgium": "10.50",
+                    "France": "9.47",
+                    "Netherlands": "9.06",
+                    "China": "8.70"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "46.14",
+                    "Italy": "11.99",
+                    "India": "9.07",
+                    "France": "7.78",
+                    "Belgium": "3.98"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "14.68",
+                    "Sweden": "12.27",
+                    "Finland": "8.67",
+                    "United States": "8.37",
+                    "China": "7.73"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "33.23",
+                    "India": "7.33",
+                    "Turkey": "7.12",
+                    "Bangladesh": "5.66",
+                    "Italy": "4.39"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "36.42",
+                    "Vietnam": "12.67",
+                    "Italy": "8.72",
+                    "India": "6.05",
+                    "Netherlands": "4.46"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "South Africa": "15.17",
+                    "United States": "7.78",
+                    "Canada": "6.82",
+                    "Switzerland": "6.75",
+                    "Hong Kong, China": "6.54"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Russian Federation": "9.10",
+                    "United States": "9.04",
+                    "Germany": "8.96",
+                    "South Africa": "6.99",
+                    "Japan": "6.63"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "17.04",
+                    "China": "10.61",
+                    "France": "7.95",
+                    "United States": "7.20",
+                    "Italy": "5.78"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "15.20",
+                    "Germany": "14.95",
+                    "China": "13.84",
+                    "Netherlands": "7.09",
+                    "France": "5.44"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "33.24",
+                    "Belgium": "11.80",
+                    "Spain": "9.28",
+                    "Japan": "8.23",
+                    "France": "7.98"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "15.88",
+                    "China": "12.68",
+                    "United States": "9.47",
+                    "France": "6.85",
+                    "Netherlands": "6.28"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "15.81",
+                    "China": "12.55",
+                    "Switzerland": "8.30",
+                    "Germany": "6.85",
+                    "Canada": "6.06"
+                }
+            }
+        },
+        "2010": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "21.41",
+                    "Netherlands": "14.44",
+                    "Denmark": "10.46",
+                    "France": "9.11",
+                    "Germany": "7.32"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "20.44",
+                    "Spain": "11.31",
+                    "France": "6.78",
+                    "Germany": "5.31",
+                    "Belgium": "4.23"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "13.91",
+                    "Netherlands": "10.37",
+                    "Germany": "10.36",
+                    "Italy": "7.39",
+                    "Ireland": "7.26"
+                },
+                "Mineral Products": {
+                    "United States": "25.73",
+                    "Brazil": "22.87",
+                    "South Africa": "10.24",
+                    "Russian Federation": "5.47",
+                    "Canada": "5.40"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "14.56",
+                    "Ireland": "12.12",
+                    "United States": "11.78",
+                    "Netherlands": "11.30",
+                    "France": "9.64"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "20.59",
+                    "Belgium": "10.35",
+                    "China": "9.19",
+                    "France": "8.66",
+                    "Netherlands": "8.63"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "46.19",
+                    "Italy": "11.37",
+                    "India": "9.22",
+                    "France": "8.12",
+                    "Belgium": "3.37"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "14.54",
+                    "Sweden": "10.85",
+                    "China": "9.75",
+                    "Finland": "8.33",
+                    "United States": "7.72"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "32.70",
+                    "Turkey": "7.90",
+                    "India": "7.75",
+                    "Bangladesh": "5.77",
+                    "Italy": "4.80"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "39.60",
+                    "Vietnam": "10.88",
+                    "Italy": "7.82",
+                    "India": "6.43",
+                    "Belgium": "4.65"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Switzerland": "14.63",
+                    "South Africa": "12.32",
+                    "United States": "8.20",
+                    "Germany": "8.11",
+                    "Canada": "7.10"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Switzerland": "14.96",
+                    "Russian Federation": "10.54",
+                    "Germany": "10.31",
+                    "United States": "8.62",
+                    "South Africa": "5.90"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "15.61",
+                    "China": "10.93",
+                    "France": "7.40",
+                    "United States": "6.16",
+                    "Netherlands": "5.80"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "17.90",
+                    "Germany": "12.90",
+                    "United States": "12.02",
+                    "Netherlands": "8.06",
+                    "France": "4.77"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "36.30",
+                    "Belgium": "10.58",
+                    "Spain": "7.80",
+                    "Japan": "7.74",
+                    "France": "7.37"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "15.82",
+                    "China": "14.38",
+                    "United States": "8.64",
+                    "Netherlands": "6.53",
+                    "France": "6.10"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "20.91",
+                    "Canada": "12.79",
+                    "China": "10.82",
+                    "Germany": "5.82",
+                    "Hong Kong, China": "5.58"
+                }
+            }
+        },
+        "2011": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "22.25",
+                    "Netherlands": "13.70",
+                    "Denmark": "9.73",
+                    "France": "8.02",
+                    "Germany": "8.01"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "20.00",
+                    "Spain": "11.34",
+                    "France": "6.71",
+                    "Germany": "5.01",
+                    "Belgium": "4.44"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "13.37",
+                    "Germany": "10.69",
+                    "Netherlands": "9.71",
+                    "Ireland": "7.44",
+                    "Italy": "7.00"
+                },
+                "Mineral Products": {
+                    "United States": "23.73",
+                    "Brazil": "21.37",
+                    "South Africa": "13.49",
+                    "Germany": "8.60",
+                    "Russian Federation": "4.67"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "14.34",
+                    "United States": "11.60",
+                    "Netherlands": "11.06",
+                    "Ireland": "10.79",
+                    "France": "9.30"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.25",
+                    "Belgium": "10.50",
+                    "China": "9.35",
+                    "Netherlands": "8.66",
+                    "France": "8.18"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "41.72",
+                    "Italy": "13.96",
+                    "France": "9.15",
+                    "India": "8.42",
+                    "Germany": "3.25"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "14.15",
+                    "Sweden": "11.16",
+                    "China": "9.82",
+                    "United States": "8.29",
+                    "Finland": "7.86"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "30.52",
+                    "India": "7.71",
+                    "Turkey": "7.35",
+                    "Bangladesh": "7.09",
+                    "Italy": "5.21"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "39.41",
+                    "Vietnam": "9.40",
+                    "Italy": "7.78",
+                    "India": "6.36",
+                    "Netherlands": "5.89"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Switzerland": "14.75",
+                    "Botswana": "10.30",
+                    "Germany": "8.58",
+                    "United States": "7.14",
+                    "Canada": "6.87"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Switzerland": "15.12",
+                    "Germany": "10.29",
+                    "United States": "8.51",
+                    "Russian Federation": "6.77",
+                    "Canada": "6.44"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "14.65",
+                    "China": "10.64",
+                    "France": "7.05",
+                    "United States": "6.42",
+                    "Netherlands": "6.02"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "17.74",
+                    "Germany": "13.32",
+                    "United States": "12.15",
+                    "Netherlands": "7.74",
+                    "Japan": "4.76"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "39.63",
+                    "Belgium": "9.26",
+                    "Japan": "8.34",
+                    "France": "7.23",
+                    "Spain": "6.85"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "16.41",
+                    "China": "13.76",
+                    "United States": "8.65",
+                    "Netherlands": "6.38",
+                    "France": "6.05"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "20.63",
+                    "Canada": "12.00",
+                    "China": "10.02",
+                    "Germany": "5.68",
+                    "South Africa": "5.34"
+                }
+            }
+        },
+        "2012": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "21.16",
+                    "Netherlands": "14.30",
+                    "Denmark": "9.31",
+                    "Germany": "8.68",
+                    "France": "8.46"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "18.19",
+                    "Spain": "11.26",
+                    "France": "7.44",
+                    "Germany": "5.13",
+                    "Brazil": "4.15"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "14.30",
+                    "Germany": "10.90",
+                    "Netherlands": "10.79",
+                    "Ireland": "8.47",
+                    "Italy": "7.03"
+                },
+                "Mineral Products": {
+                    "United States": "18.08",
+                    "Brazil": "17.55",
+                    "South Africa": "13.25",
+                    "Germany": "11.35",
+                    "Russian Federation": "4.54"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "17.45",
+                    "Netherlands": "11.45",
+                    "United States": "10.36",
+                    "Ireland": "10.33",
+                    "France": "8.66"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.68",
+                    "China": "10.53",
+                    "Belgium": "10.25",
+                    "Netherlands": "8.83",
+                    "France": "7.97"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "42.08",
+                    "Italy": "14.65",
+                    "France": "10.09",
+                    "India": "7.53",
+                    "Germany": "3.14"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "13.81",
+                    "Sweden": "11.60",
+                    "China": "10.70",
+                    "United States": "9.58",
+                    "Finland": "7.57"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "27.65",
+                    "Turkey": "8.72",
+                    "Bangladesh": "8.10",
+                    "India": "6.82",
+                    "Italy": "5.12"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "38.73",
+                    "Vietnam": "7.88",
+                    "Italy": "7.79",
+                    "Belgium": "6.54",
+                    "Netherlands": "5.84"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Switzerland": "15.05",
+                    "Germany": "9.88",
+                    "Botswana": "9.32",
+                    "United States": "6.42",
+                    "Canada": "6.38"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Switzerland": "12.90",
+                    "Germany": "12.47",
+                    "United States": "7.99",
+                    "South Africa": "5.64",
+                    "Canada": "5.17"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "15.35",
+                    "China": "10.94",
+                    "France": "7.40",
+                    "United States": "7.02",
+                    "Italy": "6.02"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "15.68",
+                    "Germany": "13.64",
+                    "United States": "13.05",
+                    "Netherlands": "9.70",
+                    "France": "4.82"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "38.93",
+                    "Belgium": "10.70",
+                    "France": "8.11",
+                    "Spain": "7.02",
+                    "Japan": "5.78"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "16.64",
+                    "China": "12.92",
+                    "United States": "9.13",
+                    "Netherlands": "7.30",
+                    "France": "6.18"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "19.23",
+                    "Switzerland": "14.99",
+                    "Canada": "10.73",
+                    "China": "8.03",
+                    "Germany": "5.28"
+                }
+            }
+        },
+        "2013": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "21.58",
+                    "Netherlands": "14.32",
+                    "Germany": "8.84",
+                    "France": "8.74",
+                    "Denmark": "7.91"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "18.89",
+                    "Spain": "11.92",
+                    "France": "7.85",
+                    "Germany": "6.13",
+                    "Belgium": "4.30"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "14.11",
+                    "Netherlands": "11.84",
+                    "Germany": "10.80",
+                    "Ireland": "8.60",
+                    "Italy": "7.51"
+                },
+                "Mineral Products": {
+                    "United States": "19.14",
+                    "Brazil": "17.94",
+                    "Germany": "11.77",
+                    "South Africa": "10.09",
+                    "Canada": "5.32"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "19.47",
+                    "Netherlands": "12.74",
+                    "France": "9.73",
+                    "Belgium": "9.17",
+                    "United States": "8.16"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.93",
+                    "China": "10.58",
+                    "Belgium": "10.09",
+                    "Netherlands": "9.17",
+                    "France": "8.31"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "37.27",
+                    "Italy": "17.26",
+                    "France": "11.57",
+                    "India": "7.54",
+                    "Germany": "3.59"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "13.50",
+                    "Sweden": "10.99",
+                    "China": "10.15",
+                    "United States": "9.56",
+                    "Finland": "7.62"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "27.14",
+                    "Bangladesh": "8.21",
+                    "Turkey": "8.18",
+                    "India": "6.83",
+                    "Italy": "5.76"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "37.39",
+                    "Italy": "9.15",
+                    "Vietnam": "7.90",
+                    "Netherlands": "6.15",
+                    "India": "5.97"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Canada": "19.82",
+                    "Switzerland": "10.13",
+                    "Botswana": "8.86",
+                    "United States": "8.01",
+                    "Germany": "6.82"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Germany": "12.56",
+                    "Switzerland": "11.02",
+                    "United States": "8.59",
+                    "South Africa": "6.82",
+                    "Canada": "6.17"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "16.65",
+                    "China": "11.01",
+                    "France": "7.40",
+                    "United States": "6.87",
+                    "Italy": "6.06"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "15.57",
+                    "Germany": "13.70",
+                    "United States": "13.34",
+                    "Netherlands": "10.36",
+                    "France": "4.76"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "39.82",
+                    "Belgium": "10.64",
+                    "France": "7.78",
+                    "Spain": "7.60",
+                    "Japan": "3.89"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "17.65",
+                    "China": "12.83",
+                    "United States": "8.41",
+                    "Netherlands": "7.81",
+                    "France": "6.47"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "22.22",
+                    "China": "13.71",
+                    "Germany": "9.23",
+                    "Unspecified": "7.64",
+                    "France": "7.14"
+                }
+            }
+        },
+        "2014": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "21.25",
+                    "Netherlands": "13.78",
+                    "France": "8.74",
+                    "Germany": "8.64",
+                    "Denmark": "7.84"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "19.08",
+                    "Spain": "12.05",
+                    "Germany": "6.18",
+                    "France": "6.18",
+                    "Belgium": "4.09"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "13.54",
+                    "Netherlands": "11.59",
+                    "Germany": "11.28",
+                    "Ireland": "8.87",
+                    "Italy": "8.04"
+                },
+                "Mineral Products": {
+                    "United States": "19.66",
+                    "Brazil": "16.48",
+                    "Germany": "9.91",
+                    "South Africa": "8.10",
+                    "Sweden": "6.98"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "19.72",
+                    "Netherlands": "15.16",
+                    "Belgium": "10.21",
+                    "France": "9.67",
+                    "United States": "7.98"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "20.38",
+                    "China": "10.85",
+                    "Belgium": "10.02",
+                    "Netherlands": "9.26",
+                    "France": "8.06"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "36.00",
+                    "Italy": "17.77",
+                    "France": "10.74",
+                    "India": "7.85",
+                    "Germany": "4.55"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "13.21",
+                    "Sweden": "10.70",
+                    "China": "10.57",
+                    "United States": "9.83",
+                    "Finland": "6.97"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "26.28",
+                    "Turkey": "8.46",
+                    "Bangladesh": "7.96",
+                    "India": "6.97",
+                    "Italy": "5.53"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "35.30",
+                    "Italy": "9.40",
+                    "Vietnam": "7.45",
+                    "Netherlands": "7.14",
+                    "Belgium": "6.51"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Canada": "18.03",
+                    "United States": "12.35",
+                    "Switzerland": "8.58",
+                    "South Africa": "8.34",
+                    "Germany": "6.81"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Germany": "16.01",
+                    "United States": "10.28",
+                    "Switzerland": "10.08",
+                    "South Africa": "7.67",
+                    "Canada": "4.99"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "17.44",
+                    "China": "12.92",
+                    "France": "6.82",
+                    "Italy": "6.52",
+                    "United States": "6.47"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "16.15",
+                    "Germany": "14.47",
+                    "United States": "13.01",
+                    "Netherlands": "9.98",
+                    "France": "5.00"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "34.78",
+                    "United States": "9.98",
+                    "France": "8.94",
+                    "Belgium": "8.37",
+                    "Spain": "7.38"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "18.22",
+                    "China": "12.76",
+                    "United States": "9.49",
+                    "Netherlands": "7.61",
+                    "France": "6.87"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "China": "19.34",
+                    "United States": "12.36",
+                    "Germany": "10.05",
+                    "Unspecified": "7.53",
+                    "France": "5.40"
+                }
+            }
+        },
+        "2015": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "22.61",
+                    "Netherlands": "13.75",
+                    "Germany": "8.92",
+                    "France": "7.85",
+                    "Denmark": "6.88"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "17.75",
+                    "Spain": "13.05",
+                    "France": "6.35",
+                    "Germany": "6.25",
+                    "Belgium": "3.75"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "13.19",
+                    "Netherlands": "11.55",
+                    "Germany": "10.79",
+                    "Ireland": "9.84",
+                    "Italy": "8.12"
+                },
+                "Mineral Products": {
+                    "United States": "21.54",
+                    "Germany": "11.11",
+                    "Brazil": "10.63",
+                    "South Africa": "7.77",
+                    "Sweden": "6.25"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "19.38",
+                    "Netherlands": "14.67",
+                    "Belgium": "10.10",
+                    "United States": "9.33",
+                    "France": "8.75"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "20.18",
+                    "China": "11.66",
+                    "Belgium": "9.75",
+                    "Netherlands": "9.38",
+                    "France": "7.68"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "36.04",
+                    "Italy": "15.25",
+                    "France": "12.52",
+                    "India": "7.91",
+                    "Germany": "4.39"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "11.91",
+                    "China": "11.60",
+                    "United States": "10.67",
+                    "Sweden": "9.70",
+                    "Finland": "6.62"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "25.51",
+                    "Bangladesh": "9.52",
+                    "Turkey": "7.79",
+                    "India": "6.99",
+                    "Italy": "5.11"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "35.02",
+                    "Vietnam": "8.83",
+                    "Italy": "8.40",
+                    "Netherlands": "6.83",
+                    "Belgium": "6.77"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Canada": "15.37",
+                    "United States": "14.11",
+                    "South Africa": "9.61",
+                    "Switzerland": "6.66",
+                    "Germany": "6.10"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Germany": "17.77",
+                    "South Africa": "9.63",
+                    "United States": "9.46",
+                    "Canada": "4.98",
+                    "Italy": "4.06"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "18.28",
+                    "China": "13.90",
+                    "United States": "7.01",
+                    "Italy": "6.16",
+                    "France": "6.16"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "17.25",
+                    "Germany": "14.24",
+                    "United States": "13.58",
+                    "Netherlands": "9.93",
+                    "France": "4.56"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "34.52",
+                    "United States": "10.03",
+                    "Belgium": "8.66",
+                    "France": "7.87",
+                    "Spain": "7.82"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "18.13",
+                    "China": "13.14",
+                    "United States": "10.03",
+                    "Netherlands": "7.56",
+                    "France": "6.42"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "China": "19.54",
+                    "United States": "12.99",
+                    "Germany": "10.06",
+                    "Unspecified": "7.24",
+                    "France": "5.75"
+                }
+            }
+        },
+        "2016": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "20.15",
+                    "Netherlands": "13.72",
+                    "Germany": "8.64",
+                    "Denmark": "8.31",
+                    "France": "7.30"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "17.69",
+                    "Spain": "13.85",
+                    "Germany": "6.32",
+                    "France": "5.82",
+                    "United States": "4.14"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "12.39",
+                    "Netherlands": "11.88",
+                    "Germany": "11.18",
+                    "Ireland": "9.57",
+                    "Italy": "8.10"
+                },
+                "Mineral Products": {
+                    "United States": "16.12",
+                    "Germany": "12.84",
+                    "Sweden": "9.05",
+                    "Brazil": "6.86",
+                    "Canada": "6.84"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "18.77",
+                    "Netherlands": "16.10",
+                    "Belgium": "10.25",
+                    "United States": "8.79",
+                    "France": "8.69"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "20.78",
+                    "China": "11.53",
+                    "Belgium": "10.14",
+                    "Netherlands": "8.89",
+                    "France": "7.39"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "33.73",
+                    "Italy": "15.72",
+                    "France": "14.64",
+                    "India": "6.74",
+                    "Netherlands": "4.72"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "China": "11.62",
+                    "Germany": "11.55",
+                    "United States": "11.39",
+                    "Sweden": "9.23",
+                    "Finland": "6.09"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "23.73",
+                    "Bangladesh": "10.33",
+                    "Turkey": "7.53",
+                    "India": "6.62",
+                    "Italy": "5.23"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "32.91",
+                    "Italy": "9.70",
+                    "Vietnam": "8.11",
+                    "Netherlands": "7.70",
+                    "Belgium": "7.43"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Switzerland": "25.67",
+                    "Canada": "12.01",
+                    "South Africa": "10.22",
+                    "United States": "7.20",
+                    "Hong Kong, China": "7.19"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Germany": "18.28",
+                    "South Africa": "9.53",
+                    "United States": "7.95",
+                    "Canada": "4.26",
+                    "Kazakhstan": "4.26"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "18.45",
+                    "China": "13.55",
+                    "United States": "6.34",
+                    "Netherlands": "6.28",
+                    "France": "6.13"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "17.41",
+                    "United States": "15.04",
+                    "Germany": "13.58",
+                    "Netherlands": "9.48",
+                    "France": "4.45"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "31.04",
+                    "United States": "11.19",
+                    "Belgium": "9.53",
+                    "France": "7.91",
+                    "Spain": "7.76"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "17.48",
+                    "China": "12.88",
+                    "United States": "10.37",
+                    "Netherlands": "7.83",
+                    "France": "6.36"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "China": "19.63",
+                    "Unspecified": "12.48",
+                    "United States": "10.86",
+                    "Germany": "9.39",
+                    "Netherlands": "5.61"
+                }
+            }
+        },
+        "2017": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "21.81",
+                    "Netherlands": "13.46",
+                    "Germany": "9.21",
+                    "Denmark": "8.00",
+                    "France": "6.82"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "17.38",
+                    "Spain": "12.87",
+                    "Germany": "6.35",
+                    "France": "5.75",
+                    "United States": "3.84"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "13.06",
+                    "Netherlands": "11.59",
+                    "Germany": "11.15",
+                    "Ireland": "8.93",
+                    "Italy": "7.96"
+                },
+                "Mineral Products": {
+                    "Sweden": "10.74",
+                    "United States": "10.44",
+                    "Canada": "9.33",
+                    "Germany": "8.42",
+                    "Ireland": "5.70"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Netherlands": "18.18",
+                    "Germany": "17.03",
+                    "Belgium": "9.78",
+                    "France": "8.38",
+                    "Ireland": "8.34"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "20.99",
+                    "China": "11.26",
+                    "Belgium": "9.47",
+                    "Netherlands": "9.01",
+                    "France": "7.51"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "31.14",
+                    "Italy": "16.90",
+                    "France": "16.45",
+                    "India": "6.22",
+                    "Netherlands": "4.88"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "11.47",
+                    "Germany": "11.45",
+                    "China": "11.06",
+                    "Sweden": "9.37",
+                    "Finland": "5.81"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "22.00",
+                    "Bangladesh": "10.62",
+                    "Turkey": "7.26",
+                    "India": "6.26",
+                    "Germany": "5.81"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "29.52",
+                    "Italy": "10.42",
+                    "Netherlands": "9.70",
+                    "Vietnam": "8.09",
+                    "Belgium": "7.91"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Canada": "19.47",
+                    "United States": "10.93",
+                    "South Africa": "10.26",
+                    "Switzerland": "9.37",
+                    "Hong Kong, China": "5.82"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Germany": "19.17",
+                    "South Africa": "8.45",
+                    "United States": "6.10",
+                    "Switzerland": "4.78",
+                    "Russian Federation": "4.62"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "18.54",
+                    "China": "12.62",
+                    "Netherlands": "6.46",
+                    "France": "6.05",
+                    "United States": "5.91"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "17.20",
+                    "United States": "15.91",
+                    "Germany": "13.43",
+                    "Netherlands": "9.41",
+                    "France": "4.34"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "32.11",
+                    "Belgium": "9.61",
+                    "United States": "9.26",
+                    "Spain": "7.32",
+                    "France": "7.15"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "17.30",
+                    "China": "12.72",
+                    "United States": "10.10",
+                    "Netherlands": "8.33",
+                    "France": "6.21"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "China": "19.03",
+                    "Unspecified": "15.93",
+                    "United States": "9.85",
+                    "Germany": "9.14",
+                    "Netherlands": "5.01"
+                }
+            }
+        },
+        "2018": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "23.20",
+                    "Netherlands": "13.73",
+                    "Germany": "8.68",
+                    "Denmark": "7.09",
+                    "France": "6.91"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "18.04",
+                    "Spain": "12.81",
+                    "Germany": "6.40",
+                    "France": "5.90",
+                    "South Africa": "3.72"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "12.53",
+                    "Netherlands": "11.09",
+                    "Germany": "11.08",
+                    "Ireland": "8.72",
+                    "Italy": "8.21"
+                },
+                "Mineral Products": {
+                    "Sweden": "9.56",
+                    "United States": "9.27",
+                    "Canada": "8.44",
+                    "South Africa": "7.67",
+                    "Germany": "7.40"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Netherlands": "17.09",
+                    "Germany": "16.24",
+                    "Belgium": "10.38",
+                    "United States": "9.05",
+                    "France": "8.98"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "20.77",
+                    "China": "11.20",
+                    "Belgium": "9.27",
+                    "Netherlands": "9.27",
+                    "France": "7.25"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "28.24",
+                    "France": "20.03",
+                    "Italy": "16.53",
+                    "India": "6.15",
+                    "Netherlands": "5.26"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Germany": "11.29",
+                    "United States": "11.15",
+                    "China": "10.58",
+                    "Sweden": "10.04",
+                    "Finland": "5.88"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "20.50",
+                    "Bangladesh": "10.77",
+                    "Turkey": "7.28",
+                    "Italy": "6.21",
+                    "India": "6.01"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "26.95",
+                    "Italy": "10.90",
+                    "Netherlands": "10.06",
+                    "Germany": "9.30",
+                    "Vietnam": "7.68"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Canada": "19.04",
+                    "United States": "17.94",
+                    "South Africa": "12.22",
+                    "Germany": "7.10",
+                    "France": "4.21"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Germany": "17.22",
+                    "South Africa": "10.29",
+                    "United States": "6.84",
+                    "Russian Federation": "4.19",
+                    "Switzerland": "3.98"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "15.65",
+                    "China": "10.93",
+                    "Denmark": "8.10",
+                    "United States": "5.77",
+                    "Netherlands": "5.68"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "18.35",
+                    "United States": "15.29",
+                    "Germany": "13.21",
+                    "Netherlands": "10.37",
+                    "France": "4.04"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "33.94",
+                    "Belgium": "10.40",
+                    "Spain": "7.27",
+                    "France": "6.95",
+                    "United States": "6.00"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "17.05",
+                    "China": "12.99",
+                    "United States": "9.50",
+                    "Netherlands": "8.61",
+                    "France": "6.10"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "China": "17.74",
+                    "Unspecified": "15.68",
+                    "United States": "10.43",
+                    "Germany": "9.27",
+                    "Netherlands": "5.66"
+                }
+            }
+        },
+        "2019": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "22.29",
+                    "Netherlands": "12.71",
+                    "Germany": "8.66",
+                    "Denmark": "6.73",
+                    "France": "6.72"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "17.35",
+                    "Spain": "13.54",
+                    "Germany": "6.68",
+                    "France": "5.26",
+                    "Belgium": "3.68"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "12.79",
+                    "Germany": "11.50",
+                    "Netherlands": "11.33",
+                    "Ireland": "8.64",
+                    "Italy": "8.39"
+                },
+                "Mineral Products": {
+                    "Germany": "10.70",
+                    "Canada": "9.30",
+                    "Sweden": "8.65",
+                    "United States": "7.37",
+                    "Brazil": "6.66"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Netherlands": "18.87",
+                    "Germany": "15.56",
+                    "Belgium": "9.86",
+                    "France": "8.88",
+                    "United States": "8.78"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "19.32",
+                    "China": "11.93",
+                    "Belgium": "8.96",
+                    "Netherlands": "8.57",
+                    "United States": "6.83"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "28.81",
+                    "France": "18.54",
+                    "Italy": "17.52",
+                    "Netherlands": "6.16",
+                    "India": "5.83"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "12.22",
+                    "China": "11.04",
+                    "Germany": "10.82",
+                    "Sweden": "9.27",
+                    "Finland": "5.76"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "19.78",
+                    "Bangladesh": "11.46",
+                    "Turkey": "7.16",
+                    "Italy": "6.81",
+                    "India": "6.09"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "26.58",
+                    "Netherlands": "10.79",
+                    "Italy": "10.72",
+                    "Belgium": "8.40",
+                    "Germany": "8.40"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Switzerland": "20.63",
+                    "United States": "14.13",
+                    "Canada": "11.99",
+                    "Australia": "9.08",
+                    "Russian Federation": "6.63"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Germany": "17.51",
+                    "South Africa": "12.29",
+                    "United States": "7.11",
+                    "Russian Federation": "6.14",
+                    "Switzerland": "4.77"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "15.00",
+                    "China": "12.08",
+                    "Denmark": "6.93",
+                    "United States": "6.10",
+                    "Italy": "5.42"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "19.94",
+                    "United States": "15.34",
+                    "Germany": "12.45",
+                    "Netherlands": "9.54",
+                    "France": "3.90"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "31.23",
+                    "Belgium": "10.43",
+                    "France": "9.19",
+                    "Spain": "7.95",
+                    "United States": "4.84"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Germany": "16.04",
+                    "China": "13.72",
+                    "United States": "9.30",
+                    "Netherlands": "8.79",
+                    "France": "6.69"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "China": "19.17",
+                    "Unspecified": "15.83",
+                    "United States": "10.60",
+                    "Germany": "8.90",
+                    "Netherlands": "5.95"
+                }
+            }
+        },
+        "2020": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "23.86",
+                    "Netherlands": "11.80",
+                    "Germany": "8.31",
+                    "Denmark": "7.01",
+                    "France": "6.21"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "17.43",
+                    "Spain": "13.30",
+                    "Germany": "6.96",
+                    "France": "5.57",
+                    "Belgium": "3.76"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "12.04",
+                    "Germany": "10.91",
+                    "Netherlands": "10.66",
+                    "Italy": "8.60",
+                    "Ireland": "8.44"
+                },
+                "Mineral Products": {
+                    "Germany": "15.53",
+                    "Canada": "10.24",
+                    "South Africa": "7.96",
+                    "Ireland": "7.20",
+                    "India": "6.89"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Netherlands": "16.57",
+                    "Germany": "15.09",
+                    "United States": "9.77",
+                    "Belgium": "9.01",
+                    "Ireland": "8.99"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "China": "19.59",
+                    "Germany": "16.70",
+                    "Belgium": "7.60",
+                    "Netherlands": "7.34",
+                    "United States": "6.11"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "26.47",
+                    "Italy": "22.14",
+                    "France": "15.09",
+                    "Netherlands": "6.44",
+                    "India": "5.64"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "China": "12.84",
+                    "United States": "12.67",
+                    "Germany": "10.50",
+                    "Sweden": "9.56",
+                    "Finland": "4.91"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "35.14",
+                    "Bangladesh": "8.36",
+                    "Turkey": "6.58",
+                    "Netherlands": "5.67",
+                    "Italy": "5.38"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "24.67",
+                    "Netherlands": "12.10",
+                    "Belgium": "11.26",
+                    "Italy": "10.89",
+                    "Germany": "9.39"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Russian Federation": "17.03",
+                    "United States": "13.71",
+                    "Hong Kong, China": "11.31",
+                    "Canada": "9.89",
+                    "Australia": "7.20"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Germany": "17.57",
+                    "South Africa": "11.11",
+                    "Russian Federation": "10.45",
+                    "United States": "9.55",
+                    "Belgium": "6.66"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Germany": "15.91",
+                    "China": "13.23",
+                    "Italy": "6.09",
+                    "United States": "5.65",
+                    "France": "5.33"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "23.66",
+                    "United States": "12.70",
+                    "Germany": "12.24",
+                    "Netherlands": "9.77",
+                    "Italy": "3.53"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "31.07",
+                    "Belgium": "11.93",
+                    "France": "8.27",
+                    "Spain": "7.26",
+                    "Netherlands": "5.00"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "China": "18.05",
+                    "Germany": "15.30",
+                    "Netherlands": "8.71",
+                    "United States": "8.32",
+                    "France": "5.62"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "China": "24.27",
+                    "Unspecified": "15.28",
+                    "Germany": "9.18",
+                    "United States": "8.93",
+                    "Netherlands": "5.96"
+                }
+            }
+        },
+        "2021": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "23.56",
+                    "Netherlands": "9.98",
+                    "Germany": "6.44",
+                    "Denmark": "6.23",
+                    "Poland": "6.01"
+                },
+                "Vegetable Products": {
+                    "Netherlands": "16.03",
+                    "Spain": "12.34",
+                    "France": "4.41",
+                    "Germany": "3.94",
+                    "South Africa": "3.56"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "12.31",
+                    "Netherlands": "10.02",
+                    "Italy": "9.24",
+                    "Germany": "8.95",
+                    "Belgium": "8.19"
+                },
+                "Mineral Products": {
+                    "Germany": "16.25",
+                    "United States": "13.20",
+                    "South Africa": "10.64",
+                    "Canada": "9.41",
+                    "Ireland": "6.17"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Germany": "13.03",
+                    "China": "12.95",
+                    "Belgium": "11.19",
+                    "United States": "10.64",
+                    "Ireland": "9.88"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Germany": "17.73",
+                    "China": "15.08",
+                    "Belgium": "8.48",
+                    "Netherlands": "8.18",
+                    "United States": "6.12"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "29.12",
+                    "Italy": "23.55",
+                    "France": "14.13",
+                    "India": "6.28",
+                    "Germany": "3.89"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "China": "12.78",
+                    "Sweden": "10.60",
+                    "United States": "10.36",
+                    "Germany": "9.94",
+                    "Finland": "5.46"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "22.43",
+                    "Bangladesh": "10.55",
+                    "Turkey": "8.60",
+                    "Italy": "7.01",
+                    "India": "5.94"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "34.68",
+                    "Italy": "12.23",
+                    "Germany": "9.06",
+                    "Vietnam": "8.18",
+                    "Netherlands": "6.03"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Russian Federation": "19.66",
+                    "United States": "13.98",
+                    "Canada": "11.04",
+                    "South Africa": "8.48",
+                    "Switzerland": "5.87"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "South Africa": "16.69",
+                    "Germany": "11.33",
+                    "Hong Kong, China": "9.91",
+                    "United States": "8.04",
+                    "Russian Federation": "6.89"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "China": "16.51",
+                    "Germany": "13.48",
+                    "Belgium": "5.39",
+                    "Turkey": "4.99",
+                    "France": "4.93"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "26.42",
+                    "Germany": "12.60",
+                    "United States": "11.56",
+                    "Netherlands": "7.04",
+                    "Italy": "3.74"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "30.48",
+                    "Belgium": "7.52",
+                    "France": "7.01",
+                    "Spain": "6.89",
+                    "China": "5.86"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "China": "19.98",
+                    "Germany": "14.76",
+                    "United States": "8.01",
+                    "Netherlands": "6.36",
+                    "Belgium": "5.17"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "China": "26.93",
+                    "Unspecified": "11.90",
+                    "Germany": "8.93",
+                    "United States": "8.60",
+                    "Netherlands": "5.05"
+                }
+            }
+        },
+        "2022": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Ireland": "21.15",
+                    "Netherlands": "12.14",
+                    "Poland": "7.29",
+                    "Germany": "6.21",
+                    "Norway": "5.73"
+                },
+                "Vegetable Products": {
+                    "Spain": "13.13",
+                    "Netherlands": "12.49",
+                    "Germany": "4.08",
+                    "France": "4.01",
+                    "Brazil": "3.91"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "France": "12.26",
+                    "Italy": "9.78",
+                    "Germany": "9.57",
+                    "Netherlands": "9.34",
+                    "Ireland": "6.90"
+                },
+                "Mineral Products": {
+                    "Germany": "19.64",
+                    "South Africa": "15.70",
+                    "Spain": "7.62",
+                    "United States": "6.60",
+                    "Ireland": "4.92"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "14.91",
+                    "Germany": "13.90",
+                    "France": "8.34",
+                    "China": "8.14",
+                    "Switzerland": "6.57"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "China": "17.96",
+                    "Germany": "14.32",
+                    "United States": "10.05",
+                    "Netherlands": "6.15",
+                    "Belgium": "5.59"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "37.71",
+                    "Italy": "21.92",
+                    "France": "9.17",
+                    "India": "7.33",
+                    "Vietnam": "5.06"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "China": "12.38",
+                    "Germany": "10.67",
+                    "Sweden": "9.62",
+                    "United States": "9.13",
+                    "Finland": "5.15"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "25.33",
+                    "Bangladesh": "14.28",
+                    "Turkey": "9.22",
+                    "India": "6.31",
+                    "Pakistan": "5.43"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "41.34",
+                    "Vietnam": "19.14",
+                    "Italy": "9.46",
+                    "Indonesia": "8.30",
+                    "India": "4.17"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Canada": "15.63",
+                    "United States": "13.96",
+                    "Kazakhstan": "10.38",
+                    "Switzerland": "5.93",
+                    "South Africa": "5.45"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "South Africa": "16.23",
+                    "Germany": "14.00",
+                    "United States": "7.31",
+                    "Belgium": "5.91",
+                    "Italy": "4.04"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "China": "17.87",
+                    "Germany": "12.56",
+                    "Italy": "5.23",
+                    "Turkey": "5.11",
+                    "United States": "4.96"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "29.57",
+                    "United States": "15.51",
+                    "Germany": "8.60",
+                    "Italy": "3.70",
+                    "France": "3.15"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Germany": "23.32",
+                    "China": "8.19",
+                    "France": "6.99",
+                    "United States": "6.99",
+                    "Spain": "6.53"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "China": "20.81",
+                    "Germany": "11.59",
+                    "United States": "11.14",
+                    "France": "4.70",
+                    "Italy": "4.58"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Unspecified": "26.61",
+                    "China": "20.72",
+                    "United States": "9.99",
+                    "Germany": "6.32",
+                    "Switzerland": "3.57"
+                }
+            }
+        }
+    }
+}

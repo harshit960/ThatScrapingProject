@@ -1,0 +1,4028 @@
+{
+    "Main Partners": {
+        "1990": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "48.56",
+                    "New Zealand": "13.86",
+                    "Ireland": "9.66",
+                    "France": "8.73",
+                    "Germany": "4.45"
+                },
+                "Vegetable Products": {
+                    "United States": "80.85",
+                    "Argentina": "5.20",
+                    "Poland": "1.51",
+                    "Netherlands": "1.43",
+                    "Switzerland": "1.28"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "46.41",
+                    "United Kingdom": "15.73",
+                    "Argentina": "6.10",
+                    "Brazil": "4.78",
+                    "France": "4.12"
+                },
+                "Mineral Products": {
+                    "United States": "65.18",
+                    "Canada": "10.89",
+                    "Morocco": "8.55",
+                    "Peru": "4.13",
+                    "Australia": "3.35"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "60.63",
+                    "Germany": "8.41",
+                    "Switzerland": "6.27",
+                    "France": "4.36",
+                    "United Kingdom": "3.13"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "79.78",
+                    "Germany": "3.96",
+                    "Japan": "3.01",
+                    "France": "1.60",
+                    "Indonesia": "1.19"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "77.09",
+                    "Spain": "3.20",
+                    "Nicaragua": "2.08",
+                    "Hong Kong, China": "2.05",
+                    "Italy": "1.79"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "80.98",
+                    "Spain": "4.84",
+                    "Canada": "3.74",
+                    "Sweden": "1.14",
+                    "United Kingdom": "0.99"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "57.70",
+                    "Hong Kong, China": "10.07",
+                    "Korea, Rep.": "4.42",
+                    "Italy": "4.07",
+                    "China": "3.89"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "55.97",
+                    "China": "11.91",
+                    "Hong Kong, China": "10.96",
+                    "Korea, Rep.": "5.54",
+                    "Spain": "4.44"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "63.45",
+                    "Germany": "7.14",
+                    "Spain": "6.90",
+                    "Italy": "6.46",
+                    "Japan": "2.59"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "66.16",
+                    "Germany": "6.17",
+                    "Japan": "4.95",
+                    "Spain": "4.89",
+                    "France": "2.45"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "64.62",
+                    "Germany": "7.13",
+                    "Japan": "6.14",
+                    "Italy": "3.30",
+                    "Sweden": "3.09"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "75.14",
+                    "Germany": "3.86",
+                    "France": "3.03",
+                    "Japan": "2.65",
+                    "Canada": "2.41"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "66.02",
+                    "Germany": "6.21",
+                    "Japan": "4.68",
+                    "Italy": "2.28",
+                    "Spain": "2.27"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "67.62",
+                    "Japan": "9.72",
+                    "Germany": "9.64",
+                    "France": "2.75",
+                    "Belgium-Luxembourg": "1.57"
+                }
+            }
+        },
+        "1991": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "71.23",
+                    "Canada": "4.74",
+                    "New Zealand": "4.23",
+                    "Ireland": "2.73",
+                    "Germany": "2.70"
+                },
+                "Vegetable Products": {
+                    "United States": "72.78",
+                    "Argentina": "7.81",
+                    "Poland": "3.37",
+                    "Canada": "2.26",
+                    "Germany": "2.04"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "56.98",
+                    "Brazil": "5.26",
+                    "Cuba": "3.80",
+                    "France": "3.62",
+                    "Spain": "3.59"
+                },
+                "Mineral Products": {
+                    "United States": "48.44",
+                    "Canada": "11.53",
+                    "Peru": "8.87",
+                    "Morocco": "8.46",
+                    "Togo": "5.43"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "58.56",
+                    "Germany": "8.30",
+                    "France": "4.93",
+                    "Switzerland": "4.91",
+                    "United Kingdom": "3.62"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "75.04",
+                    "Germany": "4.23",
+                    "Japan": "3.59",
+                    "Indonesia": "2.42",
+                    "Korea, Dem. Rep.": "1.94"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "75.66",
+                    "Hong Kong, China": "3.28",
+                    "Spain": "2.25",
+                    "Other Asia, nes": "2.00",
+                    "Uruguay": "1.94"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "50.22",
+                    "Hong Kong, China": "9.42",
+                    "Korea, Dem. Rep.": "7.59",
+                    "Italy": "4.77",
+                    "Other Asia, nes": "4.35"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "37.77",
+                    "Hong Kong, China": "17.74",
+                    "Other Asia, nes": "14.60",
+                    "Korea, Dem. Rep.": "8.76",
+                    "China": "5.52"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "59.30",
+                    "Germany": "7.10",
+                    "Spain": "6.81",
+                    "Italy": "4.96",
+                    "France": "3.77"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "66.40",
+                    "Peru": "7.55",
+                    "Canada": "5.28",
+                    "Venezuela": "3.79",
+                    "Morocco": "2.93"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "60.72",
+                    "Germany": "8.98",
+                    "Brazil": "4.85",
+                    "Japan": "3.92",
+                    "Spain": "3.73"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "60.42",
+                    "Japan": "8.19",
+                    "Germany": "7.34",
+                    "Italy": "3.44",
+                    "France": "2.85"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "65.27",
+                    "France": "13.65",
+                    "Japan": "4.15",
+                    "Germany": "3.62",
+                    "Brazil": "3.14"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "61.38",
+                    "Germany": "6.71",
+                    "Japan": "5.78",
+                    "France": "3.53",
+                    "Italy": "2.35"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "69.00",
+                    "Japan": "10.03",
+                    "Germany": "8.91",
+                    "Canada": "2.73",
+                    "Brazil": "1.64"
+                }
+            }
+        },
+        "1992": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "68.21",
+                    "Ireland": "7.56",
+                    "New Zealand": "6.53",
+                    "Canada": "4.55",
+                    "France": "2.87"
+                },
+                "Vegetable Products": {
+                    "United States": "81.49",
+                    "Canada": "4.45",
+                    "Netherlands": "2.46",
+                    "Chile": "1.62",
+                    "Argentina": "1.40"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "69.89",
+                    "United Kingdom": "5.14",
+                    "Spain": "4.49",
+                    "France": "3.48",
+                    "Panama": "2.93"
+                },
+                "Mineral Products": {
+                    "United States": "63.16",
+                    "Canada": "9.54",
+                    "Switzerland": "6.88",
+                    "Morocco": "6.36",
+                    "Belgium-Luxembourg": "2.98"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "61.68",
+                    "Germany": "7.39",
+                    "Switzerland": "5.23",
+                    "France": "3.60",
+                    "United Kingdom": "3.44"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "88.47",
+                    "Japan": "2.07",
+                    "Germany": "1.71",
+                    "France": "1.13",
+                    "Korea, Rep.": "0.76"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "81.14",
+                    "Spain": "2.84",
+                    "Hong Kong, China": "2.78",
+                    "Uruguay": "2.19",
+                    "Brazil": "1.41"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "86.20",
+                    "Spain": "2.97",
+                    "Panama": "1.04",
+                    "Canada": "0.99",
+                    "Sweden": "0.89"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "71.10",
+                    "Hong Kong, China": "8.62",
+                    "Korea, Rep.": "4.11",
+                    "Italy": "2.58",
+                    "China": "1.98"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "52.00",
+                    "Hong Kong, China": "24.39",
+                    "China": "7.80",
+                    "Korea, Rep.": "4.63",
+                    "Panama": "2.38"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "69.74",
+                    "Spain": "6.30",
+                    "Italy": "4.93",
+                    "Germany": "4.12",
+                    "Brazil": "2.12"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "77.07",
+                    "Venezuela": "4.44",
+                    "Peru": "4.06",
+                    "Canada": "3.44",
+                    "Switzerland": "2.63"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "72.45",
+                    "Japan": "6.33",
+                    "Germany": "4.63",
+                    "Italy": "3.03",
+                    "France": "2.18"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "65.45",
+                    "France": "10.85",
+                    "Brazil": "8.48",
+                    "Japan": "4.68",
+                    "Germany": "2.39"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "72.71",
+                    "Japan": "4.72",
+                    "Germany": "3.98",
+                    "France": "2.50",
+                    "Italy": "2.04"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "73.45",
+                    "Japan": "8.70",
+                    "Germany": "6.17",
+                    "Brazil": "2.30",
+                    "Belgium-Luxembourg": "1.27"
+                }
+            }
+        },
+        "1993": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "66.30",
+                    "New Zealand": "7.38",
+                    "France": "5.90",
+                    "Canada": "4.74",
+                    "Netherlands": "4.41"
+                },
+                "Vegetable Products": {
+                    "United States": "77.83",
+                    "Canada": "7.23",
+                    "Netherlands": "3.00",
+                    "Argentina": "2.22",
+                    "Chile": "1.84"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "72.41",
+                    "Spain": "4.48",
+                    "United Kingdom": "3.38",
+                    "France": "2.75",
+                    "Canada": "2.26"
+                },
+                "Mineral Products": {
+                    "United States": "60.87",
+                    "Canada": "10.84",
+                    "Morocco": "6.59",
+                    "Switzerland": "4.82",
+                    "Peru": "3.04"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "62.45",
+                    "Germany": "7.45",
+                    "Switzerland": "5.29",
+                    "United Kingdom": "3.61",
+                    "France": "3.53"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "89.00",
+                    "Japan": "2.03",
+                    "Germany": "1.77",
+                    "France": "0.94",
+                    "Korea, Rep.": "0.79"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "79.20",
+                    "Hong Kong, China": "3.53",
+                    "Spain": "2.43",
+                    "Brazil": "1.42",
+                    "Italy": "1.38"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "83.84",
+                    "Spain": "2.86",
+                    "Panama": "1.84",
+                    "Sweden": "1.03",
+                    "Brazil": "0.98"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "73.65",
+                    "Hong Kong, China": "6.32",
+                    "Korea, Rep.": "5.10",
+                    "Italy": "2.34",
+                    "China": "1.84"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "49.38",
+                    "Hong Kong, China": "20.50",
+                    "China": "8.82",
+                    "Korea, Rep.": "4.94",
+                    "Spain": "3.16"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "65.91",
+                    "Switzerland": "7.27",
+                    "Spain": "5.76",
+                    "Italy": "3.65",
+                    "Germany": "3.47"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "76.04",
+                    "Japan": "4.38",
+                    "Germany": "4.13",
+                    "Venezuela": "2.50",
+                    "Spain": "2.34"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "75.44",
+                    "Japan": "5.77",
+                    "Germany": "3.82",
+                    "Spain": "2.40",
+                    "Italy": "1.86"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "67.27",
+                    "Brazil": "7.53",
+                    "Germany": "6.82",
+                    "Japan": "4.23",
+                    "Spain": "4.22"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "74.77",
+                    "Japan": "4.17",
+                    "Germany": "3.89",
+                    "Spain": "2.26",
+                    "France": "1.75"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "68.34",
+                    "Japan": "11.09",
+                    "Germany": "8.00",
+                    "Brazil": "3.28",
+                    "Canada": "1.73"
+                }
+            }
+        },
+        "1994": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "69.63",
+                    "New Zealand": "6.63",
+                    "Canada": "5.37",
+                    "Australia": "5.20",
+                    "France": "2.98"
+                },
+                "Vegetable Products": {
+                    "United States": "72.51",
+                    "Canada": "7.74",
+                    "Argentina": "6.06",
+                    "Chile": "2.82",
+                    "Brazil": "1.26"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "70.45",
+                    "Spain": "4.16",
+                    "France": "3.38",
+                    "United Kingdom": "2.52",
+                    "Canada": "2.32"
+                },
+                "Mineral Products": {
+                    "United States": "47.81",
+                    "Morocco": "13.85",
+                    "Canada": "13.72",
+                    "Peru": "6.64",
+                    "Australia": "4.50"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "60.09",
+                    "Germany": "6.27",
+                    "France": "4.36",
+                    "Switzerland": "3.86",
+                    "United Kingdom": "3.35"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "83.77",
+                    "Japan": "3.42",
+                    "Germany": "1.89",
+                    "France": "1.15",
+                    "Korea, Rep.": "1.15"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "71.25",
+                    "China": "3.48",
+                    "Italy": "3.06",
+                    "Spain": "2.10",
+                    "Other Asia, nes": "2.04"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "79.19",
+                    "Spain": "3.83",
+                    "Canada": "3.69",
+                    "Brazil": "1.54",
+                    "Germany": "1.25"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "72.93",
+                    "Korea, Rep.": "5.89",
+                    "Hong Kong, China": "3.05",
+                    "Italy": "2.23",
+                    "Other Asia, nes": "2.04"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "26.73",
+                    "Indonesia": "18.71",
+                    "Other Asia, nes": "10.53",
+                    "Korea, Rep.": "9.75",
+                    "China": "8.85"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "66.44",
+                    "Spain": "6.63",
+                    "Italy": "3.76",
+                    "Germany": "3.13",
+                    "France": "2.46"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "70.34",
+                    "Venezuela": "7.62",
+                    "Canada": "3.88",
+                    "Morocco": "2.90",
+                    "Peru": "2.67"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "68.36",
+                    "Japan": "4.33",
+                    "Germany": "3.46",
+                    "Brazil": "2.90",
+                    "Venezuela": "2.56"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "68.30",
+                    "Japan": "8.04",
+                    "Germany": "4.23",
+                    "France": "2.67",
+                    "Italy": "1.86"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "69.92",
+                    "Brazil": "4.73",
+                    "Canada": "4.37",
+                    "Spain": "4.33",
+                    "Germany": "4.00"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "69.13",
+                    "Japan": "5.60",
+                    "Germany": "3.77",
+                    "France": "2.28",
+                    "Spain": "1.98"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "63.72",
+                    "Japan": "14.20",
+                    "Germany": "7.42",
+                    "Canada": "2.16",
+                    "Brazil": "2.07"
+                }
+            }
+        },
+        "1995": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "67.08",
+                    "Canada": "6.67",
+                    "Germany": "6.05",
+                    "New Zealand": "5.90",
+                    "Ireland": "3.99"
+                },
+                "Vegetable Products": {
+                    "United States": "77.43",
+                    "Canada": "8.07",
+                    "Argentina": "3.44",
+                    "Chile": "1.56",
+                    "Peru": "1.15"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "72.03",
+                    "France": "3.27",
+                    "Spain": "3.24",
+                    "United Kingdom": "2.57",
+                    "Canada": "2.26"
+                },
+                "Mineral Products": {
+                    "United States": "42.47",
+                    "Morocco": "12.79",
+                    "Canada": "10.53",
+                    "Brazil": "7.61",
+                    "Australia": "6.51"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "62.15",
+                    "Germany": "5.69",
+                    "France": "3.75",
+                    "Switzerland": "3.50",
+                    "Japan": "3.13"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "85.81",
+                    "Japan": "2.99",
+                    "Germany": "2.13",
+                    "Indonesia": "1.19",
+                    "Other Asia, nes": "0.91"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "79.09",
+                    "China": "3.98",
+                    "Italy": "3.31",
+                    "Canada": "1.80",
+                    "Argentina": "0.93"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "84.56",
+                    "Canada": "3.28",
+                    "Spain": "2.62",
+                    "Germany": "0.86",
+                    "Finland": "0.80"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "85.06",
+                    "Korea, Rep.": "2.80",
+                    "Italy": "1.45",
+                    "Hong Kong, China": "1.20",
+                    "Spain": "0.84"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "43.20",
+                    "Indonesia": "14.64",
+                    "China": "8.64",
+                    "Other Asia, nes": "6.18",
+                    "Korea, Rep.": "5.61"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "76.09",
+                    "Germany": "3.36",
+                    "Spain": "2.55",
+                    "Italy": "2.41",
+                    "Japan": "2.16"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "72.57",
+                    "Venezuela": "5.29",
+                    "Canada": "3.48",
+                    "Morocco": "3.07",
+                    "Brazil": "2.36"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "75.59",
+                    "Germany": "3.74",
+                    "Japan": "3.58",
+                    "Brazil": "2.51",
+                    "Canada": "1.68"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "72.77",
+                    "Japan": "8.04",
+                    "Germany": "3.60",
+                    "Korea, Rep.": "1.84",
+                    "France": "1.69"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "78.58",
+                    "Germany": "9.30",
+                    "Japan": "4.68",
+                    "Spain": "1.91",
+                    "Canada": "1.68"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "74.69",
+                    "Japan": "5.56",
+                    "Germany": "3.83",
+                    "France": "1.55",
+                    "Korea, Rep.": "1.30"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "67.79",
+                    "Japan": "11.38",
+                    "Germany": "5.98",
+                    "Canada": "2.62",
+                    "Unspecified": "1.55"
+                }
+            }
+        },
+        "1996": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "61.02",
+                    "Germany": "9.12",
+                    "New Zealand": "7.99",
+                    "Canada": "5.90",
+                    "Australia": "3.50"
+                },
+                "Vegetable Products": {
+                    "United States": "80.66",
+                    "Canada": "7.19",
+                    "Argentina": "3.44",
+                    "Chile": "1.10",
+                    "South Africa": "0.87"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "68.98",
+                    "Italy": "3.49",
+                    "Brazil": "3.00",
+                    "France": "2.74",
+                    "Spain": "2.43"
+                },
+                "Mineral Products": {
+                    "United States": "40.35",
+                    "Morocco": "14.24",
+                    "Brazil": "11.11",
+                    "Canada": "10.37",
+                    "Peru": "7.03"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "61.34",
+                    "Germany": "5.37",
+                    "France": "3.63",
+                    "Switzerland": "3.38",
+                    "United Kingdom": "2.98"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "86.33",
+                    "Japan": "2.30",
+                    "Germany": "2.29",
+                    "Canada": "1.28",
+                    "Indonesia": "1.07"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "82.63",
+                    "China": "4.69",
+                    "Brazil": "2.22",
+                    "Italy": "1.36",
+                    "Canada": "0.93"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "87.54",
+                    "Spain": "2.31",
+                    "Canada": "1.89",
+                    "Germany": "0.91",
+                    "Indonesia": "0.78"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "86.38",
+                    "Korea, Rep.": "2.91",
+                    "Italy": "1.17",
+                    "Other Asia, nes": "0.89",
+                    "Spain": "0.71"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "52.11",
+                    "Indonesia": "12.21",
+                    "China": "10.76",
+                    "Other Asia, nes": "4.79",
+                    "Thailand": "3.30"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "74.29",
+                    "Korea, Rep.": "5.22",
+                    "Germany": "3.15",
+                    "Italy": "2.09",
+                    "France": "1.75"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "73.22",
+                    "Venezuela": "4.32",
+                    "Canada": "3.45",
+                    "Morocco": "3.17",
+                    "Brazil": "2.66"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "74.66",
+                    "Japan": "6.11",
+                    "Germany": "3.78",
+                    "Korea, Rep.": "1.82",
+                    "Other Asia, nes": "1.54"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "83.16",
+                    "Germany": "7.32",
+                    "Japan": "3.34",
+                    "Canada": "2.21",
+                    "Chile": "1.02"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "76.38",
+                    "Japan": "4.35",
+                    "Germany": "3.85",
+                    "Canada": "1.55",
+                    "Korea, Rep.": "1.37"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "60.65",
+                    "Japan": "12.82",
+                    "Germany": "4.83",
+                    "China": "2.85",
+                    "Other Asia, nes": "1.83"
+                }
+            }
+        },
+        "1997": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "67.26",
+                    "New Zealand": "7.63",
+                    "Germany": "5.25",
+                    "Canada": "4.50",
+                    "Australia": "3.06"
+                },
+                "Vegetable Products": {
+                    "United States": "77.58",
+                    "Canada": "7.81",
+                    "Argentina": "1.64",
+                    "France": "1.60",
+                    "Chile": "1.56"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "70.27",
+                    "Spain": "3.34",
+                    "Chile": "2.69",
+                    "France": "2.61",
+                    "Brazil": "2.25"
+                },
+                "Mineral Products": {
+                    "United States": "33.10",
+                    "Brazil": "16.29",
+                    "Morocco": "13.82",
+                    "Chile": "9.90",
+                    "Canada": "7.30"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "62.04",
+                    "Germany": "5.04",
+                    "France": "3.30",
+                    "Switzerland": "3.20",
+                    "Japan": "3.17"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "86.71",
+                    "Germany": "2.16",
+                    "Japan": "2.10",
+                    "Canada": "1.21",
+                    "Korea, Rep.": "0.96"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "79.29",
+                    "China": "3.37",
+                    "Brazil": "3.31",
+                    "Other Asia, nes": "2.12",
+                    "Spain": "1.73"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "85.18",
+                    "Spain": "3.10",
+                    "Canada": "2.54",
+                    "Germany": "0.90",
+                    "Korea, Rep.": "0.65"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "84.20",
+                    "Korea, Rep.": "2.98",
+                    "Italy": "2.33",
+                    "Other Asia, nes": "1.43",
+                    "Spain": "1.12"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "49.67",
+                    "China": "10.69",
+                    "Indonesia": "10.63",
+                    "Other Asia, nes": "5.80",
+                    "Spain": "4.72"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "71.15",
+                    "Germany": "5.31",
+                    "Spain": "2.87",
+                    "Korea, Rep.": "2.54",
+                    "Japan": "2.37"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "68.82",
+                    "Chile": "6.31",
+                    "Brazil": "4.10",
+                    "Venezuela": "3.91",
+                    "Morocco": "3.31"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "73.86",
+                    "Germany": "3.71",
+                    "Japan": "3.05",
+                    "Brazil": "1.91",
+                    "Venezuela": "1.86"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "72.99",
+                    "Japan": "5.47",
+                    "Germany": "4.07",
+                    "Korea, Rep.": "2.29",
+                    "Italy": "1.94"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "82.04",
+                    "Germany": "6.47",
+                    "Japan": "4.41",
+                    "Canada": "2.98",
+                    "Brazil": "1.14"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "75.24",
+                    "Japan": "4.11",
+                    "Germany": "3.91",
+                    "Korea, Rep.": "1.59",
+                    "Italy": "1.59"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "61.15",
+                    "Japan": "9.82",
+                    "Germany": "4.24",
+                    "China": "3.17",
+                    "Thailand": "2.22"
+                }
+            }
+        },
+        "1998": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "74.15",
+                    "New Zealand": "6.84",
+                    "Canada": "5.97",
+                    "Australia": "3.02",
+                    "Germany": "1.14"
+                },
+                "Vegetable Products": {
+                    "United States": "77.70",
+                    "Canada": "9.42",
+                    "Chile": "1.69",
+                    "Argentina": "1.47",
+                    "Brazil": "1.26"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "71.76",
+                    "Spain": "2.92",
+                    "Brazil": "2.77",
+                    "France": "2.60",
+                    "Chile": "2.49"
+                },
+                "Mineral Products": {
+                    "United States": "34.90",
+                    "Brazil": "16.23",
+                    "Morocco": "16.16",
+                    "Chile": "8.20",
+                    "Canada": "6.84"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "60.96",
+                    "Germany": "5.00",
+                    "France": "3.44",
+                    "Switzerland": "3.15",
+                    "Japan": "2.77"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "87.32",
+                    "Germany": "2.34",
+                    "Japan": "1.81",
+                    "Canada": "1.33",
+                    "Korea, Rep.": "0.90"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "76.65",
+                    "China": "4.21",
+                    "Australia": "3.07",
+                    "Italy": "2.89",
+                    "Other Asia, nes": "1.93"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "85.85",
+                    "Spain": "3.21",
+                    "Canada": "2.00",
+                    "Germany": "0.81",
+                    "Indonesia": "0.71"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "85.35",
+                    "Korea, Rep.": "2.80",
+                    "Other Asia, nes": "1.54",
+                    "Italy": "1.36",
+                    "Spain": "1.04"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "47.69",
+                    "China": "12.58",
+                    "Indonesia": "8.84",
+                    "Other Asia, nes": "5.95",
+                    "Spain": "5.07"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "76.72",
+                    "Japan": "4.89",
+                    "Germany": "3.18",
+                    "Spain": "2.66",
+                    "Italy": "1.92"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "66.07",
+                    "Chile": "10.05",
+                    "Venezuela": "3.50",
+                    "Brazil": "3.24",
+                    "Morocco": "3.09"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "71.35",
+                    "Germany": "3.82",
+                    "Japan": "3.49",
+                    "Chile": "2.12",
+                    "Brazil": "1.90"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "74.62",
+                    "Japan": "4.73",
+                    "Germany": "4.08",
+                    "Korea, Rep.": "2.14",
+                    "Italy": "1.85"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "80.10",
+                    "Germany": "7.41",
+                    "Japan": "3.83",
+                    "Canada": "3.24",
+                    "Brazil": "1.69"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "75.70",
+                    "Germany": "4.00",
+                    "Japan": "3.74",
+                    "Korea, Rep.": "1.53",
+                    "Canada": "1.49"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "55.22",
+                    "Japan": "8.80",
+                    "Germany": "4.14",
+                    "Other Asia, nes": "3.90",
+                    "China": "3.80"
+                }
+            }
+        },
+        "1999": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "71.57",
+                    "Canada": "8.27",
+                    "New Zealand": "6.15",
+                    "Australia": "3.06",
+                    "United Kingdom": "1.08"
+                },
+                "Vegetable Products": {
+                    "United States": "78.16",
+                    "Canada": "7.90",
+                    "Chile": "2.30",
+                    "Peru": "1.00",
+                    "Costa Rica": "0.96"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "70.61",
+                    "Chile": "3.30",
+                    "Spain": "2.74",
+                    "France": "2.50",
+                    "Canada": "2.24"
+                },
+                "Mineral Products": {
+                    "United States": "37.01",
+                    "Brazil": "15.01",
+                    "Morocco": "13.20",
+                    "Chile": "11.16",
+                    "Canada": "5.20"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "62.71",
+                    "Germany": "4.63",
+                    "France": "3.42",
+                    "Switzerland": "3.15",
+                    "United Kingdom": "2.69"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "87.09",
+                    "Germany": "2.16",
+                    "Japan": "1.82",
+                    "Korea, Rep.": "1.55",
+                    "Canada": "1.42"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "78.54",
+                    "China": "5.19",
+                    "Australia": "3.11",
+                    "Italy": "2.82",
+                    "Brazil": "1.03"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "84.48",
+                    "Spain": "2.81",
+                    "Canada": "2.77",
+                    "Indonesia": "0.86",
+                    "Germany": "0.74"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "85.03",
+                    "Korea, Rep.": "3.69",
+                    "Italy": "1.18",
+                    "Other Asia, nes": "1.13",
+                    "Spain": "1.05"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "45.71",
+                    "China": "13.23",
+                    "Indonesia": "8.51",
+                    "Other Asia, nes": "5.93",
+                    "Spain": "5.75"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "76.14",
+                    "Japan": "3.32",
+                    "Germany": "3.18",
+                    "Canada": "2.65",
+                    "Spain": "2.53"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "64.14",
+                    "Chile": "10.98",
+                    "Venezuela": "3.94",
+                    "Brazil": "3.07",
+                    "Morocco": "2.36"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "73.79",
+                    "Japan": "3.63",
+                    "Germany": "3.52",
+                    "Canada": "2.27",
+                    "Chile": "2.10"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "73.62",
+                    "Japan": "5.22",
+                    "Germany": "3.79",
+                    "Korea, Rep.": "2.67",
+                    "Italy": "1.56"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "77.14",
+                    "Germany": "8.08",
+                    "Canada": "5.09",
+                    "Japan": "3.01",
+                    "Brazil": "2.65"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "75.30",
+                    "Germany": "3.87",
+                    "Japan": "3.85",
+                    "Korea, Rep.": "2.08",
+                    "Canada": "1.83"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "55.51",
+                    "Japan": "6.72",
+                    "China": "4.52",
+                    "Malaysia": "4.48",
+                    "Germany": "4.44"
+                }
+            }
+        },
+        "2000": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "68.57",
+                    "Canada": "9.33",
+                    "New Zealand": "4.59",
+                    "Australia": "2.95",
+                    "Germany": "2.27"
+                },
+                "Vegetable Products": {
+                    "United States": "77.80",
+                    "Canada": "8.58",
+                    "Chile": "2.64",
+                    "Brazil": "1.07",
+                    "Indonesia": "0.86"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "70.10",
+                    "Spain": "2.87",
+                    "Chile": "2.73",
+                    "Canada": "2.69",
+                    "Brazil": "2.65"
+                },
+                "Mineral Products": {
+                    "United States": "46.49",
+                    "Brazil": "12.95",
+                    "Morocco": "9.97",
+                    "Peru": "8.29",
+                    "Spain": "5.04"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "63.89",
+                    "Germany": "4.24",
+                    "France": "3.18",
+                    "Switzerland": "2.38",
+                    "Japan": "2.30"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "86.60",
+                    "Germany": "2.06",
+                    "Japan": "1.95",
+                    "Canada": "1.51",
+                    "Korea, Rep.": "1.28"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "77.06",
+                    "China": "5.89",
+                    "Australia": "3.36",
+                    "Italy": "2.63",
+                    "Colombia": "1.04"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "82.91",
+                    "Canada": "2.87",
+                    "Spain": "2.70",
+                    "Chile": "1.28",
+                    "Indonesia": "1.24"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "81.48",
+                    "Korea, Rep.": "4.14",
+                    "Hong Kong, China": "1.74",
+                    "Other Asia, nes": "1.59",
+                    "China": "1.28"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "36.75",
+                    "China": "14.23",
+                    "Indonesia": "7.38",
+                    "Other Asia, nes": "7.36",
+                    "Spain": "6.42"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "72.68",
+                    "Canada": "4.42",
+                    "Germany": "2.96",
+                    "Korea, Rep.": "2.69",
+                    "Spain": "2.69"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "63.50",
+                    "Chile": "10.41",
+                    "Venezuela": "3.95",
+                    "Canada": "2.83",
+                    "Brazil": "2.77"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "72.59",
+                    "Japan": "4.25",
+                    "Germany": "2.88",
+                    "Chile": "2.46",
+                    "Canada": "2.12"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "73.12",
+                    "Japan": "5.03",
+                    "Germany": "3.36",
+                    "Korea, Rep.": "3.03",
+                    "China": "1.84"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "72.23",
+                    "Germany": "8.26",
+                    "Canada": "5.38",
+                    "Japan": "4.86",
+                    "Brazil": "3.98"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "74.16",
+                    "Japan": "4.04",
+                    "Germany": "3.61",
+                    "Korea, Rep.": "2.24",
+                    "Canada": "2.04"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "43.95",
+                    "Unspecified": "37.31",
+                    "China": "4.01",
+                    "Japan": "2.95",
+                    "Germany": "2.30"
+                }
+            }
+        },
+        "2001": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "66.49",
+                    "Canada": "11.06",
+                    "New Zealand": "6.79",
+                    "Australia": "3.23",
+                    "Chile": "2.17"
+                },
+                "Vegetable Products": {
+                    "United States": "78.63",
+                    "Canada": "8.14",
+                    "Chile": "2.71",
+                    "Brazil": "1.32",
+                    "China": "1.00"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "71.39",
+                    "Spain": "3.58",
+                    "Chile": "2.52",
+                    "Canada": "2.38",
+                    "Brazil": "1.83"
+                },
+                "Mineral Products": {
+                    "United States": "38.55",
+                    "Spain": "12.20",
+                    "Brazil": "9.87",
+                    "Morocco": "9.73",
+                    "South Africa": "6.69"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "59.75",
+                    "Germany": "4.59",
+                    "Ireland": "3.73",
+                    "France": "3.58",
+                    "United Kingdom": "2.89"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "83.22",
+                    "Japan": "2.74",
+                    "Germany": "2.13",
+                    "Canada": "1.70",
+                    "China": "1.59"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "63.65",
+                    "China": "8.32",
+                    "Italy": "5.82",
+                    "Argentina": "5.78",
+                    "Australia": "3.60"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "77.42",
+                    "Spain": "3.37",
+                    "Canada": "3.30",
+                    "Chile": "2.18",
+                    "Brazil": "1.39"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "78.90",
+                    "Korea, Rep.": "3.76",
+                    "Hong Kong, China": "1.87",
+                    "Italy": "1.77",
+                    "Other Asia, nes": "1.54"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "29.96",
+                    "China": "14.40",
+                    "Spain": "7.86",
+                    "Brazil": "7.65",
+                    "Vietnam": "6.57"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "64.58",
+                    "Canada": "6.19",
+                    "Spain": "3.68",
+                    "Korea, Rep.": "3.60",
+                    "Germany": "2.85"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "59.45",
+                    "Chile": "10.83",
+                    "Venezuela": "4.65",
+                    "Canada": "3.20",
+                    "Spain": "2.51"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "69.56",
+                    "Japan": "4.76",
+                    "Germany": "3.51",
+                    "Canada": "2.72",
+                    "Chile": "2.36"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "63.26",
+                    "Japan": "7.70",
+                    "Germany": "3.85",
+                    "Korea, Rep.": "3.27",
+                    "Other Asia, nes": "3.14"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "69.07",
+                    "Germany": "8.48",
+                    "Canada": "5.86",
+                    "Brazil": "5.06",
+                    "Japan": "3.79"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "67.22",
+                    "Japan": "5.33",
+                    "Germany": "4.01",
+                    "China": "2.59",
+                    "Korea, Rep.": "2.35"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "58.30",
+                    "Unspecified": "9.88",
+                    "China": "7.93",
+                    "Japan": "4.29",
+                    "Germany": "3.50"
+                }
+            }
+        },
+        "2002": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "67.84",
+                    "Canada": "10.35",
+                    "New Zealand": "6.57",
+                    "Australia": "3.83",
+                    "Chile": "2.47"
+                },
+                "Vegetable Products": {
+                    "United States": "80.60",
+                    "Canada": "5.61",
+                    "Chile": "2.88",
+                    "France": "1.11",
+                    "Germany": "0.89"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "71.02",
+                    "Spain": "3.74",
+                    "Canada": "2.70",
+                    "Chile": "2.70",
+                    "Brazil": "2.35"
+                },
+                "Mineral Products": {
+                    "United States": "35.75",
+                    "Spain": "15.46",
+                    "Brazil": "9.75",
+                    "Chile": "6.57",
+                    "Morocco": "6.29"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "57.57",
+                    "Germany": "4.57",
+                    "Ireland": "4.01",
+                    "France": "3.48",
+                    "United Kingdom": "2.91"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "82.13",
+                    "Japan": "2.71",
+                    "Germany": "2.07",
+                    "China": "2.04",
+                    "Korea, Rep.": "1.65"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "57.23",
+                    "China": "11.38",
+                    "Argentina": "7.74",
+                    "Italy": "6.67",
+                    "Australia": "2.74"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "73.50",
+                    "Spain": "3.93",
+                    "Canada": "3.65",
+                    "Chile": "3.27",
+                    "Brazil": "1.73"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "75.68",
+                    "Korea, Rep.": "2.86",
+                    "China": "2.68",
+                    "Hong Kong, China": "2.59",
+                    "Spain": "2.13"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "United States": "17.05",
+                    "China": "15.39",
+                    "Brazil": "11.99",
+                    "Vietnam": "10.42",
+                    "Spain": "10.20"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "60.80",
+                    "Spain": "4.61",
+                    "Japan": "3.77",
+                    "Italy": "3.75",
+                    "India": "3.64"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "62.85",
+                    "Chile": "7.59",
+                    "Venezuela": "4.80",
+                    "Canada": "4.11",
+                    "Spain": "3.54"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "67.75",
+                    "Japan": "5.00",
+                    "Germany": "4.06",
+                    "Canada": "2.95",
+                    "Venezuela": "2.20"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "57.09",
+                    "Japan": "8.70",
+                    "China": "5.43",
+                    "Other Asia, nes": "4.89",
+                    "Korea, Rep.": "4.00"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "62.54",
+                    "Germany": "8.86",
+                    "Canada": "8.69",
+                    "Brazil": "5.70",
+                    "Japan": "4.56"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "62.50",
+                    "Japan": "5.89",
+                    "China": "4.06",
+                    "Germany": "4.01",
+                    "Other Asia, nes": "2.83"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "44.61",
+                    "Unspecified": "28.05",
+                    "China": "7.46",
+                    "Japan": "3.39",
+                    "Germany": "2.83"
+                }
+            }
+        },
+        "2003": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "70.07",
+                    "New Zealand": "7.73",
+                    "Canada": "6.49",
+                    "Chile": "2.90",
+                    "Australia": "2.39"
+                },
+                "Vegetable Products": {
+                    "United States": "78.44",
+                    "Canada": "8.27",
+                    "Chile": "2.64",
+                    "Argentina": "1.48",
+                    "China": "0.86"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "69.30",
+                    "Spain": "3.81",
+                    "Chile": "3.24",
+                    "Canada": "2.99",
+                    "Brazil": "2.90"
+                },
+                "Mineral Products": {
+                    "United States": "35.80",
+                    "Spain": "16.57",
+                    "Brazil": "12.52",
+                    "Chile": "6.63",
+                    "Morocco": "5.56"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "57.22",
+                    "Ireland": "5.09",
+                    "Germany": "4.52",
+                    "France": "3.47",
+                    "United Kingdom": "2.97"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "80.22",
+                    "Germany": "3.09",
+                    "Japan": "2.99",
+                    "China": "2.29",
+                    "Korea, Rep.": "1.84"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "60.65",
+                    "China": "11.04",
+                    "Argentina": "6.54",
+                    "Italy": "6.52",
+                    "Brazil": "2.97"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "71.04",
+                    "Spain": "3.89",
+                    "Chile": "3.83",
+                    "Canada": "3.76",
+                    "Brazil": "2.14"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "73.45",
+                    "Hong Kong, China": "3.31",
+                    "China": "2.91",
+                    "Korea, Rep.": "2.85",
+                    "Spain": "2.37"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "17.72",
+                    "Brazil": "14.42",
+                    "Vietnam": "13.36",
+                    "United States": "12.30",
+                    "Spain": "9.85"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "59.09",
+                    "India": "6.88",
+                    "Spain": "4.64",
+                    "China": "4.48",
+                    "Italy": "3.58"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "61.56",
+                    "Chile": "7.79",
+                    "Venezuela": "6.85",
+                    "Canada": "3.88",
+                    "Spain": "3.74"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "67.12",
+                    "Japan": "4.78",
+                    "Germany": "3.98",
+                    "Canada": "3.07",
+                    "Venezuela": "2.99"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "54.06",
+                    "China": "9.68",
+                    "Japan": "6.77",
+                    "Korea, Rep.": "4.36",
+                    "Malaysia": "3.81"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "59.78",
+                    "Brazil": "8.47",
+                    "Germany": "8.41",
+                    "Canada": "6.36",
+                    "Japan": "5.26"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "60.25",
+                    "China": "6.20",
+                    "Japan": "5.02",
+                    "Germany": "4.11",
+                    "Korea, Rep.": "2.77"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "53.48",
+                    "Unspecified": "10.90",
+                    "China": "9.45",
+                    "Japan": "4.78",
+                    "Germany": "3.75"
+                }
+            }
+        },
+        "2004": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "60.69",
+                    "Canada": "12.64",
+                    "New Zealand": "6.85",
+                    "Chile": "4.94",
+                    "Australia": "1.92"
+                },
+                "Vegetable Products": {
+                    "United States": "71.79",
+                    "Canada": "10.43",
+                    "Brazil": "3.68",
+                    "Chile": "2.62",
+                    "Argentina": "1.17"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "68.20",
+                    "Chile": "3.70",
+                    "Spain": "3.20",
+                    "Canada": "3.14",
+                    "Brazil": "3.05"
+                },
+                "Mineral Products": {
+                    "United States": "30.97",
+                    "Chile": "12.98",
+                    "Peru": "12.93",
+                    "Brazil": "12.41",
+                    "Spain": "5.69"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "57.88",
+                    "Germany": "5.34",
+                    "France": "4.25",
+                    "Ireland": "3.77",
+                    "United Kingdom": "2.77"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "78.42",
+                    "Japan": "3.08",
+                    "China": "3.00",
+                    "Germany": "2.61",
+                    "Korea, Rep.": "2.02"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "63.48",
+                    "China": "10.67",
+                    "Italy": "6.44",
+                    "Argentina": "6.07",
+                    "Brazil": "2.01"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "70.61",
+                    "Chile": "4.56",
+                    "Canada": "4.13",
+                    "Spain": "3.45",
+                    "China": "2.24"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "69.95",
+                    "China": "5.05",
+                    "Spain": "2.16",
+                    "Korea, Rep.": "2.10",
+                    "Italy": "1.86"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Vietnam": "19.38",
+                    "China": "18.76",
+                    "Brazil": "16.09",
+                    "United States": "9.36",
+                    "Spain": "7.33"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "53.79",
+                    "India": "7.29",
+                    "China": "6.75",
+                    "Korea, Rep.": "5.90",
+                    "Spain": "4.25"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "61.47",
+                    "Chile": "9.38",
+                    "Canada": "5.57",
+                    "Venezuela": "5.26",
+                    "Brazil": "3.40"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "61.32",
+                    "Japan": "4.96",
+                    "Canada": "4.00",
+                    "Germany": "3.88",
+                    "China": "3.50"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "46.19",
+                    "China": "12.72",
+                    "Japan": "8.24",
+                    "Korea, Rep.": "4.93",
+                    "Germany": "3.94"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "58.22",
+                    "Brazil": "9.10",
+                    "Germany": "7.18",
+                    "Japan": "6.81",
+                    "Canada": "5.76"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "54.78",
+                    "China": "8.17",
+                    "Japan": "6.17",
+                    "Germany": "4.13",
+                    "Korea, Rep.": "3.09"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "43.29",
+                    "Unspecified": "16.50",
+                    "China": "10.01",
+                    "Japan": "7.66",
+                    "Germany": "3.75"
+                }
+            }
+        },
+        "2005": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "64.73",
+                    "New Zealand": "8.10",
+                    "Canada": "7.32",
+                    "Chile": "5.91",
+                    "Australia": "2.27"
+                },
+                "Vegetable Products": {
+                    "United States": "75.74",
+                    "Canada": "9.02",
+                    "Chile": "2.26",
+                    "Argentina": "1.78",
+                    "China": "1.29"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "68.97",
+                    "Chile": "3.33",
+                    "Spain": "3.30",
+                    "Canada": "3.19",
+                    "Brazil": "2.38"
+                },
+                "Mineral Products": {
+                    "United States": "30.12",
+                    "Chile": "14.96",
+                    "Brazil": "14.71",
+                    "Peru": "10.72",
+                    "Spain": "6.35"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "57.99",
+                    "Germany": "5.66",
+                    "Ireland": "3.47",
+                    "France": "3.45",
+                    "China": "3.09"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "75.58",
+                    "China": "3.62",
+                    "Japan": "3.01",
+                    "Germany": "2.88",
+                    "Korea, Rep.": "2.54"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "52.48",
+                    "China": "12.47",
+                    "Argentina": "6.82",
+                    "Brazil": "6.33",
+                    "Italy": "5.87"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "69.72",
+                    "Chile": "5.53",
+                    "Canada": "4.39",
+                    "Spain": "2.81",
+                    "China": "2.33"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "65.19",
+                    "China": "6.88",
+                    "Korea, Rep.": "2.19",
+                    "Spain": "2.13",
+                    "Hong Kong, China": "1.93"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Vietnam": "27.59",
+                    "China": "20.77",
+                    "Brazil": "13.94",
+                    "United States": "6.29",
+                    "Spain": "5.51"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "46.51",
+                    "China": "8.97",
+                    "India": "7.06",
+                    "Korea, Rep.": "6.68",
+                    "Japan": "6.36"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "60.45",
+                    "Chile": "10.63",
+                    "Venezuela": "4.87",
+                    "Brazil": "4.14",
+                    "Canada": "4.04"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "58.92",
+                    "Japan": "4.93",
+                    "China": "4.39",
+                    "Germany": "4.11",
+                    "Canada": "3.81"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "41.90",
+                    "China": "13.87",
+                    "Japan": "9.16",
+                    "Korea, Rep.": "5.49",
+                    "Germany": "4.39"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "55.67",
+                    "Brazil": "8.95",
+                    "Japan": "8.05",
+                    "Germany": "7.54",
+                    "Canada": "7.02"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "51.37",
+                    "China": "9.10",
+                    "Japan": "6.88",
+                    "Germany": "4.53",
+                    "Korea, Rep.": "3.43"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "37.91",
+                    "Unspecified": "17.44",
+                    "China": "11.71",
+                    "Japan": "8.93",
+                    "Germany": "4.08"
+                }
+            }
+        },
+        "2006": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "69.41",
+                    "New Zealand": "6.77",
+                    "Chile": "5.80",
+                    "Canada": "5.78",
+                    "China": "2.42"
+                },
+                "Vegetable Products": {
+                    "United States": "75.84",
+                    "Canada": "10.20",
+                    "Chile": "2.12",
+                    "China": "1.06",
+                    "Netherlands": "0.93"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "66.95",
+                    "Canada": "4.62",
+                    "Spain": "3.27",
+                    "Chile": "3.08",
+                    "Brazil": "2.17"
+                },
+                "Mineral Products": {
+                    "United States": "32.28",
+                    "Chile": "21.42",
+                    "Peru": "12.13",
+                    "Brazil": "11.03",
+                    "Spain": "8.88"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "57.53",
+                    "Germany": "6.15",
+                    "France": "3.58",
+                    "Ireland": "3.50",
+                    "China": "2.90"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "74.77",
+                    "China": "4.23",
+                    "Japan": "3.00",
+                    "Canada": "2.68",
+                    "Germany": "2.66"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "42.73",
+                    "China": "16.78",
+                    "Argentina": "7.62",
+                    "Italy": "6.86",
+                    "Brazil": "5.72"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "69.23",
+                    "Chile": "5.30",
+                    "Canada": "5.14",
+                    "Spain": "2.71",
+                    "China": "2.69"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "61.61",
+                    "China": "6.43",
+                    "Spain": "2.51",
+                    "Hong Kong, China": "2.50",
+                    "Korea, Rep.": "2.29"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Vietnam": "30.02",
+                    "China": "21.06",
+                    "Brazil": "9.54",
+                    "United States": "6.93",
+                    "Spain": "6.00"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "46.59",
+                    "China": "9.70",
+                    "Japan": "6.15",
+                    "India": "5.59",
+                    "Spain": "4.26"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "58.27",
+                    "Chile": "14.76",
+                    "Venezuela": "4.62",
+                    "Peru": "3.49",
+                    "Canada": "3.44"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "56.15",
+                    "China": "5.27",
+                    "Japan": "4.72",
+                    "Canada": "3.81",
+                    "Chile": "3.58"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "39.87",
+                    "China": "16.87",
+                    "Japan": "8.70",
+                    "Korea, Rep.": "6.83",
+                    "Malaysia": "4.20"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "55.21",
+                    "Japan": "10.10",
+                    "Brazil": "7.92",
+                    "Germany": "7.26",
+                    "Canada": "7.11"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "48.93",
+                    "China": "11.06",
+                    "Japan": "6.98",
+                    "Korea, Rep.": "4.86",
+                    "Germany": "4.31"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "30.24",
+                    "Unspecified": "17.72",
+                    "China": "14.67",
+                    "Korea, Rep.": "9.49",
+                    "Japan": "8.31"
+                }
+            }
+        },
+        "2007": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "68.39",
+                    "New Zealand": "8.31",
+                    "Canada": "5.34",
+                    "Chile": "4.53",
+                    "China": "2.23"
+                },
+                "Vegetable Products": {
+                    "United States": "77.01",
+                    "Canada": "9.25",
+                    "Chile": "2.05",
+                    "Argentina": "1.16",
+                    "Costa Rica": "1.09"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "66.11",
+                    "Canada": "6.03",
+                    "Chile": "3.68",
+                    "Spain": "3.31",
+                    "France": "2.22"
+                },
+                "Mineral Products": {
+                    "United States": "28.64",
+                    "Chile": "18.65",
+                    "Spain": "11.35",
+                    "Brazil": "11.31",
+                    "Peru": "8.68"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "57.09",
+                    "Germany": "6.19",
+                    "China": "3.99",
+                    "France": "3.61",
+                    "Ireland": "3.42"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "73.02",
+                    "China": "5.10",
+                    "Germany": "3.15",
+                    "Japan": "2.97",
+                    "Canada": "2.89"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "34.36",
+                    "China": "22.71",
+                    "Italy": "6.81",
+                    "Argentina": "6.48",
+                    "Brazil": "6.25"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "68.88",
+                    "Canada": "5.47",
+                    "Chile": "5.21",
+                    "China": "3.16",
+                    "Spain": "2.59"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "58.56",
+                    "China": "5.77",
+                    "Spain": "2.60",
+                    "Italy": "2.48",
+                    "Hong Kong, China": "2.28"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Vietnam": "27.74",
+                    "China": "22.83",
+                    "Indonesia": "7.81",
+                    "Brazil": "7.03",
+                    "United States": "6.64"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "48.72",
+                    "China": "8.13",
+                    "Japan": "5.59",
+                    "India": "4.42",
+                    "Spain": "4.20"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "61.36",
+                    "Chile": "12.58",
+                    "Canada": "3.87",
+                    "Brazil": "3.14",
+                    "Venezuela": "3.12"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "58.58",
+                    "China": "5.26",
+                    "Japan": "4.74",
+                    "Canada": "3.80",
+                    "Germany": "3.65"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "40.57",
+                    "China": "17.76",
+                    "Japan": "8.16",
+                    "Korea, Rep.": "6.67",
+                    "Germany": "4.60"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "55.08",
+                    "Japan": "10.42",
+                    "Germany": "7.37",
+                    "Brazil": "6.85",
+                    "Canada": "6.43"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "48.66",
+                    "China": "11.77",
+                    "Japan": "6.64",
+                    "Korea, Rep.": "5.15",
+                    "Germany": "4.66"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Unspecified": "46.87",
+                    "United States": "15.87",
+                    "China": "11.50",
+                    "Korea, Rep.": "8.82",
+                    "Japan": "4.68"
+                }
+            }
+        },
+        "2008": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "73.28",
+                    "New Zealand": "6.35",
+                    "Canada": "5.10",
+                    "Chile": "4.10",
+                    "Uruguay": "2.03"
+                },
+                "Vegetable Products": {
+                    "United States": "76.52",
+                    "Canada": "10.79",
+                    "Chile": "1.41",
+                    "Costa Rica": "1.22",
+                    "China": "1.08"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "67.89",
+                    "Canada": "3.89",
+                    "Chile": "3.87",
+                    "Spain": "3.34",
+                    "France": "2.19"
+                },
+                "Mineral Products": {
+                    "United States": "42.43",
+                    "Brazil": "15.72",
+                    "Chile": "6.39",
+                    "Spain": "6.28",
+                    "Canada": "5.97"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "53.95",
+                    "Germany": "6.90",
+                    "China": "4.46",
+                    "France": "3.32",
+                    "Ireland": "3.15"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "71.09",
+                    "China": "6.21",
+                    "Germany": "3.21",
+                    "Japan": "2.88",
+                    "Canada": "2.86"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "29.48",
+                    "China": "24.12",
+                    "Brazil": "7.65",
+                    "Italy": "7.03",
+                    "Argentina": "6.57"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "67.83",
+                    "Chile": "5.45",
+                    "Canada": "5.33",
+                    "China": "3.24",
+                    "Spain": "2.58"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "53.93",
+                    "China": "7.09",
+                    "Italy": "2.91",
+                    "Spain": "2.79",
+                    "India": "2.53"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Vietnam": "29.65",
+                    "China": "23.15",
+                    "Indonesia": "7.93",
+                    "United States": "7.00",
+                    "Italy": "6.80"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "48.55",
+                    "China": "12.85",
+                    "Spain": "4.69",
+                    "Guatemala": "3.95",
+                    "India": "3.82"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "62.31",
+                    "Chile": "10.86",
+                    "Brazil": "4.62",
+                    "Canada": "4.01",
+                    "Venezuela": "2.83"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "56.62",
+                    "China": "6.33",
+                    "Japan": "5.25",
+                    "Canada": "3.98",
+                    "Germany": "3.60"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "36.68",
+                    "China": "20.14",
+                    "Japan": "7.80",
+                    "Korea, Rep.": "7.39",
+                    "Germany": "4.78"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "53.92",
+                    "Japan": "10.17",
+                    "Germany": "8.96",
+                    "Canada": "7.18",
+                    "Brazil": "4.98"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "45.45",
+                    "China": "13.91",
+                    "Japan": "6.37",
+                    "Korea, Rep.": "5.25",
+                    "Germany": "5.06"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "28.58",
+                    "China": "22.72",
+                    "Korea, Rep.": "11.16",
+                    "Japan": "7.66",
+                    "Other Asia, nes": "5.69"
+                }
+            }
+        },
+        "2009": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "75.39",
+                    "Canada": "5.83",
+                    "New Zealand": "5.34",
+                    "Chile": "3.70",
+                    "China": "1.73"
+                },
+                "Vegetable Products": {
+                    "United States": "76.34",
+                    "Canada": "9.65",
+                    "Chile": "1.57",
+                    "China": "1.30",
+                    "Costa Rica": "1.27"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "64.61",
+                    "Canada": "4.41",
+                    "Chile": "4.16",
+                    "Guatemala": "4.11",
+                    "Spain": "3.21"
+                },
+                "Mineral Products": {
+                    "United States": "34.29",
+                    "Spain": "10.89",
+                    "Brazil": "7.36",
+                    "Chile": "6.73",
+                    "Peru": "5.56"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "55.24",
+                    "Germany": "6.44",
+                    "China": "4.48",
+                    "France": "3.41",
+                    "Ireland": "3.22"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "70.08",
+                    "China": "6.95",
+                    "Germany": "3.06",
+                    "Canada": "2.89",
+                    "Japan": "2.88"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "30.64",
+                    "China": "27.28",
+                    "Italy": "7.51",
+                    "Brazil": "6.90",
+                    "Argentina": "4.15"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "71.03",
+                    "Chile": "4.95",
+                    "Canada": "4.29",
+                    "China": "3.36",
+                    "Spain": "2.39"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "53.06",
+                    "China": "9.03",
+                    "India": "2.71",
+                    "Italy": "2.32",
+                    "Spain": "2.15"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Vietnam": "33.42",
+                    "China": "23.91",
+                    "Indonesia": "9.62",
+                    "United States": "6.92",
+                    "Italy": "5.89"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "56.91",
+                    "China": "11.57",
+                    "Spain": "3.88",
+                    "Italy": "3.54",
+                    "Germany": "3.35"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "60.98",
+                    "Chile": "9.29",
+                    "Canada": "4.22",
+                    "Venezuela": "3.50",
+                    "China": "3.39"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "55.63",
+                    "China": "7.79",
+                    "Japan": "6.64",
+                    "Canada": "4.26",
+                    "Germany": "3.64"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "32.95",
+                    "China": "24.56",
+                    "Korea, Rep.": "8.84",
+                    "Japan": "6.53",
+                    "Germany": "4.06"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "52.90",
+                    "Germany": "12.67",
+                    "Japan": "9.01",
+                    "Canada": "6.39",
+                    "Brazil": "5.13"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "43.85",
+                    "China": "16.64",
+                    "Japan": "5.77",
+                    "Korea, Rep.": "5.47",
+                    "Germany": "4.95"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "34.41",
+                    "China": "23.08",
+                    "Japan": "8.51",
+                    "Korea, Rep.": "5.48",
+                    "Germany": "4.45"
+                }
+            }
+        },
+        "2010": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "74.96",
+                    "Canada": "6.86",
+                    "New Zealand": "4.89",
+                    "Chile": "3.33",
+                    "China": "2.36"
+                },
+                "Vegetable Products": {
+                    "United States": "74.56",
+                    "Canada": "10.06",
+                    "Chile": "1.93",
+                    "China": "1.28",
+                    "Costa Rica": "1.15"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "65.74",
+                    "Canada": "4.79",
+                    "Chile": "3.36",
+                    "Spain": "3.01",
+                    "Guatemala": "2.86"
+                },
+                "Mineral Products": {
+                    "United States": "43.97",
+                    "Morocco": "8.04",
+                    "Australia": "7.20",
+                    "Brazil": "6.33",
+                    "Canada": "5.54"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "54.08",
+                    "Germany": "6.52",
+                    "China": "5.16",
+                    "France": "3.47",
+                    "Ireland": "2.60"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "70.26",
+                    "China": "7.11",
+                    "Japan": "3.19",
+                    "Germany": "3.01",
+                    "Korea, Rep.": "2.81"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "33.80",
+                    "China": "26.84",
+                    "Brazil": "7.38",
+                    "Italy": "5.87",
+                    "Argentina": "5.04"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "70.97",
+                    "Chile": "4.73",
+                    "Canada": "4.14",
+                    "China": "3.64",
+                    "Brazil": "2.08"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "53.35",
+                    "China": "10.74",
+                    "India": "2.90",
+                    "Italy": "1.95",
+                    "Korea, Rep.": "1.92"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Vietnam": "32.67",
+                    "China": "26.18",
+                    "Indonesia": "12.11",
+                    "United States": "6.46",
+                    "Italy": "5.40"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "55.49",
+                    "China": "13.20",
+                    "India": "4.05",
+                    "Germany": "3.61",
+                    "Italy": "3.41"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "60.84",
+                    "Chile": "9.75",
+                    "Canada": "5.59",
+                    "China": "3.25",
+                    "Venezuela": "3.16"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "55.53",
+                    "China": "7.07",
+                    "Japan": "6.02",
+                    "Canada": "4.58",
+                    "Germany": "3.68"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "32.14",
+                    "China": "27.55",
+                    "Korea, Rep.": "7.26",
+                    "Japan": "6.33",
+                    "Germany": "4.01"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "55.22",
+                    "Japan": "12.08",
+                    "Germany": "7.70",
+                    "Canada": "6.17",
+                    "Brazil": "4.14"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "43.71",
+                    "China": "18.30",
+                    "Japan": "6.01",
+                    "Korea, Rep.": "4.98",
+                    "Germany": "4.44"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "34.46",
+                    "China": "24.32",
+                    "Japan": "7.59",
+                    "Korea, Rep.": "6.21",
+                    "Germany": "3.77"
+                }
+            }
+        },
+        "2011": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "75.37",
+                    "New Zealand": "5.47",
+                    "Canada": "5.16",
+                    "Chile": "2.96",
+                    "China": "2.82"
+                },
+                "Vegetable Products": {
+                    "United States": "71.07",
+                    "Canada": "11.31",
+                    "South Africa": "2.54",
+                    "Chile": "1.82",
+                    "Guatemala": "1.49"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "69.76",
+                    "Canada": "4.34",
+                    "Chile": "3.60",
+                    "Spain": "2.85",
+                    "United Kingdom": "2.15"
+                },
+                "Mineral Products": {
+                    "United States": "50.57",
+                    "Australia": "7.01",
+                    "Brazil": "6.86",
+                    "Morocco": "6.47",
+                    "Canada": "4.01"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "55.16",
+                    "Germany": "6.10",
+                    "China": "5.56",
+                    "France": "3.53",
+                    "Canada": "2.46"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "67.18",
+                    "China": "7.59",
+                    "Korea, Rep.": "3.64",
+                    "Japan": "3.51",
+                    "Germany": "3.27"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "29.25",
+                    "China": "25.97",
+                    "Brazil": "15.68",
+                    "Italy": "7.10",
+                    "Argentina": "4.64"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "70.19",
+                    "Chile": "4.62",
+                    "China": "4.49",
+                    "Canada": "3.89",
+                    "Germany": "2.04"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "52.42",
+                    "China": "11.31",
+                    "India": "3.06",
+                    "Italy": "2.02",
+                    "Spain": "1.84"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Vietnam": "29.39",
+                    "China": "27.50",
+                    "Indonesia": "13.39",
+                    "Italy": "5.86",
+                    "United States": "5.45"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "53.01",
+                    "China": "14.14",
+                    "Germany": "4.03",
+                    "Italy": "3.96",
+                    "India": "3.81"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "55.09",
+                    "China": "13.09",
+                    "Chile": "7.05",
+                    "Canada": "5.23",
+                    "Germany": "1.96"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "53.47",
+                    "China": "10.82",
+                    "Japan": "5.25",
+                    "Canada": "4.72",
+                    "Germany": "3.92"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "32.78",
+                    "China": "27.49",
+                    "Korea, Rep.": "6.88",
+                    "Japan": "5.97",
+                    "Germany": "4.34"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "56.54",
+                    "Japan": "11.42",
+                    "Germany": "7.02",
+                    "Canada": "5.67",
+                    "China": "3.63"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "43.98",
+                    "China": "18.30",
+                    "Japan": "5.89",
+                    "Korea, Rep.": "4.67",
+                    "Germany": "4.60"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "33.89",
+                    "China": "23.81",
+                    "Japan": "9.18",
+                    "Korea, Rep.": "5.24",
+                    "Germany": "3.72"
+                }
+            }
+        },
+        "2012": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "81.31",
+                    "Canada": "4.66",
+                    "New Zealand": "3.54",
+                    "Chile": "2.62",
+                    "China": "1.20"
+                },
+                "Vegetable Products": {
+                    "United States": "68.30",
+                    "Canada": "11.15",
+                    "South Africa": "3.22",
+                    "Guatemala": "1.94",
+                    "Chile": "1.70"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "72.41",
+                    "Canada": "4.13",
+                    "Spain": "2.85",
+                    "Chile": "2.79",
+                    "United Kingdom": "2.31"
+                },
+                "Mineral Products": {
+                    "United States": "50.51",
+                    "Morocco": "6.52",
+                    "Brazil": "4.71",
+                    "Australia": "4.64",
+                    "Chile": "4.42"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "55.77",
+                    "Germany": "6.19",
+                    "China": "5.75",
+                    "France": "3.46",
+                    "Ireland": "2.65"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "65.93",
+                    "China": "8.20",
+                    "Korea, Rep.": "3.95",
+                    "Germany": "3.35",
+                    "Japan": "3.26"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "28.67",
+                    "China": "27.13",
+                    "Brazil": "15.02",
+                    "Italy": "7.17",
+                    "Argentina": "5.25"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "70.34",
+                    "China": "5.01",
+                    "Chile": "4.16",
+                    "Canada": "3.25",
+                    "Germany": "2.22"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "48.82",
+                    "China": "15.95",
+                    "India": "3.18",
+                    "Korea, Rep.": "2.02",
+                    "Bangladesh": "1.99"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "35.36",
+                    "Vietnam": "27.46",
+                    "Indonesia": "13.10",
+                    "United States": "6.05",
+                    "Italy": "4.75"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "52.92",
+                    "China": "15.80",
+                    "Italy": "4.00",
+                    "India": "3.77",
+                    "Germany": "3.74"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "60.67",
+                    "China": "11.40",
+                    "Canada": "5.12",
+                    "Chile": "2.03",
+                    "Brazil": "1.96"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "52.44",
+                    "China": "10.70",
+                    "Japan": "5.65",
+                    "Canada": "4.61",
+                    "Korea, Rep.": "4.55"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "33.72",
+                    "China": "27.82",
+                    "Japan": "6.01",
+                    "Korea, Rep.": "5.65",
+                    "Germany": "4.15"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "56.22",
+                    "Japan": "10.10",
+                    "Germany": "6.95",
+                    "Canada": "4.96",
+                    "China": "4.05"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "44.25",
+                    "China": "18.54",
+                    "Japan": "5.88",
+                    "Germany": "4.48",
+                    "Korea, Rep.": "4.24"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "40.65",
+                    "China": "21.50",
+                    "Japan": "8.78",
+                    "Korea, Rep.": "3.89",
+                    "Germany": "3.47"
+                }
+            }
+        },
+        "2013": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "79.19",
+                    "Canada": "4.76",
+                    "New Zealand": "3.11",
+                    "Chile": "2.98",
+                    "China": "2.72"
+                },
+                "Vegetable Products": {
+                    "United States": "67.27",
+                    "Canada": "10.94",
+                    "Paraguay": "2.53",
+                    "Brazil": "1.93",
+                    "Chile": "1.63"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "72.21",
+                    "Canada": "3.74",
+                    "Spain": "2.98",
+                    "Chile": "2.92",
+                    "United Kingdom": "2.73"
+                },
+                "Mineral Products": {
+                    "United States": "61.46",
+                    "Morocco": "7.02",
+                    "South Africa": "3.83",
+                    "Australia": "3.61",
+                    "Peru": "3.34"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "56.10",
+                    "Germany": "6.41",
+                    "China": "5.79",
+                    "France": "3.63",
+                    "Ireland": "2.76"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "65.90",
+                    "China": "8.60",
+                    "Korea, Rep.": "4.13",
+                    "Canada": "3.29",
+                    "Germany": "3.19"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "26.56",
+                    "China": "25.00",
+                    "Brazil": "15.03",
+                    "Argentina": "8.55",
+                    "Italy": "7.59"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "68.82",
+                    "China": "5.13",
+                    "Chile": "3.69",
+                    "Canada": "3.27",
+                    "Brazil": "2.48"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "49.26",
+                    "China": "18.43",
+                    "India": "2.97",
+                    "Bangladesh": "2.00",
+                    "Italy": "1.94"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "40.97",
+                    "Vietnam": "25.36",
+                    "Indonesia": "10.52",
+                    "United States": "6.06",
+                    "Italy": "5.29"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "51.88",
+                    "China": "16.04",
+                    "Italy": "4.15",
+                    "Germany": "4.05",
+                    "Spain": "3.57"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "67.20",
+                    "Canada": "5.66",
+                    "China": "5.44",
+                    "Germany": "1.66",
+                    "Chile": "1.60"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "55.16",
+                    "China": "9.68",
+                    "Japan": "5.70",
+                    "Canada": "4.79",
+                    "Germany": "3.87"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "32.25",
+                    "China": "28.14",
+                    "Japan": "5.90",
+                    "Korea, Rep.": "5.88",
+                    "Germany": "3.85"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "56.85",
+                    "Japan": "9.67",
+                    "Germany": "6.30",
+                    "Canada": "4.97",
+                    "China": "4.71"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "43.60",
+                    "China": "19.46",
+                    "Japan": "5.48",
+                    "Germany": "4.29",
+                    "Korea, Rep.": "4.14"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "37.55",
+                    "China": "25.92",
+                    "Japan": "6.93",
+                    "Germany": "3.83",
+                    "Korea, Rep.": "3.61"
+                }
+            }
+        },
+        "2014": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "77.59",
+                    "Canada": "5.88",
+                    "Chile": "3.09",
+                    "China": "2.45",
+                    "New Zealand": "2.26"
+                },
+                "Vegetable Products": {
+                    "United States": "70.01",
+                    "Canada": "10.21",
+                    "Chile": "1.63",
+                    "Guatemala": "1.29",
+                    "Paraguay": "1.29"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "72.14",
+                    "Canada": "3.12",
+                    "Spain": "3.02",
+                    "United Kingdom": "2.66",
+                    "Chile": "2.58"
+                },
+                "Mineral Products": {
+                    "United States": "58.59",
+                    "Morocco": "7.41",
+                    "South Africa": "5.49",
+                    "Canada": "5.18",
+                    "Unspecified": "4.87"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "55.77",
+                    "China": "6.76",
+                    "Germany": "6.49",
+                    "Ireland": "3.97",
+                    "France": "3.71"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "65.25",
+                    "China": "9.34",
+                    "Korea, Rep.": "4.23",
+                    "Germany": "3.28",
+                    "Canada": "3.04"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "25.61",
+                    "China": "25.52",
+                    "Brazil": "17.05",
+                    "Italy": "7.09",
+                    "Argentina": "6.78"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "67.89",
+                    "China": "5.64",
+                    "Chile": "3.74",
+                    "Canada": "3.44",
+                    "Brazil": "3.23"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "46.97",
+                    "China": "21.32",
+                    "India": "3.03",
+                    "Vietnam": "2.19",
+                    "Bangladesh": "1.85"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "44.81",
+                    "Vietnam": "23.84",
+                    "Indonesia": "8.96",
+                    "United States": "5.32",
+                    "Italy": "5.03"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "50.97",
+                    "China": "17.79",
+                    "Italy": "4.37",
+                    "Germany": "3.65",
+                    "Spain": "3.48"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "70.83",
+                    "Canada": "7.59",
+                    "India": "4.67",
+                    "China": "4.38",
+                    "Chile": "1.58"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "53.59",
+                    "China": "10.13",
+                    "Japan": "6.49",
+                    "Canada": "5.01",
+                    "Korea, Rep.": "3.93"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "32.97",
+                    "China": "28.96",
+                    "Japan": "5.67",
+                    "Korea, Rep.": "5.23",
+                    "Malaysia": "3.84"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "56.21",
+                    "Japan": "9.21",
+                    "Germany": "6.23",
+                    "China": "5.63",
+                    "Canada": "4.45"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "44.17",
+                    "China": "20.24",
+                    "Japan": "5.40",
+                    "Germany": "4.18",
+                    "Korea, Rep.": "4.09"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "35.11",
+                    "China": "22.95",
+                    "Japan": "5.88",
+                    "Korea, Rep.": "5.05",
+                    "Germany": "3.36"
+                }
+            }
+        },
+        "2015": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "74.09",
+                    "Canada": "6.52",
+                    "Chile": "3.87",
+                    "New Zealand": "2.83",
+                    "China": "2.46"
+                },
+                "Vegetable Products": {
+                    "United States": "69.58",
+                    "Canada": "10.07",
+                    "Chile": "1.87",
+                    "Brazil": "1.39",
+                    "China": "1.39"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "73.15",
+                    "Spain": "3.12",
+                    "Canada": "3.08",
+                    "United Kingdom": "2.61",
+                    "Chile": "2.34"
+                },
+                "Mineral Products": {
+                    "United States": "47.76",
+                    "Morocco": "8.90",
+                    "Canada": "6.52",
+                    "Peru": "6.39",
+                    "Brazil": "4.65"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "52.48",
+                    "China": "8.07",
+                    "Germany": "6.46",
+                    "Ireland": "4.55",
+                    "France": "3.65"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "64.18",
+                    "China": "9.83",
+                    "Korea, Rep.": "4.14",
+                    "Canada": "3.53",
+                    "Japan": "3.23"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "25.70",
+                    "China": "25.40",
+                    "Brazil": "15.59",
+                    "Italy": "7.49",
+                    "Argentina": "5.61"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "67.10",
+                    "China": "5.66",
+                    "Chile": "3.99",
+                    "Brazil": "3.97",
+                    "Canada": "3.30"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "42.00",
+                    "China": "25.84",
+                    "India": "3.34",
+                    "Bangladesh": "2.27",
+                    "Vietnam": "2.25"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "47.82",
+                    "Vietnam": "23.61",
+                    "Indonesia": "7.05",
+                    "United States": "5.20",
+                    "Italy": "5.11"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "50.67",
+                    "China": "18.99",
+                    "Italy": "4.74",
+                    "Germany": "3.36",
+                    "India": "3.28"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "66.17",
+                    "Canada": "7.30",
+                    "China": "5.22",
+                    "India": "4.47",
+                    "Russian Federation": "2.96"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "51.38",
+                    "China": "11.09",
+                    "Japan": "6.44",
+                    "Canada": "5.20",
+                    "Korea, Rep.": "5.09"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "33.05",
+                    "China": "29.14",
+                    "Japan": "5.31",
+                    "Korea, Rep.": "4.77",
+                    "Malaysia": "4.43"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "54.13",
+                    "Japan": "9.66",
+                    "China": "6.31",
+                    "Germany": "5.34",
+                    "Canada": "4.23"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "42.82",
+                    "China": "21.00",
+                    "Japan": "5.23",
+                    "Korea, Rep.": "4.39",
+                    "Germany": "4.21"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "34.81",
+                    "China": "24.13",
+                    "Korea, Rep.": "7.73",
+                    "Japan": "5.14",
+                    "Germany": "3.38"
+                }
+            }
+        },
+        "2016": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "73.31",
+                    "Canada": "5.99",
+                    "New Zealand": "3.76",
+                    "Chile": "3.54",
+                    "China": "2.96"
+                },
+                "Vegetable Products": {
+                    "United States": "69.13",
+                    "Canada": "9.28",
+                    "Chile": "1.65",
+                    "Guatemala": "1.56",
+                    "Brazil": "1.34"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "70.72",
+                    "Canada": "3.09",
+                    "Spain": "3.01",
+                    "United Kingdom": "2.61",
+                    "Chile": "2.44"
+                },
+                "Mineral Products": {
+                    "United States": "42.19",
+                    "Brazil": "16.18",
+                    "Unspecified": "7.44",
+                    "Morocco": "5.73",
+                    "Canada": "4.88"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "51.94",
+                    "China": "7.95",
+                    "Germany": "6.55",
+                    "Ireland": "4.89",
+                    "France": "3.50"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "63.84",
+                    "China": "9.68",
+                    "Korea, Rep.": "4.65",
+                    "Canada": "3.33",
+                    "Germany": "3.26"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "United States": "25.26",
+                    "China": "23.81",
+                    "Brazil": "15.34",
+                    "Italy": "8.79",
+                    "Argentina": "5.30"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "66.72",
+                    "China": "5.61",
+                    "Brazil": "4.78",
+                    "Chile": "3.66",
+                    "Canada": "3.56"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "40.41",
+                    "China": "26.83",
+                    "India": "3.24",
+                    "Bangladesh": "2.46",
+                    "Vietnam": "2.34"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "44.86",
+                    "Vietnam": "25.51",
+                    "Indonesia": "7.97",
+                    "Italy": "5.77",
+                    "United States": "4.85"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "48.26",
+                    "China": "17.72",
+                    "Italy": "4.84",
+                    "India": "4.24",
+                    "Spain": "3.69"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "65.39",
+                    "China": "6.47",
+                    "Canada": "6.22",
+                    "Brazil": "3.64",
+                    "India": "2.52"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "51.17",
+                    "China": "10.65",
+                    "Japan": "7.12",
+                    "Korea, Rep.": "5.25",
+                    "Canada": "4.63"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "31.42",
+                    "China": "29.91",
+                    "Japan": "5.24",
+                    "Malaysia": "4.94",
+                    "Korea, Rep.": "4.30"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "51.11",
+                    "Japan": "10.76",
+                    "China": "6.01",
+                    "Germany": "5.06",
+                    "Korea, Rep.": "4.66"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "41.49",
+                    "China": "21.50",
+                    "Japan": "5.41",
+                    "Germany": "4.22",
+                    "Korea, Rep.": "4.14"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "37.32",
+                    "China": "23.40",
+                    "Japan": "5.42",
+                    "Korea, Rep.": "5.12",
+                    "Germany": "3.54"
+                }
+            }
+        },
+        "2017": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "71.97",
+                    "Canada": "5.48",
+                    "Brazil": "3.32",
+                    "New Zealand": "3.28",
+                    "Chile": "3.18"
+                },
+                "Vegetable Products": {
+                    "United States": "69.06",
+                    "Canada": "9.72",
+                    "Brazil": "2.14",
+                    "Chile": "1.52",
+                    "Guatemala": "1.45"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "69.61",
+                    "Canada": "3.30",
+                    "Spain": "3.26",
+                    "United Kingdom": "2.74",
+                    "China": "2.58"
+                },
+                "Mineral Products": {
+                    "United States": "43.15",
+                    "Morocco": "9.33",
+                    "Brazil": "9.09",
+                    "Canada": "7.04",
+                    "Unspecified": "5.48"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "52.07",
+                    "China": "7.73",
+                    "Germany": "6.28",
+                    "Ireland": "4.97",
+                    "France": "3.24"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "61.97",
+                    "China": "10.36",
+                    "Korea, Rep.": "4.98",
+                    "Germany": "3.61",
+                    "Japan": "3.14"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "24.81",
+                    "United States": "23.78",
+                    "Brazil": "16.15",
+                    "Italy": "10.19",
+                    "Argentina": "4.41"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "65.99",
+                    "Brazil": "5.71",
+                    "China": "5.54",
+                    "Canada": "3.35",
+                    "Chile": "3.11"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "39.21",
+                    "China": "27.13",
+                    "India": "3.10",
+                    "Bangladesh": "2.45",
+                    "Vietnam": "2.37"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "40.56",
+                    "Vietnam": "27.87",
+                    "Indonesia": "10.02",
+                    "Italy": "5.82",
+                    "United States": "4.24"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "46.73",
+                    "China": "16.81",
+                    "India": "5.28",
+                    "Italy": "5.07",
+                    "Germany": "4.27"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "64.31",
+                    "China": "7.36",
+                    "Canada": "5.73",
+                    "Chile": "4.18",
+                    "Russian Federation": "2.85"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "48.32",
+                    "China": "10.55",
+                    "Japan": "8.00",
+                    "Korea, Rep.": "6.04",
+                    "Canada": "4.14"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United States": "30.95",
+                    "China": "29.71",
+                    "Japan": "5.25",
+                    "Korea, Rep.": "4.62",
+                    "Germany": "4.61"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "48.97",
+                    "Japan": "9.03",
+                    "China": "7.37",
+                    "Germany": "6.49",
+                    "Korea, Rep.": "4.84"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "40.73",
+                    "China": "21.24",
+                    "Japan": "5.23",
+                    "Germany": "4.74",
+                    "Korea, Rep.": "4.49"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "35.00",
+                    "China": "24.62",
+                    "Korea, Rep.": "5.77",
+                    "Japan": "4.17",
+                    "Germany": "3.71"
+                }
+            }
+        },
+        "2018": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "72.68",
+                    "Canada": "6.38",
+                    "China": "3.46",
+                    "Brazil": "3.19",
+                    "Chile": "2.83"
+                },
+                "Vegetable Products": {
+                    "United States": "69.59",
+                    "Canada": "9.08",
+                    "Russian Federation": "1.68",
+                    "Brazil": "1.68",
+                    "Chile": "1.56"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "68.76",
+                    "Canada": "3.76",
+                    "Spain": "3.30",
+                    "United Kingdom": "2.65",
+                    "China": "2.56"
+                },
+                "Mineral Products": {
+                    "United States": "48.45",
+                    "Brazil": "12.18",
+                    "Morocco": "7.11",
+                    "Chile": "5.16",
+                    "Australia": "3.68"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "52.07",
+                    "China": "8.34",
+                    "Germany": "6.16",
+                    "Ireland": "4.68",
+                    "France": "3.16"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "61.46",
+                    "China": "10.39",
+                    "Korea, Rep.": "4.92",
+                    "Germany": "3.91",
+                    "Japan": "3.03"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "26.61",
+                    "United States": "23.78",
+                    "Brazil": "14.87",
+                    "Italy": "9.99",
+                    "Uruguay": "4.05"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "63.65",
+                    "Brazil": "6.01",
+                    "China": "5.95",
+                    "Canada": "3.64",
+                    "Chile": "3.31"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "36.56",
+                    "China": "28.13",
+                    "India": "3.26",
+                    "Bangladesh": "2.83",
+                    "Vietnam": "2.72"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "41.98",
+                    "Vietnam": "24.76",
+                    "Indonesia": "9.36",
+                    "Italy": "7.27",
+                    "United States": "3.92"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "45.08",
+                    "China": "18.04",
+                    "Italy": "4.81",
+                    "India": "4.63",
+                    "Germany": "4.17"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "59.92",
+                    "China": "8.66",
+                    "Canada": "4.95",
+                    "Chile": "3.96",
+                    "United Arab Emirates": "3.19"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "46.58",
+                    "China": "11.06",
+                    "Japan": "6.39",
+                    "Korea, Rep.": "5.92",
+                    "Germany": "4.17"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "30.58",
+                    "United States": "29.60",
+                    "Japan": "4.95",
+                    "Malaysia": "4.93",
+                    "Korea, Rep.": "4.60"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "49.35",
+                    "China": "8.99",
+                    "Japan": "8.05",
+                    "Germany": "7.06",
+                    "Korea, Rep.": "4.32"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "39.67",
+                    "China": "22.01",
+                    "Japan": "4.77",
+                    "Germany": "4.72",
+                    "Korea, Rep.": "4.27"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "36.07",
+                    "China": "23.46",
+                    "Korea, Rep.": "5.27",
+                    "Japan": "4.46",
+                    "Germany": "3.50"
+                }
+            }
+        },
+        "2019": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "72.68",
+                    "Canada": "6.73",
+                    "New Zealand": "3.68",
+                    "China": "2.80",
+                    "Chile": "2.77"
+                },
+                "Vegetable Products": {
+                    "United States": "70.12",
+                    "Canada": "7.39",
+                    "Brazil": "5.25",
+                    "Chile": "1.68",
+                    "China": "1.44"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "68.14",
+                    "Canada": "4.12",
+                    "Spain": "3.28",
+                    "United Kingdom": "2.81",
+                    "Chile": "2.23"
+                },
+                "Mineral Products": {
+                    "United States": "47.52",
+                    "Brazil": "11.43",
+                    "Chile": "8.27",
+                    "Morocco": "6.51",
+                    "Unspecified": "5.26"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "51.20",
+                    "China": "8.69",
+                    "Germany": "6.25",
+                    "Ireland": "5.00",
+                    "France": "3.38"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "60.40",
+                    "China": "11.29",
+                    "Korea, Rep.": "4.89",
+                    "Germany": "4.25",
+                    "Japan": "3.06"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "31.41",
+                    "United States": "22.50",
+                    "Brazil": "13.24",
+                    "Italy": "9.95",
+                    "Uruguay": "2.87"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "62.66",
+                    "China": "6.33",
+                    "Brazil": "5.56",
+                    "Canada": "3.36",
+                    "Chile": "3.16"
+                },
+                "Textiles and Textile Articles": {
+                    "United States": "33.40",
+                    "China": "29.04",
+                    "India": "3.58",
+                    "Bangladesh": "3.35",
+                    "Vietnam": "3.24"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "40.99",
+                    "Vietnam": "25.44",
+                    "Indonesia": "10.07",
+                    "Italy": "7.64",
+                    "United States": "4.07"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "44.31",
+                    "China": "18.07",
+                    "India": "5.51",
+                    "Italy": "4.97",
+                    "Germany": "3.95"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "62.52",
+                    "China": "13.11",
+                    "Canada": "4.28",
+                    "Chile": "3.37",
+                    "India": "2.10"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "46.04",
+                    "China": "12.31",
+                    "Japan": "6.47",
+                    "Korea, Rep.": "5.29",
+                    "Germany": "4.32"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "29.43",
+                    "United States": "28.95",
+                    "Malaysia": "6.20",
+                    "Korea, Rep.": "5.10",
+                    "Japan": "4.77"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "48.29",
+                    "China": "9.73",
+                    "Japan": "8.11",
+                    "Germany": "7.73",
+                    "Korea, Rep.": "4.14"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "38.63",
+                    "China": "22.00",
+                    "Germany": "4.73",
+                    "Japan": "4.68",
+                    "Korea, Rep.": "4.42"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "36.18",
+                    "China": "24.37",
+                    "Korea, Rep.": "5.67",
+                    "Japan": "4.85",
+                    "Germany": "3.48"
+                }
+            }
+        },
+        "2020": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "79.16",
+                    "Canada": "4.99",
+                    "Chile": "3.11",
+                    "China": "2.97",
+                    "New Zealand": "2.67"
+                },
+                "Vegetable Products": {
+                    "United States": "68.76",
+                    "Canada": "8.82",
+                    "Brazil": "4.80",
+                    "Chile": "1.60",
+                    "China": "1.33"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "69.68",
+                    "Canada": "3.70",
+                    "Spain": "3.09",
+                    "China": "2.24",
+                    "Chile": "1.85"
+                },
+                "Mineral Products": {
+                    "United States": "62.29",
+                    "Brazil": "8.35",
+                    "Morocco": "7.81",
+                    "Peru": "5.43",
+                    "Unspecified": "2.58"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "49.88",
+                    "China": "8.85",
+                    "Germany": "6.29",
+                    "Ireland": "5.39",
+                    "France": "3.37"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "60.32",
+                    "China": "11.93",
+                    "Korea, Rep.": "5.05",
+                    "Germany": "3.94",
+                    "Japan": "2.90"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "31.39",
+                    "United States": "19.63",
+                    "Brazil": "14.49",
+                    "Italy": "10.79",
+                    "Uruguay": "2.83"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "63.77",
+                    "China": "6.40",
+                    "Brazil": "5.29",
+                    "Chile": "3.52",
+                    "Germany": "2.89"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "32.55",
+                    "United States": "31.81",
+                    "Vietnam": "3.36",
+                    "Bangladesh": "3.13",
+                    "India": "3.00"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "40.39",
+                    "Vietnam": "26.08",
+                    "Indonesia": "9.40",
+                    "Italy": "7.29",
+                    "United States": "3.98"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "43.94",
+                    "China": "19.21",
+                    "India": "5.96",
+                    "Germany": "4.48",
+                    "Italy": "4.30"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "64.15",
+                    "China": "12.88",
+                    "Canada": "2.89",
+                    "Brazil": "2.68",
+                    "Chile": "2.21"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "46.80",
+                    "China": "13.54",
+                    "Japan": "6.07",
+                    "Korea, Rep.": "4.72",
+                    "Germany": "4.06"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "29.67",
+                    "United States": "27.48",
+                    "Malaysia": "6.63",
+                    "Korea, Rep.": "5.60",
+                    "Other Asia, nes": "4.19"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "49.00",
+                    "China": "9.67",
+                    "Japan": "8.70",
+                    "Germany": "6.55",
+                    "Canada": "4.17"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "37.67",
+                    "China": "22.74",
+                    "Korea, Rep.": "4.42",
+                    "Germany": "4.32",
+                    "Japan": "4.31"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "34.21",
+                    "China": "27.32",
+                    "Korea, Rep.": "4.29",
+                    "Japan": "4.14",
+                    "Vietnam": "3.79"
+                }
+            }
+        },
+        "2021": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "77.59",
+                    "Canada": "7.53",
+                    "China": "3.58",
+                    "Chile": "3.02",
+                    "Brazil": "2.26"
+                },
+                "Vegetable Products": {
+                    "United States": "70.99",
+                    "Canada": "8.27",
+                    "Brazil": "3.89",
+                    "Unspecified": "1.50",
+                    "China": "1.31"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "69.16",
+                    "Canada": "3.68",
+                    "Spain": "3.26",
+                    "Unspecified": "2.85",
+                    "China": "2.71"
+                },
+                "Mineral Products": {
+                    "United States": "55.68",
+                    "Unspecified": "15.53",
+                    "Brazil": "12.45",
+                    "Morocco": "4.14",
+                    "Canada": "3.20"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "52.56",
+                    "China": "9.63",
+                    "Germany": "5.53",
+                    "Ireland": "4.49",
+                    "France": "2.93"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "58.08",
+                    "China": "13.49",
+                    "Korea, Rep.": "5.22",
+                    "Germany": "3.76",
+                    "Japan": "2.71"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "27.87",
+                    "United States": "21.86",
+                    "Brazil": "15.27",
+                    "Italy": "10.95",
+                    "Canada": "2.96"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "62.02",
+                    "China": "7.53",
+                    "Brazil": "6.73",
+                    "Germany": "3.21",
+                    "Canada": "3.00"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "33.20",
+                    "United States": "29.78",
+                    "Vietnam": "3.62",
+                    "Bangladesh": "3.60",
+                    "India": "3.06"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "44.57",
+                    "Vietnam": "23.72",
+                    "Indonesia": "10.06",
+                    "Italy": "6.61",
+                    "United States": "3.73"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "39.63",
+                    "China": "21.19",
+                    "India": "6.99",
+                    "Italy": "5.22",
+                    "Germany": "4.26"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "58.86",
+                    "China": "15.50",
+                    "Chile": "5.48",
+                    "India": "3.37",
+                    "Canada": "2.23"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "41.49",
+                    "China": "13.55",
+                    "Brazil": "6.11",
+                    "Japan": "5.54",
+                    "Korea, Rep.": "4.40"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "31.41",
+                    "United States": "26.61",
+                    "Malaysia": "6.18",
+                    "Korea, Rep.": "5.82",
+                    "Other Asia, nes": "4.48"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "46.76",
+                    "China": "13.57",
+                    "Germany": "7.47",
+                    "Japan": "7.04",
+                    "Canada": "4.03"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "37.06",
+                    "China": "24.87",
+                    "Korea, Rep.": "4.47",
+                    "Germany": "4.25",
+                    "Japan": "4.13"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "China": "30.26",
+                    "United States": "28.52",
+                    "Korea, Rep.": "4.25",
+                    "Japan": "3.99",
+                    "Other Asia, nes": "3.16"
+                }
+            }
+        },
+        "2022": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "United States": "74.59",
+                    "Canada": "6.98",
+                    "Brazil": "5.25",
+                    "Chile": "3.70",
+                    "China": "2.95"
+                },
+                "Vegetable Products": {
+                    "United States": "67.23",
+                    "Canada": "7.64",
+                    "Brazil": "4.30",
+                    "Unspecified": "2.69",
+                    "Argentina": "2.32"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United States": "66.81",
+                    "Canada": "3.63",
+                    "Spain": "3.63",
+                    "China": "3.05",
+                    "Chile": "2.57"
+                },
+                "Mineral Products": {
+                    "United States": "55.57",
+                    "Unspecified": "17.16",
+                    "Morocco": "6.07",
+                    "Brazil": "5.08",
+                    "Canada": "4.14"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "United States": "50.03",
+                    "China": "11.03",
+                    "Germany": "4.69",
+                    "Ireland": "4.20",
+                    "Canada": "3.31"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United States": "57.47",
+                    "China": "14.39",
+                    "Korea, Rep.": "4.67",
+                    "Germany": "3.72",
+                    "Canada": "2.48"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "32.68",
+                    "United States": "16.40",
+                    "Brazil": "13.51",
+                    "Italy": "10.99",
+                    "Vietnam": "2.57"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "United States": "55.55",
+                    "China": "10.18",
+                    "Brazil": "8.29",
+                    "Chile": "3.35",
+                    "Canada": "3.20"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "34.23",
+                    "United States": "26.52",
+                    "Vietnam": "4.62",
+                    "Bangladesh": "4.27",
+                    "India": "3.66"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "45.06",
+                    "Vietnam": "22.15",
+                    "Indonesia": "11.45",
+                    "Italy": "6.47",
+                    "United States": "3.21"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United States": "38.41",
+                    "China": "20.90",
+                    "India": "6.34",
+                    "Italy": "5.93",
+                    "Spain": "3.79"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "United States": "52.61",
+                    "China": "19.79",
+                    "India": "4.95",
+                    "United Arab Emirates": "3.42",
+                    "Canada": "3.19"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "United States": "40.31",
+                    "China": "16.36",
+                    "Brazil": "7.65",
+                    "Japan": "4.77",
+                    "Korea, Rep.": "4.60"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "30.89",
+                    "United States": "26.43",
+                    "Malaysia": "6.14",
+                    "Korea, Rep.": "5.84",
+                    "Other Asia, nes": "5.12"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "United States": "44.82",
+                    "China": "16.48",
+                    "Japan": "7.42",
+                    "Germany": "6.46",
+                    "Canada": "4.43"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "United States": "36.32",
+                    "China": "24.49",
+                    "Korea, Rep.": "4.57",
+                    "Germany": "3.87",
+                    "Japan": "3.76"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "United States": "31.14",
+                    "China": "25.32",
+                    "Korea, Rep.": "5.23",
+                    "Japan": "3.45",
+                    "Other Asia, nes": "2.86"
+                }
+            }
+        }
+    }
+}

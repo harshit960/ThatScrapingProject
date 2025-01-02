@@ -1,0 +1,988 @@
+{
+    "Main Partners": {
+        "2007": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Egypt, Arab Rep.": "17.63",
+                    "Brazil": "15.88",
+                    "Unspecified": "10.83",
+                    "Netherlands": "9.34",
+                    "India": "7.19"
+                },
+                "Vegetable Products": {
+                    "Turkey": "12.96",
+                    "Egypt, Arab Rep.": "12.92",
+                    "Tunisia": "9.37",
+                    "China": "8.05",
+                    "Germany": "6.87"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "Brazil": "24.17",
+                    "Italy": "15.61",
+                    "Egypt, Arab Rep.": "7.62",
+                    "Switzerland": "6.95",
+                    "Thailand": "6.46"
+                },
+                "Mineral Products": {
+                    "Egypt, Arab Rep.": "33.97",
+                    "Spain": "19.45",
+                    "Tunisia": "13.46",
+                    "Italy": "12.20",
+                    "Turkey": "3.37"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Egypt, Arab Rep.": "19.36",
+                    "Unspecified": "17.70",
+                    "Italy": "7.42",
+                    "Ireland": "5.73",
+                    "Turkey": "5.59"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "United Arab Emirates": "15.31",
+                    "Unspecified": "13.36",
+                    "China": "11.06",
+                    "Italy": "8.17",
+                    "Egypt, Arab Rep.": "6.30"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "76.81",
+                    "Syrian Arab Republic": "4.27",
+                    "Unspecified": "3.88",
+                    "Croatia": "3.08",
+                    "United Kingdom": "1.97"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Egypt, Arab Rep.": "23.34",
+                    "Italy": "22.71",
+                    "Unspecified": "10.36",
+                    "China": "4.94",
+                    "Turkey": "4.81"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "72.04",
+                    "Syrian Arab Republic": "3.25",
+                    "Egypt, Arab Rep.": "3.16",
+                    "Turkey": "2.93",
+                    "Italy": "2.03"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "85.28",
+                    "Syrian Arab Republic": "3.40",
+                    "Tunisia": "3.01",
+                    "Turkey": "1.55",
+                    "Italy": "1.28"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Egypt, Arab Rep.": "28.81",
+                    "Italy": "13.88",
+                    "China": "13.51",
+                    "Spain": "10.12",
+                    "Unspecified": "8.60"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Egypt, Arab Rep.": "33.41",
+                    "France": "29.79",
+                    "Italy": "6.56",
+                    "Unspecified": "4.86",
+                    "India": "4.67"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Italy": "12.33",
+                    "Unspecified": "9.51",
+                    "China": "8.77",
+                    "Japan": "7.88",
+                    "Malaysia": "7.79"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "Unspecified": "25.20",
+                    "China": "12.43",
+                    "United States": "10.22",
+                    "United Kingdom": "10.05",
+                    "Italy": "8.29"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Japan": "31.48",
+                    "Korea, Rep.": "19.06",
+                    "Germany": "13.32",
+                    "Canada": "7.17",
+                    "Thailand": "5.09"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Unspecified": "15.26",
+                    "China": "11.10",
+                    "Japan": "8.70",
+                    "Italy": "8.37",
+                    "United States": "7.40"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Unspecified": "24.56",
+                    "Turkey": "17.12",
+                    "United States": "13.34",
+                    "Italy": "10.55",
+                    "China": "10.23"
+                }
+            }
+        },
+        "2008": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Brazil": "16.23",
+                    "Egypt, Arab Rep.": "12.51",
+                    "Unspecified": "10.82",
+                    "Netherlands": "10.09",
+                    "Tunisia": "7.67"
+                },
+                "Vegetable Products": {
+                    "Germany": "9.94",
+                    "Tunisia": "9.05",
+                    "France": "8.39",
+                    "Argentina": "8.04",
+                    "Thailand": "7.65"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "Italy": "33.72",
+                    "Brazil": "16.02",
+                    "Tunisia": "10.90",
+                    "Thailand": "6.39",
+                    "Unspecified": "4.67"
+                },
+                "Mineral Products": {
+                    "Italy": "24.46",
+                    "Turkey": "21.73",
+                    "Unspecified": "14.30",
+                    "Greece": "9.84",
+                    "Belgium": "6.33"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Unspecified": "26.72",
+                    "Italy": "8.29",
+                    "United States": "6.05",
+                    "United Kingdom": "6.00",
+                    "Bosnia and Herzegovina": "5.52"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Unspecified": "18.10",
+                    "Turkey": "15.45",
+                    "China": "9.21",
+                    "Italy": "8.99",
+                    "Korea, Rep.": "8.11"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "83.31",
+                    "Tunisia": "6.26",
+                    "Italy": "2.17",
+                    "Turkey": "1.04",
+                    "United States": "1.00"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Unspecified": "18.12",
+                    "Turkey": "12.08",
+                    "Sweden": "8.32",
+                    "Austria": "7.91",
+                    "Egypt, Arab Rep.": "6.69"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "60.31",
+                    "Unspecified": "8.05",
+                    "Turkey": "4.91",
+                    "Italy": "2.98",
+                    "Malta": "2.90"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "73.62",
+                    "Tunisia": "6.05",
+                    "Unspecified": "5.90",
+                    "United States": "4.77",
+                    "Italy": "2.16"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Italy": "21.62",
+                    "China": "20.10",
+                    "Turkey": "18.65",
+                    "Unspecified": "7.24",
+                    "Spain": "5.77"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "France": "32.17",
+                    "Italy": "11.57",
+                    "Bahrain": "10.65",
+                    "Egypt, Arab Rep.": "8.01",
+                    "Greece": "5.99"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Unspecified": "15.29",
+                    "Malaysia": "10.76",
+                    "Turkey": "10.61",
+                    "China": "10.06",
+                    "Germany": "7.95"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "Unspecified": "37.09",
+                    "China": "14.64",
+                    "Italy": "9.47",
+                    "United States": "9.17",
+                    "Korea, Rep.": "4.85"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Japan": "30.34",
+                    "Korea, Rep.": "26.10",
+                    "Unspecified": "11.62",
+                    "Italy": "6.56",
+                    "Thailand": "5.77"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Unspecified": "25.21",
+                    "China": "13.30",
+                    "Italy": "8.63",
+                    "Korea, Rep.": "8.00",
+                    "Japan": "7.24"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "China": "23.32",
+                    "Unspecified": "21.33",
+                    "Italy": "10.20",
+                    "United States": "8.93",
+                    "Turkey": "8.80"
+                }
+            }
+        },
+        "2009": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Netherlands": "17.17",
+                    "Brazil": "16.17",
+                    "Tunisia": "8.74",
+                    "Germany": "8.01",
+                    "Unspecified": "7.89"
+                },
+                "Vegetable Products": {
+                    "Russian Federation": "16.67",
+                    "Thailand": "16.14",
+                    "Ukraine": "8.61",
+                    "Germany": "8.46",
+                    "Tunisia": "6.06"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "Tunisia": "16.35",
+                    "Turkey": "9.87",
+                    "Unspecified": "7.42",
+                    "Thailand": "7.14",
+                    "Egypt, Arab Rep.": "6.84"
+                },
+                "Mineral Products": {
+                    "Tunisia": "38.83",
+                    "Greece": "18.54",
+                    "Turkey": "16.65",
+                    "Italy": "11.14",
+                    "Egypt, Arab Rep.": "3.29"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Unspecified": "21.40",
+                    "Tunisia": "10.87",
+                    "Egypt, Arab Rep.": "7.27",
+                    "Italy": "7.11",
+                    "United Kingdom": "6.73"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Turkey": "32.47",
+                    "China": "10.94",
+                    "Unspecified": "9.41",
+                    "Tunisia": "5.92",
+                    "Korea, Rep.": "5.68"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "92.48",
+                    "Unspecified": "1.62",
+                    "Tunisia": "1.11",
+                    "Belgium": "0.82",
+                    "Italy": "0.50"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Tunisia": "13.32",
+                    "Unspecified": "12.54",
+                    "Turkey": "10.70",
+                    "China": "10.21",
+                    "Egypt, Arab Rep.": "9.55"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "52.71",
+                    "Turkey": "13.46",
+                    "Unspecified": "5.86",
+                    "Egypt, Arab Rep.": "3.87",
+                    "Syrian Arab Republic": "3.68"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "45.84",
+                    "Turkey": "13.94",
+                    "Unspecified": "12.29",
+                    "United Kingdom": "10.47",
+                    "Thailand": "4.85"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Turkey": "42.88",
+                    "China": "11.86",
+                    "Tunisia": "10.76",
+                    "Unspecified": "9.33",
+                    "Spain": "5.81"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Tunisia": "16.31",
+                    "Egypt, Arab Rep.": "14.45",
+                    "Turkey": "12.99",
+                    "Italy": "11.88",
+                    "Unspecified": "7.40"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Turkey": "18.07",
+                    "Unspecified": "12.52",
+                    "China": "11.12",
+                    "Malaysia": "8.12",
+                    "Korea, Rep.": "5.84"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "Unspecified": "26.14",
+                    "China": "17.73",
+                    "United States": "8.49",
+                    "Korea, Rep.": "8.32",
+                    "Italy": "7.40"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Korea, Rep.": "31.41",
+                    "Japan": "18.22",
+                    "Italy": "11.42",
+                    "Unspecified": "8.70",
+                    "Germany": "8.50"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Unspecified": "18.39",
+                    "China": "13.97",
+                    "Korea, Rep.": "10.45",
+                    "Turkey": "9.74",
+                    "Italy": "7.45"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Unspecified": "30.46",
+                    "China": "18.56",
+                    "United States": "9.36",
+                    "Turkey": "9.23",
+                    "Italy": "7.60"
+                }
+            }
+        },
+        "2010": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Netherlands": "17.16",
+                    "Brazil": "14.25",
+                    "Germany": "9.61",
+                    "Unspecified": "7.03",
+                    "Tunisia": "6.65"
+                },
+                "Vegetable Products": {
+                    "Ukraine": "12.98",
+                    "Germany": "11.13",
+                    "Argentina": "10.96",
+                    "Russian Federation": "10.75",
+                    "Egypt, Arab Rep.": "8.80"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "Turkey": "10.24",
+                    "Thailand": "10.05",
+                    "Tunisia": "8.17",
+                    "Italy": "8.17",
+                    "Unspecified": "6.73"
+                },
+                "Mineral Products": {
+                    "Turkey": "33.85",
+                    "Tunisia": "21.32",
+                    "Italy": "10.90",
+                    "Greece": "10.11",
+                    "China": "6.27"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Unspecified": "11.01",
+                    "Egypt, Arab Rep.": "8.28",
+                    "Italy": "7.81",
+                    "Tunisia": "7.46",
+                    "United Kingdom": "7.32"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Turkey": "23.66",
+                    "China": "12.10",
+                    "Unspecified": "7.59",
+                    "Korea, Rep.": "7.06",
+                    "Italy": "6.45"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "64.08",
+                    "Korea, Rep.": "8.08",
+                    "Thailand": "7.94",
+                    "Unspecified": "2.62",
+                    "Italy": "2.52"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Turkey": "18.69",
+                    "Egypt, Arab Rep.": "10.44",
+                    "Austria": "10.25",
+                    "China": "9.51",
+                    "Tunisia": "8.64"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "45.94",
+                    "Turkey": "18.30",
+                    "Unspecified": "5.79",
+                    "Italy": "2.77",
+                    "Thailand": "2.50"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "49.58",
+                    "United Kingdom": "10.24",
+                    "United States": "9.52",
+                    "Thailand": "8.88",
+                    "Tunisia": "4.76"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Turkey": "33.27",
+                    "China": "14.31",
+                    "Italy": "14.06",
+                    "Germany": "8.55",
+                    "Unspecified": "8.40"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Egypt, Arab Rep.": "20.62",
+                    "France": "20.60",
+                    "Turkey": "14.24",
+                    "Italy": "11.19",
+                    "China": "6.91"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Turkey": "21.75",
+                    "Korea, Rep.": "10.94",
+                    "China": "10.10",
+                    "Brazil": "9.43",
+                    "Italy": "6.59"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "Unspecified": "16.50",
+                    "China": "13.74",
+                    "Italy": "10.87",
+                    "Korea, Rep.": "8.94",
+                    "United States": "7.99"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Korea, Rep.": "24.33",
+                    "Japan": "16.99",
+                    "Italy": "13.97",
+                    "France": "8.10",
+                    "Germany": "7.81"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "Turkey": "11.79",
+                    "China": "11.15",
+                    "Unspecified": "10.82",
+                    "Korea, Rep.": "10.67",
+                    "Italy": "9.93"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Turkey": "20.57",
+                    "Unspecified": "19.54",
+                    "Germany": "9.84",
+                    "China": "9.36",
+                    "United States": "8.49"
+                }
+            }
+        },
+        "2016": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Spain": "28.77",
+                    "United Arab Emirates": "12.21",
+                    "Brazil": "7.60",
+                    "Romania": "6.79",
+                    "Germany": "5.44"
+                },
+                "Vegetable Products": {
+                    "Ukraine": "17.80",
+                    "Romania": "12.22",
+                    "Egypt, Arab Rep.": "8.67",
+                    "Tunisia": "7.46",
+                    "United Arab Emirates": "7.38"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "Italy": "19.18",
+                    "United Arab Emirates": "17.75",
+                    "Egypt, Arab Rep.": "10.04",
+                    "Tunisia": "7.65",
+                    "Thailand": "7.61"
+                },
+                "Mineral Products": {
+                    "Brazil": "43.81",
+                    "Turkey": "20.36",
+                    "Tunisia": "16.66",
+                    "Egypt, Arab Rep.": "7.73",
+                    "Italy": "4.59"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Turkey": "8.36",
+                    "Tunisia": "8.02",
+                    "France": "7.98",
+                    "Ireland": "7.63",
+                    "Germany": "7.50"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "China": "21.24",
+                    "Turkey": "20.88",
+                    "Saudi Arabia": "14.01",
+                    "Egypt, Arab Rep.": "9.51",
+                    "Korea, Rep.": "7.97"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "88.87",
+                    "Turkey": "3.53",
+                    "Spain": "1.17",
+                    "Hong Kong, China": "1.11",
+                    "Italy": "1.07"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Tunisia": "20.83",
+                    "Turkey": "14.67",
+                    "United Arab Emirates": "14.30",
+                    "China": "10.25",
+                    "United Kingdom": "8.73"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "58.33",
+                    "Turkey": "27.23",
+                    "United Arab Emirates": "4.57",
+                    "Italy": "1.60",
+                    "Egypt, Arab Rep.": "1.47"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "73.68",
+                    "Turkey": "10.46",
+                    "Italy": "8.15",
+                    "United Arab Emirates": "2.49",
+                    "Thailand": "1.73"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Egypt, Arab Rep.": "31.16",
+                    "Turkey": "23.83",
+                    "China": "20.56",
+                    "Spain": "7.56",
+                    "Italy": "4.49"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Brazil": "54.06",
+                    "China": "9.73",
+                    "Turkey": "9.14",
+                    "Tunisia": "5.90",
+                    "Italy": "5.73"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "China": "22.24",
+                    "Turkey": "21.84",
+                    "Italy": "10.58",
+                    "Ukraine": "7.68",
+                    "Germany": "5.85"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "17.99",
+                    "United Arab Emirates": "13.96",
+                    "Italy": "9.69",
+                    "Switzerland": "9.46",
+                    "Germany": "5.98"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Korea, Rep.": "71.04",
+                    "United Arab Emirates": "7.92",
+                    "Italy": "3.49",
+                    "China": "2.66",
+                    "France": "1.59"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "China": "20.26",
+                    "Turkey": "12.97",
+                    "Korea, Rep.": "12.32",
+                    "United Arab Emirates": "7.99",
+                    "Italy": "6.23"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "China": "23.51",
+                    "Turkey": "20.80",
+                    "Germany": "9.98",
+                    "Italy": "6.71",
+                    "United Arab Emirates": "6.63"
+                }
+            }
+        },
+        "2017": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Spain": "33.34",
+                    "Romania": "10.76",
+                    "Brazil": "8.46",
+                    "Germany": "6.31",
+                    "United Arab Emirates": "5.22"
+                },
+                "Vegetable Products": {
+                    "Ukraine": "16.97",
+                    "Russian Federation": "10.94",
+                    "Romania": "7.80",
+                    "Tunisia": "7.10",
+                    "Turkey": "6.34"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United Arab Emirates": "25.23",
+                    "Italy": "9.03",
+                    "Thailand": "8.57",
+                    "Tunisia": "8.52",
+                    "Egypt, Arab Rep.": "8.05"
+                },
+                "Mineral Products": {
+                    "Brazil": "66.29",
+                    "Egypt, Arab Rep.": "18.09",
+                    "Tunisia": "9.94",
+                    "Italy": "1.55",
+                    "Turkey": "1.52"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "France": "11.64",
+                    "Turkey": "9.56",
+                    "Germany": "8.30",
+                    "Switzerland": "6.64",
+                    "Egypt, Arab Rep.": "6.49"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "China": "27.35",
+                    "Turkey": "21.46",
+                    "Saudi Arabia": "14.98",
+                    "Egypt, Arab Rep.": "6.30",
+                    "Korea, Rep.": "4.21"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "87.33",
+                    "Turkey": "5.87",
+                    "United Arab Emirates": "1.71",
+                    "Italy": "1.48",
+                    "Hong Kong, China": "0.72"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Tunisia": "21.20",
+                    "Turkey": "19.42",
+                    "Italy": "8.63",
+                    "China": "7.93",
+                    "United Arab Emirates": "6.79"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "55.37",
+                    "Turkey": "30.16",
+                    "Italy": "2.75",
+                    "United Arab Emirates": "2.37",
+                    "Egypt, Arab Rep.": "2.31"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "66.74",
+                    "Turkey": "15.61",
+                    "Italy": "8.39",
+                    "United Arab Emirates": "3.23",
+                    "Brazil": "1.30"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Turkey": "37.52",
+                    "Egypt, Arab Rep.": "25.31",
+                    "China": "17.09",
+                    "Spain": "6.06",
+                    "Italy": "3.16"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Brazil": "71.08",
+                    "Italy": "8.70",
+                    "China": "5.74",
+                    "Turkey": "4.89",
+                    "Tunisia": "3.37"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Italy": "21.89",
+                    "China": "19.92",
+                    "Turkey": "19.26",
+                    "Malta": "8.95",
+                    "United Kingdom": "7.57"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "21.24",
+                    "Italy": "11.93",
+                    "United Kingdom": "10.71",
+                    "United Arab Emirates": "9.90",
+                    "Germany": "9.67"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Korea, Rep.": "45.32",
+                    "United Arab Emirates": "14.61",
+                    "China": "5.94",
+                    "Belgium": "5.65",
+                    "Germany": "5.57"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "China": "21.67",
+                    "Turkey": "15.42",
+                    "Italy": "7.73",
+                    "United Arab Emirates": "6.44",
+                    "Korea, Rep.": "5.93"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Turkey": "25.64",
+                    "China": "23.71",
+                    "Germany": "9.08",
+                    "United Arab Emirates": "5.30",
+                    "Italy": "5.13"
+                }
+            }
+        },
+        "2018": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Spain": "28.08",
+                    "Turkey": "10.14",
+                    "Brazil": "8.96",
+                    "Romania": "8.80",
+                    "Germany": "5.97"
+                },
+                "Vegetable Products": {
+                    "Ukraine": "22.55",
+                    "Romania": "10.15",
+                    "Turkey": "9.84",
+                    "Russian Federation": "8.46",
+                    "Tunisia": "7.98"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United Arab Emirates": "17.73",
+                    "Italy": "8.79",
+                    "Tunisia": "8.63",
+                    "Egypt, Arab Rep.": "8.26",
+                    "Thailand": "7.39"
+                },
+                "Mineral Products": {
+                    "Brazil": "68.51",
+                    "Egypt, Arab Rep.": "18.89",
+                    "Tunisia": "9.20",
+                    "Italy": "0.98",
+                    "Turkey": "0.80"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "France": "9.48",
+                    "Turkey": "8.08",
+                    "United Arab Emirates": "7.81",
+                    "Germany": "7.78",
+                    "Tunisia": "6.75"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "China": "27.34",
+                    "Turkey": "25.54",
+                    "Egypt, Arab Rep.": "9.78",
+                    "Korea, Rep.": "6.34",
+                    "Saudi Arabia": "6.11"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "74.27",
+                    "Turkey": "15.85",
+                    "Italy": "2.69",
+                    "Belgium": "1.23",
+                    "United Arab Emirates": "1.03"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Turkey": "21.91",
+                    "Tunisia": "17.11",
+                    "China": "9.55",
+                    "Egypt, Arab Rep.": "8.64",
+                    "Saudi Arabia": "7.30"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "47.86",
+                    "Turkey": "37.09",
+                    "Italy": "3.15",
+                    "United Arab Emirates": "2.86",
+                    "Egypt, Arab Rep.": "2.30"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "56.78",
+                    "Turkey": "22.48",
+                    "Italy": "10.03",
+                    "United Arab Emirates": "3.55",
+                    "Thailand": "1.75"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Turkey": "38.26",
+                    "Egypt, Arab Rep.": "22.44",
+                    "China": "18.89",
+                    "Spain": "5.69",
+                    "Italy": "4.65"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Brazil": "71.24",
+                    "Italy": "6.22",
+                    "Turkey": "6.07",
+                    "China": "4.72",
+                    "Belgium": "3.44"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "Turkey": "22.52",
+                    "China": "19.95",
+                    "Russian Federation": "14.05",
+                    "Italy": "10.83",
+                    "Egypt, Arab Rep.": "6.21"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "United Arab Emirates": "34.67",
+                    "China": "18.65",
+                    "Italy": "9.16",
+                    "Turkey": "6.08",
+                    "Germany": "4.92"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Korea, Rep.": "38.75",
+                    "United Arab Emirates": "17.57",
+                    "United States": "8.47",
+                    "Belgium": "8.01",
+                    "China": "4.06"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "China": "18.52",
+                    "Turkey": "15.68",
+                    "United Arab Emirates": "15.26",
+                    "Italy": "6.18",
+                    "Korea, Rep.": "5.33"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Turkey": "23.84",
+                    "China": "18.61",
+                    "Germany": "9.08",
+                    "United Arab Emirates": "6.11",
+                    "Italy": "5.77"
+                }
+            }
+        },
+        "2019": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Spain": "27.33",
+                    "Brazil": "12.32",
+                    "Germany": "7.08",
+                    "Romania": "7.03",
+                    "Turkey": "6.92"
+                },
+                "Vegetable Products": {
+                    "Ukraine": "23.16",
+                    "Turkey": "12.96",
+                    "Russian Federation": "9.01",
+                    "Tunisia": "7.00",
+                    "Romania": "6.01"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "United Arab Emirates": "21.93",
+                    "Thailand": "9.95",
+                    "Turkey": "8.43",
+                    "Italy": "8.19",
+                    "Egypt, Arab Rep.": "7.46"
+                },
+                "Mineral Products": {
+                    "Brazil": "50.20",
+                    "Egypt, Arab Rep.": "23.49",
+                    "Tunisia": "13.32",
+                    "Bahrain": "8.65",
+                    "Turkey": "1.56"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "Turkey": "9.96",
+                    "Egypt, Arab Rep.": "8.98",
+                    "Tunisia": "7.74",
+                    "France": "7.50",
+                    "Germany": "7.44"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "China": "33.15",
+                    "Turkey": "23.91",
+                    "Egypt, Arab Rep.": "10.25",
+                    "Korea, Rep.": "6.63",
+                    "Saudi Arabia": "3.76"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "China": "84.62",
+                    "Turkey": "8.21",
+                    "United Arab Emirates": "1.38",
+                    "Italy": "1.00",
+                    "Belgium": "0.70"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Turkey": "21.06",
+                    "Tunisia": "16.10",
+                    "China": "12.68",
+                    "Italy": "7.96",
+                    "Egypt, Arab Rep.": "7.09"
+                },
+                "Textiles and Textile Articles": {
+                    "China": "49.93",
+                    "Turkey": "37.70",
+                    "Egypt, Arab Rep.": "2.87",
+                    "United Arab Emirates": "2.09",
+                    "Italy": "1.44"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "China": "62.45",
+                    "Turkey": "20.35",
+                    "Italy": "6.65",
+                    "Thailand": "2.41",
+                    "Malta": "1.34"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Turkey": "38.71",
+                    "China": "22.37",
+                    "Egypt, Arab Rep.": "17.73",
+                    "Spain": "5.20",
+                    "India": "4.58"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "Brazil": "64.72",
+                    "Bahrain": "11.16",
+                    "Turkey": "7.30",
+                    "China": "5.65",
+                    "Egypt, Arab Rep.": "4.23"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "China": "32.27",
+                    "Turkey": "23.67",
+                    "Egypt, Arab Rep.": "6.07",
+                    "Italy": "5.99",
+                    "Ukraine": "5.91"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "China": "27.07",
+                    "United Arab Emirates": "22.77",
+                    "Italy": "10.43",
+                    "Turkey": "8.66",
+                    "Germany": "6.27"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Korea, Rep.": "32.82",
+                    "United States": "15.46",
+                    "United Arab Emirates": "13.31",
+                    "Belgium": "8.10",
+                    "China": "4.90"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "China": "24.17",
+                    "Turkey": "17.31",
+                    "United Arab Emirates": "9.92",
+                    "Korea, Rep.": "6.14",
+                    "Italy": "5.86"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "China": "27.26",
+                    "Turkey": "24.57",
+                    "Germany": "9.06",
+                    "Netherlands": "6.52",
+                    "Italy": "6.08"
+                }
+            }
+        }
+    }
+}

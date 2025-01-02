@@ -1,0 +1,1390 @@
+
+
+<!DOCTYPE>
+<html xmlns="http://www.w3.org/1999/xhtml" manifest="https://wits.worldbank.org/witscpSSL.appcache">
+<head id="Head1"><title>
+	WITS - Country Selection
+</title><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta name="viewport" content="target-densitydpi=device-dpi, initial-scale=1.0, user-scalable=no" /><meta name="description" content="Merchandise Trade summary statistics for a country including imports, exports, tariffs, export and import partners, top exported products and development indicators" /><meta name="keywords" content="international, merchandise trade, exports value, imports value, Number of trading partners, number of products, top export/import partners, herfindahl- hirschman index, Index of export market penetration,World Growth, Country Growth, Number of tariff agreements, Tariff Maximum and Minimum rate, Simple/Weighted Average tariff, duty free imports, GDP, GNI per capita, Trade Balance, Trade as percentage of GDP" /><link href="/Styles/customStyles.css" rel="stylesheet" media="screen" />
+    <!--[if lt IE 8]>
+      <link href="Styles/customStylesIE7.css" rel="stylesheet" media="screen" />
+    <![endif]-->
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+    
+    <script type="text/javascript">
+        if (top.location != location) {
+            top.location.href = document.location.href;
+        }
+    </script>
+</head>
+<body>
+    <div class="modal-dialog large">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                    &times;</button>
+                <h4 class="modal-title" id="H1">
+                   <span id="lblMainHeading">Change selection</span>
+                </h4>
+            </div>
+            <div class="modal-body">
+             
+                <section class="innerTabs">
+                <div class="row mB10">
+                    <div class="col-md-12">
+                 <div class="tabHead">
+                 <div class="innerTabLinks">
+                        <div class="btn-group" data-toggle="buttons">
+  <label class="btn active viewOptions" data-target="countryView" id="radio_byCountry"> 
+    <input type="radio" name="viewOptions"  value="countryView" checked="checked" />
+                            <span id="lblByCounty">By Country</span>
+  </label>
+  <label class="btn viewOptions" data-target="indicatorView"  id="radio_byIndicator">
+     <input type="radio" name="viewOptions" value="indicatorView"  />
+                            <span id="lblByIndicator">By Indicator</span>
+  </label>
+
+</div>
+
+                </div></div>
+                    </div>
+                </div>
+                <div class="content" style="height:270px">
+                <div id="countryView" class="row view">
+                    <div class="col-md-12">
+                        <div class="row mB10">
+                            <div class="col-md-4">
+                                <span id="lblRCountryOrRegion">Reporter Country / Region</span></div>
+                            <div class="col-md-8">
+                               
+                                   
+                                     <select id="byCountry_country_dropdown" data-target="countries"></select>
+                                
+                              
+                            </div>
+                        </div>
+                        <div class="row mB10">
+                            <div class="col-md-4">
+                                <span id="lblYear">Year</span>
+                            </div>
+                            <div class="col-md-8">
+                                
+                                 
+                                    <select id="byCountry_year_dropdown" data-target="countries"></select>
+                                
+                            </div>
+                        </div>
+                         <div class="row mB10">
+                            <div class="col-md-4">
+                                <span id="lblTradeFlow">Trade Flow</span>
+                            </div>
+                            <div class="col-md-8">
+                               
+                                   
+                                     <select id="byCountry_tradeFlow_dropdown" data-target="countries"></select>
+                                
+                            </div>
+                        </div>
+                        <div class="row mB10">
+                             <div class="col-md-4"><span id="lblViewBy">View By</span></div>
+                               <div class="col-md-8">
+                                   
+                                      
+                                      
+                                       <select id="byCountry_viewBy_dropdown" data-target="countries"></select>
+                               </div>
+                        </div>
+                       
+                     
+
+
+                    </div>
+                </div>
+                <div class="row view dispNone" id="indicatorView">
+                    <div class="col-md-12">
+                         
+
+                        <div class="row mB10">
+                            <div class="col-md-4">
+                                <span id="lblIndicator">Indicator</span></div>
+                            <div class="col-md-8">
+                               
+                                   
+                                     <select id="byIndicator_indicator_dropdown" data-target="countries"></select>
+                                
+                            </div>
+                        </div>
+                       <!-- <div class="row mB10">
+                            <div class="col-md-4">
+                                <span id="ReslblYearRange">Year Range</span>
+                            </div>
+                            <div class="col-md-8">
+                                     <select id="byIndicator_range_dropdown" data-target="countries"></select>
+                            </div>
+                        </div>  -->
+
+                       <div class="row mB10">
+                             <div class="col-md-4">View By</div>
+                               <div class="col-md-8">
+                             
+                              
+                                   <select id="byIndicator_viewBy_dropdown" data-target="countries"></select>
+                               </div>
+                        </div>
+
+
+                        <div class="row mB10">
+                            <div class="col-md-4">
+                               <span id="lblRCountryOrRegion1">Reporter Country / Region</span> </div>
+                            <div class="col-md-8">
+                                
+                                    
+                                    <select id="byIndicator_country_dropdown" data-target="countries"></select>
+                              
+                              
+                            </div>
+                        </div>
+                         <!-- year Range slider -->
+                         <div class="row mB10">
+                             <div class="col-md-4">Year Range</div>
+                             <div class="col-md-8"> 
+                                <div class="btn-group pull-left">
+                                     <select id="byIndicator_year_Strartdropdown"></select>
+                                </div> <div class="btn-group pull-left">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                                <div class="btn-group pull-left">
+                                    <select id="byIndicator_year_Enddropdown"></select>
+                                </div>
+                             </div>
+                         </div>
+                        <!-- year Range slider -->
+                        <div class="row mB10" id="selectAllTxt">
+                            <div class="col-md-4">
+                            </div>
+                            <div class="col-md-8">
+                                <em>[<span id="lblNoteTxt">Select 'All Countries and Regions' to view data for all countries and regions</span>.]</em>
+                            </div>
+                        </div>
+
+                </div>
+               
+               <!-- view by -->
+
+   
+                              
+                                              
+                           
+                        </div>
+                                  <div class="row mB10" id="partnerView">
+                  
+                          
+                    
+                           <div class="col-md-12">
+                            <div class="row mB10">
+                        <div class="col-md-4">
+                              <span id="lblPCountryOrRegion">Partner Country / Region</span> 
+                            </div>
+                            <div class="col-md-8">
+                            
+                                 
+                                         <select id="partner_dropdown" data-target="countries"></select>
+                              
+</div>
+
+                    </div></div>
+               </div>
+
+                               <div class="row mB10" id="productView">
+          
+
+                                        <div class="col-md-4"><span id="lblProduct">Product</span></div>
+                                        <div class="col-md-8">
+                                           
+                                              
+                                              <select id="product_dropdown" data-target="countries"></select>
+                                          
+                                        </div>
+ 
+                     
+                        </div>
+
+                          <div class="row mB10" id="productView-partner">
+          
+
+                                        <div class="col-md-4"><span id="lblPartner">Partner</span>  </div>
+                                        <div class="col-md-8">
+                                           
+                                                
+                                             <select id="byIndicator-Product-Partner" data-target="countries"></select>
+                                            
+                                        </div>
+ 
+                     
+                        </div>
+
+                <div class="alert alert-danger dispNone alert1" role="alert">
+                    <span id="AlertContryRegion">Please select a country or a region</span>.</div>
+                    </div>
+                        <div class="modal-footer">
+                         <button type="button" class="btn btn-default" id="updateBtn">
+                    <span id="lblUpdate">Update</span></button>
+                <button type="button" class="btn btn-default" data-dismiss="modal" id="cancelBtn">
+                    <span id="lblCancel">Cancel</span></button></div>
+                    </section>
+                         <div class="row mT10">
+           <div class="col-md-12">                      
+              <div class="breifTxt">
+                   
+                <p><span id="FooterNotesTxt1a">Use</span>
+                 <b><span id="lblByCounty2">By Country</span></b> <span id="FooterNotesTxt1b">tab to view country's export or import data for a particular year, for all products with a Partner or a Product with all Partners. Use</span> 
+                 <b><span id="lblByIndicator1">By Indicator</span></b> <span id="FooterNotesTxt1c">tab to view particular indicator across years for all products with a Partner or a Product with all Partners</span>.<br /></p>
+                <b><span id="lblByCounty3">By Country</span></b><br />
+                 <ul class="bulleted">
+                     <li><span id="FooterNotesListItem1">Select Country or Region from Country / Region dropdown</span>.</li>
+                     <li><span id="ResFooterNotesListItem2">Select Year from Year dropdown</span>.  </li>
+                     <li><span id="FooterNotesListItem3">Select Import/Export from the Trade Flow dropdown</span>. </li>
+                     <li><span id="FooterNotesListItem4">Select view by Product or by Partner</span>. </li> 
+                     <li><b><span id="FooterNotesListItem5a">View by Partner</span></b> 
+                     <span id="FooterNotesListItem5b">allows you to view all exports or imports for a particular reporting country or region with a particular partner, for all products</span>. </li>
+                     <li><b><span id="Label2">View by Product</span></b> 
+                     <span id="ResFooterNotesListItem6a">lets you view the export or import data to all partners for a particular country or region for All Products (total trade) or for a particular product grouping</span>.</li>
+                 </ul>
+                 <i><span id="FooterNotesTxt2">Note: You can also type your country or region name name after clicking on the dropdown</span>.</i>
+   </div>
+
+           <div class="fullTxt">
+            <p><span id="FooterNotesTxt1a1">Use</span>
+                 <b><span id="lblByCounty4">By Country</span></b> <span id="FooterNotesTxt1b1">tab to view country's export or import data for a particular year, for all products with a Partner or a Product with all Partners. Use</span> 
+                 <b><span id="lblByIndicator2">By Indicator</span></b> <span id="FooterNotesTxt1c1">tab to view particular indicator across years for all products with a Partner or a Product with all Partners</span>.<br /></p>
+                <b><span id="lblByIndicator3">By Indicator</span></b><br />
+         <ul class="bulleted">
+            <li><span id="FooterNotesIndiListItem1">Select Indicator from the Indicator dropdown</span>.</li>
+            <li><span id="FooterNotesIndiListItem2">Select Year range from the Year Range dropdown</span>.</li>
+            <li><span id="FooterNotesIndiListItem3">Select Reporting country / region from the Country /Region drop down.You can also select All Countries and Region in the Reporter Country / Region dropdown if you want to see indicators for all countries and region</span>. </li>
+            <li><span id="FooterNotesIndiListItem4">Select view by Product or by Partner</span>. </li>
+            <li> <b> <span id="FooterNotesListItem5a1">View by Partner</span></b> <span id="FooterNotesIndiListItem5">allows you to view indicators for a data for the selected region or country  with a particular partner, for all products</span>.</li>
+            <li> <b> <span id="FooterNotesListItem6a1">View by Product</span></b> <span id="FooterNotesIndiListItem6">allows you view the indicator for a particular reporting country or region with all partners for All Products (total trade), or you can select a particular product grouping that can be selected in the the Product dropdown</span>.</li>
+         </ul>
+    <i><span id="ResFooterNotesTxt21">Note: You can also type your country or region name name after clicking on the dropdown</span>.</i>
+              
+
+                </div>
+                
+                
+                </div></div>
+            </div>
+            
+
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+
+
+    <script type="text/javascript">
+        var availableForPeriod = new Array();
+        var availableendyearsforcountry = new Array();
+        var availableYearsForSelectedCountry = new Array();
+
+        $(document).ready(function () {
+            //   alert("Model window Starts");
+            $(".view").hide();
+            $("#" + strView).show();
+
+
+            initMultiView();
+
+            //            initCombobox("#byCountry_country_dropdown", countries, "Select Country / Region", 250);
+            initSelectBox("#byCountry_country_dropdown", countries);
+
+
+            //initCombobox("#byCountry_partner_dropdown", countries1, "Select Country / Region");
+
+            //initCombobox("#byCountry_region_dropdown", region, "Select Region");
+            //            initCombobox("#byCountry_tradeFlow_dropdown", tradeFlow, SelectedTradeFlow, 250);
+            initSelectBox("#byCountry_tradeFlow_dropdown", tradeFlow);
+
+
+            //            initCombobox("#byIndicator_indicator_dropdown", ProductIndicators, "Select Indicator", 300);
+            initSelectBox("#byIndicator_indicator_dropdown", ProductIndicators);
+
+
+            //            initCombobox("#byIndicator_range_dropdown", range, "Select Year Range", 250);
+            initSelectBox("#byIndicator_range_dropdown", range);
+
+            if (SelectdPartnerorReporter == "Partner") {
+                //                initCombobox("#byIndicator_country_dropdown", countries, "Select Country / Region", 250);
+                initSelectBox("#byIndicator_country_dropdown", countries);
+            }
+            else if (SelectdPartnerorReporter == "Product") {
+
+                var tmpSource = [{ label: 'By Country and Region', value: 'ALL', group: 'ALL' }, { label: 'By Country', value: 'BY-COUNTRY', group: 'ALL' }, { label: 'By Region', value: 'BY-REGION', group: 'ALL'}];
+                tmpSource.push.apply(tmpSource, countries);
+                //                initCombobox("#byIndicator_country_dropdown", tmpSource, "Select Country / Region", 250);
+                initSelectBox("#byIndicator_country_dropdown", tmpSource);
+                var tmpProductPartnerSource = [{ label: 'By Country and Region', value: 'ALL', group: 'ALL'}, { label: 'By Country', value: 'BY-COUNTRY', group: 'ALL' }, { label: 'By Region', value: 'BY-REGION', group: 'ALL'}];
+                tmpSource.push.apply(tmpProductPartnerSource, countries1);
+                //                initCombobox("#byIndicator-Product-Partner", tmpProductPartnerSource, "Select Country / Region", 250);
+                initSelectBox("#byIndicator-Product-Partner", tmpProductPartnerSource);
+            }
+
+
+            // initCombobox("#byIndicator_region_dropdown", region, "");
+
+            //initCombobox("#productGroup_dropdown", productGroups, "Select Indicator");
+            //            initCombobox("#partner_dropdown", countries1, "Select Country / Region", 250);
+            initSelectBox("#partner_dropdown", countries1);
+
+            // initCombobox("#partnerGroup_dropdown", region1, "");
+            //            initCombobox("#product_dropdown", products, "Select Product", 250);
+            initSelectBox("#product_dropdown", products);
+
+            //             initCombobox("#byCountry_viewBy_dropdown", productPartner, "", 250);
+            initSelectBox("#byCountry_viewBy_dropdown", productPartner);
+
+
+            //            initCombobox("#byIndicator_viewBy_dropdown", productPartner, "", 250);
+            initSelectBox("#byIndicator_viewBy_dropdown", productPartner);
+
+
+
+
+
+            setDropdownValues();
+            doHandleChangeEvent();
+
+            buildRedirectionUrl();
+            showHideTxt(strView);
+
+        });
+
+        //        function initCombobox(dropdownId, dropdownSource, placeholder, popupwidth) {
+
+        //            $(dropdownId).jqxDropDownList({ source: dropdownSource, height: 16, animationType: 'none', placeHolder: placeholder, width: popupwidth, dropDownWidth: popupwidth });
+        //        }
+
+
+
+        function initMultiView() {
+
+            if (strView == "indicatorView") {
+                //                $("#radio_byIndicator").prop("checked", "checked");
+                $(".viewOptions").removeClass("active");
+                $("#radio_byIndicator").addClass("active");
+            }
+            else {
+                $(".viewOptions").removeClass("active");
+                $("#radio_byCountry").addClass("active");
+            }
+
+            $(".viewOptions").click(function () {
+                $(".view").hide();
+                var targetView = $(this).attr("data-target");
+                $("#" + targetView).show();
+                showHideTxt(targetView);
+
+                if (targetView == "indicatorView") {
+
+
+                    if (SelectdPartnerorReporter == "Product") {
+                        //                        $("#byIndicator-Product-Partner").jqxDropDownList('clear');
+
+                        var tmpProductPartnerSource = [{ label: 'By Country and Region', value: 'ALL', group: 'ALL' }, { label: 'By Country', value: 'BY-COUNTRY', group: 'ALL' }, { label: 'By Region', value: 'BY-REGION', group: 'ALL'}];
+                        tmpProductPartnerSource.push.apply(tmpProductPartnerSource, countries1);
+                        initSelectBox("#byIndicator-Product-Partner", tmpProductPartnerSource);
+
+                        if ((SelectedReporter.toLowerCase() == "all") || (SelectedReporter.toLowerCase() == "by-region") || (SelectedReporter.toLowerCase() == "by-country")) {
+                            //                            $("#byIndicator-Product-Partner").jqxDropDownList('disableItem', "WLD");
+                            $("#byIndicator-Product-Partner option[value='ALL']").attr('disabled', 'disabled')
+                        }
+                        else {
+                            $("#byIndicator-Product-Partner option[value='ALL']").attr('disabled', false)
+                        }
+
+                        var selectedItem = $("#byIndicator-Product-Partner .option:selected").index();
+                        if (selectedItem == -1) {
+                            $("#byIndicator-Product-Partner option:eq(0)").prop('selected', true);
+                        }
+
+                        if ((SelectedPartner.toLowerCase() == "all") || (SelectedPartner.toLowerCase() == "by-region") || (SelectedPartner.toLowerCase() == "by-country")) {
+                            $("#byIndicator_country_dropdown option[value='ALL']").attr('disabled', 'disabled')
+                        }
+                        else {
+                            $("#byIndicator_country_dropdown  option[value='ALL']").attr('disabled', false);
+                        }
+
+                        $("#partnerView").hide();
+                        $("#productView").show();
+                        $("#productView-partner").show();
+
+                    }
+
+                }
+                if (targetView == "countryView") {
+
+                    $("#productView-partner").hide();
+
+                }
+            });
+        }
+
+
+
+        function setDropdownValues() {  //alert("setting values start");alert(SelectedReporter.toUpperCase());
+
+            //            $("#byCountry_country_dropdown").jqxDropDownList('selectItem', SelectedReporter);
+            $("#byCountry_country_dropdown").val(SelectedReporter);
+
+            //            $("#byIndicator_country_dropdown").jqxDropDownList('selectItem', SelectedReporter.toUpperCase());
+            $("#byIndicator_country_dropdown").val(SelectedReporter.toUpperCase());
+
+
+            //            var ByCountryCountryDropdownIndex = $("#byCountry_country_dropdown").jqxDropDownList('getSelectedIndex');
+
+            var ByCountryCountryDropdownIndex = $("#byCountry_country_dropdown option:selected").index();
+
+
+            if (ByCountryCountryDropdownIndex == -1) {
+                //                $("#byCountry_country_dropdown").jqxDropDownList('selectIndex', 0);
+                $("#byCountry_country_dropdown").val("WLD");
+            }
+
+            if ((SelectedPartner.toLowerCase() == "all") || (SelectedPartner.toLowerCase() == "by-region") || (SelectedPartner.toLowerCase() == "by-country")) {
+                //                $("#byIndicator_country_dropdown").jqxDropDownList('disableItem', "WLD");
+                // $("#byIndicator_country_dropdown option[value='WLD']").attr('disabled', 'disabled')
+                $("option").each(function () {
+                    if ($(this).val().toLowerCase() == "all") {
+                        $(this).attr("disabled", "disabled");
+                    }
+                });
+
+
+
+            }
+            else {
+                //                $("#byIndicator_country_dropdown").jqxDropDownList('enableItem', "WLD");
+                //                $("#byIndicator_country_dropdown option[value='WLD']").attr('disabled', '') //by default it will be enabled
+            }
+
+            //            var ByIndicatorCountryDropdownIndex = $("#byIndicator_country_dropdown").jqxDropDownList('getSelectedIndex');
+            var ByIndicatorCountryDropdownIndex = $("#byIndicator_country_dropdown option:selected").index();
+
+            if (ByIndicatorCountryDropdownIndex == -1) {
+                //                $("#byIndicator_country_dropdown").jqxDropDownList('selectIndex', 0);
+                $("#ByIndicatorCountryDropdownIndex").val("WLD");
+            }
+            //need to uncomment this later
+            populateYears("#byCountry_country_dropdown");
+            populateByIndicatorYears("#byIndicator_country_dropdown")
+
+//            if (SelectedYear == "") {
+//                //                $("#byIndicator_range_dropdown").jqxDropDownList('selectIndex', 0);
+
+//                $('#byIndicator_range_dropdown option:eq(0)').prop('selected', true);
+//            }
+//            else {
+//                if (SelectedYear.indexOf("-") == -1) {
+//                    //                    $("#byIndicator_range_dropdown").jqxDropDownList('selectIndex', 0);
+//                    $('#byIndicator_range_dropdown option:eq(0)').prop('selected', true);
+//                }
+//                else {
+//                    //                                        $("#byIndicator_range_dropdown").jqxDropDownList('selectItem', SelectedYear);
+//                    $("#byIndicator_range_dropdown").val(SelectedYear);
+//                }
+//            }
+
+
+
+
+            if (SelectedIndicatorCode == "") {
+                //                $("#byIndicator_indicator_dropdown").jqxDropDownList('selectIndex', 0);
+
+                $('#byIndicator_indicator_dropdown option:eq(0)').prop('selected', true);
+            }
+            else {
+
+                //                $("#byIndicator_indicator_dropdown").jqxDropDownList('val', SelectedTradeFlow + "~" + SelectedIndicatorCode);
+                $("#byIndicator_indicator_dropdown").val(SelectedTradeFlow + "~" + SelectedIndicatorCode);
+
+            }
+
+            if (SelectedTradeFlow == "") {
+                //                $("#byCountry_tradeFlow_dropdown").jqxDropDownList('selectIndex', 0);
+                $('#byCountry_tradeFlow_dropdown option:eq(0)').prop('selected', true);
+            }
+            else {
+                //                $("#byCountry_tradeFlow_dropdown").jqxDropDownList('selectItem', SelectedTradeFlow);
+                $("#byCountry_tradeFlow_dropdown").val(SelectedTradeFlow);
+            }
+
+
+            if (SelectdPartnerorReporter == "") {
+                //                $("#byCountry_viewBy_dropdown").jqxDropDownList('selectIndex', 0);
+                //                $("#byIndicator_viewBy_dropdown").jqxDropDownList('selectIndex', 0);
+                $('#byCountry_viewBy_dropdown option:eq(0)').prop('selected', true);
+                $('#byIndicator_viewBy_dropdown option:eq(0)').prop('selected', true);
+            }
+            else {
+                //                $("#byCountry_viewBy_dropdown").jqxDropDownList('selectItem', SelectdPartnerorReporter); 
+                //                $("#byIndicator_viewBy_dropdown").jqxDropDownList('selectItem', SelectdPartnerorReporter);
+                $("#byCountry_viewBy_dropdown").val(SelectdPartnerorReporter);
+                $("#byIndicator_viewBy_dropdown").val(SelectdPartnerorReporter);
+            }
+
+
+            if (SelectdPartnerorReporter == "Partner") {
+                //$("#productGroup_dropdown").jqxDropDownList('selectItem', SelectdProductGroupClasification);
+                //                $("#product_dropdown").jqxDropDownList('setContent', "Select Product");
+                $("#product_dropdown").val("Select Product");
+
+                $("#selectAllTxt").hide();
+
+                if (SelectedPartner == "") {
+                    //                        $("#partner_dropdown").jqxDropDownList('selectIndex', 0);
+                    $('#partner_dropdown option:eq(0)').prop('selected', true);
+                }
+                else {
+
+                    //                        $("#partner_dropdown").jqxDropDownList('selectItem', SelectedPartner.toUpperCase());
+                    $("#partner_dropdown").val(SelectedPartner.toUpperCase());
+                }
+
+                $("#productView").hide();
+                $("#partnerView").show();
+                $("#productView-partner").hide();
+            }
+            else {
+                $("#selectAllTxt").show();
+                //                $("#byProduct").prop("checked", "checked");
+                if (SelectedProduct == "") {
+                    //                    $("#product_dropdown").jqxDropDownList('selectIndex', 0);
+                    $('#product_dropdown option:eq(0)').prop('selected', true);
+                }
+                else {
+                    $("#product_dropdown").val(SelectedProduct);
+                    //                    $("#product_dropdown").jqxDropDownList('selectItem', SelectedProduct);
+                }
+
+                //                $("#partner_dropdown").jqxDropDownList('setContent', "Select Partner");
+                $("#partner_dropdown").val("Select Partner");
+                $("#partnerView").hide();
+                $("#productView").show();
+                $("#productView-partner").hide();
+            }
+
+            if (strView == "countryView")
+            { $("#productView-partner").hide(); }
+
+            if (strView == "indicatorView") {
+                if (SelectdPartnerorReporter == "Partner") {
+                    $("#partnerView").show();
+                    $("#productView").hide();
+                    $("#productView-partner").hide();
+                }
+                else if (SelectdPartnerorReporter == "Product") {
+                    //                    $("#byIndicator-Product-Partner").jqxDropDownList('clear');
+
+                    var tmpProductPartnerSource = [{ label: 'By Country and Region', value: 'ALL', group: 'ALL' }, { label: 'By Country', value: 'BY-COUNTRY', group: 'ALL' }, { label: 'By Region', value: 'BY-REGION', group: 'ALL'}];
+                    tmpProductPartnerSource.push.apply(tmpProductPartnerSource, countries1);
+
+                    //                    initCombobox("#byIndicator-Product-Partner", tmpProductPartnerSource, SelectedPartner, 250);
+                    initSelectBox("#byIndicator-Product-Partner", tmpProductPartnerSource);
+
+                    if ((SelectedReporter.toLowerCase() == "all") || (SelectedReporter.toLowerCase() == "by-region") || (SelectedReporter.toLowerCase() == "by-country")) {
+                        //                        $("#byIndicator-Product-Partner").jqxDropDownList('disableItem', "WLD");
+                        $("#byIndicator-Product-Partner option[value='ALL']").attr('disabled', 'disabled')
+                    }
+                    else {
+                        //                        $("#byIndicator-Product-Partner").jqxDropDownList('enableItem', "ALL");
+                    }
+
+
+                    if (SelectedPartner == "") {
+                        $('#byIndicator-Product-Partner option:eq(0)').prop('selected', true);
+                        //                        $("#byIndicator-Product-Partner").jqxDropDownList('selectIndex', 0);
+                    }
+                    else {
+
+                        //                        $("#byIndicator-Product-Partner").jqxDropDownList('selectItem', SelectedPartner);
+                        $("#byIndicator-Product-Partner").val(SelectedPartner);
+                    }
+
+
+                    //                    var selectedItem = $("#byIndicator-Product-Partner").jqxDropDownList('getSelectedIndex');
+                    var selectedItem = $("#byIndicator-Product-Partner option:selected").index();
+                    if (selectedItem == -1) {
+                        //                       $("#byIndicator-Product-Partner").jqxDropDownList('selectIndex', 0);
+                        $('#byIndicator-Product-Partner option:eq(0)').prop('selected', true);
+                    }
+
+
+
+                    $("#partnerView").hide();
+                    $("#productView").show();
+                    $("#productView-partner").show();
+                }
+            }
+
+            // alert("setting values Ends");
+
+
+        }
+
+
+
+
+        function populateYears(dropdownId) {
+
+
+            var targetArray = $(dropdownId).attr("data-target");
+
+
+            //            var targetArray = $(dropdownId).jqxDropDownList('source');
+            targetArray = eval(targetArray);
+            //            var selectedItem = $(dropdownId).jqxDropDownList('getSelectedIndex');
+            var selectedItem = $("#byCountry_country_dropdown option:selected").index();
+
+            if (selectedItem == -1) {
+                //                initCombobox("#byCountry_year_dropdown", availableYearsForSelectedCountry, "Select Year", 250);
+                initSelectBox("#byCountry_year_dropdown", availableYearsForSelectedCountry);
+                return;
+            }
+            var yearcodestring;
+            var availableYearCodes = new Array();
+            availableYearCodes = targetArray[selectedItem]["year"].split(",");
+
+            availableYearsForSelectedCountry.length = 0
+            var i;
+            for (i = 0; i <= availableYearCodes.length - 1; i++) {
+
+                availableYearsForSelectedCountry.push(htYearCode.getItem(availableYearCodes[i]));
+
+            }
+
+
+            //            initCombobox("#byCountry_year_dropdown", availableYearsForSelectedCountry, "Select Year", 250);
+
+
+            //                $("#byCountry_year_dropdown").jqxDropDownList('clearSelection');
+            initSelectBoxYear("#byCountry_year_dropdown", availableYearsForSelectedCountry);
+
+
+            if (availableYearsForSelectedCountry.indexOf(SelectedYear) == -1) {
+
+                $('#byCountry_year_dropdown option:eq(0)').prop('selected', true);
+                //                $("#byCountry_year_dropdown").jqxDropDownList('selectIndex', 0);
+
+            }
+            else {
+
+                //                $("#byCountry_year_dropdown").jqxDropDownList('selectItem', SelectedYear);
+                $("#byCountry_year_dropdown").val(SelectedYear);
+            }
+        } // Populate years
+
+
+        /* Indicator Range year starts */
+
+        function getYeararry4ISO3FromArray(arrayName, searchLabel) {
+            var i = 0;
+            if (arrayName.length >= 0) {
+
+                for (i = 0; i < arrayName.length; i++) {
+                    if (arrayName[i].value.toUpperCase().trim() == searchLabel.toUpperCase().trim()) {
+                        return arrayName[i].year;
+                    }
+                }
+                return "";
+            }
+        }
+
+
+        function populateByIndicatorYears(dropdownId) {
+            // alert(dropdownId)
+            var targetArray = $(dropdownId).attr("data-target");
+            targetArray = eval(targetArray);
+           // var selectedItem = $(dropdownId).jqxDropDownList('getSelectedIndex');
+            var selectedItemCountry = $("#byIndicator_country_dropdown").val(); //  $("#byIndicator_country_dropdown").jqxDropDownList("getSelectedItem"); 
+            //alert(selectedItemCountry)
+            //alert(getYeararry4ISO3FromArray("countries", selectedItemCountry))
+            var yearcodestring;
+            var availableYearCodes = new Array();
+
+            //availableYearCodes = targetArray[selectedItem - 3]["year"].split(",");
+            availableYearCodes = getYeararry4ISO3FromArray(countries, selectedItemCountry).split(",");
+            availableForPeriod.length = 0
+
+            var i;
+            var startyear = htYearCode.getItem(availableYearCodes[availableYearCodes.length - 1]);
+            var endyear = htYearCode.getItem(availableYearCodes[0]);
+            if ((startyear == undefined) || (endyear == undefined)) {
+                startyear = "1988"; endyear = "2022"
+            }
+            //alert(targetArray[selectedItem-3]["label"]); alert(availableYearCodes[0]); alert(startyear); alert(availableYearCodes[availableYearCodes.length - 1]); alert(endyear);
+            for (i = startyear; i <= endyear; i++) {
+                availableForPeriod.push(i);
+                if (i >= SelectedStartyear) {
+                    availableendyearsforcountry.push(i);
+                }
+            }
+
+            //initCombobox("#byIndicator_year_Strartdropdown", availableForPeriod.sort(function (a, b) { return a - b }), "Select Year", 150);
+            //initCombobox("#byIndicator_year_Enddropdown", availableendyearsforcountry.sort(function (a, b) { return b - a }), "Select Year", 150);
+
+            initSelectBoxYear("#byIndicator_year_Strartdropdown", availableForPeriod.sort(function (a, b) { return a - b }));
+            initSelectBoxYear("#byIndicator_year_Enddropdown", availableendyearsforcountry.sort(function (a, b) { return b - a }));
+
+          //  $("#byIndicator_year_Strartdropdown").jqxDropDownList('clearSelection');
+           // $("#byIndicator_year_Enddropdown").jqxDropDownList('clearSelection');
+
+          
+
+            if (findIndexByKeyValue(availableForPeriod, SelectedStartyear.trim()) == -1) {
+                $('#byIndicator_year_Strartdropdown option:eq(0)').prop('selected', true);
+            }
+            else {
+                $("#byIndicator_year_Strartdropdown").val(SelectedStartyear);
+            }
+
+            if (findIndexByKeyValue(availableendyearsforcountry, SelectedEndyear.trim()) == -1) {
+                $('#byIndicator_year_Enddropdown option:eq(0)').prop('selected', true);
+            }
+            else {
+                $("#byIndicator_year_Enddropdown").val(SelectedEndyear);
+            }
+        } //populateByIndicatorYears
+
+
+        function populateEndyears() {
+            availableendyearsforcountry.length = 0
+
+            var SelectedSyear = $("#byIndicator_year_Strartdropdown").val(); // $("#byIndicator_year_Strartdropdown").jqxDropDownList('getSelectedItem');
+
+            for (i = 0; i < availableForPeriod.length; i++) {
+                if (availableForPeriod[i] >= SelectedSyear.value) {
+                    availableendyearsforcountry.push(availableForPeriod[i]);
+                }
+            }
+           // initCombobox("#byIndicator_year_Enddropdown", availableendyearsforcountry.sort(function (a, b) { return b - a }), "Select Year", 150);
+            initSelectBoxYear("#byIndicator_year_Enddropdown", availableendyearsforcountry.sort(function (a, b) { return b - a }));
+
+            // alert(SelectedEndyear);
+            //  alert(availableendyearsforcountry.indexOf(SelectedEndyear));
+
+            //$("#byIndicator_year_Enddropdown").jqxDropDownList('clearSelection');
+            if (findIndexByKeyValue(availableendyearsforcountry, SelectedEndyear.trim()) == -1) {
+                $('#byIndicator_year_Enddropdown option:eq(0)').prop('selected', true);
+            }
+            else {
+                $("#byIndicator_year_Enddropdown").val(SelectedEndyear);
+            }
+
+        } //populateEndyears
+
+        function findIndexByKeyValue(obj, value) {
+            for (var i = 0; i < obj.length; i++) {
+                if (obj[i] == value) {
+                    return i;
+                }
+            }
+            return -1;
+        }
+
+
+
+        /* Indicator Range year ends */
+
+
+
+
+        function doHandleChangeEvent() {
+            $("#byCountry_country_dropdown").on('change', function (event) {
+                populateYears("#byCountry_country_dropdown");
+
+            });
+
+            $("#byIndicator_country_dropdown").on('change', function (event) {
+
+                //                var SelectedReporterCountry = $("#byIndicator_country_dropdown").jqxDropDownList('getSelectedItem');
+                var SelectedReporterCountry = $("#byIndicator_country_dropdown").val();
+
+                populateByIndicatorYears("#byIndicator_country_dropdown")
+
+                // SelectedReporterCountry = "all";
+
+                if (SelectedReporterCountry.toLowerCase() == "all") {
+
+                    $("option").each(function () {
+                        if ($(this).val().toLowerCase() == "all") {
+                            $(this).attr("disabled", "disabled");
+                        }
+                    });
+
+                    //$("#byIndicator-Product-Partner").jqxDropDownList('disableItem', "WLD");
+
+                    //$("#byIndicator-Product-Partner option[value='WLD']").attr('disabled', 'disabled');
+
+                }
+                else {
+
+                    $("option").each(function () {
+                        if ($(this).val().toLowerCase() == "all") {
+                            $(this).removeAttr("disabled");
+                        }
+                    });
+
+
+
+                    //                    $("#byIndicator-Product-Partner").jqxDropDownList('enableItem', "WLD");
+                    // $("#byIndicator-Product-Partner option[value='ALL']").attr('disabled', false);
+                }
+
+
+            });
+
+            $("#byIndicator_year_Strartdropdown").on('change', function (event) {
+                populateEndyears();
+            });
+
+            $("#byIndicator-Product-Partner").on('change', function (event) {
+                var SelectedProductPartner = $("#byIndicator-Product-Partner").val();
+                //                var SelectedProductPartner = $("#byIndicator-Product-Partner").jqxDropDownList('getSelectedItem');
+                //                SelectedProductPartner = SelectedProductPartner.value
+
+                if ((SelectedProductPartner.toLowerCase() == "all") || (SelectedProductPartner.toLowerCase() == "by-country") || (SelectedProductPartner.toLowerCase() == "by-region")) {
+                    $("option").each(function () {
+                        if ($(this).val().toLowerCase() == "all") {
+                            $(this).attr("disabled", "disabled");
+                        }
+                        if ($(this).val().toLowerCase() == "by-country") {
+                            $(this).attr("disabled", "disabled");
+                        }
+                        if ($(this).val().toLowerCase() == "by-region") {
+                            $(this).attr("disabled", "disabled");
+                        }
+                    });
+                    // $("#byIndicator_country_dropdown option[value='WLD']").attr('disabled', 'disabled');
+                    //                                    $("#byIndicator_country_dropdown").jqxDropDownList('disableItem', "WLD");
+                    //                $("#selectAllTxt").hide();
+                }
+                else {
+                    $("option").each(function () {
+                        if ($(this).val().toLowerCase() == "all") {
+                            $(this).removeAttr("disabled");
+                        }
+                        if ($(this).val().toLowerCase() == "by-country") {
+                            $(this).attr("disabled", "disabled");
+                        }
+                        if ($(this).val().toLowerCase() == "by-region") {
+                            $(this).attr("disabled", "disabled");
+                        }
+                    });
+
+                    //$("#byIndicator_country_dropdown option[value='WLD']").attr('disabled', false);
+                    //                                    $("#byIndicator_country_dropdown").jqxDropDownList('enableItem', "WLD");
+                    //                $("#selectAllTxt").show();
+                }
+                //                if (SelectedProductPartner == "Partner") {
+                //                    $("#selectAllTxt").hide();
+                //                }
+                //                else {
+                //                    $("#selectAllTxt").show();
+                //                }
+
+
+            });
+
+
+
+
+
+            $("#byCountry_viewBy_dropdown").on('change', function (event) {
+                //                var selectedView = $("#byCountry_viewBy_dropdown").jqxDropDownList('getSelectedItem');
+                //                selectedView = selectedView.value;
+                var selectedView = $("#byCountry_viewBy_dropdown").val();
+                if (selectedView == "Partner") {
+                    $("#partnerView").show();
+                    $("#productView").hide();
+                    $("#productView-partner").hide();
+
+                    //                    var selectedItem = $("#partner_dropdown").jqxDropDownList('getSelectedIndex');
+                    var selectedItem = $("#partner_dropdown option:selected").index();
+
+
+                    if (selectedItem == -1) {
+                        //                        $("#partnerView").jqxDropDownList('selectIndex', 0);
+                        $("#partnerView option:eq(0)").prop('selected', true);
+                    }
+
+                }
+                else {
+                    $("#partnerView").hide();
+                    $("#productView").show();
+                    $("#productView-partner").hide();
+                    //                    var productIndex = $("#product_dropdown").jqxDropDownList('getSelectedIndex');
+                    var productIndex = $("#product_dropdown option:selected").index();
+
+                    if (productIndex == -1) {
+                        //                        $("#product_dropdown").jqxDropDownList('selectIndex', 0);
+                        $("#product_dropdown option:eq(0)").prop('selected', true);
+                    }
+                }
+
+            });
+
+
+            $("#byIndicator_viewBy_dropdown").on('change', function (event) {
+                //                var selectedView = $("#byIndicator_viewBy_dropdown").jqxDropDownList('getSelectedItem');
+                //                selectedView = selectedView.value;
+                var selectedView = $("#byIndicator_viewBy_dropdown").val();
+                if (selectedView == "Partner") {
+                    $("#partnerView").show();
+                    $("#productView").hide();
+                    $("#productView-partner").hide();
+
+                    //                    var selectedItem = $("#partner_dropdown").jqxDropDownList('getSelectedIndex');
+                    var selectedItem = $("#partner_dropdown option:selected").index();
+                    if (selectedItem == -1) {
+                        //                        $("#partnerView").jqxDropDownList('selectIndex', 0);
+                        $("#partnerView option:eq(0)").prop('selected', true);
+                    }
+
+
+                    //                    $("#byIndicator_country_dropdown").jqxDropDownList('clear');
+
+                    //                    initCombobox("#byIndicator_country_dropdown", countries, "", 250);
+                    initSelectBox("#byIndicator_country_dropdown", countries);
+
+                    //                    $("#byIndicator_country_dropdown").jqxDropDownList('selectItem', SelectedReporter);
+                    $("#byIndicator_country_dropdown").val(SelectedReporter);
+
+                    //                    var selectedItem = $("#byIndicator_country_dropdown").jqxDropDownList('getSelectedIndex');
+                    var selectedItem = $("#byIndicator_country_dropdown option:selected").index();
+                    if (selectedItem == -1) {
+                        //                        $("#byIndicator_country_dropdown").jqxDropDownList('selectIndex', 0);
+                        $("#byIndicator_country_dropdown option:eq(0)").prop('selected', true);
+                    }
+
+                    $("#selectAllTxt").hide();
+                }
+                else {
+                    $("#partnerView").hide();
+                    $("#productView").show();
+                    $("#productView-partner").show();
+                    $("#selectAllTxt").show();
+                    //                    $("#byIndicator_country_dropdown").jqxDropDownList('clear');
+                    //                    $("#byIndicator-Product-Partner").jqxDropDownList('clear');
+
+
+                    var tmpSource = [{ label: 'By Country and Region', value: 'ALL', group: 'ALL' }, { label: 'By Country', value: 'BY-COUNTRY', group: 'ALL' }, { label: 'By Region', value: 'BY-REGION', group: 'ALL'}];
+                    tmpSource.push.apply(tmpSource, countries);
+                    //                    initCombobox("#byIndicator_country_dropdown", tmpSource, "", 250);
+                    initSelectBox("#byIndicator_country_dropdown", tmpSource);
+                    var tmpProductPartnerSource = [{ label: 'By Country and Region', value: 'ALL', group: 'ALL' }, { label: 'By Country', value: 'BY-COUNTRY', group: 'ALL' }, { label: 'By Region', value: 'BY-REGION', group: 'ALL'}];
+                    tmpProductPartnerSource.push.apply(tmpProductPartnerSource, countries1);
+
+                    //                        initCombobox("#byIndicator-Product-Partner", tmpProductPartnerSource, "Select Country / Region", 250);
+                    initSelectBox("#byIndicator-Product-Partner", tmpProductPartnerSource);
+
+                    //                    $("#byIndicator_country_dropdown").jqxDropDownList('selectItem', SelectedReporter);
+                    //                    $("#byIndicator-Product-Partner").jqxDropDownList('selectItem', SelectedPartner);
+                    $("#byIndicator_country_dropdown").val(SelectedReporter);
+                    $("#byIndicator-Product-Partner").val(SelectedPartner);
+
+                    //                    var selectedItem = $("#byIndicator_country_dropdown").jqxDropDownList('getSelectedIndex');
+                    var selectedItem = $("#byIndicator_country_dropdown option:selected").index();
+
+                    if (selectedItem == -1) {
+                        //                        $("#byIndicator_country_dropdown").jqxDropDownList('selectIndex', 0);
+                        $("#byIndicator_country_dropdown option:eq(0)").prop('selected', true);
+                    }
+
+
+                    if (SelectedProduct == "") {
+                        //                        $("#product_dropdown").jqxDropDownList('selectIndex', 0);
+                        $("#product_dropdown option:eq(0)").prop('selected', true);
+                    }
+                    else {
+                        //                        $("#product_dropdown").jqxDropDownList('selectItem', SelectedProduct);
+                        $("#product_dropdown").val(SelectedProduct);
+                    }
+
+                    //                    var productIndex = $("#product_dropdown").jqxDropDownList('getSelectedIndex');
+                    var productIndex = $("#product_dropdown option:selected").index();
+
+                    if (productIndex == -1) {
+                        //                        $("#product_dropdown").jqxDropDownList('selectIndex', 0);
+                        $('#product_dropdown option:eq(0)').prop('selected', true);
+                    }
+                    var selectedItem = $("#partner_dropdown option:selected").index();
+                    if (selectedItem == -1) {
+                        $("#partner_dropdown option:eq(0)").prop('selected', true);
+                    }
+                    var selectedItem = $("#byIndicator-Product-Partner option:selected").index();
+                    if (selectedItem == -1) {
+                        $("#byIndicator-Product-Partner option:eq(0)").prop('selected', true);
+                    }
+
+
+                }
+
+            });
+
+
+
+        }
+
+
+        function buildRedirectionUrl() {
+            var url;
+            $("#updateBtn").click(function () {
+
+
+
+
+
+
+
+                var selectedView = $(".view:visible").attr("id");
+                var SelectRegion_Selected = false;
+                var SelectRange_Selected = false;
+
+                /*  #####################  Validation starts #########################  */
+
+                if (selectedView == "indicatorView") {
+                    var selectedByView = $("#byIndicator_viewBy_dropdown").val();
+                    //                    selectedByView = selectedByView.value;
+
+                    if (selectedByView == "Partner") {
+                        var IndicatorIndex = $("#byIndicator_indicator_dropdown option:selected").index();
+                        if (IndicatorIndex == -1) {
+                            alert("Please select Indicator");
+                            return false;
+                        }
+                        //                        var YearIndex = $("#byIndicator_range_dropdown option:selected").index();
+                        //                        if (YearIndex == -1) {
+                        //                            alert("Please select year.");
+                        //                            return false;
+                        //                        }
+
+                        var StartYearIndex = $("#byIndicator_year_Strartdropdown option:selected").index();
+                        if (StartYearIndex == -1) {
+                            alert("Please select Start Year");
+                            return false;
+                        }
+
+                        var EndYearIndex = $("#byIndicator_year_Enddropdown option:selected").index();
+                        if (EndYearIndex == -1) {
+                            alert("Please select End Year");
+                            return false;
+                        }
+
+
+                        var selectedbyviewIndex = $("#byIndicator_viewBy_dropdown option:selected").index();
+                        if (selectedbyviewIndex == -1) {
+                            alert("Please select view by");
+                            return false;
+                        }
+                        var ReportercountryIndex = $("#byIndicator_country_dropdown option:selected").index();
+                        if (ReportercountryIndex == -1) {
+                            alert("Please select Reporter Country / Region");
+                            return false;
+                        }
+                        var PartnercountryIndex = $("#partner_dropdown option:selected").index();
+                        if (PartnercountryIndex == -1) {
+                            alert("Pleae select partner Country / Region");
+                            return false;
+                        }
+
+
+                    }
+                    else if (selectedByView == "Product") {
+
+                        var IndicatorIndex = $("#byIndicator_indicator_dropdown option:selected").index();
+                        if (IndicatorIndex == -1) {
+                            alert("Please select Indicator");
+                            return false;
+                        }
+                        //                        var YearIndex = $("#byIndicator_range_dropdown option:selected").index();
+                        //                        if (YearIndex == -1) {
+                        //                            alert("Please select year.");
+                        //                            return false;
+                        //                        }
+
+                        var StartYearIndex = $("#byIndicator_year_Strartdropdown option:selected").index();
+                        if (StartYearIndex == -1) {
+                            alert("Please select Start Year");
+                            return false;
+                        }
+
+                        var EndYearIndex = $("#byIndicator_year_Enddropdown option:selected").index();
+                        if (EndYearIndex == -1) {
+                            alert("Please select End Year");
+                            return false;
+                        }
+
+                        var selectedbyviewIndex = $("#byIndicator_viewBy_dropdown option:selected").index();
+                        if (selectedbyviewIndex == -1) {
+                            alert("Please select view by");
+                            return false;
+                        }
+                        var ReportercountryIndex = $("#byIndicator_country_dropdown option:selected").index();
+                        if (ReportercountryIndex == -1) {
+                            alert("Please select Reporter Country / Region");
+                            return false;
+                        }
+                        var ProductIndex = $("#product_dropdown option:selected").index();
+                        if (ProductIndex == -1) {
+                            alert("Pleae select partner Country / Region");
+                            return false;
+                        }
+                        var PartnercountryIndex = $("#byIndicator-Product-Partner option:selected").index();
+                        if (PartnercountryIndex == -1) {
+                            alert("Please select partner");
+                            return false;
+                        }
+
+
+                    }
+
+                } //if (selectedView == "indicatorView") {
+
+                else if (selectedView == "countryView") {
+
+                    var selectedByView = $("#byCountry_viewBy_dropdown option:selected").index();
+
+
+                    if (selectedByView == "Partner") {
+
+                        var ReportercountryIndex = $("#byCountry_country_dropdown option:selected").index();
+                        if (ReportercountryIndex == -1) {
+                            alert("Pelease select Reporter Country / Region.");
+                            return false;
+                        }
+                        var YearIndex = $("#byCountry_year_dropdown option:selected").index();
+                        if (YearIndex == -1) {
+                            alert("Please select year");
+                            return false;
+                        }
+                        var TradeFlowIndex = $("#byCountry_tradeFlow_dropdown option:selected").index();
+                        if (TradeFlowIndex == -1) {
+                            alert("Please select Trade Flow");
+                            return false;
+                        }
+                        var selectedbyviewIndex = $("#byCountry_viewBy_dropdown option:selected").index();
+                        if (selectedbyviewIndex == -1) {
+                            alert("Please select view by");
+                            return false;
+                        }
+                        var PartnercountryIndex = $("#partner_dropdown option:selected").index();
+                        if (PartnercountryIndex == -1) {
+                            alert("Please select Partner country / Region");
+                            return false;
+                        }
+                    }
+                    else if (selectedByView == "Product") {
+
+                        var ReportercountryIndex = $("#byCountry_country_dropdown option:selected").index();
+                        if (ReportercountryIndex == -1) {
+                            alert("Pelease select Reporter Country / Region.");
+                            return false;
+                        }
+                        var YearIndex = $("#byCountry_year_dropdown option:selected").index();
+                        if (YearIndex == -1) {
+                            alert("Please select year");
+                            return false;
+                        }
+                        var TradeFlowIndex = $("#byCountry_tradeFlow_dropdown option:selected").index();
+                        if (TradeFlowIndex == -1) {
+                            alert("Please select Trade Flow");
+                            return false;
+                        }
+                        var selectedbyviewIndex = $("#byCountry_viewBy_dropdown option:selected").index();
+                        if (selectedbyviewIndex == -1) {
+                            alert("Please select view by");
+                            return false;
+                        }
+                        var ProductIndex = $("#product_dropdown option:selected").index();
+                        if (ProductIndex == -1) {
+                            alert("Please select Product");
+                            return false;
+                        }
+
+                    }
+                } // else if (selectedView == "countryView")
+                /*  #####################  Validation Ends #########################  */
+
+
+                if (selectedView == "countryView") {
+
+                    var countryView_selectedCountry = $("#byCountry_country_dropdown").val()
+                    // var countryView_selectedRegion = $("#byCountry_region_dropdown").jqxDropDownList("getSelectedItem");
+                    var countryView_selectedYear = $("#byCountry_year_dropdown").val();
+
+                    if (countryView_selectedCountry != null) {
+                        SelectedYear = countryView_selectedYear;
+                    }
+
+                    else {
+                        alert("Please select Country / Region.");
+                        $("#byCountry_country_dropdown").focus();
+                        return false;
+                    }
+                    var countryView_selectedTradeFlow = $("#byCountry_tradeFlow_dropdown").val();
+                    SelectedTradeFlow = countryView_selectedTradeFlow;
+
+                    if (countryView_selectedCountry != null) {
+                        SelectedReporter = countryView_selectedCountry;
+                    }
+                    if (strLanguage.toLowerCase() == "en") {
+                        url = "/CountryProfile/en/Country/" + SelectedReporter + "/Year/" + SelectedYear + "/TradeFlow/" + SelectedTradeFlow;
+                    } if (strLanguage.toLowerCase() == "es") {
+                        url = "/CountryProfile/es/Country/" + SelectedReporter + "/Year/" + SelectedYear + "/TradeFlow/" + SelectedTradeFlow;
+                    }
+                    var selectedByView = $("#byCountry_viewBy_dropdown").val()
+
+
+                }
+                else if (selectedView == "indicatorView") {
+                    var indicatorView_selectedCountry = $("#byIndicator_country_dropdown").val();
+                    // var indicatorView_selectedRegion = $("#byIndicator_region_dropdown").jqxDropDownList("getSelectedItem");
+
+                    // var indicatorView_selectedRange = $("#byIndicator_range_dropdown").val();
+
+                    var indicatorView_selectedStartyear = $("#byIndicator_year_Strartdropdown").val();
+                    var indicatorView_selectedEndyear = $("#byIndicator_year_Enddropdown").val();
+
+                    var indicatorView_selectedIndicator = $("#byIndicator_indicator_dropdown").val();
+
+
+
+
+                    if (indicatorView_selectedCountry != null) {
+                        SelectedReporter = indicatorView_selectedCountry;
+                    }
+                    else {
+                        SelectedReporter = "ALL";
+
+                    }
+
+                    //selectedRange = indicatorView_selectedRange;
+                   // selectedRange = selectedRange.split("-");
+                    var startYear = indicatorView_selectedStartyear;  //selectedRange[0];
+                    var endYear = indicatorView_selectedEndyear; // selectedRange[1];
+
+                    SelectedTradeFlow = indicatorView_selectedIndicator.split("~")[0];
+                    SelectedIndicator = indicatorView_selectedIndicator.split("~")[1];
+                    if (strLanguage.toLowerCase() == "en") {
+                        url = "/CountryProfile/en/Country/" + SelectedReporter + "/StartYear/" + startYear + "/EndYear/" + endYear + "/TradeFlow/" + SelectedTradeFlow + "/Indicator/" + SelectedIndicator.replace("%", "`");
+                    } else if (strLanguage.toLowerCase() == "es") {
+                        url = "/CountryProfile/es/Country/" + SelectedReporter + "/StartYear/" + startYear + "/EndYear/" + endYear + "/TradeFlow/" + SelectedTradeFlow + "/Indicator/" + SelectedIndicator.replace("%", "`");
+                    }
+                    var selectedByView = $("#byIndicator_viewBy_dropdown").val();
+
+
+                }
+
+                if (selectedByView == "Partner") {
+                    var selectedProductGroup = "all-groups";     //$("#productGroup_dropdown").jqxDropDownList('getSelectedItem');
+                    SelectedProductGroup = "all-groups";  //selectedProductGroup.value;
+
+                    var selectedPartner = $("#partner_dropdown").val();
+
+
+                    // var selectedPartnerGroup = $("#partnerGroup_dropdown").jqxDropDownList('getSelectedItem');
+
+                    if (selectedPartner != null) {
+
+                        SelectedPartner = selectedPartner;
+                    }
+                    else {
+                        //SelectedPartner = selectedPartnerGroup.value;
+                    }
+
+                    url = url + "/Partner/" + SelectedPartner + "/Product/" + SelectedProductGroup;
+
+                }
+                else {
+
+                    if (selectedView == "indicatorView") {
+                        var SelectedProduct = $("#product_dropdown").val();
+
+                        var selectedProductPartner = $("#byIndicator-Product-Partner").val();
+                        if (selectedProductPartner == null) {
+
+                            selectedProductPartner = "ALL";
+                        }
+                        url = url + "/Partner/" + selectedProductPartner + "/Product/" + SelectedProduct;
+                    }
+                    else {
+
+                        var SelectedProduct = $("#product_dropdown").val();
+
+
+                        url = url + "/Partner/ALL/Product/" + SelectedProduct;
+                    }
+                }
+
+
+                if (!SelectRegion_Selected) {
+                    $('#changeDropdownModal').modal('hide')
+                    $("#pageContent").css("visibility", "hidden");
+                    $(".loader").show();
+                    window.location.assign(Svrpath + "" + url);
+                }
+
+                if (SelectRegion_Selected) {
+                    $(".alert1").show();
+
+                }
+            });
+
+            $("#cancelBtn").click(function () {
+                setDropdownValues();
+            });
+        }
+
+        function showHideTxt(stview) {
+            if (stview == "indicatorView") {
+                $(".fullTxt").show();
+                $(".breifTxt").hide();
+            }
+            if (stview == "countryView") {
+                $(".fullTxt").hide();
+                $(".breifTxt").show();
+            }
+        }
+
+        //                initMobileDropdown2(dropdownId, dropdownSource, itemSelected) {
+        //  function initSelectBox(dropdownId, dropdownSource, placeholder, popupwidth) {
+
+        function initSelectBox(dropdownId, dropdownSource) {
+
+            var options = "";
+            for (var i = 0; i < dropdownSource.length; i++) {
+
+                options = options + "<option value='" + dropdownSource[i]["value"] + "'>" + dropdownSource[i]["label"] + "</option>";
+
+            }
+
+            $(dropdownId).html(options);
+        }
+
+        function initSelectBoxYear(dropdownId, dropdownSource) {
+
+            var options = "";
+            for (var i = 0; i < dropdownSource.length; i++) {
+
+                options = options + "<option value='" + dropdownSource[i] + "'>" + dropdownSource[i] + "</option>";
+
+            }
+
+            $(dropdownId).html(options);
+        }
+    </script>
+</body>
+</html>
