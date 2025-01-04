@@ -309,6 +309,7 @@ country_codes = {
     "Zimbabwe": "ZWE"
 }
 
+
 capital_to_country = {
     "Abuja": "NGA",
     "Accra": "GHA",
@@ -375,13 +376,13 @@ capital_to_country = {
     "Nouakchott": "MRT",
     "Nuuk": "GRL",
     "Oslo": "NOR",
-    "Ottawa": "CAN",
+    "Ottawa": "CAN",---
     "Ouagadougou": "BFA",
     "Paris": "FRA",
     "PortMoresby": "PNG",
-    "Pretoria": "ZAF",
+    "Pretoria": "ZAF",---
     "Quito": "ECU",
-    "Rabat": "MAR",
+    "Rabat": "MAR",---
     "Riyadh": "SAU",
     "Rome": "ITA",
     "Sanaa": "YEM",
@@ -399,3 +400,4 @@ capital_to_country = {
     "Yamoussoukro": "CIV",
     "Yaoundé": "CMR"
 }
+ 

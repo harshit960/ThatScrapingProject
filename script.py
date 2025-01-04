@@ -14,13 +14,13 @@ driver = webdriver.Chrome(options=options)
 
 
 def scrape_data(country, year, product_code):
-    url = f"https://wits.worldbank.org//CountryProfile/en/Country/{country}/Year/{year}/TradeFlow/Import/Partner/ALL/Product/{product_code}"
+    url = f"https://wits.worldbank.org//CountryProfile/en/Country/{country}/Year/{year}/TradeFlow/Export/Partner/ALL/Product/{product_code}"
 
     # Open the URL
     driver.get(url)
 
     # Wait for the page to load (this is to ensure the JavaScript variables are available)
-    # time.sleep(2)  # Adding a delay to ensure the page loads completely
+    # time.sleep(5)  # Adding a delay to ensure the page loads completely
 
     # Extract 'partnerChartData' JavaScript variable from the page
     partner_data = driver.execute_script("return window.partnerChartData")
@@ -72,8 +72,8 @@ product_code = [
     "90-99_Miscellan"
 ]
 
-country = ["CMR"]
-year = generate_years(1995, 2021)
+country = ["CAN"]
+year = generate_years(1989, 2022)
 
 def export_to_csv(partner_data, year, product_code):
     # Open a CSV file to append data

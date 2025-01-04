@@ -9,13 +9,13 @@ import time
 # Read the CSV file
 count = 0
 success = 0
-folder_path = "output"
+folder_path = "expout"
 # print(os.listdir(folder_path))
-# for file_name in os.listdir(folder_path):
-for file_name in ['Abuja.csv', 'Accra.csv', 'AddisAbaba.csv', 'Algiers.csv', 'Ankara.csv', 'Antananarivo.csv', 'Ashgabat.csv', 'Astana.csv', 'Asunción.csv', 'Baghdad.csv', 'Bamako.csv', 'Bangkok.csv', 'Bangui.csv', 'Beijing.csv', 'Berlin.csv', 'Bishkek.csv', 'Bogota.csv', 'Bogotá.csv', 'Brasília.csv', 'Brazzaville.csv', 'Bucharest.csv', 'BuenosAires.csv', 'Cairo.csv', 'Canberra.csv', 'Caracas.csv', 'Conakry.csv', 'Copenhagen.csv', 'Dakar.csv', 'Damascus.csv', 'Dodoma.csv', 'Gaborone.csv', 'Georgetown.csv', 'Hanoi.csv', 'Harare.csv', 'Helsinki.csv', 'Islamabad.csv', 'Jakarta.csv', 'Kabul.csv', 'Kampala.csv', 'Khartoum.csv', 'Kinshasa.csv', 'KualaLumpur.csv', 'Kyiv.csv', 'LaPaz.csv', 'Libreville.csv', 'London.csv', 'Luanda.csv', 'Lusaka.csv', 'Madrid.csv', 'Manila.csv', 'Maputo.csv', 'MexicoCity.csv', 'Minsk.csv', 'Montevideo.csv', 'Moscow.csv', 'Muscat.csv', "N'Djamena.csv", 'Nairobi.csv', 'NAM.csv', 'Naypyidaw.csv', 'NewDelhi.csv', 'Niamey.csv', 'Nicosia.csv', 'Nouakchott.csv', 'Nuuk.csv', 'Oslo.csv', 'Ottawa.csv', 'Ouagadougou.csv', 'Paris.csv', 'POL.csv', 'PortMoresby.csv', 'Pretoria.csv', 'Quito.csv', 'Rabat.csv', 'Riyadh.csv', 'Rome.csv', 'Sanaa.csv', 'Santiago.csv', 'Stockholm.csv', 'Tashkent.csv', 'Tehran.csv', 'testtt.csv', 'Tokyo.csv', 'Tripoli.csv', 'Tunis.csv', 'Ulaanbaatar.csv', 'WashingtonDC.csv', 'Wellington.csv', 'Yamoussoukro.csv', 'Yaoundé.csv']:
+for file_name in os.listdir(folder_path):
+# for file_name in ['Abuja.csv', 'Accra.csv', 'AddisAbaba.csv', 'Algiers.csv', 'Ankara.csv', 'Antananarivo.csv', 'Ashgabat.csv', 'Astana.csv', 'Asunción.csv', 'Baghdad.csv', 'Bamako.csv', 'Bangkok.csv', 'Bangui.csv', 'Beijing.csv', 'Berlin.csv', 'Bishkek.csv', 'Bogota.csv', 'Bogotá.csv', 'Brasília.csv', 'Brazzaville.csv', 'Bucharest.csv', 'BuenosAires.csv', 'Cairo.csv', 'Canberra.csv', 'Caracas.csv', 'Conakry.csv', 'Copenhagen.csv', 'Dakar.csv', 'Damascus.csv', 'Dodoma.csv', 'Gaborone.csv', 'Georgetown.csv', 'Hanoi.csv', 'Harare.csv', 'Helsinki.csv', 'Islamabad.csv', 'Jakarta.csv', 'Kabul.csv', 'Kampala.csv', 'Khartoum.csv', 'Kinshasa.csv', 'KualaLumpur.csv', 'Kyiv.csv', 'LaPaz.csv', 'Libreville.csv', 'London.csv', 'Luanda.csv', 'Lusaka.csv', 'Madrid.csv', 'Manila.csv', 'Maputo.csv', 'MexicoCity.csv', 'Minsk.csv', 'Montevideo.csv', 'Moscow.csv', 'Muscat.csv', "N'Djamena.csv", 'Nairobi.csv', 'NAM.csv', 'Naypyidaw.csv', 'NewDelhi.csv', 'Niamey.csv', 'Nicosia.csv', 'Nouakchott.csv', 'Nuuk.csv', 'Oslo.csv', 'Ottawa.csv', 'Ouagadougou.csv', 'Paris.csv', 'POL.csv', 'PortMoresby.csv', 'Pretoria.csv', 'Quito.csv', 'Rabat.csv', 'Riyadh.csv', 'Rome.csv', 'Sanaa.csv', 'Santiago.csv', 'Stockholm.csv', 'Tashkent.csv', 'Tehran.csv', 'testtt.csv', 'Tokyo.csv', 'Tripoli.csv', 'Tunis.csv', 'Ulaanbaatar.csv', 'WashingtonDC.csv', 'Wellington.csv', 'Yamoussoukro.csv', 'Yaoundé.csv']:
     data = {"Main Partners": defaultdict(lambda: {"Imports": defaultdict(dict)})}
     print(file_name)
-    with open("output/" + file_name, mode="r",encoding='latin-1') as file:
+    with open("expout/" + file_name, mode="r",encoding='latin-1') as file:
         reader = csv.reader(file)
         for row in reader:
             try:
@@ -68,7 +68,7 @@ for file_name in ['Abuja.csv', 'Accra.csv', 'AddisAbaba.csv', 'Algiers.csv', 'An
         )
 
     output_json_file = (
-        "json/" + file_name.replace(".csv", ".json")
+        "expjson/" + file_name.replace(".csv", ".json")
     )  # Use the same directory and name as the CSV file
     with open(output_json_file, "w", encoding="utf-8") as json_file:
         json.dump(data, json_file, indent=4)

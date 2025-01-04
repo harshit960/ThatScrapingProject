@@ -1,0 +1,988 @@
+{
+    "Main Partners": {
+        "2015": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Congo, Rep.": "60.75",
+                    "Cote dIvoire": "26.89",
+                    "Angola": "6.29",
+                    "Rwanda": "2.28",
+                    "Zambia": "1.69"
+                },
+                "Vegetable Products": {
+                    "Belgium": "33.37",
+                    "Switzerland": "24.18",
+                    "India": "10.88",
+                    "Germany": "4.01",
+                    "Indonesia": "3.26"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "Germany": "31.05",
+                    "Netherlands": "9.02",
+                    "Spain": "8.49",
+                    "Uganda": "8.14",
+                    "Switzerland": "7.36"
+                },
+                "Mineral Products": {
+                    "Zambia": "54.04",
+                    "China": "28.70",
+                    "South Africa": "8.28",
+                    "United Arab Emirates": "2.57",
+                    "Luxembourg": "2.51"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "South Africa": "73.40",
+                    "Tanzania": "12.52",
+                    "China": "7.72",
+                    "United Arab Emirates": "5.64",
+                    "Zambia": "0.59"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Malaysia": "69.89",
+                    "Mauritius": "12.68",
+                    "Switzerland": "3.10",
+                    "Uganda": "2.50",
+                    "United Arab Emirates": "2.08"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Rwanda": "51.85",
+                    "China": "20.72",
+                    "Uganda": "11.54",
+                    "Slovak Republic": "5.32",
+                    "South Africa": "4.42"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "China": "30.06",
+                    "Kenya": "18.25",
+                    "France": "8.95",
+                    "Portugal": "6.91",
+                    "Uganda": "6.86"
+                },
+                "Textiles and Textile Articles": {
+                    "Burundi": "84.75",
+                    "Belgium": "2.29",
+                    "United States": "2.29",
+                    "Angola": "1.58",
+                    "Spain": "0.99"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Angola": "18.25",
+                    "Senegal": "14.52",
+                    "Belgium": "14.42",
+                    "Turkey": "8.34",
+                    "Germany": "7.75"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Uganda": "59.31",
+                    "United Arab Emirates": "28.87",
+                    "Ghana": "3.11",
+                    "South Africa": "2.10",
+                    "India": "1.74"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "South Africa": "35.89",
+                    "Tanzania": "28.29",
+                    "China": "12.61",
+                    "Zambia": "9.28",
+                    "Switzerland": "6.04"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "South Africa": "39.17",
+                    "Tanzania": "32.88",
+                    "China": "9.66",
+                    "Switzerland": "7.58",
+                    "United Arab Emirates": "5.16"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "South Africa": "46.05",
+                    "Zambia": "30.69",
+                    "Egypt, Arab Rep.": "4.07",
+                    "Canada": "2.08",
+                    "Tanzania": "1.76"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "South Africa": "22.48",
+                    "Bangladesh": "22.17",
+                    "Uruguay": "13.00",
+                    "Egypt, Arab Rep.": "10.29",
+                    "India": "8.07"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "South Africa": "65.15",
+                    "Tanzania": "13.25",
+                    "China": "7.37",
+                    "United Arab Emirates": "4.89",
+                    "Finland": "3.90"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Egypt, Arab Rep.": "39.39",
+                    "Bangladesh": "12.21",
+                    "Jordan": "11.19",
+                    "South Africa": "9.72",
+                    "Malawi": "9.07"
+                }
+            }
+        },
+        "2016": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Zambia": "69.87",
+                    "Belgium": "14.92",
+                    "Namibia": "10.96",
+                    "Zimbabwe": "1.08",
+                    "Angola": "0.98"
+                },
+                "Vegetable Products": {
+                    "Belgium": "33.01",
+                    "Switzerland": "28.48",
+                    "Germany": "7.61",
+                    "Italy": "5.18",
+                    "India": "4.64"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "Germany": "42.64",
+                    "Spain": "11.99",
+                    "Morocco": "8.45",
+                    "Switzerland": "7.97",
+                    "Belgium": "6.65"
+                },
+                "Mineral Products": {
+                    "Zambia": "69.67",
+                    "China": "17.63",
+                    "United Arab Emirates": "3.20",
+                    "South Africa": "2.89",
+                    "Malaysia": "1.50"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "South Africa": "82.32",
+                    "China": "12.09",
+                    "United Arab Emirates": "2.69",
+                    "Tanzania": "2.52",
+                    "Zambia": "0.18"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Malaysia": "60.70",
+                    "Mauritius": "14.76",
+                    "Turkey": "4.96",
+                    "Uganda": "4.64",
+                    "Bangladesh": "2.65"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Rwanda": "39.76",
+                    "Cameroon": "16.85",
+                    "Uganda": "11.03",
+                    "China": "9.45",
+                    "Hong Kong, China": "9.32"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "China": "34.73",
+                    "Vietnam": "13.82",
+                    "Kenya": "12.33",
+                    "France": "6.98",
+                    "Belgium": "5.66"
+                },
+                "Textiles and Textile Articles": {
+                    "Uganda": "49.83",
+                    "Burundi": "22.60",
+                    "Bangladesh": "4.48",
+                    "Germany": "2.84",
+                    "Angola": "2.53"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Bangladesh": "37.63",
+                    "Burkina Faso": "14.24",
+                    "Sudan": "11.70",
+                    "Angola": "7.48",
+                    "France": "7.29"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Uganda": "51.55",
+                    "Zambia": "39.12",
+                    "Tanzania": "2.12",
+                    "United Arab Emirates": "2.08",
+                    "Cameroon": "1.89"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "South Africa": "52.32",
+                    "China": "12.09",
+                    "Tanzania": "12.08",
+                    "Zambia": "11.98",
+                    "United Arab Emirates": "5.40"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "South Africa": "61.30",
+                    "Tanzania": "15.93",
+                    "China": "10.82",
+                    "United Arab Emirates": "5.73",
+                    "Switzerland": "4.19"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "South Africa": "33.71",
+                    "Zambia": "23.25",
+                    "Bangladesh": "7.54",
+                    "Belgium": "6.55",
+                    "Rwanda": "3.57"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "South Africa": "46.86",
+                    "Bangladesh": "14.62",
+                    "Uganda": "13.58",
+                    "Togo": "5.35",
+                    "Zambia": "3.90"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "South Africa": "76.82",
+                    "China": "11.30",
+                    "Tanzania": "6.57",
+                    "United Arab Emirates": "2.47",
+                    "Zambia": "0.65"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Uganda": "28.90",
+                    "South Africa": "24.39",
+                    "Bangladesh": "9.92",
+                    "Malawi": "8.41",
+                    "Belgium": "5.83"
+                }
+            }
+        },
+        "2017": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Angola": "48.89",
+                    "Uganda": "21.32",
+                    "France": "6.23",
+                    "Saudi Arabia": "3.10",
+                    "Rwanda": "2.85"
+                },
+                "Vegetable Products": {
+                    "Belgium": "29.27",
+                    "Switzerland": "17.63",
+                    "Singapore": "8.95",
+                    "Congo, Rep.": "7.62",
+                    "Germany": "7.44"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "Indonesia": "27.93",
+                    "Netherlands": "15.19",
+                    "India": "9.81",
+                    "Spain": "8.88",
+                    "Morocco": "6.25"
+                },
+                "Mineral Products": {
+                    "Zambia": "42.39",
+                    "China": "36.35",
+                    "United Arab Emirates": "8.47",
+                    "Singapore": "5.83",
+                    "South Africa": "2.60"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "South Africa": "78.44",
+                    "China": "13.75",
+                    "United Arab Emirates": "6.06",
+                    "Zambia": "0.84",
+                    "Tanzania": "0.79"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Malaysia": "61.37",
+                    "Mauritius": "17.19",
+                    "Belgium": "5.21",
+                    "Uganda": "3.15",
+                    "Turkey": "3.15"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Uganda": "29.20",
+                    "Rwanda": "15.55",
+                    "Togo": "10.20",
+                    "Belgium": "8.95",
+                    "Uruguay": "8.37"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Vietnam": "33.53",
+                    "China": "25.19",
+                    "Kenya": "7.24",
+                    "Uganda": "5.95",
+                    "Belgium": "5.88"
+                },
+                "Textiles and Textile Articles": {
+                    "Burundi": "45.39",
+                    "Angola": "9.68",
+                    "Belgium": "8.12",
+                    "Uganda": "7.40",
+                    "Zambia": "4.91"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Angola": "57.91",
+                    "South Africa": "10.40",
+                    "France": "6.40",
+                    "Nigeria": "5.59",
+                    "Zambia": "5.13"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Zambia": "50.91",
+                    "Angola": "36.42",
+                    "Tanzania": "3.06",
+                    "India": "2.51",
+                    "Germany": "1.51"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "South Africa": "41.69",
+                    "China": "18.47",
+                    "Zambia": "9.58",
+                    "Singapore": "8.76",
+                    "United Arab Emirates": "7.64"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "South Africa": "51.95",
+                    "China": "13.10",
+                    "Singapore": "9.41",
+                    "Switzerland": "7.36",
+                    "United Arab Emirates": "7.29"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "South Africa": "23.80",
+                    "Zambia": "12.26",
+                    "Botswana": "7.58",
+                    "Uganda": "7.57",
+                    "Rwanda": "6.75"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "South Africa": "21.25",
+                    "Rwanda": "12.94",
+                    "Nepal": "11.46",
+                    "United Kingdom": "11.27",
+                    "India": "10.00"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "South Africa": "76.35",
+                    "China": "13.34",
+                    "United Arab Emirates": "5.92",
+                    "Tanzania": "2.65",
+                    "Zambia": "0.93"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Tanzania": "30.27",
+                    "South Africa": "25.88",
+                    "India": "18.24",
+                    "Uruguay": "6.92",
+                    "France": "4.48"
+                }
+            }
+        },
+        "2018": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Uganda": "27.70",
+                    "France": "11.88",
+                    "Hong Kong, China": "11.29",
+                    "Rwanda": "8.72",
+                    "Thailand": "6.73"
+                },
+                "Vegetable Products": {
+                    "Belgium": "32.64",
+                    "Italy": "11.93",
+                    "India": "11.79",
+                    "Switzerland": "8.87",
+                    "Germany": "8.27"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "Indonesia": "25.67",
+                    "Netherlands": "23.96",
+                    "Switzerland": "7.97",
+                    "India": "6.74",
+                    "Belgium": "5.95"
+                },
+                "Mineral Products": {
+                    "Zambia": "45.39",
+                    "China": "41.28",
+                    "United Arab Emirates": "8.95",
+                    "Thailand": "1.65",
+                    "Hong Kong, China": "0.61"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "South Africa": "78.11",
+                    "China": "13.86",
+                    "United Arab Emirates": "6.76",
+                    "Zambia": "1.20",
+                    "Angola": "0.03"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Malaysia": "62.22",
+                    "Mauritius": "15.64",
+                    "Uganda": "4.03",
+                    "Turkey": "3.04",
+                    "Angola": "2.63"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Belgium": "15.95",
+                    "Ghana": "11.82",
+                    "Uganda": "11.63",
+                    "Rwanda": "8.37",
+                    "Kenya": "8.14"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "Vietnam": "30.47",
+                    "China": "26.52",
+                    "Kenya": "6.39",
+                    "Uganda": "5.68",
+                    "Pakistan": "4.79"
+                },
+                "Textiles and Textile Articles": {
+                    "Belgium": "17.03",
+                    "Burundi": "14.95",
+                    "Uganda": "8.18",
+                    "Angola": "7.25",
+                    "Canada": "5.30"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Zimbabwe": "35.84",
+                    "Angola": "24.29",
+                    "Nigeria": "19.58",
+                    "France": "4.24",
+                    "Uganda": "3.59"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "South Africa": "40.52",
+                    "United Arab Emirates": "35.36",
+                    "Belgium": "19.68",
+                    "India": "3.07",
+                    "Israel": "0.72"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "South Africa": "25.16",
+                    "China": "24.27",
+                    "Tanzania": "14.71",
+                    "Zambia": "11.15",
+                    "Singapore": "7.75"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "South Africa": "32.21",
+                    "China": "19.73",
+                    "Tanzania": "18.80",
+                    "Singapore": "9.82",
+                    "Switzerland": "6.18"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "South Africa": "37.65",
+                    "Zambia": "18.63",
+                    "Rwanda": "10.37",
+                    "Belgium": "7.41",
+                    "Angola": "3.28"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "South Africa": "27.78",
+                    "Ghana": "27.07",
+                    "Kenya": "13.71",
+                    "Belgium": "7.16",
+                    "Morocco": "6.89"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "South Africa": "77.22",
+                    "China": "13.66",
+                    "United Arab Emirates": "7.15",
+                    "Zambia": "1.28",
+                    "Belgium": "0.31"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "South Africa": "20.91",
+                    "Tanzania": "19.09",
+                    "Morocco": "15.70",
+                    "Belgium": "6.00",
+                    "Zambia": "5.30"
+                }
+            }
+        },
+        "2019": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Angola": "35.68",
+                    "France": "29.37",
+                    "Zimbabwe": "11.98",
+                    "Canada": "4.37",
+                    "Zambia": "3.71"
+                },
+                "Vegetable Products": {
+                    "Belgium": "24.56",
+                    "India": "14.75",
+                    "Germany": "13.20",
+                    "Italy": "9.96",
+                    "Indonesia": "6.02"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "Indonesia": "25.90",
+                    "India": "22.18",
+                    "Uganda": "10.60",
+                    "United States": "7.52",
+                    "Belgium": "6.97"
+                },
+                "Mineral Products": {
+                    "China": "46.29",
+                    "Zambia": "40.33",
+                    "United Arab Emirates": "3.86",
+                    "Malaysia": "3.42",
+                    "South Africa": "2.24"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "South Africa": "52.48",
+                    "China": "15.74",
+                    "Finland": "12.96",
+                    "United Arab Emirates": "6.26",
+                    "Singapore": "3.40"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Malaysia": "73.84",
+                    "Mauritius": "5.39",
+                    "Uganda": "3.48",
+                    "Botswana": "2.83",
+                    "Turkey": "2.76"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Burundi": "94.46",
+                    "Germany": "1.68",
+                    "France": "1.42",
+                    "Angola": "0.53",
+                    "South Africa": "0.51"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "China": "42.20",
+                    "Vietnam": "31.84",
+                    "Uganda": "3.95",
+                    "France": "3.05",
+                    "Kenya": "2.17"
+                },
+                "Textiles and Textile Articles": {
+                    "Congo, Rep.": "26.46",
+                    "Belgium": "13.98",
+                    "Uganda": "11.01",
+                    "Bangladesh": "10.97",
+                    "Burundi": "9.11"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Egypt, Arab Rep.": "29.78",
+                    "Tanzania": "23.22",
+                    "Congo, Rep.": "12.19",
+                    "Angola": "11.58",
+                    "Israel": "4.34"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United Arab Emirates": "50.70",
+                    "China": "21.66",
+                    "Belgium": "13.19",
+                    "South Africa": "10.29",
+                    "India": "2.99"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "China": "32.47",
+                    "Tanzania": "18.24",
+                    "South Africa": "16.57",
+                    "Zambia": "9.33",
+                    "United Arab Emirates": "6.82"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "China": "30.31",
+                    "Tanzania": "21.53",
+                    "South Africa": "19.18",
+                    "Singapore": "7.52",
+                    "United Arab Emirates": "6.43"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "South Africa": "43.08",
+                    "Belgium": "6.68",
+                    "Zambia": "6.52",
+                    "Tanzania": "5.63",
+                    "France": "5.26"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Uganda": "24.87",
+                    "South Africa": "21.47",
+                    "France": "17.50",
+                    "Tanzania": "7.35",
+                    "Belgium": "6.03"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "South Africa": "50.90",
+                    "China": "15.10",
+                    "Finland": "12.42",
+                    "United Arab Emirates": "6.96",
+                    "Singapore": "3.98"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "South Africa": "24.36",
+                    "Tanzania": "16.25",
+                    "Uganda": "14.27",
+                    "Morocco": "12.26",
+                    "United Kingdom": "5.37"
+                }
+            }
+        },
+        "2020": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Korea, Rep.": "74.12",
+                    "Angola": "13.97",
+                    "Canada": "3.95",
+                    "France": "3.20",
+                    "United States": "1.49"
+                },
+                "Vegetable Products": {
+                    "Belgium": "21.05",
+                    "India": "20.20",
+                    "Germany": "20.14",
+                    "Italy": "6.57",
+                    "United States": "4.91"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "India": "21.08",
+                    "Indonesia": "18.33",
+                    "Netherlands": "8.90",
+                    "Uganda": "8.83",
+                    "Belgium": "8.64"
+                },
+                "Mineral Products": {
+                    "Zambia": "61.07",
+                    "China": "18.46",
+                    "Malaysia": "6.37",
+                    "Thailand": "5.54",
+                    "United Arab Emirates": "4.75"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "China": "35.07",
+                    "South Africa": "23.77",
+                    "Mozambique": "15.96",
+                    "Zambia": "9.31",
+                    "United Arab Emirates": "6.20"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Malaysia": "76.18",
+                    "Turkey": "5.34",
+                    "Uganda": "4.18",
+                    "Romania": "3.13",
+                    "Zambia": "1.63"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Burundi": "90.99",
+                    "Chad": "1.98",
+                    "Croatia": "1.24",
+                    "Namibia": "0.94",
+                    "Thailand": "0.78"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "China": "51.85",
+                    "Vietnam": "28.21",
+                    "Uganda": "3.32",
+                    "France": "2.54",
+                    "Pakistan": "2.15"
+                },
+                "Textiles and Textile Articles": {
+                    "Morocco": "29.16",
+                    "Cote dIvoire": "17.99",
+                    "Congo, Rep.": "15.57",
+                    "Belgium": "7.91",
+                    "Bangladesh": "5.26"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Ghana": "55.59",
+                    "Angola": "22.47",
+                    "Gabon": "7.74",
+                    "France": "5.76",
+                    "Canada": "1.99"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Belgium": "49.52",
+                    "United Arab Emirates": "44.54",
+                    "India": "3.21",
+                    "South Africa": "1.44",
+                    "Congo, Rep.": "0.30"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "China": "44.78",
+                    "Tanzania": "15.20",
+                    "Zambia": "9.06",
+                    "Singapore": "7.53",
+                    "Switzerland": "7.08"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "China": "47.37",
+                    "Tanzania": "16.80",
+                    "Singapore": "9.88",
+                    "Switzerland": "7.82",
+                    "United Arab Emirates": "5.85"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "Cote dIvoire": "32.26",
+                    "South Africa": "27.27",
+                    "Zambia": "8.04",
+                    "Morocco": "7.68",
+                    "Tanzania": "4.46"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "Ghana": "43.19",
+                    "Morocco": "28.90",
+                    "Togo": "5.14",
+                    "Kenya": "3.91",
+                    "Canada": "3.86"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "China": "32.31",
+                    "South Africa": "22.24",
+                    "Mozambique": "14.69",
+                    "Zambia": "8.70",
+                    "Singapore": "7.11"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Morocco": "25.25",
+                    "Ghana": "20.65",
+                    "South Africa": "20.46",
+                    "Pakistan": "3.48",
+                    "Canada": "3.26"
+                }
+            }
+        },
+        "2021": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Korea, Rep.": "50.80",
+                    "Canada": "15.13",
+                    "France": "7.51",
+                    "Congo, Rep.": "5.98",
+                    "United States": "5.11"
+                },
+                "Vegetable Products": {
+                    "Belgium": "26.60",
+                    "India": "22.44",
+                    "Germany": "15.90",
+                    "Madagascar": "4.74",
+                    "Italy": "4.66"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "Indonesia": "14.59",
+                    "India": "13.68",
+                    "Netherlands": "12.92",
+                    "Belgium": "12.87",
+                    "Uganda": "9.74"
+                },
+                "Mineral Products": {
+                    "Zambia": "44.75",
+                    "China": "39.50",
+                    "Thailand": "4.92",
+                    "United Arab Emirates": "4.71",
+                    "Hong Kong, China": "3.47"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "China": "41.12",
+                    "South Africa": "27.58",
+                    "Mozambique": "10.96",
+                    "Singapore": "7.17",
+                    "United Arab Emirates": "5.40"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Malaysia": "82.00",
+                    "Uganda": "3.77",
+                    "Turkey": "3.63",
+                    "India": "1.89",
+                    "South Africa": "1.85"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Zambia": "28.14",
+                    "Nigeria": "24.20",
+                    "Tanzania": "14.06",
+                    "Belgium": "12.22",
+                    "Gabon": "7.80"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "China": "49.54",
+                    "Vietnam": "28.19",
+                    "Belgium": "3.59",
+                    "Pakistan": "3.07",
+                    "France": "2.39"
+                },
+                "Textiles and Textile Articles": {
+                    "Belgium": "29.14",
+                    "Bangladesh": "13.42",
+                    "Indonesia": "8.16",
+                    "Uruguay": "7.74",
+                    "Gabon": "5.20"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Gabon": "27.13",
+                    "Angola": "22.15",
+                    "Nigeria": "10.47",
+                    "Belgium": "10.31",
+                    "Rwanda": "5.85"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "United Arab Emirates": "49.81",
+                    "Belgium": "43.90",
+                    "India": "4.99",
+                    "Burundi": "0.43",
+                    "Israel": "0.21"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "China": "47.83",
+                    "Tanzania": "12.23",
+                    "Singapore": "9.25",
+                    "Zambia": "7.19",
+                    "United Arab Emirates": "6.14"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "China": "48.64",
+                    "Tanzania": "13.66",
+                    "Singapore": "11.31",
+                    "United Arab Emirates": "6.18",
+                    "Hong Kong, China": "4.35"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "South Africa": "28.49",
+                    "Tanzania": "10.14",
+                    "Zambia": "9.19",
+                    "Angola": "6.28",
+                    "Belgium": "4.91"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "France": "43.83",
+                    "South Africa": "21.63",
+                    "Tanzania": "11.07",
+                    "Uruguay": "4.44",
+                    "Bangladesh": "4.28"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "China": "39.32",
+                    "South Africa": "26.56",
+                    "Mozambique": "10.46",
+                    "Singapore": "9.09",
+                    "United Arab Emirates": "6.20"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "South Africa": "34.11",
+                    "Tanzania": "13.14",
+                    "Bangladesh": "10.68",
+                    "Uruguay": "8.65",
+                    "Gabon": "4.55"
+                }
+            }
+        },
+        "2022": {
+            "Imports": {
+                "Animals & Animal Products": {
+                    "Korea, Rep.": "47.35",
+                    "France": "14.79",
+                    "Canada": "8.81",
+                    "United States": "7.55",
+                    "Gabon": "3.83"
+                },
+                "Vegetable Products": {
+                    "Germany": "23.17",
+                    "India": "22.67",
+                    "Italy": "19.67",
+                    "Belgium": "13.24",
+                    "Madagascar": "9.04"
+                },
+                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+                    "India": "30.10",
+                    "Belgium": "11.12",
+                    "Netherlands": "10.90",
+                    "Uganda": "10.75",
+                    "Indonesia": "9.92"
+                },
+                "Mineral Products": {
+                    "Hong Kong, China": "32.55",
+                    "China": "27.14",
+                    "United Arab Emirates": "16.80",
+                    "Malaysia": "8.70",
+                    "Luxembourg": "4.74"
+                },
+                "Products of the Chemical or Allied Industries": {
+                    "China": "45.04",
+                    "South Africa": "29.47",
+                    "Mozambique": "6.91",
+                    "Hong Kong, China": "6.27",
+                    "Singapore": "5.11"
+                },
+                "Plastics and Articles thereof; Rubber and Articles thereof": {
+                    "Malaysia": "75.76",
+                    "Turkey": "6.31",
+                    "India": "4.44",
+                    "Romania": "3.61",
+                    "Uganda": "2.52"
+                },
+                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+                    "Nigeria": "69.99",
+                    "Germany": "12.54",
+                    "Tanzania": "5.42",
+                    "Burundi": "3.92",
+                    "Belgium": "2.30"
+                },
+                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+                    "China": "44.47",
+                    "Vietnam": "20.63",
+                    "Kenya": "5.84",
+                    "Belgium": "5.19",
+                    "Tanzania": "4.89"
+                },
+                "Textiles and Textile Articles": {
+                    "Belgium": "26.95",
+                    "Switzerland": "12.16",
+                    "Turkey": "7.42",
+                    "United States": "4.92",
+                    "South Africa": "4.01"
+                },
+                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+                    "Kenya": "24.73",
+                    "Greece": "14.66",
+                    "Gabon": "13.36",
+                    "Belgium": "10.64",
+                    "Malawi": "8.62"
+                },
+                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+                    "Belgium": "53.36",
+                    "United Arab Emirates": "36.98",
+                    "India": "4.50",
+                    "South Africa": "3.40",
+                    "Rwanda": "0.43"
+                },
+                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+                    "China": "49.40",
+                    "Tanzania": "9.00",
+                    "Hong Kong, China": "8.56",
+                    "Singapore": "8.51",
+                    "Mozambique": "7.03"
+                },
+                "Base Metals and Articles of Base Metal": {
+                    "China": "49.25",
+                    "Singapore": "9.70",
+                    "Tanzania": "9.04",
+                    "Hong Kong, China": "8.23",
+                    "Mozambique": "7.05"
+                },
+                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+                    "South Africa": "39.55",
+                    "Zambia": "16.81",
+                    "Tanzania": "5.47",
+                    "France": "5.44",
+                    "Ukraine": "5.15"
+                },
+                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+                    "India": "58.70",
+                    "South Africa": "21.37",
+                    "Zimbabwe": "4.75",
+                    "Belgium": "3.15",
+                    "Ukraine": "3.01"
+                },
+                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+                    "China": "40.00",
+                    "South Africa": "26.68",
+                    "Singapore": "10.76",
+                    "United Arab Emirates": "6.31",
+                    "Mozambique": "6.14"
+                },
+                "Miscellaneous Manufactured Articles": {
+                    "Ukraine": "29.94",
+                    "South Africa": "27.30",
+                    "Tanzania": "16.31",
+                    "Belgium": "5.58",
+                    "Australia": "4.23"
+                }
+            }
+        }
+    }
+}
