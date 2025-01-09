@@ -96,7 +96,7 @@ capital_to_country = {
 country_to_capital = {v: k for k, v in capital_to_country.items()}
 
 # Folder path where files are located
-folder_path = "expjson"
+folder_path = "newexpjson"
 
 # Rename files
 for filename in os.listdir(folder_path):
