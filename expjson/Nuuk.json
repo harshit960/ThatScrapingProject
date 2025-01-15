@@ -1,1715 +1,1715 @@
 {
-    "Main Partners": {
-        "1994": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "87.58",
-                    "Japan": "9.26",
-                    "United Kingdom": "2.42",
-                    "United States": "0.63",
-                    "Germany": "0.10"
-                },
-                "Vegetable Products": {
-                    "Denmark": "69.86",
-                    "Unspecified": "30.14"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "83.44",
-                    "United Kingdom": "13.99",
-                    "United States": "1.86",
-                    "Germany": "0.46",
-                    "Japan": "0.19"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "99.54",
-                    "Unspecified": "0.46"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "97.50",
-                    "Unspecified": "2.50"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "92.19",
-                    "Iceland": "6.81",
-                    "Hong Kong, China": "0.54",
-                    "Sweden": "0.17",
-                    "Germany": "0.13"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "99.11",
-                    "Unspecified": "0.89"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "96.03",
-                    "Unspecified": "3.97"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "96.53",
-                    "Unspecified": "3.47"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "99.40",
-                    "Unspecified": "0.60"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "98.96",
-                    "Unspecified": "1.04"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "99.44",
-                    "Unspecified": "0.56"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Denmark": "99.15",
-                    "Unspecified": "0.85"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "68.09",
-                    "Unspecified": "31.89",
-                    "Germany": "0.01"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "87.47",
-                    "Unspecified": "12.53"
-                }
-            }
+  "Main Partners": {
+    "1994": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Copenhagen": "87.58",
+          "Tokyo": "9.26",
+          "London": "2.42",
+          "Washington, D.C.": "0.63",
+          "Berlin": "0.10"
         },
-        "1995": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "91.04",
-                    "Japan": "7.42",
-                    "United Kingdom": "0.76",
-                    "Other Asia, nes": "0.39",
-                    "United States": "0.24"
-                },
-                "Vegetable Products": {
-                    "Denmark": "97.55",
-                    "Unspecified": "2.45"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "85.31",
-                    "United Kingdom": "12.71",
-                    "United States": "1.34",
-                    "Norway": "0.63",
-                    "Unspecified": "0.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "83.33",
-                    "Unspecified": "16.67"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "79.88",
-                    "Unspecified": "20.12"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "89.20",
-                    "Iceland": "9.47",
-                    "Canada": "0.69",
-                    "United States": "0.38",
-                    "Norway": "0.16"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "95.34",
-                    "Canada": "4.00",
-                    "Unspecified": "0.67"
-                },
-                "Textiles and Textile Articles": {
-                    "Norway": "68.83",
-                    "Denmark": "29.14",
-                    "Unspecified": "2.03"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "94.60",
-                    "Unspecified": "5.40"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "77.90",
-                    "Canada": "19.26",
-                    "Unspecified": "2.83"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "99.42",
-                    "Unspecified": "0.58"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "98.96",
-                    "Unspecified": "1.04"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "98.98",
-                    "Unspecified": "0.81",
-                    "United States": "0.12",
-                    "Canada": "0.08"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Denmark": "99.42",
-                    "Unspecified": "0.58"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "97.68",
-                    "Norway": "1.34",
-                    "Canada": "0.56",
-                    "Unspecified": "0.40",
-                    "United States": "0.02"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "99.92",
-                    "Unspecified": "0.04",
-                    "Canada": "0.04"
-                }
-            }
+        "Vegetable Products": {
+          "Unspecified": "30.14",
+          "Copenhagen": "69.86"
         },
-        "1996": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "91.05",
-                    "Japan": "7.27",
-                    "Iceland": "0.68",
-                    "Other Asia, nes": "0.27",
-                    "Canada": "0.17"
-                },
-                "Vegetable Products": {
-                    "Denmark": "83.78",
-                    "Unspecified": "16.22"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "85.98",
-                    "United Kingdom": "12.63",
-                    "Norway": "1.00",
-                    "United States": "0.27",
-                    "Canada": "0.12"
-                },
-                "Mineral Products": {
-                    "Unspecified": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "87.76",
-                    "Unspecified": "12.24"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "96.04",
-                    "Unspecified": "3.96"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "89.41",
-                    "Iceland": "10.47",
-                    "Japan": "0.10",
-                    "Unspecified": "0.02"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "98.61",
-                    "Unspecified": "1.39"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "94.79",
-                    "Unspecified": "5.21"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "98.06",
-                    "Unspecified": "1.94"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "90.56",
-                    "Unspecified": "9.44"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "97.86",
-                    "Unspecified": "2.14"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "99.39",
-                    "Unspecified": "0.61"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "99.67",
-                    "Unspecified": "0.33"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Iceland": "60.35",
-                    "Norway": "37.62",
-                    "Denmark": "2.02",
-                    "Unspecified": "0.01"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "31.43",
-                    "Iceland": "27.05",
-                    "Unspecified": "24.65",
-                    "Norway": "16.86",
-                    "Japan": "0.02"
-                }
-            }
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "83.44",
+          "London": "13.99",
+          "Washington, D.C.": "1.86",
+          "Berlin": "0.46",
+          "Tokyo": "0.19"
         },
-        "1997": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "90.19",
-                    "Japan": "5.24",
-                    "United States": "3.23",
-                    "Iceland": "0.52",
-                    "United Kingdom": "0.33"
-                },
-                "Vegetable Products": {
-                    "Denmark": "99.58",
-                    "Unspecified": "0.42"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "86.89",
-                    "United Kingdom": "11.75",
-                    "Norway": "1.33",
-                    "France": "0.03",
-                    "Unspecified": "0.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "93.73",
-                    "Unspecified": "6.27"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "98.28",
-                    "Unspecified": "1.72"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "63.48",
-                    "United States": "32.80",
-                    "Unspecified": "3.72"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "95.70",
-                    "Unspecified": "4.30"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "89.86",
-                    "Unspecified": "10.14"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "96.96",
-                    "Unspecified": "3.04"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "97.23",
-                    "Unspecified": "2.77"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "99.41",
-                    "Unspecified": "0.59"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Norway": "77.67",
-                    "Denmark": "22.29",
-                    "Unspecified": "0.05"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "54.40",
-                    "Norway": "44.93",
-                    "Unspecified": "0.26",
-                    "United States": "0.25",
-                    "Iceland": "0.13"
-                }
-            }
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "0.46",
+          "Copenhagen": "99.54"
         },
-        "1998": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "78.18",
-                    "Japan": "13.89",
-                    "United States": "2.65",
-                    "Thailand": "2.07",
-                    "China": "1.12"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "96.81",
-                    "United Kingdom": "1.97",
-                    "Norway": "1.21",
-                    "France": "0.01",
-                    "Unspecified": "0.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "82.36",
-                    "Unspecified": "17.64"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "96.43",
-                    "Unspecified": "3.57"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "93.78",
-                    "Iceland": "6.11",
-                    "Norway": "0.08",
-                    "Unspecified": "0.03"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "98.76",
-                    "Unspecified": "1.24"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "91.66",
-                    "Unspecified": "8.34"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "93.63",
-                    "Unspecified": "6.37"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "99.79",
-                    "Unspecified": "0.21"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "99.47",
-                    "Unspecified": "0.53"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "99.88",
-                    "Unspecified": "0.12"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "99.40",
-                    "Unspecified": "0.60"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Denmark": "99.95",
-                    "Unspecified": "0.05"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "99.60",
-                    "Unspecified": "0.36",
-                    "Norway": "0.04"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "99.97",
-                    "Unspecified": "0.03"
-                }
-            }
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "2.50",
+          "Copenhagen": "97.50"
         },
-        "1999": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "78.99",
-                    "Japan": "11.88",
-                    "Thailand": "2.69",
-                    "United States": "2.45",
-                    "United Kingdom": "1.18"
-                },
-                "Vegetable Products": {
-                    "Denmark": "75.51",
-                    "Unspecified": "24.49"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "99.68",
-                    "Norway": "0.32"
-                },
-                "Mineral Products": {
-                    "Unspecified": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "99.03",
-                    "Unspecified": "0.97"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "76.36",
-                    "Unspecified": "23.64"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "85.29",
-                    "Iceland": "14.22",
-                    "Norway": "0.42",
-                    "Canada": "0.05",
-                    "Unspecified": "0.02"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "99.22",
-                    "Unspecified": "0.78"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "99.37",
-                    "Unspecified": "0.63"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "85.65",
-                    "Unspecified": "14.35"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "99.01",
-                    "Unspecified": "0.99"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "96.25",
-                    "Unspecified": "3.75"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "98.76",
-                    "Unspecified": "1.24"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "99.59",
-                    "Unspecified": "0.41"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Denmark": "99.69",
-                    "Unspecified": "0.31"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "99.64",
-                    "Unspecified": "0.32",
-                    "Canada": "0.04"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "99.97",
-                    "Unspecified": "0.03"
-                }
-            }
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "92.19",
+          "Reykjavik": "6.81",
+          "Hong Kong": "0.54",
+          "Stockholm": "0.17",
+          "Berlin": "0.13"
         },
-        "2000": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "80.39",
-                    "Japan": "9.55",
-                    "United States": "6.21",
-                    "Thailand": "1.96",
-                    "Iceland": "0.76"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "Denmark": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "99.20",
-                    "Canada": "0.58",
-                    "Iceland": "0.21"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "100.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "United States": "93.30",
-                    "Denmark": "5.40",
-                    "Canada": "1.30"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "71.83",
-                    "United States": "27.79",
-                    "Canada": "0.39"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "100.00"
-                }
-            }
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Unspecified": "0.89",
+          "Copenhagen": "99.11"
         },
-        "2001": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "81.21",
-                    "United States": "8.84",
-                    "Japan": "5.36",
-                    "Thailand": "1.92",
-                    "Iceland": "1.23"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "97.53",
-                    "Germany": "2.47"
-                },
-                "Mineral Products": {
-                    "Denmark": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "100.00"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "100.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Norway": "95.61",
-                    "Denmark": "4.39"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Norway": "67.63",
-                    "Denmark": "32.37"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "93.76",
-                    "Denmark": "6.24"
-                }
-            }
+        "Textiles and Textile Articles": {
+          "Unspecified": "3.97",
+          "Copenhagen": "96.03"
         },
-        "2002": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "85.70",
-                    "United States": "5.20",
-                    "United Kingdom": "2.51",
-                    "Germany": "1.88",
-                    "Japan": "1.87"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "99.97",
-                    "United States": "0.03"
-                },
-                "Mineral Products": {
-                    "Denmark": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "92.62",
-                    "Germany": "3.21",
-                    "United States": "2.89",
-                    "Spain": "0.88",
-                    "Sweden": "0.39"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "98.15",
-                    "Iceland": "1.85"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "100.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Canada": "45.84",
-                    "Norway": "31.68",
-                    "Denmark": "20.87",
-                    "United States": "1.60"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "52.23",
-                    "Canada": "27.64",
-                    "Norway": "19.11",
-                    "United States": "0.97",
-                    "Iceland": "0.06"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "82.37",
-                    "Denmark": "17.58",
-                    "Iceland": "0.04"
-                }
-            }
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Unspecified": "3.47",
+          "Copenhagen": "96.53"
         },
-        "2003": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "89.99",
-                    "United States": "2.68",
-                    "Germany": "2.01",
-                    "Japan": "1.58",
-                    "Iceland": "1.52"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "Denmark": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "98.54",
-                    "United Kingdom": "0.78",
-                    "Germany": "0.44",
-                    "Sweden": "0.24"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "100.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Denmark": "100.00"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "100.00"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "83.44",
-                    "Denmark": "16.56"
-                }
-            }
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
         },
-        "2004": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "90.05",
-                    "Germany": "2.88",
-                    "United States": "2.66",
-                    "Iceland": "1.62",
-                    "United Kingdom": "1.33"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "Spain": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Spain": "99.30",
-                    "Denmark": "0.70"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Denmark": "100.00"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "95.23",
-                    "Hong Kong, China": "4.57",
-                    "Canada": "0.09",
-                    "Germany": "0.03",
-                    "Turkey": "0.03"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "99.77",
-                    "Unspecified": "0.23"
-                }
-            }
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Unspecified": "0.60",
+          "Copenhagen": "99.40"
         },
-        "2005": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "89.19",
-                    "Germany": "2.82",
-                    "Iceland": "2.58",
-                    "United States": "2.08",
-                    "United Kingdom": "1.54"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "Spain": "92.95",
-                    "Netherlands": "7.05",
-                    "Denmark": "0.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "49.67",
-                    "Hong Kong, China": "49.38",
-                    "Finland": "0.48",
-                    "Canada": "0.47"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "98.86",
-                    "France": "1.14"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Spain": "92.59",
-                    "Netherlands": "7.02",
-                    "Denmark": "0.39"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Denmark": "100.00"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "74.09",
-                    "Hong Kong, China": "25.71",
-                    "Finland": "0.10",
-                    "Canada": "0.10",
-                    "France": "0.00"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "85.02",
-                    "Denmark": "14.98"
-                }
-            }
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "1.04",
+          "Copenhagen": "98.96"
         },
-        "2006": {
-            "Imports": {
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "Spain": "95.49",
-                    "Norway": "4.15",
-                    "United States": "0.36",
-                    "Denmark": "0.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "58.09",
-                    "Hong Kong, China": "40.28",
-                    "Finland": "1.48",
-                    "Iceland": "0.09",
-                    "Canada": "0.06"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "93.08",
-                    "Canada": "6.92"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Spain": "94.67",
-                    "Norway": "4.11",
-                    "Denmark": "0.86",
-                    "United States": "0.36"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Unspecified": "94.46",
-                    "Denmark": "5.54"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Unspecified": "48.74",
-                    "Denmark": "39.92",
-                    "Hong Kong, China": "10.88",
-                    "Finland": "0.40",
-                    "Canada": "0.03"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "67.33",
-                    "Denmark": "32.67"
-                }
-            }
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Unspecified": "0.56",
+          "Copenhagen": "99.44"
         },
-        "2007": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "92.77",
-                    "Iceland": "3.18",
-                    "United Kingdom": "2.48",
-                    "Faeroe Islands": "0.75",
-                    "Spain": "0.48"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "99.96",
-                    "Germany": "0.04"
-                },
-                "Mineral Products": {
-                    "Canada": "85.28",
-                    "Norway": "7.82",
-                    "Denmark": "2.80",
-                    "Germany": "1.82",
-                    "Netherlands": "1.75"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "99.46",
-                    "Iceland": "0.54"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "50.02",
-                    "Iceland": "49.98"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Canada": "84.76",
-                    "Norway": "7.77",
-                    "Denmark": "3.40",
-                    "Germany": "1.81",
-                    "Netherlands": "1.74"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Unspecified": "79.97",
-                    "Denmark": "20.03"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "82.08",
-                    "Unspecified": "17.69",
-                    "Iceland": "0.23"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "99.97",
-                    "Norway": "0.03"
-                }
-            }
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "0.85",
+          "Copenhagen": "99.15"
         },
-        "2008": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "88.38",
-                    "United Kingdom": "4.13",
-                    "Portugal": "2.76",
-                    "China": "1.53",
-                    "Norway": "1.16"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00",
-                    "Germany": "0.00"
-                },
-                "Mineral Products": {
-                    "Canada": "67.06",
-                    "Norway": "25.82",
-                    "Sweden": "4.37",
-                    "Netherlands": "2.71",
-                    "Denmark": "0.04"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "100.00"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Canada": "66.48",
-                    "Norway": "25.59",
-                    "Sweden": "4.33",
-                    "Netherlands": "2.69",
-                    "Denmark": "0.90"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Unspecified": "86.64",
-                    "Denmark": "13.36"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "74.04",
-                    "Unspecified": "25.96"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "99.46",
-                    "Portugal": "0.31",
-                    "Faeroe Islands": "0.23",
-                    "Unspecified": "0.00"
-                }
-            }
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "31.89",
+          "Copenhagen": "68.09",
+          "Berlin": "0.01"
         },
-        "2009": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "87.36",
-                    "Portugal": "6.38",
-                    "Iceland": "1.72",
-                    "Faeroe Islands": "1.35",
-                    "United Kingdom": "1.33"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "Canada": "65.88",
-                    "Norway": "22.90",
-                    "Sweden": "11.19",
-                    "Denmark": "0.02",
-                    "Australia": "0.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "99.64",
-                    "France": "0.36"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "97.64",
-                    "France": "2.36"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Canada": "65.07",
-                    "Norway": "22.62",
-                    "Sweden": "11.06",
-                    "Denmark": "1.24",
-                    "Australia": "0.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Unspecified": "95.54",
-                    "Denmark": "4.46"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Unspecified": "72.03",
-                    "Denmark": "27.96",
-                    "France": "0.02"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "100.00"
-                }
-            }
-        },
-        "2010": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "86.78",
-                    "Portugal": "6.87",
-                    "Iceland": "3.54",
-                    "Norway": "1.18",
-                    "United Kingdom": "0.68"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "Norway": "73.76",
-                    "Netherlands": "26.14",
-                    "Denmark": "0.10"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "88.99",
-                    "India": "9.52"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "71.51",
-                    "Switzerland": "28.49"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Norway": "60.23",
-                    "Netherlands": "21.35",
-                    "Denmark": "18.43"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Denmark": "60.60",
-                    "Unspecified": "39.40"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Denmark": "69.07",
-                    "Unspecified": "30.43",
-                    "India": "0.43"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "100.00"
-                }
-            }
-        },
-        "2011": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "87.82",
-                    "Portugal": "5.06",
-                    "Iceland": "2.90",
-                    "Faeroe Islands": "2.33",
-                    "Unspecified": "1.53"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "Denmark": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "100.00",
-                    "Italy": "0.00"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Switzerland": "89.77",
-                    "Denmark": "10.23"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "100.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Faeroe Islands": "53.81",
-                    "Ireland": "31.29",
-                    "Iceland": "10.44",
-                    "Denmark": "4.46"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Faeroe Islands": "37.00",
-                    "Denmark": "34.31",
-                    "Ireland": "21.51",
-                    "Iceland": "7.18",
-                    "Italy": "0.00"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "100.00"
-                }
-            }
-        },
-        "2012": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "89.28",
-                    "Portugal": "5.01",
-                    "Iceland": "3.14",
-                    "Unspecified": "1.20",
-                    "Norway": "1.04"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "Denmark": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "99.70",
-                    "Iceland": "0.28",
-                    "Germany": "0.02"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Switzerland": "96.32",
-                    "Denmark": "3.68"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "100.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Canada": "95.63",
-                    "Denmark": "4.37"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "100.00"
-                }
-            }
-        },
-        "2013": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "83.55",
-                    "Unspecified": "7.95",
-                    "Portugal": "6.90",
-                    "Netherlands": "0.88",
-                    "Germany": "0.45"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "99.99",
-                    "Switzerland": "0.01"
-                },
-                "Mineral Products": {
-                    "Denmark": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "89.94",
-                    "Italy": "3.65",
-                    "Norway": "3.32",
-                    "Croatia": "1.00",
-                    "Slovenia": "1.00"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Switzerland": "99.53",
-                    "Denmark": "0.47"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "100.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Unspecified": "52.00",
-                    "Iceland": "21.12",
-                    "Russian Federation": "17.40",
-                    "Morocco": "9.27",
-                    "Denmark": "0.21"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "100.00"
-                }
-            }
-        },
-        "2014": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "72.83",
-                    "Iceland": "13.14",
-                    "Portugal": "7.16",
-                    "Unspecified": "5.12",
-                    "Netherlands": "0.92"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "Denmark": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "98.69",
-                    "Iceland": "0.60",
-                    "Norway": "0.30",
-                    "Slovenia": "0.22",
-                    "Faeroe Islands": "0.18"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "100.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Unspecified": "97.17",
-                    "Denmark": "2.83"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Unspecified": "81.65",
-                    "Denmark": "18.32",
-                    "Norway": "0.02",
-                    "Slovenia": "0.01",
-                    "Faeroe Islands": "0.01"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "100.00"
-                }
-            }
-        },
-        "2015": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "76.18",
-                    "Portugal": "9.37",
-                    "Unspecified": "8.22",
-                    "Iceland": "3.88",
-                    "Norway": "0.96"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "Denmark": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "54.14",
-                    "Iceland": "45.86"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Canada": "95.45",
-                    "Denmark": "4.55"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Canada": "75.17",
-                    "Denmark": "24.59",
-                    "Iceland": "0.14",
-                    "Italy": "0.03",
-                    "Slovenia": "0.03"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "100.00"
-                }
-            }
-        },
-        "2016": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "78.80",
-                    "Portugal": "10.54",
-                    "Unspecified": "8.14",
-                    "Iceland": "0.96",
-                    "Norway": "0.65"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "United States": "95.50",
-                    "Denmark": "4.50"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "97.63",
-                    "Norway": "1.22",
-                    "Korea, Rep.": "0.60",
-                    "Canada": "0.45",
-                    "Greece": "0.08"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Denmark": "100.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Estonia": "37.76",
-                    "Iceland": "34.41",
-                    "Norway": "22.16",
-                    "Canada": "3.86",
-                    "Denmark": "1.82"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Estonia": "34.34",
-                    "Iceland": "31.29",
-                    "Norway": "20.16",
-                    "Denmark": "10.68",
-                    "Canada": "3.51"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "100.00"
-                }
-            }
-        },
-        "2017": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "80.42",
-                    "Unspecified": "14.10",
-                    "Iceland": "2.40",
-                    "Norway": "1.15",
-                    "Portugal": "0.85"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "99.77",
-                    "Norway": "0.23",
-                    "Iceland": "0.00"
-                },
-                "Mineral Products": {
-                    "Denmark": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "97.86",
-                    "China": "1.04",
-                    "United Kingdom": "0.89",
-                    "Czech Republic": "0.19",
-                    "Norway": "0.02"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "China": "42.41",
-                    "Thailand": "28.06",
-                    "Denmark": "12.57",
-                    "United States": "8.34",
-                    "Norway": "6.11"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Iceland": "62.45",
-                    "Ireland": "36.02",
-                    "Denmark": "1.54"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Iceland": "51.35",
-                    "Ireland": "29.62",
-                    "Denmark": "17.76",
-                    "China": "0.62",
-                    "Thailand": "0.40"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "100.00"
-                }
-            }
-        },
-        "2018": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Denmark": "85.21",
-                    "Unspecified": "10.70",
-                    "Portugal": "1.30",
-                    "Russian Federation": "0.91",
-                    "Iceland": "0.78"
-                },
-                "Vegetable Products": {
-                    "Denmark": "100.00"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Denmark": "100.00"
-                },
-                "Mineral Products": {
-                    "Denmark": "100.00"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Denmark": "100.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Denmark": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Denmark": "99.08",
-                    "China": "0.78",
-                    "Canada": "0.14"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Denmark": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Denmark": "100.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Denmark": "100.00"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Thailand": "96.50",
-                    "Denmark": "2.49",
-                    "United States": "0.68",
-                    "Bahrain": "0.33"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Denmark": "100.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Denmark": "100.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Denmark": "100.00"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Latvia": "99.25",
-                    "Denmark": "0.75"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Latvia": "83.83",
-                    "Denmark": "10.03",
-                    "Thailand": "6.06",
-                    "United States": "0.04",
-                    "Bahrain": "0.02"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Denmark": "100.00"
-                }
-            }
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "12.53",
+          "Copenhagen": "87.47"
         }
+      }
+    },
+    "1995": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Other Asia, nes": "0.39",
+          "Copenhagen": "91.04",
+          "Tokyo": "7.42",
+          "London": "0.76",
+          "Washington, D.C.": "0.24"
+        },
+        "Vegetable Products": {
+          "Unspecified": "2.45",
+          "Copenhagen": "97.55"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Unspecified": "0.00",
+          "Copenhagen": "85.31",
+          "London": "12.71",
+          "Washington, D.C.": "1.34",
+          "Oslo": "0.63"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "16.67",
+          "Copenhagen": "83.33"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "20.12",
+          "Copenhagen": "79.88"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "89.20",
+          "Reykjavik": "9.47",
+          "Ottawa": "0.69",
+          "Washington, D.C.": "0.38",
+          "Oslo": "0.16"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Unspecified": "0.67",
+          "Copenhagen": "95.34",
+          "Ottawa": "4.00"
+        },
+        "Textiles and Textile Articles": {
+          "Unspecified": "2.03",
+          "Oslo": "68.83",
+          "Copenhagen": "29.14"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Unspecified": "5.40",
+          "Copenhagen": "94.60"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Unspecified": "2.83",
+          "Copenhagen": "77.90",
+          "Ottawa": "19.26"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Unspecified": "0.58",
+          "Copenhagen": "99.42"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "1.04",
+          "Copenhagen": "98.96"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Unspecified": "0.81",
+          "Copenhagen": "98.98",
+          "Washington, D.C.": "0.12",
+          "Ottawa": "0.08"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "0.58",
+          "Copenhagen": "99.42"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "0.40",
+          "Copenhagen": "97.68",
+          "Oslo": "1.34",
+          "Ottawa": "0.56",
+          "Washington, D.C.": "0.02"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "0.04",
+          "Copenhagen": "99.92",
+          "Ottawa": "0.04"
+        }
+      }
+    },
+    "1996": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Other Asia, nes": "0.27",
+          "Copenhagen": "91.05",
+          "Tokyo": "7.27",
+          "Reykjavik": "0.68",
+          "Ottawa": "0.17"
+        },
+        "Vegetable Products": {
+          "Unspecified": "16.22",
+          "Copenhagen": "83.78"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "85.98",
+          "London": "12.63",
+          "Oslo": "1.00",
+          "Washington, D.C.": "0.27",
+          "Ottawa": "0.12"
+        },
+        "Mineral Products": {
+          "Unspecified": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "12.24",
+          "Copenhagen": "87.76"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "3.96",
+          "Copenhagen": "96.04"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Unspecified": "0.02",
+          "Copenhagen": "89.41",
+          "Reykjavik": "10.47",
+          "Tokyo": "0.10"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Unspecified": "1.39",
+          "Copenhagen": "98.61"
+        },
+        "Textiles and Textile Articles": {
+          "Unspecified": "5.21",
+          "Copenhagen": "94.79"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Unspecified": "1.94",
+          "Copenhagen": "98.06"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Unspecified": "9.44",
+          "Copenhagen": "90.56"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Unspecified": "2.14",
+          "Copenhagen": "97.86"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "0.61",
+          "Copenhagen": "99.39"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Unspecified": "0.33",
+          "Copenhagen": "99.67"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "0.01",
+          "Reykjavik": "60.35",
+          "Oslo": "37.62",
+          "Copenhagen": "2.02"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "24.65",
+          "Copenhagen": "31.43",
+          "Reykjavik": "27.05",
+          "Oslo": "16.86",
+          "Tokyo": "0.02"
+        }
+      }
+    },
+    "1997": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Copenhagen": "90.19",
+          "Tokyo": "5.24",
+          "Washington, D.C.": "3.23",
+          "Reykjavik": "0.52",
+          "London": "0.33"
+        },
+        "Vegetable Products": {
+          "Unspecified": "0.42",
+          "Copenhagen": "99.58"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Unspecified": "0.00",
+          "Copenhagen": "86.89",
+          "London": "11.75",
+          "Oslo": "1.33",
+          "Paris": "0.03"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "6.27",
+          "Copenhagen": "93.73"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Unspecified": "1.72",
+          "Copenhagen": "98.28"
+        },
+        "Textiles and Textile Articles": {
+          "Unspecified": "3.72",
+          "Copenhagen": "63.48",
+          "Washington, D.C.": "32.80"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Unspecified": "4.30",
+          "Copenhagen": "95.70"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Unspecified": "10.14",
+          "Copenhagen": "89.86"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Unspecified": "3.04",
+          "Copenhagen": "96.96"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "2.77",
+          "Copenhagen": "97.23"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Unspecified": "0.59",
+          "Copenhagen": "99.41"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "0.05",
+          "Oslo": "77.67",
+          "Copenhagen": "22.29"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "0.26",
+          "Copenhagen": "54.40",
+          "Oslo": "44.93",
+          "Washington, D.C.": "0.25",
+          "Reykjavik": "0.13"
+        }
+      }
+    },
+    "1998": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "2.07",
+          "Copenhagen": "78.18",
+          "Tokyo": "13.89",
+          "Washington, D.C.": "2.65",
+          "Beijing": "1.12"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Unspecified": "0.00",
+          "Copenhagen": "96.81",
+          "London": "1.97",
+          "Oslo": "1.21",
+          "Paris": "0.01"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "17.64",
+          "Copenhagen": "82.36"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "3.57",
+          "Copenhagen": "96.43"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Unspecified": "0.03",
+          "Copenhagen": "93.78",
+          "Reykjavik": "6.11",
+          "Oslo": "0.08"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Unspecified": "1.24",
+          "Copenhagen": "98.76"
+        },
+        "Textiles and Textile Articles": {
+          "Unspecified": "8.34",
+          "Copenhagen": "91.66"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Unspecified": "6.37",
+          "Copenhagen": "93.63"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Unspecified": "0.21",
+          "Copenhagen": "99.79"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Unspecified": "0.53",
+          "Copenhagen": "99.47"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "0.12",
+          "Copenhagen": "99.88"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Unspecified": "0.60",
+          "Copenhagen": "99.40"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "0.05",
+          "Copenhagen": "99.95"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "0.36",
+          "Copenhagen": "99.60",
+          "Oslo": "0.04"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "0.03",
+          "Copenhagen": "99.97"
+        }
+      }
+    },
+    "1999": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "2.69",
+          "Copenhagen": "78.99",
+          "Tokyo": "11.88",
+          "Washington, D.C.": "2.45",
+          "London": "1.18"
+        },
+        "Vegetable Products": {
+          "Unspecified": "24.49",
+          "Copenhagen": "75.51"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "99.68",
+          "Oslo": "0.32"
+        },
+        "Mineral Products": {
+          "Unspecified": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "0.97",
+          "Copenhagen": "99.03"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "23.64",
+          "Copenhagen": "76.36"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Unspecified": "0.02",
+          "Copenhagen": "85.29",
+          "Reykjavik": "14.22",
+          "Oslo": "0.42",
+          "Ottawa": "0.05"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Unspecified": "0.78",
+          "Copenhagen": "99.22"
+        },
+        "Textiles and Textile Articles": {
+          "Unspecified": "0.63",
+          "Copenhagen": "99.37"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Unspecified": "14.35",
+          "Copenhagen": "85.65"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Unspecified": "0.99",
+          "Copenhagen": "99.01"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Unspecified": "3.75",
+          "Copenhagen": "96.25"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "1.24",
+          "Copenhagen": "98.76"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Unspecified": "0.41",
+          "Copenhagen": "99.59"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "0.31",
+          "Copenhagen": "99.69"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "0.32",
+          "Copenhagen": "99.64",
+          "Ottawa": "0.04"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "0.03",
+          "Copenhagen": "99.97"
+        }
+      }
+    },
+    "2000": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "1.96",
+          "Copenhagen": "80.39",
+          "Tokyo": "9.55",
+          "Washington, D.C.": "6.21",
+          "Reykjavik": "0.76"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Copenhagen": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "99.20",
+          "Ottawa": "0.58",
+          "Reykjavik": "0.21"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Copenhagen": "100.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Washington, D.C.": "93.30",
+          "Copenhagen": "5.40",
+          "Ottawa": "1.30"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Copenhagen": "71.83",
+          "Washington, D.C.": "27.79",
+          "Ottawa": "0.39"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Copenhagen": "100.00"
+        }
+      }
+    },
+    "2001": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "1.92",
+          "Copenhagen": "81.21",
+          "Washington, D.C.": "8.84",
+          "Tokyo": "5.36",
+          "Reykjavik": "1.23"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "97.53",
+          "Berlin": "2.47"
+        },
+        "Mineral Products": {
+          "Copenhagen": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "100.00"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Copenhagen": "100.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Oslo": "95.61",
+          "Copenhagen": "4.39"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Oslo": "67.63",
+          "Copenhagen": "32.37"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "93.76",
+          "Copenhagen": "6.24"
+        }
+      }
+    },
+    "2002": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Copenhagen": "85.70",
+          "Washington, D.C.": "5.20",
+          "London": "2.51",
+          "Berlin": "1.88",
+          "Tokyo": "1.87"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "99.97",
+          "Washington, D.C.": "0.03"
+        },
+        "Mineral Products": {
+          "Copenhagen": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "92.62",
+          "Berlin": "3.21",
+          "Washington, D.C.": "2.89",
+          "Madrid": "0.88",
+          "Stockholm": "0.39"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "98.15",
+          "Reykjavik": "1.85"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Copenhagen": "100.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Ottawa": "45.84",
+          "Oslo": "31.68",
+          "Copenhagen": "20.87",
+          "Washington, D.C.": "1.60"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Copenhagen": "52.23",
+          "Ottawa": "27.64",
+          "Oslo": "19.11",
+          "Washington, D.C.": "0.97",
+          "Reykjavik": "0.06"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "82.37",
+          "Copenhagen": "17.58",
+          "Reykjavik": "0.04"
+        }
+      }
+    },
+    "2003": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Copenhagen": "89.99",
+          "Washington, D.C.": "2.68",
+          "Berlin": "2.01",
+          "Tokyo": "1.58",
+          "Reykjavik": "1.52"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Copenhagen": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "98.54",
+          "London": "0.78",
+          "Berlin": "0.44",
+          "Stockholm": "0.24"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Copenhagen": "100.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Copenhagen": "100.00"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "83.44",
+          "Copenhagen": "16.56"
+        }
+      }
+    },
+    "2004": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Copenhagen": "90.05",
+          "Berlin": "2.88",
+          "Washington, D.C.": "2.66",
+          "Reykjavik": "1.62",
+          "London": "1.33"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Madrid": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Madrid": "99.30",
+          "Copenhagen": "0.70"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Copenhagen": "100.00"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Copenhagen": "95.23",
+          "Hong Kong": "4.57",
+          "Ottawa": "0.09",
+          "Berlin": "0.03",
+          "Ankara": "0.03"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "0.23",
+          "Copenhagen": "99.77"
+        }
+      }
+    },
+    "2005": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Copenhagen": "89.19",
+          "Berlin": "2.82",
+          "Reykjavik": "2.58",
+          "Washington, D.C.": "2.08",
+          "London": "1.54"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Madrid": "92.95",
+          "Amsterdam": "7.05",
+          "Copenhagen": "0.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "49.67",
+          "Hong Kong": "49.38",
+          "Helsinki": "0.48",
+          "Ottawa": "0.47"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "98.86",
+          "Paris": "1.14"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Madrid": "92.59",
+          "Amsterdam": "7.02",
+          "Copenhagen": "0.39"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Copenhagen": "100.00"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Copenhagen": "74.09",
+          "Hong Kong": "25.71",
+          "Helsinki": "0.10",
+          "Ottawa": "0.10",
+          "Paris": "0.00"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "85.02",
+          "Copenhagen": "14.98"
+        }
+      }
+    },
+    "2006": {
+      "Imports": {
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Madrid": "95.49",
+          "Oslo": "4.15",
+          "Washington, D.C.": "0.36",
+          "Copenhagen": "0.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "58.09",
+          "Hong Kong": "40.28",
+          "Helsinki": "1.48",
+          "Reykjavik": "0.09",
+          "Ottawa": "0.06"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "93.08",
+          "Ottawa": "6.92"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Madrid": "94.67",
+          "Oslo": "4.11",
+          "Copenhagen": "0.86",
+          "Washington, D.C.": "0.36"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "94.46",
+          "Copenhagen": "5.54"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "48.74",
+          "Copenhagen": "39.92",
+          "Hong Kong": "10.88",
+          "Helsinki": "0.40",
+          "Ottawa": "0.03"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "67.33",
+          "Copenhagen": "32.67"
+        }
+      }
+    },
+    "2007": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Faeroe Islands": "0.75",
+          "Copenhagen": "92.77",
+          "Reykjavik": "3.18",
+          "London": "2.48",
+          "Madrid": "0.48"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "99.96",
+          "Berlin": "0.04"
+        },
+        "Mineral Products": {
+          "Ottawa": "85.28",
+          "Oslo": "7.82",
+          "Copenhagen": "2.80",
+          "Berlin": "1.82",
+          "Amsterdam": "1.75"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "99.46",
+          "Reykjavik": "0.54"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "50.02",
+          "Reykjavik": "49.98"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Ottawa": "84.76",
+          "Oslo": "7.77",
+          "Copenhagen": "3.40",
+          "Berlin": "1.81",
+          "Amsterdam": "1.74"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "79.97",
+          "Copenhagen": "20.03"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "17.69",
+          "Copenhagen": "82.08",
+          "Reykjavik": "0.23"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Copenhagen": "99.97",
+          "Oslo": "0.03"
+        }
+      }
+    },
+    "2008": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Copenhagen": "88.38",
+          "London": "4.13",
+          "Lisbon": "2.76",
+          "Beijing": "1.53",
+          "Oslo": "1.16"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00",
+          "Berlin": "0.00"
+        },
+        "Mineral Products": {
+          "Ottawa": "67.06",
+          "Oslo": "25.82",
+          "Stockholm": "4.37",
+          "Amsterdam": "2.71",
+          "Copenhagen": "0.04"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "100.00"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Ottawa": "66.48",
+          "Oslo": "25.59",
+          "Stockholm": "4.33",
+          "Amsterdam": "2.69",
+          "Copenhagen": "0.90"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "86.64",
+          "Copenhagen": "13.36"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "25.96",
+          "Copenhagen": "74.04"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Faeroe Islands": "0.23",
+          "Unspecified": "0.00",
+          "Copenhagen": "99.46",
+          "Lisbon": "0.31"
+        }
+      }
+    },
+    "2009": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Faeroe Islands": "1.35",
+          "Copenhagen": "87.36",
+          "Lisbon": "6.38",
+          "Reykjavik": "1.72",
+          "London": "1.33"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Ottawa": "65.88",
+          "Oslo": "22.90",
+          "Stockholm": "11.19",
+          "Copenhagen": "0.02",
+          "Canberra": "0.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "99.64",
+          "Paris": "0.36"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "97.64",
+          "Paris": "2.36"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Ottawa": "65.07",
+          "Oslo": "22.62",
+          "Stockholm": "11.06",
+          "Copenhagen": "1.24",
+          "Canberra": "0.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "95.54",
+          "Copenhagen": "4.46"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "72.03",
+          "Copenhagen": "27.96",
+          "Paris": "0.02"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Copenhagen": "100.00"
+        }
+      }
+    },
+    "2010": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Copenhagen": "86.78",
+          "Lisbon": "6.87",
+          "Reykjavik": "3.54",
+          "Oslo": "1.18",
+          "London": "0.68"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Oslo": "73.76",
+          "Amsterdam": "26.14",
+          "Copenhagen": "0.10"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "88.99",
+          "New Delhi": "9.52"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "71.51",
+          "Bern": "28.49"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Oslo": "60.23",
+          "Amsterdam": "21.35",
+          "Copenhagen": "18.43"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "39.40",
+          "Copenhagen": "60.60"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "30.43",
+          "Copenhagen": "69.07",
+          "New Delhi": "0.43"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Copenhagen": "100.00"
+        }
+      }
+    },
+    "2011": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Faeroe Islands": "2.33",
+          "Unspecified": "1.53",
+          "Copenhagen": "87.82",
+          "Lisbon": "5.06",
+          "Reykjavik": "2.90"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Copenhagen": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "100.00",
+          "Rome": "0.00"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Bern": "89.77",
+          "Copenhagen": "10.23"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Copenhagen": "100.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Faeroe Islands": "53.81",
+          "Ireland": "31.29",
+          "Reykjavik": "10.44",
+          "Copenhagen": "4.46"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Faeroe Islands": "37.00",
+          "Ireland": "21.51",
+          "Copenhagen": "34.31",
+          "Reykjavik": "7.18",
+          "Rome": "0.00"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Copenhagen": "100.00"
+        }
+      }
+    },
+    "2012": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Unspecified": "1.20",
+          "Copenhagen": "89.28",
+          "Lisbon": "5.01",
+          "Reykjavik": "3.14",
+          "Oslo": "1.04"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Copenhagen": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "99.70",
+          "Reykjavik": "0.28",
+          "Berlin": "0.02"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Bern": "96.32",
+          "Copenhagen": "3.68"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Copenhagen": "100.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Ottawa": "95.63",
+          "Copenhagen": "4.37"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Copenhagen": "100.00"
+        }
+      }
+    },
+    "2013": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Unspecified": "7.95",
+          "Copenhagen": "83.55",
+          "Lisbon": "6.90",
+          "Amsterdam": "0.88",
+          "Berlin": "0.45"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "99.99",
+          "Bern": "0.01"
+        },
+        "Mineral Products": {
+          "Copenhagen": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Croatia": "1.00",
+          "Slovenia": "1.00",
+          "Copenhagen": "89.94",
+          "Rome": "3.65",
+          "Oslo": "3.32"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Bern": "99.53",
+          "Copenhagen": "0.47"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Copenhagen": "100.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "52.00",
+          "Russian Federation": "17.40",
+          "Reykjavik": "21.12",
+          "Rabat": "9.27",
+          "Copenhagen": "0.21"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Copenhagen": "100.00"
+        }
+      }
+    },
+    "2014": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Unspecified": "5.12",
+          "Copenhagen": "72.83",
+          "Reykjavik": "13.14",
+          "Lisbon": "7.16",
+          "Amsterdam": "0.92"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Copenhagen": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Slovenia": "0.22",
+          "Faeroe Islands": "0.18",
+          "Copenhagen": "98.69",
+          "Reykjavik": "0.60",
+          "Oslo": "0.30"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Copenhagen": "100.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Unspecified": "97.17",
+          "Copenhagen": "2.83"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "81.65",
+          "Slovenia": "0.01",
+          "Faeroe Islands": "0.01",
+          "Copenhagen": "18.32",
+          "Oslo": "0.02"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Copenhagen": "100.00"
+        }
+      }
+    },
+    "2015": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Unspecified": "8.22",
+          "Copenhagen": "76.18",
+          "Lisbon": "9.37",
+          "Reykjavik": "3.88",
+          "Oslo": "0.96"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Copenhagen": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "54.14",
+          "Reykjavik": "45.86"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Ottawa": "95.45",
+          "Copenhagen": "4.55"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Slovenia": "0.03",
+          "Ottawa": "75.17",
+          "Copenhagen": "24.59",
+          "Reykjavik": "0.14",
+          "Rome": "0.03"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Copenhagen": "100.00"
+        }
+      }
+    },
+    "2016": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Unspecified": "8.14",
+          "Copenhagen": "78.80",
+          "Lisbon": "10.54",
+          "Reykjavik": "0.96",
+          "Oslo": "0.65"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Washington, D.C.": "95.50",
+          "Copenhagen": "4.50"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "97.63",
+          "Oslo": "1.22",
+          "Seoul": "0.60",
+          "Ottawa": "0.45",
+          "Athens": "0.08"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Copenhagen": "100.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Estonia": "37.76",
+          "Reykjavik": "34.41",
+          "Oslo": "22.16",
+          "Ottawa": "3.86",
+          "Copenhagen": "1.82"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Estonia": "34.34",
+          "Reykjavik": "31.29",
+          "Oslo": "20.16",
+          "Copenhagen": "10.68",
+          "Ottawa": "3.51"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Copenhagen": "100.00"
+        }
+      }
+    },
+    "2017": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Unspecified": "14.10",
+          "Copenhagen": "80.42",
+          "Reykjavik": "2.40",
+          "Oslo": "1.15",
+          "Lisbon": "0.85"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "99.77",
+          "Oslo": "0.23",
+          "Reykjavik": "0.00"
+        },
+        "Mineral Products": {
+          "Copenhagen": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Czech Republic": "0.19",
+          "Copenhagen": "97.86",
+          "Beijing": "1.04",
+          "London": "0.89",
+          "Oslo": "0.02"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Thailand": "28.06",
+          "Beijing": "42.41",
+          "Copenhagen": "12.57",
+          "Washington, D.C.": "8.34",
+          "Oslo": "6.11"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Ireland": "36.02",
+          "Reykjavik": "62.45",
+          "Copenhagen": "1.54"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Ireland": "29.62",
+          "Thailand": "0.40",
+          "Reykjavik": "51.35",
+          "Copenhagen": "17.76",
+          "Beijing": "0.62"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Copenhagen": "100.00"
+        }
+      }
+    },
+    "2018": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Unspecified": "10.70",
+          "Russian Federation": "0.91",
+          "Copenhagen": "85.21",
+          "Lisbon": "1.30",
+          "Reykjavik": "0.78"
+        },
+        "Vegetable Products": {
+          "Copenhagen": "100.00"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Copenhagen": "100.00"
+        },
+        "Mineral Products": {
+          "Copenhagen": "100.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Copenhagen": "100.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Copenhagen": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Copenhagen": "99.08",
+          "Beijing": "0.78",
+          "Ottawa": "0.14"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Copenhagen": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Copenhagen": "100.00"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Thailand": "96.50",
+          "Copenhagen": "2.49",
+          "Washington, D.C.": "0.68",
+          "Manama": "0.33"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Copenhagen": "100.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Copenhagen": "100.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Copenhagen": "100.00"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Latvia": "99.25",
+          "Copenhagen": "0.75"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Latvia": "83.83",
+          "Thailand": "6.06",
+          "Copenhagen": "10.03",
+          "Washington, D.C.": "0.04",
+          "Manama": "0.02"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Copenhagen": "100.00"
+        }
+      }
     }
+  }
 }

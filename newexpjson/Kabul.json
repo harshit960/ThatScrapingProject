@@ -1,1580 +1,1580 @@
 {
-    "Main Partners": {
-        "2008": {
-            "Exports": {
-                "Animals & Animal Products": {
-                    "United Arab Emirates": "95.41",
-                    "Iraq": "4.56",
-                    "Turkey": "0.01",
-                    "Pakistan": "0.01"
-                },
-                "Vegetable Products": {
-                    "India": "40.92",
-                    "Pakistan": "32.44",
-                    "Russian Federation": "9.17",
-                    "Turkey": "5.27",
-                    "Iran, Islamic Rep.": "3.64"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Uzbekistan": "89.20",
-                    "Tajikistan": "10.80"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Pakistan": "27.25",
-                    "Finland": "25.96",
-                    "United Arab Emirates": "23.54",
-                    "United Kingdom": "10.43",
-                    "Iran, Islamic Rep.": "4.58"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "88.86",
-                    "Russian Federation": "2.84",
-                    "United Arab Emirates": "2.46",
-                    "Belgium": "1.78",
-                    "United States": "0.93"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Tajikistan": "78.86",
-                    "Spain": "15.91",
-                    "United Arab Emirates": "3.40",
-                    "Netherlands": "1.13",
-                    "China": "0.58"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "81.27",
-                    "Russian Federation": "3.89",
-                    "Iran, Islamic Rep.": "3.17",
-                    "Tajikistan": "3.05",
-                    "United Arab Emirates": "2.54"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Pakistan": "52.14",
-                    "Iran, Islamic Rep.": "16.17",
-                    "Turkmenistan": "10.79",
-                    "Russian Federation": "9.55",
-                    "Tajikistan": "7.13"
-                }
-            },
-            "Imports": {
-                "Animals & Animal Products": {
-                    "United Arab Emirates": "95.41",
-                    "Iraq": "4.56",
-                    "Turkey": "0.01",
-                    "Pakistan": "0.01"
-                },
-                "Vegetable Products": {
-                    "India": "40.92",
-                    "Pakistan": "32.44",
-                    "Russian Federation": "9.17",
-                    "Turkey": "5.27",
-                    "Iran, Islamic Rep.": "3.64"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Uzbekistan": "89.20",
-                    "Tajikistan": "10.80"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Pakistan": "27.25",
-                    "Finland": "25.96",
-                    "United Arab Emirates": "23.54",
-                    "United Kingdom": "10.43",
-                    "Iran, Islamic Rep.": "4.58"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "88.86",
-                    "Russian Federation": "2.84",
-                    "United Arab Emirates": "2.46",
-                    "Belgium": "1.78",
-                    "United States": "0.93"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Tajikistan": "78.86",
-                    "Spain": "15.91",
-                    "United Arab Emirates": "3.40",
-                    "Netherlands": "1.13",
-                    "China": "0.58"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "81.27",
-                    "Russian Federation": "3.89",
-                    "Iran, Islamic Rep.": "3.17",
-                    "Tajikistan": "3.05",
-                    "United Arab Emirates": "2.54"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Pakistan": "52.14",
-                    "Iran, Islamic Rep.": "16.17",
-                    "Turkmenistan": "10.79",
-                    "Russian Federation": "9.55",
-                    "Tajikistan": "7.13"
-                }
-            }
+  "Main Partners": {
+    "2008": {
+      "Exports": {
+        "Animals & Animal Products": {
+          "Iraq": "4.56",
+          "Abu Dhabi": "95.41",
+          "Ankara": "0.01",
+          "Islamabad": "0.01"
         },
-        "2009": {
-            "Exports": {
-                "Animals & Animal Products": {
-                    "Iraq": "47.07",
-                    "Turkey": "32.73",
-                    "Turkmenistan": "8.27",
-                    "Pakistan": "3.95",
-                    "Iran, Islamic Rep.": "3.05"
-                },
-                "Vegetable Products": {
-                    "Pakistan": "38.07",
-                    "India": "28.78",
-                    "Iran, Islamic Rep.": "9.59",
-                    "Russian Federation": "9.00",
-                    "United States": "5.77"
-                },
-                "Mineral Products": {
-                    "Pakistan": "82.07",
-                    "Iran, Islamic Rep.": "17.93"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Turkey": "98.79",
-                    "Iran, Islamic Rep.": "0.77",
-                    "United Arab Emirates": "0.22",
-                    "United States": "0.14",
-                    "Germany": "0.08"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "96.34",
-                    "Russian Federation": "1.92",
-                    "Brazil": "0.45",
-                    "United Arab Emirates": "0.37",
-                    "Turkey": "0.24"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Tajikistan": "99.98",
-                    "India": "0.02"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Pakistan": "82.07",
-                    "Iran, Islamic Rep.": "17.93"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "89.81",
-                    "Tajikistan": "6.68",
-                    "Russian Federation": "1.79",
-                    "Turkey": "0.47",
-                    "Brazil": "0.42"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            },
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Iraq": "47.07",
-                    "Turkey": "32.73",
-                    "Turkmenistan": "8.27",
-                    "Pakistan": "3.95",
-                    "Iran, Islamic Rep.": "3.05"
-                },
-                "Vegetable Products": {
-                    "Pakistan": "38.07",
-                    "India": "28.78",
-                    "Iran, Islamic Rep.": "9.59",
-                    "Russian Federation": "9.00",
-                    "United States": "5.77"
-                },
-                "Mineral Products": {
-                    "Pakistan": "82.07",
-                    "Iran, Islamic Rep.": "17.93"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Turkey": "98.79",
-                    "Iran, Islamic Rep.": "0.77",
-                    "United Arab Emirates": "0.22",
-                    "United States": "0.14",
-                    "Germany": "0.08"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "96.34",
-                    "Russian Federation": "1.92",
-                    "Brazil": "0.45",
-                    "United Arab Emirates": "0.37",
-                    "Turkey": "0.24"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Tajikistan": "99.98",
-                    "India": "0.02"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Pakistan": "82.07",
-                    "Iran, Islamic Rep.": "17.93"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "89.81",
-                    "Tajikistan": "6.68",
-                    "Russian Federation": "1.79",
-                    "Turkey": "0.47",
-                    "Brazil": "0.42"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            }
+        "Vegetable Products": {
+          "Russian Federation": "9.17",
+          "Iran, Islamic Rep.": "3.64",
+          "New Delhi": "40.92",
+          "Islamabad": "32.44",
+          "Ankara": "5.27"
         },
-        "2010": {
-            "Exports": {
-                "Animals & Animal Products": {
-                    "Pakistan": "56.49",
-                    "Turkey": "22.01",
-                    "Syrian Arab Republic": "16.80",
-                    "United Arab Emirates": "3.36",
-                    "Iran, Islamic Rep.": "0.56"
-                },
-                "Vegetable Products": {
-                    "India": "30.14",
-                    "Pakistan": "23.36",
-                    "Russian Federation": "14.81",
-                    "Iran, Islamic Rep.": "11.81",
-                    "Netherlands": "4.80"
-                },
-                "Mineral Products": {
-                    "Iran, Islamic Rep.": "36.34",
-                    "China": "23.22",
-                    "United Arab Emirates": "11.57",
-                    "Iraq": "11.30",
-                    "Pakistan": "7.46"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Turkey": "57.89",
-                    "Turkmenistan": "36.11",
-                    "United Arab Emirates": "2.41",
-                    "Russian Federation": "1.93",
-                    "Kazakhstan": "1.30"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "58.53",
-                    "Turkey": "34.94",
-                    "India": "2.49",
-                    "Germany": "1.58",
-                    "United Arab Emirates": "0.85"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Tajikistan": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Iran, Islamic Rep.": "36.34",
-                    "China": "23.22",
-                    "United Arab Emirates": "11.57",
-                    "Iraq": "11.30",
-                    "Pakistan": "7.46"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "53.75",
-                    "Turkey": "32.11",
-                    "Tajikistan": "8.14",
-                    "India": "2.29",
-                    "Germany": "1.45"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            },
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Pakistan": "56.49",
-                    "Turkey": "22.01",
-                    "Syrian Arab Republic": "16.80",
-                    "United Arab Emirates": "3.36",
-                    "Iran, Islamic Rep.": "0.56"
-                },
-                "Vegetable Products": {
-                    "India": "30.14",
-                    "Pakistan": "23.36",
-                    "Russian Federation": "14.81",
-                    "Iran, Islamic Rep.": "11.81",
-                    "Netherlands": "4.80"
-                },
-                "Mineral Products": {
-                    "Iran, Islamic Rep.": "36.34",
-                    "China": "23.22",
-                    "United Arab Emirates": "11.57",
-                    "Iraq": "11.30",
-                    "Pakistan": "7.46"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Turkey": "57.89",
-                    "Turkmenistan": "36.11",
-                    "United Arab Emirates": "2.41",
-                    "Russian Federation": "1.93",
-                    "Kazakhstan": "1.30"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "58.53",
-                    "Turkey": "34.94",
-                    "India": "2.49",
-                    "Germany": "1.58",
-                    "United Arab Emirates": "0.85"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Tajikistan": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Iran, Islamic Rep.": "36.34",
-                    "China": "23.22",
-                    "United Arab Emirates": "11.57",
-                    "Iraq": "11.30",
-                    "Pakistan": "7.46"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "53.75",
-                    "Turkey": "32.11",
-                    "Tajikistan": "8.14",
-                    "India": "2.29",
-                    "Germany": "1.45"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            }
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Uzbekistan": "89.20",
+          "Tajikistan": "10.80"
         },
-        "2011": {
-            "Exports": {
-                "Animals & Animal Products": {
-                    "Pakistan": "46.06",
-                    "Iran, Islamic Rep.": "23.01",
-                    "Iraq": "20.63",
-                    "United Arab Emirates": "4.86",
-                    "Turkey": "3.49"
-                },
-                "Vegetable Products": {
-                    "India": "34.13",
-                    "Pakistan": "26.52",
-                    "Russian Federation": "16.78",
-                    "Iran, Islamic Rep.": "6.86",
-                    "Iraq": "4.74"
-                },
-                "Mineral Products": {
-                    "China": "41.85",
-                    "Iran, Islamic Rep.": "24.77",
-                    "Pakistan": "19.17",
-                    "Italy": "11.11",
-                    "Iraq": "1.83"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Turkey": "95.11",
-                    "United Arab Emirates": "4.89"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "88.72",
-                    "Turkey": "2.82",
-                    "Italy": "2.57",
-                    "United States": "2.09",
-                    "United Arab Emirates": "1.59"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Tajikistan": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "China": "41.85",
-                    "Iran, Islamic Rep.": "24.77",
-                    "Pakistan": "19.17",
-                    "Italy": "11.11",
-                    "Iraq": "1.83"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "82.12",
-                    "Tajikistan": "7.38",
-                    "Turkey": "2.67",
-                    "Italy": "2.38",
-                    "United States": "1.94"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            },
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Pakistan": "46.06",
-                    "Iran, Islamic Rep.": "23.01",
-                    "Iraq": "20.63",
-                    "United Arab Emirates": "4.86",
-                    "Turkey": "3.49"
-                },
-                "Vegetable Products": {
-                    "India": "34.13",
-                    "Pakistan": "26.52",
-                    "Russian Federation": "16.78",
-                    "Iran, Islamic Rep.": "6.86",
-                    "Iraq": "4.74"
-                },
-                "Mineral Products": {
-                    "China": "41.85",
-                    "Iran, Islamic Rep.": "24.77",
-                    "Pakistan": "19.17",
-                    "Italy": "11.11",
-                    "Iraq": "1.83"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Turkey": "95.11",
-                    "United Arab Emirates": "4.89"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "88.72",
-                    "Turkey": "2.82",
-                    "Italy": "2.57",
-                    "United States": "2.09",
-                    "United Arab Emirates": "1.59"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Tajikistan": "100.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "China": "41.85",
-                    "Iran, Islamic Rep.": "24.77",
-                    "Pakistan": "19.17",
-                    "Italy": "11.11",
-                    "Iraq": "1.83"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "82.12",
-                    "Tajikistan": "7.38",
-                    "Turkey": "2.67",
-                    "Italy": "2.38",
-                    "United States": "1.94"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            }
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Iran, Islamic Rep.": "4.58",
+          "Islamabad": "27.25",
+          "Helsinki": "25.96",
+          "Abu Dhabi": "23.54",
+          "London": "10.43"
         },
-        "2012": {
-            "Exports": {
-                "Animals & Animal Products": {
-                    "Pakistan": "100.00"
-                },
-                "Vegetable Products": {
-                    "Pakistan": "32.17",
-                    "India": "32.05",
-                    "Iran, Islamic Rep.": "26.99",
-                    "Unspecified": "7.04",
-                    "Saudi Arabia": "1.59"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "60.09",
-                    "Unspecified": "38.07",
-                    "India": "1.73",
-                    "China": "0.12"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "60.09",
-                    "Unspecified": "38.07",
-                    "India": "1.73",
-                    "China": "0.12"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            },
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Pakistan": "100.00"
-                },
-                "Vegetable Products": {
-                    "Pakistan": "32.17",
-                    "India": "32.05",
-                    "Iran, Islamic Rep.": "26.99",
-                    "Unspecified": "7.04",
-                    "Saudi Arabia": "1.59"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "60.09",
-                    "Unspecified": "38.07",
-                    "India": "1.73",
-                    "China": "0.12"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "60.09",
-                    "Unspecified": "38.07",
-                    "India": "1.73",
-                    "China": "0.12"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            }
+        "Textiles and Textile Articles": {
+          "Russian Federation": "2.84",
+          "Belgium": "1.78",
+          "Islamabad": "88.86",
+          "Abu Dhabi": "2.46",
+          "Washington, D.C.": "0.93"
         },
-        "2013": {
-            "Exports": {
-                "Animals & Animal Products": {
-                    "Pakistan": "100.00"
-                },
-                "Vegetable Products": {
-                    "India": "52.61",
-                    "Unspecified": "15.25",
-                    "Iran, Islamic Rep.": "14.78",
-                    "Pakistan": "13.53",
-                    "China": "3.79"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "57.91",
-                    "Unspecified": "41.77",
-                    "India": "0.29",
-                    "China": "0.02"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "57.91",
-                    "Unspecified": "41.77",
-                    "India": "0.29",
-                    "China": "0.02"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            },
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Pakistan": "100.00"
-                },
-                "Vegetable Products": {
-                    "India": "52.61",
-                    "Unspecified": "15.25",
-                    "Iran, Islamic Rep.": "14.78",
-                    "Pakistan": "13.53",
-                    "China": "3.79"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "57.91",
-                    "Unspecified": "41.77",
-                    "India": "0.29",
-                    "China": "0.02"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "57.91",
-                    "Unspecified": "41.77",
-                    "India": "0.29",
-                    "China": "0.02"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            }
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "78.86",
+          "Madrid": "15.91",
+          "Abu Dhabi": "3.40",
+          "Amsterdam": "1.13",
+          "Beijing": "0.58"
         },
-        "2014": {
-            "Exports": {
-                "Animals & Animal Products": {
-                    "Pakistan": "100.00"
-                },
-                "Vegetable Products": {
-                    "India": "52.94",
-                    "Iran, Islamic Rep.": "21.85",
-                    "Unspecified": "12.26",
-                    "Pakistan": "7.30",
-                    "China": "5.66"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "89.35",
-                    "Unspecified": "10.17",
-                    "China": "0.47",
-                    "India": "0.01"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "89.35",
-                    "Unspecified": "10.17",
-                    "China": "0.47",
-                    "India": "0.01"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            },
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Pakistan": "100.00"
-                },
-                "Vegetable Products": {
-                    "India": "52.94",
-                    "Iran, Islamic Rep.": "21.85",
-                    "Unspecified": "12.26",
-                    "Pakistan": "7.30",
-                    "China": "5.66"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "89.35",
-                    "Unspecified": "10.17",
-                    "China": "0.47",
-                    "India": "0.01"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "89.35",
-                    "Unspecified": "10.17",
-                    "China": "0.47",
-                    "India": "0.01"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            }
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Russian Federation": "3.89",
+          "Iran, Islamic Rep.": "3.17",
+          "Tajikistan": "3.05",
+          "Islamabad": "81.27",
+          "Abu Dhabi": "2.54"
         },
-        "2015": {
-            "Exports": {
-                "Animals & Animal Products": {
-                    "Turkey": "38.81",
-                    "Pakistan": "30.88",
-                    "Germany": "12.23",
-                    "Egypt, Arab Rep.": "4.17",
-                    "India": "4.01"
-                },
-                "Vegetable Products": {
-                    "India": "49.74",
-                    "Pakistan": "18.73",
-                    "Iran, Islamic Rep.": "6.59",
-                    "United Arab Emirates": "5.19",
-                    "Russian Federation": "5.13"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Turkmenistan": "100.00"
-                },
-                "Mineral Products": {
-                    "Pakistan": "54.63",
-                    "Iran, Islamic Rep.": "30.84",
-                    "China": "8.51",
-                    "Italy": "1.52",
-                    "Turkey": "1.49"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Tajikistan": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "United Arab Emirates": "66.14",
-                    "United States": "10.02",
-                    "Germany": "7.40",
-                    "India": "4.90",
-                    "China": "3.83"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Turkmenistan": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "86.08",
-                    "Germany": "4.65",
-                    "Turkey": "2.87",
-                    "Italy": "2.51",
-                    "United Arab Emirates": "1.69"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Tajikistan": "49.62",
-                    "India": "28.62",
-                    "United States": "15.57",
-                    "United Arab Emirates": "6.10",
-                    "Azerbaijan": "0.08"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Pakistan": "54.63",
-                    "Iran, Islamic Rep.": "30.84",
-                    "China": "8.51",
-                    "Italy": "1.52",
-                    "Turkey": "1.49"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "85.65",
-                    "Germany": "4.66",
-                    "Turkey": "2.86",
-                    "Italy": "2.50",
-                    "United Arab Emirates": "1.94"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            },
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Turkey": "38.81",
-                    "Pakistan": "30.88",
-                    "Germany": "12.23",
-                    "Egypt, Arab Rep.": "4.17",
-                    "India": "4.01"
-                },
-                "Vegetable Products": {
-                    "India": "49.74",
-                    "Pakistan": "18.73",
-                    "Iran, Islamic Rep.": "6.59",
-                    "United Arab Emirates": "5.19",
-                    "Russian Federation": "5.13"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Turkmenistan": "100.00"
-                },
-                "Mineral Products": {
-                    "Pakistan": "54.63",
-                    "Iran, Islamic Rep.": "30.84",
-                    "China": "8.51",
-                    "Italy": "1.52",
-                    "Turkey": "1.49"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Tajikistan": "100.00"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "United Arab Emirates": "66.14",
-                    "United States": "10.02",
-                    "Germany": "7.40",
-                    "India": "4.90",
-                    "China": "3.83"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Turkmenistan": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "86.08",
-                    "Germany": "4.65",
-                    "Turkey": "2.87",
-                    "Italy": "2.51",
-                    "United Arab Emirates": "1.69"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Tajikistan": "49.62",
-                    "India": "28.62",
-                    "United States": "15.57",
-                    "United Arab Emirates": "6.10",
-                    "Azerbaijan": "0.08"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Pakistan": "54.63",
-                    "Iran, Islamic Rep.": "30.84",
-                    "China": "8.51",
-                    "Italy": "1.52",
-                    "Turkey": "1.49"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "85.65",
-                    "Germany": "4.66",
-                    "Turkey": "2.86",
-                    "Italy": "2.50",
-                    "United Arab Emirates": "1.94"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            }
-        },
-        "2016": {
-            "Exports": {
-                "Animals & Animal Products": {
-                    "India": "35.26",
-                    "Germany": "25.49",
-                    "Turkey": "18.32",
-                    "Pakistan": "11.02",
-                    "United Arab Emirates": "3.03"
-                },
-                "Vegetable Products": {
-                    "India": "50.56",
-                    "Pakistan": "37.54",
-                    "Iran, Islamic Rep.": "3.09",
-                    "Iraq": "2.30",
-                    "Turkey": "1.69"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Iran, Islamic Rep.": "100.00"
-                },
-                "Mineral Products": {
-                    "Pakistan": "62.98",
-                    "Iran, Islamic Rep.": "23.04",
-                    "China": "8.47",
-                    "United Arab Emirates": "2.54",
-                    "India": "0.81"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Iran, Islamic Rep.": "73.42",
-                    "Tajikistan": "18.14",
-                    "United Arab Emirates": "8.45"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Iraq": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "83.80",
-                    "Germany": "7.18",
-                    "Turkey": "2.82",
-                    "United States": "2.76",
-                    "United Arab Emirates": "1.19"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Pakistan": "62.98",
-                    "Iran, Islamic Rep.": "23.04",
-                    "China": "8.47",
-                    "United Arab Emirates": "2.54",
-                    "India": "0.81"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "83.47",
-                    "Germany": "7.15",
-                    "Turkey": "2.81",
-                    "United States": "2.75",
-                    "United Arab Emirates": "1.20"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            },
-            "Imports": {
-                "Animals & Animal Products": {
-                    "India": "35.26",
-                    "Germany": "25.49",
-                    "Turkey": "18.32",
-                    "Pakistan": "11.02",
-                    "United Arab Emirates": "3.03"
-                },
-                "Vegetable Products": {
-                    "India": "50.56",
-                    "Pakistan": "37.54",
-                    "Iran, Islamic Rep.": "3.09",
-                    "Iraq": "2.30",
-                    "Turkey": "1.69"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Iran, Islamic Rep.": "100.00"
-                },
-                "Mineral Products": {
-                    "Pakistan": "62.98",
-                    "Iran, Islamic Rep.": "23.04",
-                    "China": "8.47",
-                    "United Arab Emirates": "2.54",
-                    "India": "0.81"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Iran, Islamic Rep.": "73.42",
-                    "Tajikistan": "18.14",
-                    "United Arab Emirates": "8.45"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Iraq": "100.00"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "83.80",
-                    "Germany": "7.18",
-                    "Turkey": "2.82",
-                    "United States": "2.76",
-                    "United Arab Emirates": "1.19"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Pakistan": "62.98",
-                    "Iran, Islamic Rep.": "23.04",
-                    "China": "8.47",
-                    "United Arab Emirates": "2.54",
-                    "India": "0.81"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "83.47",
-                    "Germany": "7.15",
-                    "Turkey": "2.81",
-                    "United States": "2.75",
-                    "United Arab Emirates": "1.20"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Unspecified": "100.00"
-                }
-            }
-        },
-        "2017": {
-            "Exports": {
-                "Animals & Animal Products": {
-                    "Germany": "47.46",
-                    "Turkey": "25.93",
-                    "Iran, Islamic Rep.": "10.49",
-                    "United Arab Emirates": "6.76",
-                    "Pakistan": "4.26"
-                },
-                "Vegetable Products": {
-                    "India": "50.56",
-                    "Pakistan": "37.61",
-                    "Turkey": "2.21",
-                    "Iraq": "2.08",
-                    "Iran, Islamic Rep.": "2.06"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Pakistan": "59.67",
-                    "India": "28.85",
-                    "Tajikistan": "7.26",
-                    "Turkmenistan": "0.97",
-                    "Germany": "0.71"
-                },
-                "Mineral Products": {
-                    "Pakistan": "87.80",
-                    "China": "5.66",
-                    "Iran, Islamic Rep.": "5.29",
-                    "Turkey": "0.60",
-                    "India": "0.25"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Iran, Islamic Rep.": "91.47",
-                    "Pakistan": "8.48",
-                    "India": "0.05"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Pakistan": "78.76",
-                    "India": "5.94",
-                    "Turkmenistan": "5.58",
-                    "Austria": "5.49",
-                    "Tajikistan": "3.43"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Pakistan": "38.21",
-                    "Turkey": "30.17",
-                    "Finland": "24.60",
-                    "Myanmar": "1.53",
-                    "Uzbekistan": "1.21"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Pakistan": "70.42",
-                    "United States": "6.95",
-                    "Canada": "6.27",
-                    "United Arab Emirates": "3.76",
-                    "Turkmenistan": "3.68"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "67.65",
-                    "China": "20.32",
-                    "Germany": "3.74",
-                    "United States": "1.88",
-                    "Iran, Islamic Rep.": "1.72"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Tajikistan": "99.46",
-                    "Germany": "0.54"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "United States": "95.26",
-                    "Tajikistan": "2.62",
-                    "United Kingdom": "1.61",
-                    "France": "0.24",
-                    "India": "0.20"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Pakistan": "87.80",
-                    "China": "5.66",
-                    "Iran, Islamic Rep.": "5.29",
-                    "Turkey": "0.60",
-                    "India": "0.25"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "United Arab Emirates": "61.19",
-                    "Iran, Islamic Rep.": "32.16",
-                    "Indonesia": "2.21",
-                    "United States": "1.62",
-                    "Austria": "1.04"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Iran, Islamic Rep.": "32.86",
-                    "India": "28.63",
-                    "United Arab Emirates": "22.29",
-                    "Germany": "6.03",
-                    "Tajikistan": "3.48"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "63.03",
-                    "Finland": "9.38",
-                    "United Arab Emirates": "6.57",
-                    "Germany": "5.92",
-                    "Iran, Islamic Rep.": "5.61"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Pakistan": "53.22",
-                    "Iran, Islamic Rep.": "17.52",
-                    "Kazakhstan": "6.80",
-                    "Turkey": "6.68",
-                    "United Arab Emirates": "3.22"
-                }
-            },
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Germany": "47.46",
-                    "Turkey": "25.93",
-                    "Iran, Islamic Rep.": "10.49",
-                    "United Arab Emirates": "6.76",
-                    "Pakistan": "4.26"
-                },
-                "Vegetable Products": {
-                    "India": "50.56",
-                    "Pakistan": "37.61",
-                    "Turkey": "2.21",
-                    "Iraq": "2.08",
-                    "Iran, Islamic Rep.": "2.06"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Pakistan": "59.67",
-                    "India": "28.85",
-                    "Tajikistan": "7.26",
-                    "Turkmenistan": "0.97",
-                    "Germany": "0.71"
-                },
-                "Mineral Products": {
-                    "Pakistan": "87.80",
-                    "China": "5.66",
-                    "Iran, Islamic Rep.": "5.29",
-                    "Turkey": "0.60",
-                    "India": "0.25"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Iran, Islamic Rep.": "91.47",
-                    "Pakistan": "8.48",
-                    "India": "0.05"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Pakistan": "78.76",
-                    "India": "5.94",
-                    "Turkmenistan": "5.58",
-                    "Austria": "5.49",
-                    "Tajikistan": "3.43"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Pakistan": "38.21",
-                    "Turkey": "30.17",
-                    "Finland": "24.60",
-                    "Myanmar": "1.53",
-                    "Uzbekistan": "1.21"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Pakistan": "70.42",
-                    "United States": "6.95",
-                    "Canada": "6.27",
-                    "United Arab Emirates": "3.76",
-                    "Turkmenistan": "3.68"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "67.65",
-                    "China": "20.32",
-                    "Germany": "3.74",
-                    "United States": "1.88",
-                    "Iran, Islamic Rep.": "1.72"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Tajikistan": "99.46",
-                    "Germany": "0.54"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "United States": "95.26",
-                    "Tajikistan": "2.62",
-                    "United Kingdom": "1.61",
-                    "France": "0.24",
-                    "India": "0.20"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Pakistan": "87.80",
-                    "China": "5.66",
-                    "Iran, Islamic Rep.": "5.29",
-                    "Turkey": "0.60",
-                    "India": "0.25"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "United Arab Emirates": "61.19",
-                    "Iran, Islamic Rep.": "32.16",
-                    "Indonesia": "2.21",
-                    "United States": "1.62",
-                    "Austria": "1.04"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Iran, Islamic Rep.": "32.86",
-                    "India": "28.63",
-                    "United Arab Emirates": "22.29",
-                    "Germany": "6.03",
-                    "Tajikistan": "3.48"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "63.03",
-                    "Finland": "9.38",
-                    "United Arab Emirates": "6.57",
-                    "Germany": "5.92",
-                    "Iran, Islamic Rep.": "5.61"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Pakistan": "53.22",
-                    "Iran, Islamic Rep.": "17.52",
-                    "Kazakhstan": "6.80",
-                    "Turkey": "6.68",
-                    "United Arab Emirates": "3.22"
-                }
-            }
-        },
-        "2018": {
-            "Exports": {
-                "Animals & Animal Products": {
-                    "Germany": "54.37",
-                    "Turkey": "22.79",
-                    "Iran, Islamic Rep.": "7.05",
-                    "Romania": "6.19",
-                    "Tajikistan": "2.70"
-                },
-                "Vegetable Products": {
-                    "India": "51.64",
-                    "Pakistan": "34.53",
-                    "Iran, Islamic Rep.": "2.35",
-                    "Iraq": "1.87",
-                    "China": "1.77"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "India": "57.47",
-                    "Tajikistan": "10.70",
-                    "Pakistan": "8.04",
-                    "United Arab Emirates": "6.44",
-                    "Iraq": "4.75"
-                },
-                "Mineral Products": {
-                    "Pakistan": "88.36",
-                    "China": "8.64",
-                    "Iran, Islamic Rep.": "1.85",
-                    "Turkey": "0.47",
-                    "India": "0.29"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Tajikistan": "85.64",
-                    "Iran, Islamic Rep.": "7.97",
-                    "Pakistan": "6.24",
-                    "India": "0.14",
-                    "United Arab Emirates": "0.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Tajikistan": "78.96",
-                    "Iran, Islamic Rep.": "15.05",
-                    "United Arab Emirates": "3.02",
-                    "Kazakhstan": "1.73",
-                    "Uzbekistan": "0.80"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Turkey": "45.07",
-                    "Pakistan": "39.13",
-                    "Finland": "8.12",
-                    "Hong Kong, China": "5.40",
-                    "Uzbekistan": "1.00"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Pakistan": "86.32",
-                    "United States": "3.86",
-                    "United Kingdom": "3.14",
-                    "Canada": "2.58",
-                    "United Arab Emirates": "1.16"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "60.48",
-                    "China": "26.31",
-                    "Germany": "1.93",
-                    "Turkey": "1.73",
-                    "United States": "1.58"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Tajikistan": "92.47",
-                    "Kyrgyz Republic": "5.58",
-                    "United Arab Emirates": "1.47",
-                    "Turkey": "0.48"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "United States": "68.54",
-                    "India": "20.30",
-                    "Tajikistan": "8.59",
-                    "Pakistan": "2.36",
-                    "Russian Federation": "0.22"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Pakistan": "84.73",
-                    "China": "8.29",
-                    "Turkey": "4.56",
-                    "Iran, Islamic Rep.": "1.78",
-                    "India": "0.28"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "United Arab Emirates": "43.28",
-                    "Iran, Islamic Rep.": "41.36",
-                    "Turkey": "10.35",
-                    "India": "2.46",
-                    "Indonesia": "1.21"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Iran, Islamic Rep.": "52.15",
-                    "Uzbekistan": "11.73",
-                    "Tajikistan": "11.65",
-                    "United Kingdom": "10.67",
-                    "Slovak Republic": "4.49"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "United Arab Emirates": "35.89",
-                    "Pakistan": "22.56",
-                    "Turkey": "15.99",
-                    "Tajikistan": "10.51",
-                    "Germany": "10.10"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "58.94",
-                    "United Arab Emirates": "10.23",
-                    "Iran, Islamic Rep.": "8.63",
-                    "Germany": "3.53",
-                    "Turkey": "3.50"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Pakistan": "31.57",
-                    "United Arab Emirates": "27.55",
-                    "Turkey": "21.19",
-                    "Tajikistan": "6.25",
-                    "Iran, Islamic Rep.": "3.61"
-                }
-            },
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Germany": "54.37",
-                    "Turkey": "22.79",
-                    "Iran, Islamic Rep.": "7.05",
-                    "Romania": "6.19",
-                    "Tajikistan": "2.70"
-                },
-                "Vegetable Products": {
-                    "India": "51.64",
-                    "Pakistan": "34.53",
-                    "Iran, Islamic Rep.": "2.35",
-                    "Iraq": "1.87",
-                    "China": "1.77"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "India": "57.47",
-                    "Tajikistan": "10.70",
-                    "Pakistan": "8.04",
-                    "United Arab Emirates": "6.44",
-                    "Iraq": "4.75"
-                },
-                "Mineral Products": {
-                    "Pakistan": "88.36",
-                    "China": "8.64",
-                    "Iran, Islamic Rep.": "1.85",
-                    "Turkey": "0.47",
-                    "India": "0.29"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Tajikistan": "85.64",
-                    "Iran, Islamic Rep.": "7.97",
-                    "Pakistan": "6.24",
-                    "India": "0.14",
-                    "United Arab Emirates": "0.00"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Tajikistan": "78.96",
-                    "Iran, Islamic Rep.": "15.05",
-                    "United Arab Emirates": "3.02",
-                    "Kazakhstan": "1.73",
-                    "Uzbekistan": "0.80"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Turkey": "45.07",
-                    "Pakistan": "39.13",
-                    "Finland": "8.12",
-                    "Hong Kong, China": "5.40",
-                    "Uzbekistan": "1.00"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Pakistan": "86.32",
-                    "United States": "3.86",
-                    "United Kingdom": "3.14",
-                    "Canada": "2.58",
-                    "United Arab Emirates": "1.16"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "60.48",
-                    "China": "26.31",
-                    "Germany": "1.93",
-                    "Turkey": "1.73",
-                    "United States": "1.58"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Tajikistan": "92.47",
-                    "Kyrgyz Republic": "5.58",
-                    "United Arab Emirates": "1.47",
-                    "Turkey": "0.48"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "United States": "68.54",
-                    "India": "20.30",
-                    "Tajikistan": "8.59",
-                    "Pakistan": "2.36",
-                    "Russian Federation": "0.22"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Pakistan": "84.73",
-                    "China": "8.29",
-                    "Turkey": "4.56",
-                    "Iran, Islamic Rep.": "1.78",
-                    "India": "0.28"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "United Arab Emirates": "43.28",
-                    "Iran, Islamic Rep.": "41.36",
-                    "Turkey": "10.35",
-                    "India": "2.46",
-                    "Indonesia": "1.21"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Iran, Islamic Rep.": "52.15",
-                    "Uzbekistan": "11.73",
-                    "Tajikistan": "11.65",
-                    "United Kingdom": "10.67",
-                    "Slovak Republic": "4.49"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "United Arab Emirates": "35.89",
-                    "Pakistan": "22.56",
-                    "Turkey": "15.99",
-                    "Tajikistan": "10.51",
-                    "Germany": "10.10"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "58.94",
-                    "United Arab Emirates": "10.23",
-                    "Iran, Islamic Rep.": "8.63",
-                    "Germany": "3.53",
-                    "Turkey": "3.50"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Pakistan": "31.57",
-                    "United Arab Emirates": "27.55",
-                    "Turkey": "21.19",
-                    "Tajikistan": "6.25",
-                    "Iran, Islamic Rep.": "3.61"
-                }
-            }
-        },
-        "2019": {
-            "Exports": {
-                "Animals & Animal Products": {
-                    "Germany": "60.92",
-                    "Turkey": "19.97",
-                    "Tajikistan": "6.77",
-                    "Romania": "6.45",
-                    "Pakistan": "3.21"
-                },
-                "Vegetable Products": {
-                    "India": "59.14",
-                    "Pakistan": "23.48",
-                    "China": "3.21",
-                    "Turkey": "3.19",
-                    "United Arab Emirates": "2.48"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Pakistan": "36.36",
-                    "United Arab Emirates": "16.98",
-                    "Turkmenistan": "15.11",
-                    "Tajikistan": "13.92",
-                    "Iraq": "5.25"
-                },
-                "Mineral Products": {
-                    "Pakistan": "95.16",
-                    "Turkey": "1.38",
-                    "China": "1.10",
-                    "Iran, Islamic Rep.": "0.76",
-                    "Jordan": "0.51"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Tajikistan": "80.33",
-                    "Iran, Islamic Rep.": "16.69",
-                    "Pakistan": "2.22",
-                    "Turkmenistan": "0.42",
-                    "United Arab Emirates": "0.33"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Tajikistan": "64.85",
-                    "Pakistan": "14.00",
-                    "Saudi Arabia": "9.55",
-                    "United Arab Emirates": "3.72",
-                    "Iran, Islamic Rep.": "2.92"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Pakistan": "68.77",
-                    "Turkey": "11.52",
-                    "Finland": "11.39",
-                    "Uzbekistan": "3.75",
-                    "Hong Kong, China": "2.35"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Pakistan": "56.63",
-                    "Turkmenistan": "18.32",
-                    "Tajikistan": "12.78",
-                    "Iran, Islamic Rep.": "5.21",
-                    "Uzbekistan": "4.17"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "68.31",
-                    "China": "14.39",
-                    "Germany": "4.97",
-                    "United States": "2.92",
-                    "United Kingdom": "1.71"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Vietnam": "39.78",
-                    "Myanmar": "33.68",
-                    "Tajikistan": "24.72",
-                    "Russian Federation": "1.03",
-                    "Bangladesh": "0.79"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Tajikistan": "30.36",
-                    "Pakistan": "19.25",
-                    "Canada": "16.62",
-                    "China": "8.63",
-                    "United Arab Emirates": "6.32"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Pakistan": "95.16",
-                    "Turkey": "1.38",
-                    "China": "1.10",
-                    "Iran, Islamic Rep.": "0.76",
-                    "Jordan": "0.51"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "United Arab Emirates": "77.45",
-                    "Iran, Islamic Rep.": "6.85",
-                    "India": "6.62",
-                    "Other Asia, nes": "2.26",
-                    "Indonesia": "1.96"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Iran, Islamic Rep.": "28.16",
-                    "Uzbekistan": "23.60",
-                    "United Arab Emirates": "20.87",
-                    "Tajikistan": "12.09",
-                    "India": "3.73"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Uzbekistan": "36.29",
-                    "United Arab Emirates": "35.92",
-                    "Pakistan": "17.79",
-                    "Tajikistan": "5.80",
-                    "Turkey": "3.63"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "43.77",
-                    "United Arab Emirates": "15.99",
-                    "China": "9.35",
-                    "Germany": "6.87",
-                    "United States": "4.03"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Uzbekistan": "38.65",
-                    "Kazakhstan": "33.14",
-                    "Tajikistan": "5.92",
-                    "India": "5.76",
-                    "Somalia": "5.01"
-                }
-            },
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Germany": "60.92",
-                    "Turkey": "19.97",
-                    "Tajikistan": "6.77",
-                    "Romania": "6.45",
-                    "Pakistan": "3.21"
-                },
-                "Vegetable Products": {
-                    "India": "59.14",
-                    "Pakistan": "23.48",
-                    "China": "3.21",
-                    "Turkey": "3.19",
-                    "United Arab Emirates": "2.48"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Pakistan": "36.36",
-                    "United Arab Emirates": "16.98",
-                    "Turkmenistan": "15.11",
-                    "Tajikistan": "13.92",
-                    "Iraq": "5.25"
-                },
-                "Mineral Products": {
-                    "Pakistan": "95.16",
-                    "Turkey": "1.38",
-                    "China": "1.10",
-                    "Iran, Islamic Rep.": "0.76",
-                    "Jordan": "0.51"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Tajikistan": "80.33",
-                    "Iran, Islamic Rep.": "16.69",
-                    "Pakistan": "2.22",
-                    "Turkmenistan": "0.42",
-                    "United Arab Emirates": "0.33"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Tajikistan": "64.85",
-                    "Pakistan": "14.00",
-                    "Saudi Arabia": "9.55",
-                    "United Arab Emirates": "3.72",
-                    "Iran, Islamic Rep.": "2.92"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "Pakistan": "68.77",
-                    "Turkey": "11.52",
-                    "Finland": "11.39",
-                    "Uzbekistan": "3.75",
-                    "Hong Kong, China": "2.35"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Pakistan": "56.63",
-                    "Turkmenistan": "18.32",
-                    "Tajikistan": "12.78",
-                    "Iran, Islamic Rep.": "5.21",
-                    "Uzbekistan": "4.17"
-                },
-                "Textiles and Textile Articles": {
-                    "Pakistan": "68.31",
-                    "China": "14.39",
-                    "Germany": "4.97",
-                    "United States": "2.92",
-                    "United Kingdom": "1.71"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "Vietnam": "39.78",
-                    "Myanmar": "33.68",
-                    "Tajikistan": "24.72",
-                    "Russian Federation": "1.03",
-                    "Bangladesh": "0.79"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Tajikistan": "30.36",
-                    "Pakistan": "19.25",
-                    "Canada": "16.62",
-                    "China": "8.63",
-                    "United Arab Emirates": "6.32"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Pakistan": "95.16",
-                    "Turkey": "1.38",
-                    "China": "1.10",
-                    "Iran, Islamic Rep.": "0.76",
-                    "Jordan": "0.51"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "United Arab Emirates": "77.45",
-                    "Iran, Islamic Rep.": "6.85",
-                    "India": "6.62",
-                    "Other Asia, nes": "2.26",
-                    "Indonesia": "1.96"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Iran, Islamic Rep.": "28.16",
-                    "Uzbekistan": "23.60",
-                    "United Arab Emirates": "20.87",
-                    "Tajikistan": "12.09",
-                    "India": "3.73"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Uzbekistan": "36.29",
-                    "United Arab Emirates": "35.92",
-                    "Pakistan": "17.79",
-                    "Tajikistan": "5.80",
-                    "Turkey": "3.63"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Pakistan": "43.77",
-                    "United Arab Emirates": "15.99",
-                    "China": "9.35",
-                    "Germany": "6.87",
-                    "United States": "4.03"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Uzbekistan": "38.65",
-                    "Kazakhstan": "33.14",
-                    "Tajikistan": "5.92",
-                    "India": "5.76",
-                    "Somalia": "5.01"
-                }
-            }
+        "Miscellaneous Manufactured Articles": {
+          "Iran, Islamic Rep.": "16.17",
+          "Turkmenistan": "10.79",
+          "Russian Federation": "9.55",
+          "Tajikistan": "7.13",
+          "Islamabad": "52.14"
         }
+      },
+      "Imports": {
+        "Animals & Animal Products": {
+          "Iraq": "4.56",
+          "Abu Dhabi": "95.41",
+          "Ankara": "0.01",
+          "Islamabad": "0.01"
+        },
+        "Vegetable Products": {
+          "Russian Federation": "9.17",
+          "Iran, Islamic Rep.": "3.64",
+          "New Delhi": "40.92",
+          "Islamabad": "32.44",
+          "Ankara": "5.27"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Uzbekistan": "89.20",
+          "Tajikistan": "10.80"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Iran, Islamic Rep.": "4.58",
+          "Islamabad": "27.25",
+          "Helsinki": "25.96",
+          "Abu Dhabi": "23.54",
+          "London": "10.43"
+        },
+        "Textiles and Textile Articles": {
+          "Russian Federation": "2.84",
+          "Belgium": "1.78",
+          "Islamabad": "88.86",
+          "Abu Dhabi": "2.46",
+          "Washington, D.C.": "0.93"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "78.86",
+          "Madrid": "15.91",
+          "Abu Dhabi": "3.40",
+          "Amsterdam": "1.13",
+          "Beijing": "0.58"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Russian Federation": "3.89",
+          "Iran, Islamic Rep.": "3.17",
+          "Tajikistan": "3.05",
+          "Islamabad": "81.27",
+          "Abu Dhabi": "2.54"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Iran, Islamic Rep.": "16.17",
+          "Turkmenistan": "10.79",
+          "Russian Federation": "9.55",
+          "Tajikistan": "7.13",
+          "Islamabad": "52.14"
+        }
+      }
+    },
+    "2009": {
+      "Exports": {
+        "Animals & Animal Products": {
+          "Iraq": "47.07",
+          "Turkmenistan": "8.27",
+          "Iran, Islamic Rep.": "3.05",
+          "Ankara": "32.73",
+          "Islamabad": "3.95"
+        },
+        "Vegetable Products": {
+          "Iran, Islamic Rep.": "9.59",
+          "Russian Federation": "9.00",
+          "Islamabad": "38.07",
+          "New Delhi": "28.78",
+          "Washington, D.C.": "5.77"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "17.93",
+          "Islamabad": "82.07"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Iran, Islamic Rep.": "0.77",
+          "Ankara": "98.79",
+          "Abu Dhabi": "0.22",
+          "Washington, D.C.": "0.14",
+          "Berlin": "0.08"
+        },
+        "Textiles and Textile Articles": {
+          "Russian Federation": "1.92",
+          "Islamabad": "96.34",
+          "Brasília": "0.45",
+          "Abu Dhabi": "0.37",
+          "Ankara": "0.24"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "99.98",
+          "New Delhi": "0.02"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "17.93",
+          "Islamabad": "82.07"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Tajikistan": "6.68",
+          "Russian Federation": "1.79",
+          "Islamabad": "89.81",
+          "Ankara": "0.47",
+          "Brasília": "0.42"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      },
+      "Imports": {
+        "Animals & Animal Products": {
+          "Iraq": "47.07",
+          "Turkmenistan": "8.27",
+          "Iran, Islamic Rep.": "3.05",
+          "Ankara": "32.73",
+          "Islamabad": "3.95"
+        },
+        "Vegetable Products": {
+          "Iran, Islamic Rep.": "9.59",
+          "Russian Federation": "9.00",
+          "Islamabad": "38.07",
+          "New Delhi": "28.78",
+          "Washington, D.C.": "5.77"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "17.93",
+          "Islamabad": "82.07"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Iran, Islamic Rep.": "0.77",
+          "Ankara": "98.79",
+          "Abu Dhabi": "0.22",
+          "Washington, D.C.": "0.14",
+          "Berlin": "0.08"
+        },
+        "Textiles and Textile Articles": {
+          "Russian Federation": "1.92",
+          "Islamabad": "96.34",
+          "Brasília": "0.45",
+          "Abu Dhabi": "0.37",
+          "Ankara": "0.24"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "99.98",
+          "New Delhi": "0.02"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "17.93",
+          "Islamabad": "82.07"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Tajikistan": "6.68",
+          "Russian Federation": "1.79",
+          "Islamabad": "89.81",
+          "Ankara": "0.47",
+          "Brasília": "0.42"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      }
+    },
+    "2010": {
+      "Exports": {
+        "Animals & Animal Products": {
+          "Syrian Arab Republic": "16.80",
+          "Iran, Islamic Rep.": "0.56",
+          "Islamabad": "56.49",
+          "Ankara": "22.01",
+          "Abu Dhabi": "3.36"
+        },
+        "Vegetable Products": {
+          "Russian Federation": "14.81",
+          "Iran, Islamic Rep.": "11.81",
+          "New Delhi": "30.14",
+          "Islamabad": "23.36",
+          "Amsterdam": "4.80"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "36.34",
+          "Iraq": "11.30",
+          "Beijing": "23.22",
+          "Abu Dhabi": "11.57",
+          "Islamabad": "7.46"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Turkmenistan": "36.11",
+          "Russian Federation": "1.93",
+          "Kazakhstan": "1.30",
+          "Ankara": "57.89",
+          "Abu Dhabi": "2.41"
+        },
+        "Textiles and Textile Articles": {
+          "Islamabad": "58.53",
+          "Ankara": "34.94",
+          "New Delhi": "2.49",
+          "Berlin": "1.58",
+          "Abu Dhabi": "0.85"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "36.34",
+          "Iraq": "11.30",
+          "Beijing": "23.22",
+          "Abu Dhabi": "11.57",
+          "Islamabad": "7.46"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Tajikistan": "8.14",
+          "Islamabad": "53.75",
+          "Ankara": "32.11",
+          "New Delhi": "2.29",
+          "Berlin": "1.45"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      },
+      "Imports": {
+        "Animals & Animal Products": {
+          "Syrian Arab Republic": "16.80",
+          "Iran, Islamic Rep.": "0.56",
+          "Islamabad": "56.49",
+          "Ankara": "22.01",
+          "Abu Dhabi": "3.36"
+        },
+        "Vegetable Products": {
+          "Russian Federation": "14.81",
+          "Iran, Islamic Rep.": "11.81",
+          "New Delhi": "30.14",
+          "Islamabad": "23.36",
+          "Amsterdam": "4.80"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "36.34",
+          "Iraq": "11.30",
+          "Beijing": "23.22",
+          "Abu Dhabi": "11.57",
+          "Islamabad": "7.46"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Turkmenistan": "36.11",
+          "Russian Federation": "1.93",
+          "Kazakhstan": "1.30",
+          "Ankara": "57.89",
+          "Abu Dhabi": "2.41"
+        },
+        "Textiles and Textile Articles": {
+          "Islamabad": "58.53",
+          "Ankara": "34.94",
+          "New Delhi": "2.49",
+          "Berlin": "1.58",
+          "Abu Dhabi": "0.85"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "36.34",
+          "Iraq": "11.30",
+          "Beijing": "23.22",
+          "Abu Dhabi": "11.57",
+          "Islamabad": "7.46"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Tajikistan": "8.14",
+          "Islamabad": "53.75",
+          "Ankara": "32.11",
+          "New Delhi": "2.29",
+          "Berlin": "1.45"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      }
+    },
+    "2011": {
+      "Exports": {
+        "Animals & Animal Products": {
+          "Iran, Islamic Rep.": "23.01",
+          "Iraq": "20.63",
+          "Islamabad": "46.06",
+          "Abu Dhabi": "4.86",
+          "Ankara": "3.49"
+        },
+        "Vegetable Products": {
+          "Russian Federation": "16.78",
+          "Iran, Islamic Rep.": "6.86",
+          "Iraq": "4.74",
+          "New Delhi": "34.13",
+          "Islamabad": "26.52"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "24.77",
+          "Iraq": "1.83",
+          "Beijing": "41.85",
+          "Islamabad": "19.17",
+          "Rome": "11.11"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Ankara": "95.11",
+          "Abu Dhabi": "4.89"
+        },
+        "Textiles and Textile Articles": {
+          "Islamabad": "88.72",
+          "Ankara": "2.82",
+          "Rome": "2.57",
+          "Washington, D.C.": "2.09",
+          "Abu Dhabi": "1.59"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "24.77",
+          "Iraq": "1.83",
+          "Beijing": "41.85",
+          "Islamabad": "19.17",
+          "Rome": "11.11"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Tajikistan": "7.38",
+          "Islamabad": "82.12",
+          "Ankara": "2.67",
+          "Rome": "2.38",
+          "Washington, D.C.": "1.94"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      },
+      "Imports": {
+        "Animals & Animal Products": {
+          "Iran, Islamic Rep.": "23.01",
+          "Iraq": "20.63",
+          "Islamabad": "46.06",
+          "Abu Dhabi": "4.86",
+          "Ankara": "3.49"
+        },
+        "Vegetable Products": {
+          "Russian Federation": "16.78",
+          "Iran, Islamic Rep.": "6.86",
+          "Iraq": "4.74",
+          "New Delhi": "34.13",
+          "Islamabad": "26.52"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "24.77",
+          "Iraq": "1.83",
+          "Beijing": "41.85",
+          "Islamabad": "19.17",
+          "Rome": "11.11"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Ankara": "95.11",
+          "Abu Dhabi": "4.89"
+        },
+        "Textiles and Textile Articles": {
+          "Islamabad": "88.72",
+          "Ankara": "2.82",
+          "Rome": "2.57",
+          "Washington, D.C.": "2.09",
+          "Abu Dhabi": "1.59"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "100.00"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "24.77",
+          "Iraq": "1.83",
+          "Beijing": "41.85",
+          "Islamabad": "19.17",
+          "Rome": "11.11"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Tajikistan": "7.38",
+          "Islamabad": "82.12",
+          "Ankara": "2.67",
+          "Rome": "2.38",
+          "Washington, D.C.": "1.94"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      }
+    },
+    "2012": {
+      "Exports": {
+        "Animals & Animal Products": {
+          "Islamabad": "100.00"
+        },
+        "Vegetable Products": {
+          "Iran, Islamic Rep.": "26.99",
+          "Unspecified": "7.04",
+          "Islamabad": "32.17",
+          "New Delhi": "32.05",
+          "Riyadh": "1.59"
+        },
+        "Textiles and Textile Articles": {
+          "Unspecified": "38.07",
+          "Islamabad": "60.09",
+          "New Delhi": "1.73",
+          "Beijing": "0.12"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "38.07",
+          "Islamabad": "60.09",
+          "New Delhi": "1.73",
+          "Beijing": "0.12"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      },
+      "Imports": {
+        "Animals & Animal Products": {
+          "Islamabad": "100.00"
+        },
+        "Vegetable Products": {
+          "Iran, Islamic Rep.": "26.99",
+          "Unspecified": "7.04",
+          "Islamabad": "32.17",
+          "New Delhi": "32.05",
+          "Riyadh": "1.59"
+        },
+        "Textiles and Textile Articles": {
+          "Unspecified": "38.07",
+          "Islamabad": "60.09",
+          "New Delhi": "1.73",
+          "Beijing": "0.12"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "38.07",
+          "Islamabad": "60.09",
+          "New Delhi": "1.73",
+          "Beijing": "0.12"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      }
+    },
+    "2013": {
+      "Exports": {
+        "Animals & Animal Products": {
+          "Islamabad": "100.00"
+        },
+        "Vegetable Products": {
+          "Unspecified": "15.25",
+          "Iran, Islamic Rep.": "14.78",
+          "New Delhi": "52.61",
+          "Islamabad": "13.53",
+          "Beijing": "3.79"
+        },
+        "Textiles and Textile Articles": {
+          "Unspecified": "41.77",
+          "Islamabad": "57.91",
+          "New Delhi": "0.29",
+          "Beijing": "0.02"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "41.77",
+          "Islamabad": "57.91",
+          "New Delhi": "0.29",
+          "Beijing": "0.02"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      },
+      "Imports": {
+        "Animals & Animal Products": {
+          "Islamabad": "100.00"
+        },
+        "Vegetable Products": {
+          "Unspecified": "15.25",
+          "Iran, Islamic Rep.": "14.78",
+          "New Delhi": "52.61",
+          "Islamabad": "13.53",
+          "Beijing": "3.79"
+        },
+        "Textiles and Textile Articles": {
+          "Unspecified": "41.77",
+          "Islamabad": "57.91",
+          "New Delhi": "0.29",
+          "Beijing": "0.02"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "41.77",
+          "Islamabad": "57.91",
+          "New Delhi": "0.29",
+          "Beijing": "0.02"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      }
+    },
+    "2014": {
+      "Exports": {
+        "Animals & Animal Products": {
+          "Islamabad": "100.00"
+        },
+        "Vegetable Products": {
+          "Iran, Islamic Rep.": "21.85",
+          "Unspecified": "12.26",
+          "New Delhi": "52.94",
+          "Islamabad": "7.30",
+          "Beijing": "5.66"
+        },
+        "Textiles and Textile Articles": {
+          "Unspecified": "10.17",
+          "Islamabad": "89.35",
+          "Beijing": "0.47",
+          "New Delhi": "0.01"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "10.17",
+          "Islamabad": "89.35",
+          "Beijing": "0.47",
+          "New Delhi": "0.01"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      },
+      "Imports": {
+        "Animals & Animal Products": {
+          "Islamabad": "100.00"
+        },
+        "Vegetable Products": {
+          "Iran, Islamic Rep.": "21.85",
+          "Unspecified": "12.26",
+          "New Delhi": "52.94",
+          "Islamabad": "7.30",
+          "Beijing": "5.66"
+        },
+        "Textiles and Textile Articles": {
+          "Unspecified": "10.17",
+          "Islamabad": "89.35",
+          "Beijing": "0.47",
+          "New Delhi": "0.01"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "10.17",
+          "Islamabad": "89.35",
+          "Beijing": "0.47",
+          "New Delhi": "0.01"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      }
+    },
+    "2015": {
+      "Exports": {
+        "Animals & Animal Products": {
+          "Ankara": "38.81",
+          "Islamabad": "30.88",
+          "Berlin": "12.23",
+          "Cairo": "4.17",
+          "New Delhi": "4.01"
+        },
+        "Vegetable Products": {
+          "Iran, Islamic Rep.": "6.59",
+          "Russian Federation": "5.13",
+          "New Delhi": "49.74",
+          "Islamabad": "18.73",
+          "Abu Dhabi": "5.19"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Turkmenistan": "100.00"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "30.84",
+          "Islamabad": "54.63",
+          "Beijing": "8.51",
+          "Rome": "1.52",
+          "Ankara": "1.49"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Tajikistan": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Abu Dhabi": "66.14",
+          "Washington, D.C.": "10.02",
+          "Berlin": "7.40",
+          "New Delhi": "4.90",
+          "Beijing": "3.83"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Turkmenistan": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Islamabad": "86.08",
+          "Berlin": "4.65",
+          "Ankara": "2.87",
+          "Rome": "2.51",
+          "Abu Dhabi": "1.69"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "49.62",
+          "Azerbaijan": "0.08",
+          "New Delhi": "28.62",
+          "Washington, D.C.": "15.57",
+          "Abu Dhabi": "6.10"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "30.84",
+          "Islamabad": "54.63",
+          "Beijing": "8.51",
+          "Rome": "1.52",
+          "Ankara": "1.49"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Islamabad": "85.65",
+          "Berlin": "4.66",
+          "Ankara": "2.86",
+          "Rome": "2.50",
+          "Abu Dhabi": "1.94"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      },
+      "Imports": {
+        "Animals & Animal Products": {
+          "Ankara": "38.81",
+          "Islamabad": "30.88",
+          "Berlin": "12.23",
+          "Cairo": "4.17",
+          "New Delhi": "4.01"
+        },
+        "Vegetable Products": {
+          "Iran, Islamic Rep.": "6.59",
+          "Russian Federation": "5.13",
+          "New Delhi": "49.74",
+          "Islamabad": "18.73",
+          "Abu Dhabi": "5.19"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Turkmenistan": "100.00"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "30.84",
+          "Islamabad": "54.63",
+          "Beijing": "8.51",
+          "Rome": "1.52",
+          "Ankara": "1.49"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Tajikistan": "100.00"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Abu Dhabi": "66.14",
+          "Washington, D.C.": "10.02",
+          "Berlin": "7.40",
+          "New Delhi": "4.90",
+          "Beijing": "3.83"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Turkmenistan": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Islamabad": "86.08",
+          "Berlin": "4.65",
+          "Ankara": "2.87",
+          "Rome": "2.51",
+          "Abu Dhabi": "1.69"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "49.62",
+          "Azerbaijan": "0.08",
+          "New Delhi": "28.62",
+          "Washington, D.C.": "15.57",
+          "Abu Dhabi": "6.10"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "30.84",
+          "Islamabad": "54.63",
+          "Beijing": "8.51",
+          "Rome": "1.52",
+          "Ankara": "1.49"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Islamabad": "85.65",
+          "Berlin": "4.66",
+          "Ankara": "2.86",
+          "Rome": "2.50",
+          "Abu Dhabi": "1.94"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      }
+    },
+    "2016": {
+      "Exports": {
+        "Animals & Animal Products": {
+          "New Delhi": "35.26",
+          "Berlin": "25.49",
+          "Ankara": "18.32",
+          "Islamabad": "11.02",
+          "Abu Dhabi": "3.03"
+        },
+        "Vegetable Products": {
+          "Iran, Islamic Rep.": "3.09",
+          "Iraq": "2.30",
+          "New Delhi": "50.56",
+          "Islamabad": "37.54",
+          "Ankara": "1.69"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Iran, Islamic Rep.": "100.00"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "23.04",
+          "Islamabad": "62.98",
+          "Beijing": "8.47",
+          "Abu Dhabi": "2.54",
+          "New Delhi": "0.81"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Iran, Islamic Rep.": "73.42",
+          "Tajikistan": "18.14",
+          "Abu Dhabi": "8.45"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Iraq": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Islamabad": "83.80",
+          "Berlin": "7.18",
+          "Ankara": "2.82",
+          "Washington, D.C.": "2.76",
+          "Abu Dhabi": "1.19"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "23.04",
+          "Islamabad": "62.98",
+          "Beijing": "8.47",
+          "Abu Dhabi": "2.54",
+          "New Delhi": "0.81"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Islamabad": "83.47",
+          "Berlin": "7.15",
+          "Ankara": "2.81",
+          "Washington, D.C.": "2.75",
+          "Abu Dhabi": "1.20"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      },
+      "Imports": {
+        "Animals & Animal Products": {
+          "New Delhi": "35.26",
+          "Berlin": "25.49",
+          "Ankara": "18.32",
+          "Islamabad": "11.02",
+          "Abu Dhabi": "3.03"
+        },
+        "Vegetable Products": {
+          "Iran, Islamic Rep.": "3.09",
+          "Iraq": "2.30",
+          "New Delhi": "50.56",
+          "Islamabad": "37.54",
+          "Ankara": "1.69"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Iran, Islamic Rep.": "100.00"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "23.04",
+          "Islamabad": "62.98",
+          "Beijing": "8.47",
+          "Abu Dhabi": "2.54",
+          "New Delhi": "0.81"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Iran, Islamic Rep.": "73.42",
+          "Tajikistan": "18.14",
+          "Abu Dhabi": "8.45"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Iraq": "100.00"
+        },
+        "Textiles and Textile Articles": {
+          "Islamabad": "83.80",
+          "Berlin": "7.18",
+          "Ankara": "2.82",
+          "Washington, D.C.": "2.76",
+          "Abu Dhabi": "1.19"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "23.04",
+          "Islamabad": "62.98",
+          "Beijing": "8.47",
+          "Abu Dhabi": "2.54",
+          "New Delhi": "0.81"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Islamabad": "83.47",
+          "Berlin": "7.15",
+          "Ankara": "2.81",
+          "Washington, D.C.": "2.75",
+          "Abu Dhabi": "1.20"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "100.00"
+        }
+      }
+    },
+    "2017": {
+      "Exports": {
+        "Animals & Animal Products": {
+          "Iran, Islamic Rep.": "10.49",
+          "Berlin": "47.46",
+          "Ankara": "25.93",
+          "Abu Dhabi": "6.76",
+          "Islamabad": "4.26"
+        },
+        "Vegetable Products": {
+          "Iraq": "2.08",
+          "Iran, Islamic Rep.": "2.06",
+          "New Delhi": "50.56",
+          "Islamabad": "37.61",
+          "Ankara": "2.21"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Tajikistan": "7.26",
+          "Turkmenistan": "0.97",
+          "Islamabad": "59.67",
+          "New Delhi": "28.85",
+          "Berlin": "0.71"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "5.29",
+          "Islamabad": "87.80",
+          "Beijing": "5.66",
+          "Ankara": "0.60",
+          "New Delhi": "0.25"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Iran, Islamic Rep.": "91.47",
+          "Islamabad": "8.48",
+          "New Delhi": "0.05"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Turkmenistan": "5.58",
+          "Tajikistan": "3.43",
+          "Islamabad": "78.76",
+          "New Delhi": "5.94",
+          "Vienna": "5.49"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Uzbekistan": "1.21",
+          "Islamabad": "38.21",
+          "Ankara": "30.17",
+          "Helsinki": "24.60",
+          "Naypyidaw": "1.53"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Turkmenistan": "3.68",
+          "Islamabad": "70.42",
+          "Washington, D.C.": "6.95",
+          "Ottawa": "6.27",
+          "Abu Dhabi": "3.76"
+        },
+        "Textiles and Textile Articles": {
+          "Iran, Islamic Rep.": "1.72",
+          "Islamabad": "67.65",
+          "Beijing": "20.32",
+          "Berlin": "3.74",
+          "Washington, D.C.": "1.88"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Tajikistan": "99.46",
+          "Berlin": "0.54"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "2.62",
+          "Washington, D.C.": "95.26",
+          "London": "1.61",
+          "Paris": "0.24",
+          "New Delhi": "0.20"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "5.29",
+          "Islamabad": "87.80",
+          "Beijing": "5.66",
+          "Ankara": "0.60",
+          "New Delhi": "0.25"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Iran, Islamic Rep.": "32.16",
+          "Abu Dhabi": "61.19",
+          "Jakarta": "2.21",
+          "Washington, D.C.": "1.62",
+          "Vienna": "1.04"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Iran, Islamic Rep.": "32.86",
+          "Tajikistan": "3.48",
+          "New Delhi": "28.63",
+          "Abu Dhabi": "22.29",
+          "Berlin": "6.03"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Iran, Islamic Rep.": "5.61",
+          "Islamabad": "63.03",
+          "Helsinki": "9.38",
+          "Abu Dhabi": "6.57",
+          "Berlin": "5.92"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Iran, Islamic Rep.": "17.52",
+          "Kazakhstan": "6.80",
+          "Islamabad": "53.22",
+          "Ankara": "6.68",
+          "Abu Dhabi": "3.22"
+        }
+      },
+      "Imports": {
+        "Animals & Animal Products": {
+          "Iran, Islamic Rep.": "10.49",
+          "Berlin": "47.46",
+          "Ankara": "25.93",
+          "Abu Dhabi": "6.76",
+          "Islamabad": "4.26"
+        },
+        "Vegetable Products": {
+          "Iraq": "2.08",
+          "Iran, Islamic Rep.": "2.06",
+          "New Delhi": "50.56",
+          "Islamabad": "37.61",
+          "Ankara": "2.21"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Tajikistan": "7.26",
+          "Turkmenistan": "0.97",
+          "Islamabad": "59.67",
+          "New Delhi": "28.85",
+          "Berlin": "0.71"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "5.29",
+          "Islamabad": "87.80",
+          "Beijing": "5.66",
+          "Ankara": "0.60",
+          "New Delhi": "0.25"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Iran, Islamic Rep.": "91.47",
+          "Islamabad": "8.48",
+          "New Delhi": "0.05"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Turkmenistan": "5.58",
+          "Tajikistan": "3.43",
+          "Islamabad": "78.76",
+          "New Delhi": "5.94",
+          "Vienna": "5.49"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Uzbekistan": "1.21",
+          "Islamabad": "38.21",
+          "Ankara": "30.17",
+          "Helsinki": "24.60",
+          "Naypyidaw": "1.53"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Turkmenistan": "3.68",
+          "Islamabad": "70.42",
+          "Washington, D.C.": "6.95",
+          "Ottawa": "6.27",
+          "Abu Dhabi": "3.76"
+        },
+        "Textiles and Textile Articles": {
+          "Iran, Islamic Rep.": "1.72",
+          "Islamabad": "67.65",
+          "Beijing": "20.32",
+          "Berlin": "3.74",
+          "Washington, D.C.": "1.88"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Tajikistan": "99.46",
+          "Berlin": "0.54"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "2.62",
+          "Washington, D.C.": "95.26",
+          "London": "1.61",
+          "Paris": "0.24",
+          "New Delhi": "0.20"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "5.29",
+          "Islamabad": "87.80",
+          "Beijing": "5.66",
+          "Ankara": "0.60",
+          "New Delhi": "0.25"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Iran, Islamic Rep.": "32.16",
+          "Abu Dhabi": "61.19",
+          "Jakarta": "2.21",
+          "Washington, D.C.": "1.62",
+          "Vienna": "1.04"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Iran, Islamic Rep.": "32.86",
+          "Tajikistan": "3.48",
+          "New Delhi": "28.63",
+          "Abu Dhabi": "22.29",
+          "Berlin": "6.03"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Iran, Islamic Rep.": "5.61",
+          "Islamabad": "63.03",
+          "Helsinki": "9.38",
+          "Abu Dhabi": "6.57",
+          "Berlin": "5.92"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Iran, Islamic Rep.": "17.52",
+          "Kazakhstan": "6.80",
+          "Islamabad": "53.22",
+          "Ankara": "6.68",
+          "Abu Dhabi": "3.22"
+        }
+      }
+    },
+    "2018": {
+      "Exports": {
+        "Animals & Animal Products": {
+          "Iran, Islamic Rep.": "7.05",
+          "Romania": "6.19",
+          "Tajikistan": "2.70",
+          "Berlin": "54.37",
+          "Ankara": "22.79"
+        },
+        "Vegetable Products": {
+          "Iran, Islamic Rep.": "2.35",
+          "Iraq": "1.87",
+          "New Delhi": "51.64",
+          "Islamabad": "34.53",
+          "Beijing": "1.77"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Tajikistan": "10.70",
+          "Iraq": "4.75",
+          "New Delhi": "57.47",
+          "Islamabad": "8.04",
+          "Abu Dhabi": "6.44"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "1.85",
+          "Islamabad": "88.36",
+          "Beijing": "8.64",
+          "Ankara": "0.47",
+          "New Delhi": "0.29"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Tajikistan": "85.64",
+          "Iran, Islamic Rep.": "7.97",
+          "Islamabad": "6.24",
+          "New Delhi": "0.14",
+          "Abu Dhabi": "0.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Tajikistan": "78.96",
+          "Iran, Islamic Rep.": "15.05",
+          "Kazakhstan": "1.73",
+          "Uzbekistan": "0.80",
+          "Abu Dhabi": "3.02"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Uzbekistan": "1.00",
+          "Ankara": "45.07",
+          "Islamabad": "39.13",
+          "Helsinki": "8.12",
+          "Hong Kong": "5.40"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Islamabad": "86.32",
+          "Washington, D.C.": "3.86",
+          "London": "3.14",
+          "Ottawa": "2.58",
+          "Abu Dhabi": "1.16"
+        },
+        "Textiles and Textile Articles": {
+          "Islamabad": "60.48",
+          "Beijing": "26.31",
+          "Berlin": "1.93",
+          "Ankara": "1.73",
+          "Washington, D.C.": "1.58"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Tajikistan": "92.47",
+          "Kyrgyz Republic": "5.58",
+          "Abu Dhabi": "1.47",
+          "Ankara": "0.48"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "8.59",
+          "Russian Federation": "0.22",
+          "Washington, D.C.": "68.54",
+          "New Delhi": "20.30",
+          "Islamabad": "2.36"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "1.78",
+          "Islamabad": "84.73",
+          "Beijing": "8.29",
+          "Ankara": "4.56",
+          "New Delhi": "0.28"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Iran, Islamic Rep.": "41.36",
+          "Abu Dhabi": "43.28",
+          "Ankara": "10.35",
+          "New Delhi": "2.46",
+          "Jakarta": "1.21"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Iran, Islamic Rep.": "52.15",
+          "Uzbekistan": "11.73",
+          "Tajikistan": "11.65",
+          "Slovak Republic": "4.49",
+          "London": "10.67"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tajikistan": "10.51",
+          "Abu Dhabi": "35.89",
+          "Islamabad": "22.56",
+          "Ankara": "15.99",
+          "Berlin": "10.10"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Iran, Islamic Rep.": "8.63",
+          "Islamabad": "58.94",
+          "Abu Dhabi": "10.23",
+          "Berlin": "3.53",
+          "Ankara": "3.50"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Tajikistan": "6.25",
+          "Iran, Islamic Rep.": "3.61",
+          "Islamabad": "31.57",
+          "Abu Dhabi": "27.55",
+          "Ankara": "21.19"
+        }
+      },
+      "Imports": {
+        "Animals & Animal Products": {
+          "Iran, Islamic Rep.": "7.05",
+          "Romania": "6.19",
+          "Tajikistan": "2.70",
+          "Berlin": "54.37",
+          "Ankara": "22.79"
+        },
+        "Vegetable Products": {
+          "Iran, Islamic Rep.": "2.35",
+          "Iraq": "1.87",
+          "New Delhi": "51.64",
+          "Islamabad": "34.53",
+          "Beijing": "1.77"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Tajikistan": "10.70",
+          "Iraq": "4.75",
+          "New Delhi": "57.47",
+          "Islamabad": "8.04",
+          "Abu Dhabi": "6.44"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "1.85",
+          "Islamabad": "88.36",
+          "Beijing": "8.64",
+          "Ankara": "0.47",
+          "New Delhi": "0.29"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Tajikistan": "85.64",
+          "Iran, Islamic Rep.": "7.97",
+          "Islamabad": "6.24",
+          "New Delhi": "0.14",
+          "Abu Dhabi": "0.00"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Tajikistan": "78.96",
+          "Iran, Islamic Rep.": "15.05",
+          "Kazakhstan": "1.73",
+          "Uzbekistan": "0.80",
+          "Abu Dhabi": "3.02"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Uzbekistan": "1.00",
+          "Ankara": "45.07",
+          "Islamabad": "39.13",
+          "Helsinki": "8.12",
+          "Hong Kong": "5.40"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Islamabad": "86.32",
+          "Washington, D.C.": "3.86",
+          "London": "3.14",
+          "Ottawa": "2.58",
+          "Abu Dhabi": "1.16"
+        },
+        "Textiles and Textile Articles": {
+          "Islamabad": "60.48",
+          "Beijing": "26.31",
+          "Berlin": "1.93",
+          "Ankara": "1.73",
+          "Washington, D.C.": "1.58"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Tajikistan": "92.47",
+          "Kyrgyz Republic": "5.58",
+          "Abu Dhabi": "1.47",
+          "Ankara": "0.48"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "8.59",
+          "Russian Federation": "0.22",
+          "Washington, D.C.": "68.54",
+          "New Delhi": "20.30",
+          "Islamabad": "2.36"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "1.78",
+          "Islamabad": "84.73",
+          "Beijing": "8.29",
+          "Ankara": "4.56",
+          "New Delhi": "0.28"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Iran, Islamic Rep.": "41.36",
+          "Abu Dhabi": "43.28",
+          "Ankara": "10.35",
+          "New Delhi": "2.46",
+          "Jakarta": "1.21"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Iran, Islamic Rep.": "52.15",
+          "Uzbekistan": "11.73",
+          "Tajikistan": "11.65",
+          "Slovak Republic": "4.49",
+          "London": "10.67"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tajikistan": "10.51",
+          "Abu Dhabi": "35.89",
+          "Islamabad": "22.56",
+          "Ankara": "15.99",
+          "Berlin": "10.10"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Iran, Islamic Rep.": "8.63",
+          "Islamabad": "58.94",
+          "Abu Dhabi": "10.23",
+          "Berlin": "3.53",
+          "Ankara": "3.50"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Tajikistan": "6.25",
+          "Iran, Islamic Rep.": "3.61",
+          "Islamabad": "31.57",
+          "Abu Dhabi": "27.55",
+          "Ankara": "21.19"
+        }
+      }
+    },
+    "2019": {
+      "Exports": {
+        "Animals & Animal Products": {
+          "Tajikistan": "6.77",
+          "Romania": "6.45",
+          "Berlin": "60.92",
+          "Ankara": "19.97",
+          "Islamabad": "3.21"
+        },
+        "Vegetable Products": {
+          "New Delhi": "59.14",
+          "Islamabad": "23.48",
+          "Beijing": "3.21",
+          "Ankara": "3.19",
+          "Abu Dhabi": "2.48"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Turkmenistan": "15.11",
+          "Tajikistan": "13.92",
+          "Iraq": "5.25",
+          "Islamabad": "36.36",
+          "Abu Dhabi": "16.98"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "0.76",
+          "Jordan": "0.51",
+          "Islamabad": "95.16",
+          "Ankara": "1.38",
+          "Beijing": "1.10"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Tajikistan": "80.33",
+          "Iran, Islamic Rep.": "16.69",
+          "Turkmenistan": "0.42",
+          "Islamabad": "2.22",
+          "Abu Dhabi": "0.33"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Tajikistan": "64.85",
+          "Iran, Islamic Rep.": "2.92",
+          "Islamabad": "14.00",
+          "Riyadh": "9.55",
+          "Abu Dhabi": "3.72"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Uzbekistan": "3.75",
+          "Islamabad": "68.77",
+          "Ankara": "11.52",
+          "Helsinki": "11.39",
+          "Hong Kong": "2.35"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Turkmenistan": "18.32",
+          "Tajikistan": "12.78",
+          "Iran, Islamic Rep.": "5.21",
+          "Uzbekistan": "4.17",
+          "Islamabad": "56.63"
+        },
+        "Textiles and Textile Articles": {
+          "Islamabad": "68.31",
+          "Beijing": "14.39",
+          "Berlin": "4.97",
+          "Washington, D.C.": "2.92",
+          "London": "1.71"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Tajikistan": "24.72",
+          "Russian Federation": "1.03",
+          "Bangladesh": "0.79",
+          "Hanoi": "39.78",
+          "Naypyidaw": "33.68"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "30.36",
+          "Islamabad": "19.25",
+          "Ottawa": "16.62",
+          "Beijing": "8.63",
+          "Abu Dhabi": "6.32"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "0.76",
+          "Jordan": "0.51",
+          "Islamabad": "95.16",
+          "Ankara": "1.38",
+          "Beijing": "1.10"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Iran, Islamic Rep.": "6.85",
+          "Other Asia, nes": "2.26",
+          "Abu Dhabi": "77.45",
+          "New Delhi": "6.62",
+          "Jakarta": "1.96"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Iran, Islamic Rep.": "28.16",
+          "Uzbekistan": "23.60",
+          "Tajikistan": "12.09",
+          "Abu Dhabi": "20.87",
+          "New Delhi": "3.73"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Uzbekistan": "36.29",
+          "Tajikistan": "5.80",
+          "Abu Dhabi": "35.92",
+          "Islamabad": "17.79",
+          "Ankara": "3.63"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Islamabad": "43.77",
+          "Abu Dhabi": "15.99",
+          "Beijing": "9.35",
+          "Berlin": "6.87",
+          "Washington, D.C.": "4.03"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Uzbekistan": "38.65",
+          "Kazakhstan": "33.14",
+          "Tajikistan": "5.92",
+          "Somalia": "5.01",
+          "New Delhi": "5.76"
+        }
+      },
+      "Imports": {
+        "Animals & Animal Products": {
+          "Tajikistan": "6.77",
+          "Romania": "6.45",
+          "Berlin": "60.92",
+          "Ankara": "19.97",
+          "Islamabad": "3.21"
+        },
+        "Vegetable Products": {
+          "New Delhi": "59.14",
+          "Islamabad": "23.48",
+          "Beijing": "3.21",
+          "Ankara": "3.19",
+          "Abu Dhabi": "2.48"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Turkmenistan": "15.11",
+          "Tajikistan": "13.92",
+          "Iraq": "5.25",
+          "Islamabad": "36.36",
+          "Abu Dhabi": "16.98"
+        },
+        "Mineral Products": {
+          "Iran, Islamic Rep.": "0.76",
+          "Jordan": "0.51",
+          "Islamabad": "95.16",
+          "Ankara": "1.38",
+          "Beijing": "1.10"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Tajikistan": "80.33",
+          "Iran, Islamic Rep.": "16.69",
+          "Turkmenistan": "0.42",
+          "Islamabad": "2.22",
+          "Abu Dhabi": "0.33"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Tajikistan": "64.85",
+          "Iran, Islamic Rep.": "2.92",
+          "Islamabad": "14.00",
+          "Riyadh": "9.55",
+          "Abu Dhabi": "3.72"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Uzbekistan": "3.75",
+          "Islamabad": "68.77",
+          "Ankara": "11.52",
+          "Helsinki": "11.39",
+          "Hong Kong": "2.35"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Turkmenistan": "18.32",
+          "Tajikistan": "12.78",
+          "Iran, Islamic Rep.": "5.21",
+          "Uzbekistan": "4.17",
+          "Islamabad": "56.63"
+        },
+        "Textiles and Textile Articles": {
+          "Islamabad": "68.31",
+          "Beijing": "14.39",
+          "Berlin": "4.97",
+          "Washington, D.C.": "2.92",
+          "London": "1.71"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Tajikistan": "24.72",
+          "Russian Federation": "1.03",
+          "Bangladesh": "0.79",
+          "Hanoi": "39.78",
+          "Naypyidaw": "33.68"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Tajikistan": "30.36",
+          "Islamabad": "19.25",
+          "Ottawa": "16.62",
+          "Beijing": "8.63",
+          "Abu Dhabi": "6.32"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Iran, Islamic Rep.": "0.76",
+          "Jordan": "0.51",
+          "Islamabad": "95.16",
+          "Ankara": "1.38",
+          "Beijing": "1.10"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Iran, Islamic Rep.": "6.85",
+          "Other Asia, nes": "2.26",
+          "Abu Dhabi": "77.45",
+          "New Delhi": "6.62",
+          "Jakarta": "1.96"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Iran, Islamic Rep.": "28.16",
+          "Uzbekistan": "23.60",
+          "Tajikistan": "12.09",
+          "Abu Dhabi": "20.87",
+          "New Delhi": "3.73"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Uzbekistan": "36.29",
+          "Tajikistan": "5.80",
+          "Abu Dhabi": "35.92",
+          "Islamabad": "17.79",
+          "Ankara": "3.63"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Islamabad": "43.77",
+          "Abu Dhabi": "15.99",
+          "Beijing": "9.35",
+          "Berlin": "6.87",
+          "Washington, D.C.": "4.03"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Uzbekistan": "38.65",
+          "Kazakhstan": "33.14",
+          "Tajikistan": "5.92",
+          "Somalia": "5.01",
+          "New Delhi": "5.76"
+        }
+      }
     }
+  }
 }

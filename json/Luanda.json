@@ -1,1842 +1,1835 @@
 {
-    "Main Partners": {
-        "2007": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Brazil": "16.85",
-                    "United States": "14.11",
-                    "India": "13.72",
-                    "Portugal": "10.28",
-                    "Unspecified": "5.04"
-                },
-                "Vegetable Products": {
-                    "Belgium": "15.68",
-                    "France": "9.07",
-                    "Argentina": "8.69",
-                    "Thailand": "7.84",
-                    "Portugal": "7.14"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Portugal": "38.23",
-                    "Brazil": "13.46",
-                    "South Africa": "9.11",
-                    "Unspecified": "7.98",
-                    "Italy": "3.77"
-                },
-                "Mineral Products": {
-                    "China": "38.08",
-                    "Portugal": "9.63",
-                    "Spain": "8.95",
-                    "Other Asia, nes": "7.10",
-                    "Unspecified": "5.54"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Portugal": "18.33",
-                    "United States": "12.07",
-                    "South Africa": "9.49",
-                    "China": "7.02",
-                    "Unspecified": "6.73"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Portugal": "15.90",
-                    "France": "10.58",
-                    "China": "8.64",
-                    "South Africa": "7.46",
-                    "Unspecified": "7.45"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "28.25",
-                    "Portugal": "14.88",
-                    "Unspecified": "14.11",
-                    "United Arab Emirates": "12.39",
-                    "United States": "8.13"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Portugal": "39.88",
-                    "Unspecified": "9.91",
-                    "China": "8.27",
-                    "South Africa": "7.33",
-                    "Brazil": "6.10"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "16.33",
-                    "Portugal": "13.96",
-                    "Unspecified": "11.38",
-                    "United States": "7.93",
-                    "Canada": "7.05"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "46.53",
-                    "Portugal": "11.92",
-                    "Unspecified": "11.80",
-                    "Brazil": "8.76",
-                    "United States": "3.39"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Portugal": "31.90",
-                    "China": "13.62",
-                    "Unspecified": "12.80",
-                    "Brazil": "10.53",
-                    "Spain": "5.83"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Portugal": "27.74",
-                    "United States": "13.35",
-                    "Unspecified": "9.81",
-                    "South Africa": "7.54",
-                    "Morocco": "5.42"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Portugal": "12.87",
-                    "France": "10.79",
-                    "United States": "10.72",
-                    "China": "10.10",
-                    "Unspecified": "9.99"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Korea, Dem. Rep.": "27.07",
-                    "Portugal": "11.83",
-                    "United States": "10.48",
-                    "Unspecified": "8.95",
-                    "China": "7.11"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Japan": "21.18",
-                    "United States": "9.62",
-                    "Portugal": "8.76",
-                    "China": "7.84",
-                    "Brazil": "7.78"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Portugal": "13.57",
-                    "Korea, Dem. Rep.": "11.58",
-                    "United States": "9.64",
-                    "China": "9.26",
-                    "Unspecified": "9.02"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Portugal": "21.68",
-                    "Unspecified": "15.52",
-                    "China": "11.41",
-                    "United States": "10.06",
-                    "Brazil": "8.54"
-                }
-            }
+  "Main Partners": {
+    "2007": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Unspecified": "5.04",
+          "Brasília": "16.85",
+          "Washington, D.C.": "14.11",
+          "New Delhi": "13.72",
+          "Lisbon": "10.28"
         },
-        "2009": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Brazil": "25.54",
-                    "United States": "13.26",
-                    "Portugal": "10.10",
-                    "India": "9.43",
-                    "Netherlands": "7.41"
-                },
-                "Vegetable Products": {
-                    "Belgium": "10.87",
-                    "France": "10.18",
-                    "Portugal": "9.37",
-                    "Argentina": "8.87",
-                    "Namibia": "8.34"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Portugal": "33.87",
-                    "Brazil": "15.84",
-                    "South Africa": "13.71",
-                    "Namibia": "5.51",
-                    "Italy": "3.59"
-                },
-                "Mineral Products": {
-                    "China": "39.39",
-                    "Spain": "11.20",
-                    "Portugal": "9.95",
-                    "Turkey": "8.77",
-                    "United States": "5.47"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "South Africa": "22.69",
-                    "Portugal": "17.80",
-                    "United States": "8.07",
-                    "Belgium": "6.64",
-                    "China": "6.27"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Portugal": "23.46",
-                    "China": "11.94",
-                    "South Africa": "11.79",
-                    "Namibia": "6.36",
-                    "United States": "6.06"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "39.11",
-                    "Portugal": "21.02",
-                    "Namibia": "7.33",
-                    "United States": "6.96",
-                    "United Arab Emirates": "5.20"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Portugal": "37.50",
-                    "China": "13.32",
-                    "South Africa": "12.40",
-                    "Brazil": "6.21",
-                    "Lebanon": "5.12"
-                },
-                "Textiles and Textile Articles": {
-                    "Portugal": "18.75",
-                    "China": "15.08",
-                    "United States": "10.89",
-                    "Namibia": "10.43",
-                    "Canada": "8.83"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "35.08",
-                    "Portugal": "19.89",
-                    "Brazil": "10.97",
-                    "Namibia": "9.20",
-                    "South Africa": "8.69"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Portugal": "33.13",
-                    "China": "22.06",
-                    "Brazil": "12.81",
-                    "United Arab Emirates": "5.62",
-                    "South Africa": "5.29"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Portugal": "16.14",
-                    "Switzerland": "11.85",
-                    "Italy": "9.09",
-                    "Cote dIvoire": "9.01",
-                    "Iraq": "7.24"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Portugal": "18.33",
-                    "United States": "11.23",
-                    "China": "9.02",
-                    "South Africa": "8.72",
-                    "Brazil": "6.63"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Portugal": "21.92",
-                    "United States": "15.92",
-                    "China": "11.93",
-                    "United Kingdom": "5.26",
-                    "South Africa": "4.83"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Japan": "21.75",
-                    "United Arab Emirates": "14.05",
-                    "China": "8.78",
-                    "Portugal": "7.82",
-                    "Korea, Rep.": "7.33"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Portugal": "17.89",
-                    "China": "11.90",
-                    "United States": "10.25",
-                    "Japan": "6.86",
-                    "South Africa": "6.65"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Portugal": "24.26",
-                    "China": "18.08",
-                    "United States": "11.31",
-                    "Brazil": "10.54",
-                    "South Africa": "6.50"
-                }
-            }
+        "Vegetable Products": {
+          "Belgium": "15.68",
+          "Thailand": "7.84",
+          "Paris": "9.07",
+          "Buenos Aires": "8.69",
+          "Lisbon": "7.14"
         },
-        "2010": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Brazil": "23.17",
-                    "United States": "20.77",
-                    "Portugal": "9.61",
-                    "India": "7.19",
-                    "Netherlands": "6.84"
-                },
-                "Vegetable Products": {
-                    "France": "12.72",
-                    "Vietnam": "10.36",
-                    "Belgium": "9.84",
-                    "Portugal": "9.71",
-                    "Malaysia": "8.30"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Portugal": "38.44",
-                    "Brazil": "16.26",
-                    "South Africa": "8.82",
-                    "Argentina": "3.89",
-                    "Italy": "3.87"
-                },
-                "Mineral Products": {
-                    "China": "51.37",
-                    "Portugal": "9.44",
-                    "Turkey": "7.53",
-                    "Spain": "6.53",
-                    "Korea, Rep.": "4.56"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Portugal": "22.23",
-                    "South Africa": "9.90",
-                    "United States": "9.83",
-                    "Belgium": "8.53",
-                    "China": "7.91"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Portugal": "25.99",
-                    "China": "15.45",
-                    "South Africa": "9.66",
-                    "United States": "6.04",
-                    "Korea, Rep.": "5.81"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "43.80",
-                    "Portugal": "21.94",
-                    "United Arab Emirates": "6.88",
-                    "United States": "5.64",
-                    "South Africa": "3.98"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Portugal": "38.64",
-                    "China": "20.88",
-                    "South Africa": "9.71",
-                    "United States": "3.87",
-                    "Brazil": "3.80"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "22.00",
-                    "Portugal": "19.45",
-                    "United States": "10.37",
-                    "Canada": "7.90",
-                    "Brazil": "4.08"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "46.76",
-                    "Portugal": "15.44",
-                    "Brazil": "14.37",
-                    "Singapore": "4.28",
-                    "United States": "3.61"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Portugal": "34.47",
-                    "China": "27.04",
-                    "Brazil": "8.87",
-                    "Spain": "4.92",
-                    "United Arab Emirates": "3.79"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Portugal": "35.69",
-                    "China": "17.49",
-                    "United States": "7.19",
-                    "Morocco": "4.77",
-                    "Belgium": "4.53"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Portugal": "14.10",
-                    "France": "13.44",
-                    "United States": "11.18",
-                    "China": "8.90",
-                    "Belgium": "7.19"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Portugal": "15.14",
-                    "United States": "13.71",
-                    "China": "10.65",
-                    "Norway": "9.18",
-                    "United Kingdom": "8.64"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "China": "21.51",
-                    "Japan": "16.19",
-                    "United States": "7.44",
-                    "Portugal": "7.43",
-                    "France": "4.46"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Portugal": "16.17",
-                    "China": "14.69",
-                    "United States": "10.82",
-                    "France": "5.94",
-                    "United Kingdom": "5.35"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Portugal": "25.63",
-                    "United States": "16.30",
-                    "China": "13.87",
-                    "Brazil": "8.30",
-                    "South Africa": "4.96"
-                }
-            }
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Unspecified": "7.98",
+          "Lisbon": "38.23",
+          "Brasília": "13.46",
+          "Pretoria": "9.11",
+          "Rome": "3.77"
         },
-        "2011": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "United States": "22.29",
-                    "Brazil": "20.64",
-                    "Portugal": "13.07",
-                    "Netherlands": "8.15",
-                    "India": "4.36"
-                },
-                "Vegetable Products": {
-                    "Portugal": "12.72",
-                    "France": "12.06",
-                    "Malaysia": "10.63",
-                    "Thailand": "10.20",
-                    "Argentina": "7.97"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Portugal": "39.75",
-                    "Brazil": "14.18",
-                    "South Africa": "8.61",
-                    "India": "3.39",
-                    "Turkey": "3.30"
-                },
-                "Mineral Products": {
-                    "China": "41.80",
-                    "Korea, Rep.": "18.32",
-                    "Portugal": "13.37",
-                    "Morocco": "3.87",
-                    "Turkey": "3.84"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Portugal": "23.11",
-                    "United States": "11.18",
-                    "South Africa": "9.97",
-                    "China": "8.47",
-                    "Belgium": "7.91"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Portugal": "24.84",
-                    "China": "15.04",
-                    "United Kingdom": "10.46",
-                    "South Africa": "10.10",
-                    "United States": "5.64"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "39.72",
-                    "Portugal": "23.18",
-                    "United States": "9.83",
-                    "United Arab Emirates": "5.68",
-                    "South Africa": "4.61"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Portugal": "39.33",
-                    "China": "21.54",
-                    "South Africa": "9.81",
-                    "Brazil": "3.55",
-                    "United Kingdom": "3.44"
-                },
-                "Textiles and Textile Articles": {
-                    "Portugal": "23.94",
-                    "China": "19.61",
-                    "United States": "11.60",
-                    "Canada": "6.77",
-                    "South Africa": "4.16"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "45.35",
-                    "Brazil": "20.61",
-                    "Portugal": "16.99",
-                    "United States": "3.57",
-                    "South Africa": "3.03"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Portugal": "41.00",
-                    "China": "28.16",
-                    "Spain": "4.91",
-                    "Brazil": "4.75",
-                    "United States": "4.36"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Portugal": "39.29",
-                    "China": "15.71",
-                    "United States": "5.64",
-                    "Morocco": "5.32",
-                    "South Africa": "4.87"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Portugal": "22.59",
-                    "China": "13.75",
-                    "United States": "9.76",
-                    "France": "7.93",
-                    "South Africa": "6.53"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Portugal": "17.00",
-                    "United States": "15.99",
-                    "China": "12.41",
-                    "United Kingdom": "10.08",
-                    "France": "6.15"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Korea, Rep.": "54.20",
-                    "Japan": "7.64",
-                    "China": "6.17",
-                    "United States": "4.33",
-                    "United Arab Emirates": "4.19"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Portugal": "16.71",
-                    "Korea, Rep.": "16.69",
-                    "China": "12.34",
-                    "United States": "9.45",
-                    "United Kingdom": "5.46"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Portugal": "28.97",
-                    "China": "13.80",
-                    "United States": "8.28",
-                    "Brazil": "8.02",
-                    "United Kingdom": "7.57"
-                }
-            }
+        "Mineral Products": {
+          "Other Asia, nes": "7.10",
+          "Unspecified": "5.54",
+          "Beijing": "38.08",
+          "Lisbon": "9.63",
+          "Madrid": "8.95"
         },
-        "2012": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Brazil": "24.32",
-                    "United States": "19.67",
-                    "Portugal": "11.65",
-                    "India": "6.22",
-                    "Netherlands": "6.02"
-                },
-                "Vegetable Products": {
-                    "Malaysia": "11.06",
-                    "France": "10.74",
-                    "Portugal": "9.70",
-                    "Argentina": "9.30",
-                    "South Africa": "9.21"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Portugal": "35.69",
-                    "Brazil": "15.91",
-                    "South Africa": "9.23",
-                    "India": "4.49",
-                    "Turkey": "4.09"
-                },
-                "Mineral Products": {
-                    "China": "30.41",
-                    "Korea, Rep.": "27.01",
-                    "Portugal": "10.96",
-                    "Namibia": "4.35",
-                    "Morocco": "3.58"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Portugal": "20.82",
-                    "United States": "14.57",
-                    "China": "9.41",
-                    "Netherlands": "8.39",
-                    "South Africa": "6.95"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Portugal": "28.29",
-                    "China": "15.30",
-                    "South Africa": "7.83",
-                    "France": "6.21",
-                    "United States": "5.99"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "36.11",
-                    "Portugal": "23.99",
-                    "United Arab Emirates": "10.30",
-                    "United States": "6.65",
-                    "South Africa": "4.55"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Portugal": "42.21",
-                    "China": "20.19",
-                    "South Africa": "6.65",
-                    "Brazil": "4.30",
-                    "Germany": "2.61"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "24.34",
-                    "Portugal": "22.02",
-                    "United States": "11.26",
-                    "Canada": "4.17",
-                    "India": "3.70"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "41.47",
-                    "Brazil": "22.22",
-                    "Portugal": "19.06",
-                    "United States": "3.70",
-                    "South Africa": "2.26"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Portugal": "43.66",
-                    "China": "32.25",
-                    "Brazil": "4.05",
-                    "Spain": "3.67",
-                    "United Arab Emirates": "2.51"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Portugal": "44.86",
-                    "China": "19.22",
-                    "United States": "5.23",
-                    "Morocco": "4.38",
-                    "United Kingdom": "4.01"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Portugal": "25.36",
-                    "China": "16.73",
-                    "United States": "9.90",
-                    "France": "7.27",
-                    "United Kingdom": "6.70"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Portugal": "19.64",
-                    "China": "15.06",
-                    "United States": "12.94",
-                    "United Kingdom": "8.47",
-                    "South Africa": "4.58"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Singapore": "25.83",
-                    "Japan": "11.83",
-                    "China": "11.36",
-                    "United Arab Emirates": "10.19",
-                    "United States": "4.77"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Portugal": "18.81",
-                    "China": "15.39",
-                    "United States": "9.13",
-                    "Singapore": "7.14",
-                    "United Kingdom": "4.79"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Portugal": "30.44",
-                    "China": "18.42",
-                    "United States": "9.38",
-                    "Brazil": "8.40",
-                    "South Africa": "5.53"
-                }
-            }
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "6.73",
+          "Lisbon": "18.33",
+          "Washington, D.C.": "12.07",
+          "Pretoria": "9.49",
+          "Beijing": "7.02"
         },
-        "2013": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Brazil": "23.83",
-                    "United States": "19.82",
-                    "Portugal": "11.84",
-                    "Belgium": "5.76",
-                    "India": "5.10"
-                },
-                "Vegetable Products": {
-                    "Portugal": "10.27",
-                    "Malaysia": "10.13",
-                    "France": "9.92",
-                    "South Africa": "9.08",
-                    "Thailand": "8.78"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Portugal": "36.46",
-                    "Brazil": "14.32",
-                    "South Africa": "9.22",
-                    "India": "3.99",
-                    "Turkey": "3.76"
-                },
-                "Mineral Products": {
-                    "China": "33.21",
-                    "Portugal": "12.90",
-                    "Korea, Rep.": "7.59",
-                    "Belgium": "6.67",
-                    "Morocco": "4.70"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Portugal": "23.64",
-                    "China": "10.50",
-                    "United States": "9.94",
-                    "South Africa": "9.24",
-                    "Belgium": "6.68"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "Portugal": "27.74",
-                    "China": "20.02",
-                    "South Africa": "8.04",
-                    "United States": "5.54",
-                    "Korea, Rep.": "4.72"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "34.64",
-                    "Portugal": "29.13",
-                    "South Africa": "6.64",
-                    "United States": "6.20",
-                    "United Arab Emirates": "4.68"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Portugal": "44.17",
-                    "China": "20.31",
-                    "South Africa": "6.37",
-                    "United Arab Emirates": "3.21",
-                    "Brazil": "2.95"
-                },
-                "Textiles and Textile Articles": {
-                    "Portugal": "23.99",
-                    "China": "22.37",
-                    "United States": "11.75",
-                    "India": "4.98",
-                    "South Africa": "4.07"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "35.61",
-                    "Brazil": "25.92",
-                    "Portugal": "23.09",
-                    "South Africa": "3.20",
-                    "United States": "2.70"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Portugal": "39.15",
-                    "China": "29.04",
-                    "United Arab Emirates": "5.73",
-                    "Spain": "4.63",
-                    "United States": "3.92"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Portugal": "34.01",
-                    "China": "22.02",
-                    "Morocco": "5.89",
-                    "United Arab Emirates": "4.72",
-                    "United Kingdom": "4.14"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Portugal": "20.41",
-                    "China": "18.78",
-                    "United States": "9.05",
-                    "United Kingdom": "8.67",
-                    "Belgium": "4.55"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Portugal": "20.87",
-                    "China": "14.33",
-                    "United States": "11.40",
-                    "United Kingdom": "8.65",
-                    "South Africa": "3.84"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Korea, Rep.": "57.71",
-                    "United Arab Emirates": "7.20",
-                    "China": "6.87",
-                    "Japan": "5.80",
-                    "Bahrain": "4.82"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Korea, Rep.": "21.79",
-                    "Portugal": "16.40",
-                    "China": "13.48",
-                    "United States": "6.70",
-                    "United Kingdom": "4.68"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Portugal": "31.25",
-                    "China": "16.38",
-                    "United States": "9.62",
-                    "United Kingdom": "6.65",
-                    "Brazil": "6.23"
-                }
-            }
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "7.45",
+          "Lisbon": "15.90",
+          "Paris": "10.58",
+          "Beijing": "8.64",
+          "Pretoria": "7.46"
         },
-        "2014": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Brazil": "27.12",
-                    "United States": "20.14",
-                    "Portugal": "12.89",
-                    "India": "5.98",
-                    "Argentina": "4.36"
-                },
-                "Vegetable Products": {
-                    "Portugal": "29.86",
-                    "South Africa": "13.24",
-                    "France": "10.59",
-                    "Belgium": "9.20",
-                    "Brazil": "7.48"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Portugal": "39.48",
-                    "South Africa": "11.67",
-                    "Brazil": "10.96",
-                    "Turkey": "4.97",
-                    "United Arab Emirates": "2.95"
-                },
-                "Mineral Products": {
-                    "Korea, Rep.": "31.06",
-                    "Portugal": "20.35",
-                    "Spain": "13.07",
-                    "China": "11.89",
-                    "Belgium": "4.38"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Portugal": "23.43",
-                    "China": "12.35",
-                    "South Africa": "8.14",
-                    "Belgium": "7.46",
-                    "United States": "7.42"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "21.38",
-                    "Portugal": "19.89",
-                    "South Africa": "7.81",
-                    "United States": "5.60",
-                    "France": "4.88"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "38.37",
-                    "Portugal": "23.08",
-                    "South Africa": "5.12",
-                    "United States": "4.86",
-                    "United Arab Emirates": "4.10"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Portugal": "41.89",
-                    "China": "20.60",
-                    "South Africa": "7.58",
-                    "Brazil": "4.15",
-                    "Egypt, Arab Rep.": "2.87"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "23.05",
-                    "Portugal": "19.13",
-                    "United States": "10.48",
-                    "United Arab Emirates": "5.51",
-                    "Canada": "4.37"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "35.61",
-                    "Brazil": "24.12",
-                    "Portugal": "20.89",
-                    "Chile": "4.90",
-                    "United States": "2.58"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Portugal": "35.74",
-                    "China": "27.61",
-                    "Chile": "9.70",
-                    "Spain": "5.16",
-                    "Brazil": "4.42"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Portugal": "34.55",
-                    "China": "16.75",
-                    "United Arab Emirates": "5.74",
-                    "Turkey": "4.34",
-                    "Morocco": "4.34"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "China": "20.14",
-                    "Portugal": "14.85",
-                    "France": "11.85",
-                    "United States": "9.71",
-                    "Chile": "6.11"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Portugal": "18.39",
-                    "United States": "16.24",
-                    "China": "16.13",
-                    "United Kingdom": "8.97",
-                    "Norway": "4.65"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "United Arab Emirates": "23.77",
-                    "China": "16.83",
-                    "Japan": "14.01",
-                    "Korea, Rep.": "7.68",
-                    "India": "5.33"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "17.90",
-                    "Portugal": "17.13",
-                    "United States": "9.18",
-                    "United Arab Emirates": "6.42",
-                    "United Kingdom": "5.64"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Singapore": "33.05",
-                    "Portugal": "10.51",
-                    "Brazil": "8.18",
-                    "United States": "6.09",
-                    "China": "5.98"
-                }
-            }
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Unspecified": "14.11",
+          "Beijing": "28.25",
+          "Lisbon": "14.88",
+          "Abu Dhabi": "12.39",
+          "Washington, D.C.": "8.13"
         },
-        "2015": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Brazil": "24.83",
-                    "United States": "18.17",
-                    "Portugal": "14.27",
-                    "Mauritania": "8.00",
-                    "India": "5.33"
-                },
-                "Vegetable Products": {
-                    "South Africa": "18.22",
-                    "Belgium": "13.20",
-                    "Portugal": "12.29",
-                    "France": "11.02",
-                    "Turkey": "10.10"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Portugal": "36.15",
-                    "South Africa": "15.64",
-                    "Brazil": "7.24",
-                    "Turkey": "5.28",
-                    "India": "3.98"
-                },
-                "Mineral Products": {
-                    "Spain": "25.27",
-                    "Korea, Rep.": "21.47",
-                    "China": "12.98",
-                    "Portugal": "10.25",
-                    "Morocco": "9.21"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Portugal": "19.96",
-                    "China": "17.42",
-                    "United States": "8.71",
-                    "South Africa": "8.68",
-                    "India": "6.39"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "22.86",
-                    "Portugal": "15.92",
-                    "United States": "8.75",
-                    "South Africa": "8.46",
-                    "Korea, Rep.": "5.92"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "32.91",
-                    "Portugal": "32.01",
-                    "South Africa": "8.80",
-                    "United States": "7.36",
-                    "United Arab Emirates": "2.37"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Portugal": "34.18",
-                    "China": "23.06",
-                    "South Africa": "8.10",
-                    "France": "3.65",
-                    "Brazil": "3.51"
-                },
-                "Textiles and Textile Articles": {
-                    "Malaysia": "25.30",
-                    "China": "18.88",
-                    "Portugal": "15.43",
-                    "United States": "6.84",
-                    "India": "4.18"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "40.37",
-                    "Portugal": "23.46",
-                    "Brazil": "21.85",
-                    "South Africa": "2.87",
-                    "United States": "2.11"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "China": "40.10",
-                    "Portugal": "33.04",
-                    "Spain": "5.45",
-                    "United States": "3.10",
-                    "United Arab Emirates": "2.62"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "China": "23.61",
-                    "Portugal": "23.40",
-                    "Morocco": "11.94",
-                    "United States": "6.07",
-                    "Spain": "5.50"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "China": "25.51",
-                    "United States": "11.46",
-                    "Portugal": "10.16",
-                    "France": "8.42",
-                    "Belgium": "5.96"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "China": "17.03",
-                    "Portugal": "13.90",
-                    "United States": "12.91",
-                    "Korea, Rep.": "7.68",
-                    "United Kingdom": "7.21"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "China": "19.63",
-                    "United Arab Emirates": "17.12",
-                    "Japan": "9.81",
-                    "Mexico": "6.36",
-                    "Portugal": "5.92"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "20.41",
-                    "Portugal": "14.63",
-                    "United States": "9.93",
-                    "United Kingdom": "5.60",
-                    "South Africa": "4.82"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Singapore": "30.84",
-                    "China": "13.84",
-                    "Malaysia": "8.10",
-                    "Portugal": "8.00",
-                    "Brazil": "5.06"
-                }
-            }
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Unspecified": "9.91",
+          "Lisbon": "39.88",
+          "Beijing": "8.27",
+          "Pretoria": "7.33",
+          "Brasília": "6.10"
         },
-        "2016": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Brazil": "30.10",
-                    "United States": "20.49",
-                    "Portugal": "18.92",
-                    "Mauritania": "6.23",
-                    "Argentina": "2.90"
-                },
-                "Vegetable Products": {
-                    "Portugal": "14.53",
-                    "Belgium": "12.74",
-                    "South Africa": "11.30",
-                    "Turkey": "10.70",
-                    "France": "10.03"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Portugal": "35.49",
-                    "South Africa": "14.13",
-                    "Brazil": "9.38",
-                    "Turkey": "9.23",
-                    "Italy": "3.94"
-                },
-                "Mineral Products": {
-                    "Switzerland": "29.29",
-                    "China": "13.27",
-                    "Portugal": "11.65",
-                    "Turkey": "9.66",
-                    "Spain": "9.11"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Portugal": "22.74",
-                    "China": "17.03",
-                    "Belgium": "9.82",
-                    "South Africa": "8.38",
-                    "United States": "6.14"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "18.24",
-                    "Portugal": "17.01",
-                    "South Africa": "9.18",
-                    "United States": "6.88",
-                    "Korea, Rep.": "4.57"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "38.88",
-                    "Portugal": "35.57",
-                    "United States": "6.35",
-                    "South Africa": "4.91",
-                    "France": "1.54"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Portugal": "40.73",
-                    "China": "14.44",
-                    "South Africa": "9.75",
-                    "Turkey": "3.84",
-                    "France": "3.61"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "35.39",
-                    "Portugal": "21.06",
-                    "United States": "8.24",
-                    "South Africa": "4.57",
-                    "India": "3.80"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "52.37",
-                    "Portugal": "25.34",
-                    "Brazil": "11.93",
-                    "United Arab Emirates": "1.57",
-                    "South Africa": "1.51"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Portugal": "39.39",
-                    "China": "29.77",
-                    "South Africa": "4.80",
-                    "India": "4.36",
-                    "United Arab Emirates": "3.36"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "China": "21.64",
-                    "Portugal": "18.10",
-                    "Korea, Rep.": "14.05",
-                    "Belgium": "6.93",
-                    "Saudi Arabia": "5.37"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "China": "17.53",
-                    "France": "11.49",
-                    "Portugal": "9.49",
-                    "United States": "9.24",
-                    "Mexico": "8.66"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "United States": "21.86",
-                    "Portugal": "12.90",
-                    "China": "11.40",
-                    "Norway": "9.70",
-                    "United Kingdom": "7.51"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "United States": "15.20",
-                    "Cote dIvoire": "9.56",
-                    "China": "9.54",
-                    "United Arab Emirates": "6.75",
-                    "Portugal": "5.82"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "Portugal": "15.57",
-                    "China": "14.83",
-                    "United States": "14.29",
-                    "United Kingdom": "6.21",
-                    "Norway": "5.78"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "China": "14.85",
-                    "United States": "14.39",
-                    "Russian Federation": "11.22",
-                    "Portugal": "8.90",
-                    "Brazil": "7.30"
-                }
-            }
+        "Textiles and Textile Articles": {
+          "Unspecified": "11.38",
+          "Beijing": "16.33",
+          "Lisbon": "13.96",
+          "Washington, D.C.": "7.93",
+          "Ottawa": "7.05"
         },
-        "2017": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Brazil": "27.97",
-                    "United States": "24.63",
-                    "Portugal": "15.05",
-                    "Mauritania": "11.58",
-                    "India": "2.94"
-                },
-                "Vegetable Products": {
-                    "Portugal": "15.71",
-                    "Brazil": "11.95",
-                    "South Africa": "11.47",
-                    "Turkey": "9.32",
-                    "Belgium": "8.97"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Portugal": "27.47",
-                    "South Africa": "14.82",
-                    "Turkey": "13.55",
-                    "Brazil": "10.88",
-                    "China": "5.27"
-                },
-                "Mineral Products": {
-                    "Portugal": "25.67",
-                    "China": "11.27",
-                    "Korea, Rep.": "9.37",
-                    "Namibia": "6.38",
-                    "Vietnam": "6.06"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Portugal": "25.79",
-                    "China": "17.26",
-                    "India": "8.41",
-                    "Belgium": "7.93",
-                    "South Africa": "7.23"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "25.26",
-                    "Portugal": "19.90",
-                    "South Africa": "7.29",
-                    "Korea, Rep.": "6.38",
-                    "Thailand": "5.27"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "45.79",
-                    "Portugal": "33.14",
-                    "South Africa": "5.21",
-                    "France": "1.94",
-                    "United States": "1.88"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Portugal": "32.61",
-                    "China": "19.65",
-                    "South Africa": "8.60",
-                    "Turkey": "5.21",
-                    "Spain": "5.13"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "44.47",
-                    "Portugal": "16.27",
-                    "India": "4.54",
-                    "United Arab Emirates": "3.37",
-                    "United States": "3.31"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "64.85",
-                    "Portugal": "18.82",
-                    "Brazil": "5.54",
-                    "United Arab Emirates": "4.56",
-                    "South Africa": "1.35"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Portugal": "38.58",
-                    "China": "32.66",
-                    "Spain": "4.55",
-                    "South Africa": "4.16",
-                    "India": "4.15"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Portugal": "20.88",
-                    "Saudi Arabia": "20.44",
-                    "China": "10.79",
-                    "Brazil": "10.02",
-                    "Korea, Rep.": "6.22"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "China": "26.35",
-                    "Portugal": "19.08",
-                    "France": "11.31",
-                    "South Africa": "5.59",
-                    "United States": "4.68"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "Portugal": "18.15",
-                    "China": "16.52",
-                    "United Kingdom": "10.11",
-                    "United States": "8.18",
-                    "Germany": "6.57"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "United States": "26.78",
-                    "China": "19.80",
-                    "United Arab Emirates": "14.78",
-                    "Japan": "7.63",
-                    "Belgium": "5.55"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "21.18",
-                    "Portugal": "19.51",
-                    "United States": "8.15",
-                    "United Kingdom": "5.49",
-                    "South Africa": "5.40"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Portugal": "16.78",
-                    "China": "10.55",
-                    "Brazil": "9.91",
-                    "Thailand": "9.20",
-                    "Malaysia": "7.63"
-                }
-            }
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Unspecified": "11.80",
+          "Beijing": "46.53",
+          "Lisbon": "11.92",
+          "Brasília": "8.76",
+          "Washington, D.C.": "3.39"
         },
-        "2018": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "United States": "25.43",
-                    "Brazil": "23.14",
-                    "Portugal": "12.47",
-                    "Mauritania": "6.81",
-                    "India": "3.33"
-                },
-                "Vegetable Products": {
-                    "Thailand": "18.04",
-                    "Portugal": "12.99",
-                    "France": "8.17",
-                    "Turkey": "8.02",
-                    "Malaysia": "7.46"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Portugal": "23.35",
-                    "Brazil": "21.05",
-                    "Turkey": "11.38",
-                    "South Africa": "9.76",
-                    "Belgium": "5.53"
-                },
-                "Mineral Products": {
-                    "Portugal": "25.50",
-                    "India": "10.79",
-                    "United Arab Emirates": "9.32",
-                    "Morocco": "8.39",
-                    "China": "7.93"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Portugal": "22.30",
-                    "China": "16.30",
-                    "India": "11.84",
-                    "Belgium": "8.38",
-                    "South Africa": "6.03"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "25.75",
-                    "Portugal": "19.08",
-                    "India": "6.82",
-                    "South Africa": "5.42",
-                    "Korea, Rep.": "5.38"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "39.39",
-                    "Portugal": "35.46",
-                    "South Africa": "6.11",
-                    "United Arab Emirates": "2.73",
-                    "United States": "2.62"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Portugal": "36.36",
-                    "China": "16.21",
-                    "South Africa": "11.66",
-                    "Turkey": "4.82",
-                    "United States": "3.85"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "40.10",
-                    "Portugal": "16.41",
-                    "India": "4.63",
-                    "United States": "4.23",
-                    "United Arab Emirates": "3.56"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "55.51",
-                    "Portugal": "22.39",
-                    "Brazil": "10.65",
-                    "South Africa": "1.50",
-                    "India": "1.17"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Portugal": "35.09",
-                    "China": "34.78",
-                    "India": "9.08",
-                    "Spain": "3.70",
-                    "Belgium": "2.74"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "China": "22.33",
-                    "Saudi Arabia": "19.20",
-                    "Portugal": "17.88",
-                    "Korea, Rep.": "12.94",
-                    "Morocco": "3.78"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "China": "40.25",
-                    "Portugal": "17.99",
-                    "France": "9.20",
-                    "South Africa": "3.89",
-                    "Norway": "3.65"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "China": "27.13",
-                    "Portugal": "17.02",
-                    "United States": "7.42",
-                    "Italy": "6.36",
-                    "Belgium": "4.40"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Singapore": "62.51",
-                    "United Arab Emirates": "7.66",
-                    "China": "6.81",
-                    "Brazil": "4.04",
-                    "Japan": "2.58"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "22.54",
-                    "Portugal": "16.23",
-                    "Singapore": "15.21",
-                    "South Africa": "4.27",
-                    "United States": "3.95"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "China": "21.78",
-                    "Portugal": "19.79",
-                    "Belarus": "7.23",
-                    "Brazil": "5.13",
-                    "Thailand": "4.92"
-                }
-            }
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Unspecified": "12.80",
+          "Lisbon": "31.90",
+          "Beijing": "13.62",
+          "Brasília": "10.53",
+          "Madrid": "5.83"
         },
-        "2019": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "United States": "23.67",
-                    "Brazil": "19.76",
-                    "Portugal": "12.61",
-                    "Malaysia": "4.87",
-                    "Netherlands": "4.77"
-                },
-                "Vegetable Products": {
-                    "Thailand": "18.70",
-                    "Malaysia": "12.54",
-                    "Portugal": "11.85",
-                    "France": "11.52",
-                    "Turkey": "7.82"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Brazil": "30.51",
-                    "Portugal": "20.76",
-                    "Turkey": "9.37",
-                    "South Africa": "7.35",
-                    "India": "5.63"
-                },
-                "Mineral Products": {
-                    "Turkey": "32.63",
-                    "Portugal": "15.75",
-                    "Italy": "9.37",
-                    "China": "5.87",
-                    "Congo, Rep.": "5.77"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Portugal": "20.97",
-                    "China": "13.65",
-                    "India": "11.25",
-                    "Belgium": "7.36",
-                    "South Africa": "6.62"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "31.29",
-                    "Portugal": "15.59",
-                    "India": "6.32",
-                    "United States": "5.86",
-                    "South Africa": "4.82"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "57.67",
-                    "Portugal": "23.76",
-                    "South Africa": "4.07",
-                    "United States": "2.75",
-                    "France": "2.20"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Portugal": "39.54",
-                    "United Kingdom": "24.33",
-                    "China": "6.99",
-                    "United States": "5.73",
-                    "South Africa": "4.85"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "42.35",
-                    "Portugal": "15.23",
-                    "India": "4.49",
-                    "South Africa": "4.26",
-                    "United States": "3.78"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "54.80",
-                    "Portugal": "15.47",
-                    "Brazil": "12.99",
-                    "South Africa": "3.08",
-                    "Zimbabwe": "2.69"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "China": "33.08",
-                    "Portugal": "30.80",
-                    "India": "11.81",
-                    "Spain": "2.97",
-                    "Belgium": "2.53"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "China": "27.96",
-                    "Portugal": "21.97",
-                    "Saudi Arabia": "14.14",
-                    "Spain": "8.98",
-                    "Korea, Rep.": "5.63"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "China": "30.61",
-                    "Portugal": "17.27",
-                    "France": "8.60",
-                    "United States": "4.59",
-                    "South Africa": "4.00"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "China": "25.13",
-                    "Portugal": "16.11",
-                    "United States": "10.26",
-                    "Italy": "7.98",
-                    "United Kingdom": "5.22"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "France": "60.20",
-                    "China": "12.26",
-                    "United Arab Emirates": "7.75",
-                    "Korea, Rep.": "2.43",
-                    "Belgium": "2.32"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "21.50",
-                    "France": "17.73",
-                    "Portugal": "15.32",
-                    "United States": "5.37",
-                    "United Kingdom": "4.46"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Portugal": "25.30",
-                    "China": "24.46",
-                    "Russian Federation": "6.02",
-                    "United States": "4.94",
-                    "Belarus": "4.51"
-                }
-            }
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Unspecified": "9.81",
+          "Lisbon": "27.74",
+          "Washington, D.C.": "13.35",
+          "Pretoria": "7.54",
+          "Rabat": "5.42"
         },
-        "2020": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Brazil": "24.00",
-                    "United States": "23.04",
-                    "Portugal": "11.54",
-                    "Belgium": "6.26",
-                    "Ireland": "3.63"
-                },
-                "Vegetable Products": {
-                    "Thailand": "20.09",
-                    "Malaysia": "11.66",
-                    "Portugal": "9.28",
-                    "France": "9.25",
-                    "Turkey": "8.17"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Brazil": "31.72",
-                    "Portugal": "20.70",
-                    "Turkey": "9.06",
-                    "South Africa": "7.21",
-                    "India": "5.06"
-                },
-                "Mineral Products": {
-                    "India": "17.40",
-                    "Portugal": "12.81",
-                    "Congo, Rep.": "11.08",
-                    "Morocco": "9.18",
-                    "United States": "8.67"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Portugal": "18.80",
-                    "China": "16.11",
-                    "India": "15.27",
-                    "Belgium": "5.67",
-                    "South Africa": "5.56"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "32.78",
-                    "Portugal": "14.84",
-                    "India": "6.18",
-                    "United States": "4.38",
-                    "South Africa": "4.28"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "39.08",
-                    "Portugal": "31.64",
-                    "South Africa": "9.05",
-                    "United States": "4.03",
-                    "France": "2.21"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "United Kingdom": "21.73",
-                    "Portugal": "21.32",
-                    "South Africa": "15.14",
-                    "France": "9.44",
-                    "China": "6.81"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "43.29",
-                    "Portugal": "14.26",
-                    "South Africa": "4.02",
-                    "United States": "3.98",
-                    "India": "3.61"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "54.78",
-                    "Brazil": "15.78",
-                    "Portugal": "15.00",
-                    "South Africa": "4.13",
-                    "United States": "1.52"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "China": "42.06",
-                    "Portugal": "28.42",
-                    "India": "6.53",
-                    "Turkey": "3.01",
-                    "Spain": "2.89"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Portugal": "31.75",
-                    "China": "23.83",
-                    "United States": "6.86",
-                    "Saudi Arabia": "5.95",
-                    "India": "3.77"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "China": "26.14",
-                    "Portugal": "15.94",
-                    "Denmark": "8.56",
-                    "United Kingdom": "7.60",
-                    "United States": "6.09"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "China": "17.39",
-                    "Portugal": "16.62",
-                    "United States": "11.02",
-                    "United Kingdom": "9.01",
-                    "Italy": "6.23"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "China": "28.70",
-                    "United States": "10.55",
-                    "Brazil": "9.51",
-                    "Japan": "7.24",
-                    "United Arab Emirates": "6.95"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "22.37",
-                    "Portugal": "16.01",
-                    "United States": "7.52",
-                    "United Kingdom": "6.61",
-                    "South Africa": "5.04"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Portugal": "28.94",
-                    "China": "21.46",
-                    "United States": "6.26",
-                    "Russian Federation": "5.56",
-                    "United Kingdom": "4.89"
-                }
-            }
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "9.99",
+          "Lisbon": "12.87",
+          "Paris": "10.79",
+          "Washington, D.C.": "10.72",
+          "Beijing": "10.10"
         },
-        "2021": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "United States": "27.67",
-                    "Brazil": "23.90",
-                    "Portugal": "11.24",
-                    "Belgium": "6.24",
-                    "Argentina": "3.15"
-                },
-                "Vegetable Products": {
-                    "France": "12.82",
-                    "Malaysia": "10.50",
-                    "Thailand": "10.23",
-                    "India": "9.87",
-                    "Turkey": "8.14"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Brazil": "31.82",
-                    "Portugal": "21.77",
-                    "South Africa": "6.59",
-                    "Turkey": "6.02",
-                    "India": "5.27"
-                },
-                "Mineral Products": {
-                    "Congo, Rep.": "13.62",
-                    "Portugal": "12.44",
-                    "India": "9.45",
-                    "United Arab Emirates": "8.63",
-                    "Morocco": "8.21"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "27.57",
-                    "Portugal": "15.08",
-                    "India": "6.71",
-                    "Saudi Arabia": "5.42",
-                    "South Africa": "4.86"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "42.41",
-                    "Portugal": "29.15",
-                    "South Africa": "4.61",
-                    "Italy": "2.81",
-                    "United States": "2.75"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "United Kingdom": "30.56",
-                    "Portugal": "19.33",
-                    "United States": "7.73",
-                    "China": "6.24",
-                    "South Africa": "5.73"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "69.01",
-                    "Portugal": "7.63",
-                    "South Africa": "2.55",
-                    "India": "2.39",
-                    "Turkey": "2.16"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "45.71",
-                    "Brazil": "22.30",
-                    "Portugal": "12.81",
-                    "South Africa": "3.99",
-                    "India": "2.37"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "China": "56.15",
-                    "Portugal": "19.82",
-                    "India": "5.00",
-                    "Turkey": "3.02",
-                    "Spain": "2.53"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Portugal": "27.61",
-                    "China": "18.32",
-                    "Thailand": "14.54",
-                    "Saudi Arabia": "6.87",
-                    "India": "4.35"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "China": "21.15",
-                    "Portugal": "12.99",
-                    "Norway": "10.44",
-                    "Italy": "8.78",
-                    "United Kingdom": "7.26"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "China": "18.68",
-                    "Portugal": "16.38",
-                    "Italy": "8.71",
-                    "United Kingdom": "7.73",
-                    "United States": "7.55"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "China": "19.92",
-                    "Brazil": "17.21",
-                    "United Arab Emirates": "13.70",
-                    "Japan": "9.30",
-                    "Canada": "5.53"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "22.46",
-                    "Portugal": "14.78",
-                    "United Kingdom": "6.81",
-                    "Italy": "5.02",
-                    "United States": "4.90"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Portugal": "27.87",
-                    "China": "19.60",
-                    "United States": "6.86",
-                    "United Kingdom": "6.77",
-                    "France": "5.44"
-                }
-            }
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Unspecified": "8.95",
+          "Pyongyang": "27.07",
+          "Lisbon": "11.83",
+          "Washington, D.C.": "10.48",
+          "Beijing": "7.11"
         },
-        "2022": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "United States": "26.86",
-                    "Brazil": "26.60",
-                    "Portugal": "9.86",
-                    "Netherlands": "4.29",
-                    "Argentina": "2.99"
-                },
-                "Vegetable Products": {
-                    "Indonesia": "14.54",
-                    "India": "14.54",
-                    "Malaysia": "13.44",
-                    "Argentina": "8.85",
-                    "Portugal": "6.45"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Brazil": "30.87",
-                    "Portugal": "22.50",
-                    "South Africa": "6.45",
-                    "India": "4.82",
-                    "Turkey": "4.69"
-                },
-                "Mineral Products": {
-                    "Morocco": "19.57",
-                    "Germany": "11.70",
-                    "India": "9.63",
-                    "Portugal": "6.81",
-                    "Congo, Rep.": "6.34"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "China": "18.08",
-                    "Portugal": "14.15",
-                    "India": "12.28",
-                    "Belgium": "8.49",
-                    "United States": "6.30"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "33.04",
-                    "Portugal": "11.97",
-                    "India": "7.72",
-                    "Korea, Rep.": "6.15",
-                    "United States": "5.07"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "41.32",
-                    "Portugal": "22.11",
-                    "Spain": "13.43",
-                    "India": "4.50",
-                    "South Africa": "2.87"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "United Kingdom": "35.33",
-                    "Portugal": "19.75",
-                    "Spain": "9.08",
-                    "China": "8.44",
-                    "India": "4.15"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "56.39",
-                    "Portugal": "8.72",
-                    "Namibia": "3.67",
-                    "South Africa": "3.52",
-                    "Turkey": "2.92"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "59.81",
-                    "Brazil": "15.57",
-                    "Portugal": "10.64",
-                    "South Africa": "2.25",
-                    "Turkey": "1.79"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "China": "54.14",
-                    "Portugal": "19.14",
-                    "India": "6.50",
-                    "United Arab Emirates": "3.41",
-                    "Spain": "2.24"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Portugal": "24.06",
-                    "China": "16.47",
-                    "Thailand": "15.41",
-                    "Morocco": "6.95",
-                    "Sweden": "5.97"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "China": "30.32",
-                    "Portugal": "15.56",
-                    "United Kingdom": "8.98",
-                    "Italy": "6.10",
-                    "France": "5.80"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "China": "24.05",
-                    "Portugal": "17.29",
-                    "United States": "9.39",
-                    "United Kingdom": "6.50",
-                    "Italy": "4.74"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "China": "26.74",
-                    "United Arab Emirates": "20.62",
-                    "Japan": "11.17",
-                    "Portugal": "5.08",
-                    "Brazil": "4.76"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "26.35",
-                    "Portugal": "14.57",
-                    "United Kingdom": "5.90",
-                    "United States": "5.75",
-                    "United Arab Emirates": "5.38"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "Portugal": "24.42",
-                    "China": "23.07",
-                    "United States": "8.00",
-                    "Belarus": "6.63",
-                    "United Kingdom": "4.44"
-                }
-            }
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "21.18",
+          "Washington, D.C.": "9.62",
+          "Lisbon": "8.76",
+          "Beijing": "7.84",
+          "Brasília": "7.78"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "9.02",
+          "Lisbon": "13.57",
+          "Pyongyang": "11.58",
+          "Washington, D.C.": "9.64",
+          "Beijing": "9.26"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "15.52",
+          "Lisbon": "21.68",
+          "Beijing": "11.41",
+          "Washington, D.C.": "10.06",
+          "Brasília": "8.54"
         }
+      }
+    },
+    "2009": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Brasília": "25.54",
+          "Washington, D.C.": "13.26",
+          "Lisbon": "10.10",
+          "New Delhi": "9.43",
+          "Amsterdam": "7.41"
+        },
+        "Vegetable Products": {
+          "Belgium": "10.87",
+          "Namibia": "8.34",
+          "Paris": "10.18",
+          "Lisbon": "9.37",
+          "Buenos Aires": "8.87"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Namibia": "5.51",
+          "Lisbon": "33.87",
+          "Brasília": "15.84",
+          "Pretoria": "13.71",
+          "Rome": "3.59"
+        },
+        "Mineral Products": {
+          "Beijing": "39.39",
+          "Madrid": "11.20",
+          "Lisbon": "9.95",
+          "Ankara": "8.77",
+          "Washington, D.C.": "5.47"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Belgium": "6.64",
+          "Pretoria": "22.69",
+          "Lisbon": "17.80",
+          "Washington, D.C.": "8.07",
+          "Beijing": "6.27"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Namibia": "6.36",
+          "Lisbon": "23.46",
+          "Beijing": "11.94",
+          "Pretoria": "11.79",
+          "Washington, D.C.": "6.06"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Namibia": "7.33",
+          "Beijing": "39.11",
+          "Lisbon": "21.02",
+          "Washington, D.C.": "6.96",
+          "Abu Dhabi": "5.20"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Lebanon": "5.12",
+          "Lisbon": "37.50",
+          "Beijing": "13.32",
+          "Pretoria": "12.40",
+          "Brasília": "6.21"
+        },
+        "Textiles and Textile Articles": {
+          "Namibia": "10.43",
+          "Lisbon": "18.75",
+          "Beijing": "15.08",
+          "Washington, D.C.": "10.89",
+          "Ottawa": "8.83"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Namibia": "9.20",
+          "Beijing": "35.08",
+          "Lisbon": "19.89",
+          "Brasília": "10.97",
+          "Pretoria": "8.69"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Lisbon": "33.13",
+          "Beijing": "22.06",
+          "Brasília": "12.81",
+          "Abu Dhabi": "5.62",
+          "Pretoria": "5.29"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Cote dIvoire": "9.01",
+          "Iraq": "7.24",
+          "Lisbon": "16.14",
+          "Bern": "11.85",
+          "Rome": "9.09"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Lisbon": "18.33",
+          "Washington, D.C.": "11.23",
+          "Beijing": "9.02",
+          "Pretoria": "8.72",
+          "Brasília": "6.63"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Lisbon": "21.92",
+          "Washington, D.C.": "15.92",
+          "Beijing": "11.93",
+          "London": "5.26",
+          "Pretoria": "4.83"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "21.75",
+          "Abu Dhabi": "14.05",
+          "Beijing": "8.78",
+          "Lisbon": "7.82",
+          "Seoul": "7.33"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Lisbon": "17.89",
+          "Beijing": "11.90",
+          "Washington, D.C.": "10.25",
+          "Tokyo": "6.86",
+          "Pretoria": "6.65"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Lisbon": "24.26",
+          "Beijing": "18.08",
+          "Washington, D.C.": "11.31",
+          "Brasília": "10.54",
+          "Pretoria": "6.50"
+        }
+      }
+    },
+    "2010": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Brasília": "23.17",
+          "Washington, D.C.": "20.77",
+          "Lisbon": "9.61",
+          "New Delhi": "7.19",
+          "Amsterdam": "6.84"
+        },
+        "Vegetable Products": {
+          "Belgium": "9.84",
+          "Paris": "12.72",
+          "Hanoi": "10.36",
+          "Lisbon": "9.71",
+          "Kuala Lumpur": "8.30"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Lisbon": "38.44",
+          "Brasília": "16.26",
+          "Pretoria": "8.82",
+          "Buenos Aires": "3.89",
+          "Rome": "3.87"
+        },
+        "Mineral Products": {
+          "Beijing": "51.37",
+          "Lisbon": "9.44",
+          "Ankara": "7.53",
+          "Madrid": "6.53",
+          "Seoul": "4.56"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Belgium": "8.53",
+          "Lisbon": "22.23",
+          "Pretoria": "9.90",
+          "Washington, D.C.": "9.83",
+          "Beijing": "7.91"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Lisbon": "25.99",
+          "Beijing": "15.45",
+          "Pretoria": "9.66",
+          "Washington, D.C.": "6.04",
+          "Seoul": "5.81"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "43.80",
+          "Lisbon": "21.94",
+          "Abu Dhabi": "6.88",
+          "Washington, D.C.": "5.64",
+          "Pretoria": "3.98"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Lisbon": "38.64",
+          "Beijing": "20.88",
+          "Pretoria": "9.71",
+          "Washington, D.C.": "3.87",
+          "Brasília": "3.80"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "22.00",
+          "Lisbon": "19.45",
+          "Washington, D.C.": "10.37",
+          "Ottawa": "7.90",
+          "Brasília": "4.08"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "46.76",
+          "Lisbon": "15.44",
+          "Brasília": "14.37",
+          "Washington, D.C.": "3.61"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Lisbon": "34.47",
+          "Beijing": "27.04",
+          "Brasília": "8.87",
+          "Madrid": "4.92",
+          "Abu Dhabi": "3.79"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Belgium": "4.53",
+          "Lisbon": "35.69",
+          "Beijing": "17.49",
+          "Washington, D.C.": "7.19",
+          "Rabat": "4.77"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Belgium": "7.19",
+          "Lisbon": "14.10",
+          "Paris": "13.44",
+          "Washington, D.C.": "11.18",
+          "Beijing": "8.90"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Lisbon": "15.14",
+          "Washington, D.C.": "13.71",
+          "Beijing": "10.65",
+          "Oslo": "9.18",
+          "London": "8.64"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Beijing": "21.51",
+          "Tokyo": "16.19",
+          "Washington, D.C.": "7.44",
+          "Lisbon": "7.43",
+          "Paris": "4.46"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Lisbon": "16.17",
+          "Beijing": "14.69",
+          "Washington, D.C.": "10.82",
+          "Paris": "5.94",
+          "London": "5.35"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Lisbon": "25.63",
+          "Washington, D.C.": "16.30",
+          "Beijing": "13.87",
+          "Brasília": "8.30",
+          "Pretoria": "4.96"
+        }
+      }
+    },
+    "2011": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Washington, D.C.": "22.29",
+          "Brasília": "20.64",
+          "Lisbon": "13.07",
+          "Amsterdam": "8.15",
+          "New Delhi": "4.36"
+        },
+        "Vegetable Products": {
+          "Thailand": "10.20",
+          "Lisbon": "12.72",
+          "Paris": "12.06",
+          "Kuala Lumpur": "10.63",
+          "Buenos Aires": "7.97"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Lisbon": "39.75",
+          "Brasília": "14.18",
+          "Pretoria": "8.61",
+          "New Delhi": "3.39",
+          "Ankara": "3.30"
+        },
+        "Mineral Products": {
+          "Beijing": "41.80",
+          "Seoul": "18.32",
+          "Lisbon": "13.37",
+          "Rabat": "3.87",
+          "Ankara": "3.84"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Belgium": "7.91",
+          "Lisbon": "23.11",
+          "Washington, D.C.": "11.18",
+          "Pretoria": "9.97",
+          "Beijing": "8.47"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Lisbon": "24.84",
+          "Beijing": "15.04",
+          "London": "10.46",
+          "Pretoria": "10.10",
+          "Washington, D.C.": "5.64"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "39.72",
+          "Lisbon": "23.18",
+          "Washington, D.C.": "9.83",
+          "Abu Dhabi": "5.68",
+          "Pretoria": "4.61"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Lisbon": "39.33",
+          "Beijing": "21.54",
+          "Pretoria": "9.81",
+          "Brasília": "3.55",
+          "London": "3.44"
+        },
+        "Textiles and Textile Articles": {
+          "Lisbon": "23.94",
+          "Beijing": "19.61",
+          "Washington, D.C.": "11.60",
+          "Ottawa": "6.77",
+          "Pretoria": "4.16"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "45.35",
+          "Brasília": "20.61",
+          "Lisbon": "16.99",
+          "Washington, D.C.": "3.57",
+          "Pretoria": "3.03"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Lisbon": "41.00",
+          "Beijing": "28.16",
+          "Madrid": "4.91",
+          "Brasília": "4.75",
+          "Washington, D.C.": "4.36"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Lisbon": "39.29",
+          "Beijing": "15.71",
+          "Washington, D.C.": "5.64",
+          "Rabat": "5.32",
+          "Pretoria": "4.87"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Lisbon": "22.59",
+          "Beijing": "13.75",
+          "Washington, D.C.": "9.76",
+          "Paris": "7.93",
+          "Pretoria": "6.53"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Lisbon": "17.00",
+          "Washington, D.C.": "15.99",
+          "Beijing": "12.41",
+          "London": "10.08",
+          "Paris": "6.15"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Seoul": "54.20",
+          "Tokyo": "7.64",
+          "Beijing": "6.17",
+          "Washington, D.C.": "4.33",
+          "Abu Dhabi": "4.19"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Lisbon": "16.71",
+          "Seoul": "16.69",
+          "Beijing": "12.34",
+          "Washington, D.C.": "9.45",
+          "London": "5.46"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Lisbon": "28.97",
+          "Beijing": "13.80",
+          "Washington, D.C.": "8.28",
+          "Brasília": "8.02",
+          "London": "7.57"
+        }
+      }
+    },
+    "2012": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Brasília": "24.32",
+          "Washington, D.C.": "19.67",
+          "Lisbon": "11.65",
+          "New Delhi": "6.22",
+          "Amsterdam": "6.02"
+        },
+        "Vegetable Products": {
+          "Kuala Lumpur": "11.06",
+          "Paris": "10.74",
+          "Lisbon": "9.70",
+          "Buenos Aires": "9.30",
+          "Pretoria": "9.21"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Lisbon": "35.69",
+          "Brasília": "15.91",
+          "Pretoria": "9.23",
+          "New Delhi": "4.49",
+          "Ankara": "4.09"
+        },
+        "Mineral Products": {
+          "Namibia": "4.35",
+          "Beijing": "30.41",
+          "Seoul": "27.01",
+          "Lisbon": "10.96",
+          "Rabat": "3.58"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Lisbon": "20.82",
+          "Washington, D.C.": "14.57",
+          "Beijing": "9.41",
+          "Amsterdam": "8.39",
+          "Pretoria": "6.95"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Lisbon": "28.29",
+          "Beijing": "15.30",
+          "Pretoria": "7.83",
+          "Paris": "6.21",
+          "Washington, D.C.": "5.99"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "36.11",
+          "Lisbon": "23.99",
+          "Abu Dhabi": "10.30",
+          "Washington, D.C.": "6.65",
+          "Pretoria": "4.55"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Lisbon": "42.21",
+          "Beijing": "20.19",
+          "Pretoria": "6.65",
+          "Brasília": "4.30",
+          "Berlin": "2.61"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "24.34",
+          "Lisbon": "22.02",
+          "Washington, D.C.": "11.26",
+          "Ottawa": "4.17",
+          "New Delhi": "3.70"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "41.47",
+          "Brasília": "22.22",
+          "Lisbon": "19.06",
+          "Washington, D.C.": "3.70",
+          "Pretoria": "2.26"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Lisbon": "43.66",
+          "Beijing": "32.25",
+          "Brasília": "4.05",
+          "Madrid": "3.67",
+          "Abu Dhabi": "2.51"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Lisbon": "44.86",
+          "Beijing": "19.22",
+          "Washington, D.C.": "5.23",
+          "Rabat": "4.38",
+          "London": "4.01"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Lisbon": "25.36",
+          "Beijing": "16.73",
+          "Washington, D.C.": "9.90",
+          "Paris": "7.27",
+          "London": "6.70"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Lisbon": "19.64",
+          "Beijing": "15.06",
+          "Washington, D.C.": "12.94",
+          "London": "8.47",
+          "Pretoria": "4.58"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "11.83",
+          "Beijing": "11.36",
+          "Abu Dhabi": "10.19",
+          "Washington, D.C.": "4.77"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Lisbon": "18.81",
+          "Beijing": "15.39",
+          "Washington, D.C.": "9.13",
+          "London": "4.79"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Lisbon": "30.44",
+          "Beijing": "18.42",
+          "Washington, D.C.": "9.38",
+          "Brasília": "8.40",
+          "Pretoria": "5.53"
+        }
+      }
+    },
+    "2013": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Belgium": "5.76",
+          "Brasília": "23.83",
+          "Washington, D.C.": "19.82",
+          "Lisbon": "11.84",
+          "New Delhi": "5.10"
+        },
+        "Vegetable Products": {
+          "Thailand": "8.78",
+          "Lisbon": "10.27",
+          "Kuala Lumpur": "10.13",
+          "Paris": "9.92",
+          "Pretoria": "9.08"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Lisbon": "36.46",
+          "Brasília": "14.32",
+          "Pretoria": "9.22",
+          "New Delhi": "3.99",
+          "Ankara": "3.76"
+        },
+        "Mineral Products": {
+          "Belgium": "6.67",
+          "Beijing": "33.21",
+          "Lisbon": "12.90",
+          "Seoul": "7.59",
+          "Rabat": "4.70"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Belgium": "6.68",
+          "Lisbon": "23.64",
+          "Beijing": "10.50",
+          "Washington, D.C.": "9.94",
+          "Pretoria": "9.24"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Lisbon": "27.74",
+          "Beijing": "20.02",
+          "Pretoria": "8.04",
+          "Washington, D.C.": "5.54",
+          "Seoul": "4.72"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "34.64",
+          "Lisbon": "29.13",
+          "Pretoria": "6.64",
+          "Washington, D.C.": "6.20",
+          "Abu Dhabi": "4.68"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Lisbon": "44.17",
+          "Beijing": "20.31",
+          "Pretoria": "6.37",
+          "Abu Dhabi": "3.21",
+          "Brasília": "2.95"
+        },
+        "Textiles and Textile Articles": {
+          "Lisbon": "23.99",
+          "Beijing": "22.37",
+          "Washington, D.C.": "11.75",
+          "New Delhi": "4.98",
+          "Pretoria": "4.07"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "35.61",
+          "Brasília": "25.92",
+          "Lisbon": "23.09",
+          "Pretoria": "3.20",
+          "Washington, D.C.": "2.70"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Lisbon": "39.15",
+          "Beijing": "29.04",
+          "Abu Dhabi": "5.73",
+          "Madrid": "4.63",
+          "Washington, D.C.": "3.92"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Lisbon": "34.01",
+          "Beijing": "22.02",
+          "Rabat": "5.89",
+          "Abu Dhabi": "4.72",
+          "London": "4.14"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Belgium": "4.55",
+          "Lisbon": "20.41",
+          "Beijing": "18.78",
+          "Washington, D.C.": "9.05",
+          "London": "8.67"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Lisbon": "20.87",
+          "Beijing": "14.33",
+          "Washington, D.C.": "11.40",
+          "London": "8.65",
+          "Pretoria": "3.84"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Seoul": "57.71",
+          "Abu Dhabi": "7.20",
+          "Beijing": "6.87",
+          "Tokyo": "5.80",
+          "Manama": "4.82"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Seoul": "21.79",
+          "Lisbon": "16.40",
+          "Beijing": "13.48",
+          "Washington, D.C.": "6.70",
+          "London": "4.68"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Lisbon": "31.25",
+          "Beijing": "16.38",
+          "Washington, D.C.": "9.62",
+          "London": "6.65",
+          "Brasília": "6.23"
+        }
+      }
+    },
+    "2014": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Brasília": "27.12",
+          "Washington, D.C.": "20.14",
+          "Lisbon": "12.89",
+          "New Delhi": "5.98",
+          "Buenos Aires": "4.36"
+        },
+        "Vegetable Products": {
+          "Belgium": "9.20",
+          "Lisbon": "29.86",
+          "Pretoria": "13.24",
+          "Paris": "10.59",
+          "Brasília": "7.48"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Lisbon": "39.48",
+          "Pretoria": "11.67",
+          "Brasília": "10.96",
+          "Ankara": "4.97",
+          "Abu Dhabi": "2.95"
+        },
+        "Mineral Products": {
+          "Belgium": "4.38",
+          "Seoul": "31.06",
+          "Lisbon": "20.35",
+          "Madrid": "13.07",
+          "Beijing": "11.89"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Belgium": "7.46",
+          "Lisbon": "23.43",
+          "Beijing": "12.35",
+          "Pretoria": "8.14",
+          "Washington, D.C.": "7.42"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Beijing": "21.38",
+          "Lisbon": "19.89",
+          "Pretoria": "7.81",
+          "Washington, D.C.": "5.60",
+          "Paris": "4.88"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "38.37",
+          "Lisbon": "23.08",
+          "Pretoria": "5.12",
+          "Washington, D.C.": "4.86",
+          "Abu Dhabi": "4.10"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Lisbon": "41.89",
+          "Beijing": "20.60",
+          "Pretoria": "7.58",
+          "Brasília": "4.15",
+          "Cairo": "2.87"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "23.05",
+          "Lisbon": "19.13",
+          "Washington, D.C.": "10.48",
+          "Abu Dhabi": "5.51",
+          "Ottawa": "4.37"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "35.61",
+          "Brasília": "24.12",
+          "Lisbon": "20.89",
+          "Santiago": "4.90",
+          "Washington, D.C.": "2.58"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Lisbon": "35.74",
+          "Beijing": "27.61",
+          "Santiago": "9.70",
+          "Madrid": "5.16",
+          "Brasília": "4.42"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Lisbon": "34.55",
+          "Beijing": "16.75",
+          "Abu Dhabi": "5.74",
+          "Ankara": "4.34",
+          "Rabat": "4.34"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Beijing": "20.14",
+          "Lisbon": "14.85",
+          "Paris": "11.85",
+          "Washington, D.C.": "9.71",
+          "Santiago": "6.11"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Lisbon": "18.39",
+          "Washington, D.C.": "16.24",
+          "Beijing": "16.13",
+          "London": "8.97",
+          "Oslo": "4.65"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Abu Dhabi": "23.77",
+          "Beijing": "16.83",
+          "Tokyo": "14.01",
+          "Seoul": "7.68",
+          "New Delhi": "5.33"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Beijing": "17.90",
+          "Lisbon": "17.13",
+          "Washington, D.C.": "9.18",
+          "Abu Dhabi": "6.42",
+          "London": "5.64"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Lisbon": "10.51",
+          "Brasília": "8.18",
+          "Washington, D.C.": "6.09",
+          "Beijing": "5.98"
+        }
+      }
+    },
+    "2015": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Mauritania": "8.00",
+          "Brasília": "24.83",
+          "Washington, D.C.": "18.17",
+          "Lisbon": "14.27",
+          "New Delhi": "5.33"
+        },
+        "Vegetable Products": {
+          "Belgium": "13.20",
+          "Pretoria": "18.22",
+          "Lisbon": "12.29",
+          "Paris": "11.02",
+          "Ankara": "10.10"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Lisbon": "36.15",
+          "Pretoria": "15.64",
+          "Brasília": "7.24",
+          "Ankara": "5.28",
+          "New Delhi": "3.98"
+        },
+        "Mineral Products": {
+          "Madrid": "25.27",
+          "Seoul": "21.47",
+          "Beijing": "12.98",
+          "Lisbon": "10.25",
+          "Rabat": "9.21"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Lisbon": "19.96",
+          "Beijing": "17.42",
+          "Washington, D.C.": "8.71",
+          "Pretoria": "8.68",
+          "New Delhi": "6.39"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Beijing": "22.86",
+          "Lisbon": "15.92",
+          "Washington, D.C.": "8.75",
+          "Pretoria": "8.46",
+          "Seoul": "5.92"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "32.91",
+          "Lisbon": "32.01",
+          "Pretoria": "8.80",
+          "Washington, D.C.": "7.36",
+          "Abu Dhabi": "2.37"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Lisbon": "34.18",
+          "Beijing": "23.06",
+          "Pretoria": "8.10",
+          "Paris": "3.65",
+          "Brasília": "3.51"
+        },
+        "Textiles and Textile Articles": {
+          "Kuala Lumpur": "25.30",
+          "Beijing": "18.88",
+          "Lisbon": "15.43",
+          "Washington, D.C.": "6.84",
+          "New Delhi": "4.18"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "40.37",
+          "Lisbon": "23.46",
+          "Brasília": "21.85",
+          "Pretoria": "2.87",
+          "Washington, D.C.": "2.11"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Beijing": "40.10",
+          "Lisbon": "33.04",
+          "Madrid": "5.45",
+          "Washington, D.C.": "3.10",
+          "Abu Dhabi": "2.62"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "23.61",
+          "Lisbon": "23.40",
+          "Rabat": "11.94",
+          "Washington, D.C.": "6.07",
+          "Madrid": "5.50"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Belgium": "5.96",
+          "Beijing": "25.51",
+          "Washington, D.C.": "11.46",
+          "Lisbon": "10.16",
+          "Paris": "8.42"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "17.03",
+          "Lisbon": "13.90",
+          "Washington, D.C.": "12.91",
+          "Seoul": "7.68",
+          "London": "7.21"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Beijing": "19.63",
+          "Abu Dhabi": "17.12",
+          "Tokyo": "9.81",
+          "Mexico City": "6.36",
+          "Lisbon": "5.92"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Beijing": "20.41",
+          "Lisbon": "14.63",
+          "Washington, D.C.": "9.93",
+          "London": "5.60",
+          "Pretoria": "4.82"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Beijing": "13.84",
+          "Kuala Lumpur": "8.10",
+          "Lisbon": "8.00",
+          "Brasília": "5.06"
+        }
+      }
+    },
+    "2016": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Mauritania": "6.23",
+          "Brasília": "30.10",
+          "Washington, D.C.": "20.49",
+          "Lisbon": "18.92",
+          "Buenos Aires": "2.90"
+        },
+        "Vegetable Products": {
+          "Belgium": "12.74",
+          "Lisbon": "14.53",
+          "Pretoria": "11.30",
+          "Ankara": "10.70",
+          "Paris": "10.03"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Lisbon": "35.49",
+          "Pretoria": "14.13",
+          "Brasília": "9.38",
+          "Ankara": "9.23",
+          "Rome": "3.94"
+        },
+        "Mineral Products": {
+          "Bern": "29.29",
+          "Beijing": "13.27",
+          "Lisbon": "11.65",
+          "Ankara": "9.66",
+          "Madrid": "9.11"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Belgium": "9.82",
+          "Lisbon": "22.74",
+          "Beijing": "17.03",
+          "Pretoria": "8.38",
+          "Washington, D.C.": "6.14"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Beijing": "18.24",
+          "Lisbon": "17.01",
+          "Pretoria": "9.18",
+          "Washington, D.C.": "6.88",
+          "Seoul": "4.57"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "38.88",
+          "Lisbon": "35.57",
+          "Washington, D.C.": "6.35",
+          "Pretoria": "4.91",
+          "Paris": "1.54"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Lisbon": "40.73",
+          "Beijing": "14.44",
+          "Pretoria": "9.75",
+          "Ankara": "3.84",
+          "Paris": "3.61"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "35.39",
+          "Lisbon": "21.06",
+          "Washington, D.C.": "8.24",
+          "Pretoria": "4.57",
+          "New Delhi": "3.80"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "52.37",
+          "Lisbon": "25.34",
+          "Brasília": "11.93",
+          "Abu Dhabi": "1.57",
+          "Pretoria": "1.51"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Lisbon": "39.39",
+          "Beijing": "29.77",
+          "Pretoria": "4.80",
+          "New Delhi": "4.36",
+          "Abu Dhabi": "3.36"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Belgium": "6.93",
+          "Beijing": "21.64",
+          "Lisbon": "18.10",
+          "Seoul": "14.05",
+          "Riyadh": "5.37"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Beijing": "17.53",
+          "Paris": "11.49",
+          "Lisbon": "9.49",
+          "Washington, D.C.": "9.24",
+          "Mexico City": "8.66"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Washington, D.C.": "21.86",
+          "Lisbon": "12.90",
+          "Beijing": "11.40",
+          "Oslo": "9.70",
+          "London": "7.51"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Cote dIvoire": "9.56",
+          "Washington, D.C.": "15.20",
+          "Beijing": "9.54",
+          "Abu Dhabi": "6.75",
+          "Lisbon": "5.82"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Lisbon": "15.57",
+          "Beijing": "14.83",
+          "Washington, D.C.": "14.29",
+          "London": "6.21",
+          "Oslo": "5.78"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Russian Federation": "11.22",
+          "Beijing": "14.85",
+          "Washington, D.C.": "14.39",
+          "Lisbon": "8.90",
+          "Brasília": "7.30"
+        }
+      }
+    },
+    "2017": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Mauritania": "11.58",
+          "Brasília": "27.97",
+          "Washington, D.C.": "24.63",
+          "Lisbon": "15.05",
+          "New Delhi": "2.94"
+        },
+        "Vegetable Products": {
+          "Belgium": "8.97",
+          "Lisbon": "15.71",
+          "Brasília": "11.95",
+          "Pretoria": "11.47",
+          "Ankara": "9.32"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Lisbon": "27.47",
+          "Pretoria": "14.82",
+          "Ankara": "13.55",
+          "Brasília": "10.88",
+          "Beijing": "5.27"
+        },
+        "Mineral Products": {
+          "Namibia": "6.38",
+          "Lisbon": "25.67",
+          "Beijing": "11.27",
+          "Seoul": "9.37",
+          "Hanoi": "6.06"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Belgium": "7.93",
+          "Lisbon": "25.79",
+          "Beijing": "17.26",
+          "New Delhi": "8.41",
+          "Pretoria": "7.23"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Thailand": "5.27",
+          "Beijing": "25.26",
+          "Lisbon": "19.90",
+          "Pretoria": "7.29",
+          "Seoul": "6.38"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "45.79",
+          "Lisbon": "33.14",
+          "Pretoria": "5.21",
+          "Paris": "1.94",
+          "Washington, D.C.": "1.88"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Lisbon": "32.61",
+          "Beijing": "19.65",
+          "Pretoria": "8.60",
+          "Ankara": "5.21",
+          "Madrid": "5.13"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "44.47",
+          "Lisbon": "16.27",
+          "New Delhi": "4.54",
+          "Abu Dhabi": "3.37",
+          "Washington, D.C.": "3.31"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "64.85",
+          "Lisbon": "18.82",
+          "Brasília": "5.54",
+          "Abu Dhabi": "4.56",
+          "Pretoria": "1.35"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Lisbon": "38.58",
+          "Beijing": "32.66",
+          "Madrid": "4.55",
+          "Pretoria": "4.16",
+          "New Delhi": "4.15"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Lisbon": "20.88",
+          "Riyadh": "20.44",
+          "Beijing": "10.79",
+          "Brasília": "10.02",
+          "Seoul": "6.22"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Beijing": "26.35",
+          "Lisbon": "19.08",
+          "Paris": "11.31",
+          "Pretoria": "5.59",
+          "Washington, D.C.": "4.68"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Lisbon": "18.15",
+          "Beijing": "16.52",
+          "London": "10.11",
+          "Washington, D.C.": "8.18",
+          "Berlin": "6.57"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Belgium": "5.55",
+          "Washington, D.C.": "26.78",
+          "Beijing": "19.80",
+          "Abu Dhabi": "14.78",
+          "Tokyo": "7.63"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Beijing": "21.18",
+          "Lisbon": "19.51",
+          "Washington, D.C.": "8.15",
+          "London": "5.49",
+          "Pretoria": "5.40"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Thailand": "9.20",
+          "Lisbon": "16.78",
+          "Beijing": "10.55",
+          "Brasília": "9.91",
+          "Kuala Lumpur": "7.63"
+        }
+      }
+    },
+    "2018": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Mauritania": "6.81",
+          "Washington, D.C.": "25.43",
+          "Brasília": "23.14",
+          "Lisbon": "12.47",
+          "New Delhi": "3.33"
+        },
+        "Vegetable Products": {
+          "Thailand": "18.04",
+          "Lisbon": "12.99",
+          "Paris": "8.17",
+          "Ankara": "8.02",
+          "Kuala Lumpur": "7.46"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Belgium": "5.53",
+          "Lisbon": "23.35",
+          "Brasília": "21.05",
+          "Ankara": "11.38",
+          "Pretoria": "9.76"
+        },
+        "Mineral Products": {
+          "Lisbon": "25.50",
+          "New Delhi": "10.79",
+          "Abu Dhabi": "9.32",
+          "Rabat": "8.39",
+          "Beijing": "7.93"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Belgium": "8.38",
+          "Lisbon": "22.30",
+          "Beijing": "16.30",
+          "New Delhi": "11.84",
+          "Pretoria": "6.03"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Beijing": "25.75",
+          "Lisbon": "19.08",
+          "New Delhi": "6.82",
+          "Pretoria": "5.42",
+          "Seoul": "5.38"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "39.39",
+          "Lisbon": "35.46",
+          "Pretoria": "6.11",
+          "Abu Dhabi": "2.73",
+          "Washington, D.C.": "2.62"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Lisbon": "36.36",
+          "Beijing": "16.21",
+          "Pretoria": "11.66",
+          "Ankara": "4.82",
+          "Washington, D.C.": "3.85"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "40.10",
+          "Lisbon": "16.41",
+          "New Delhi": "4.63",
+          "Washington, D.C.": "4.23",
+          "Abu Dhabi": "3.56"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "55.51",
+          "Lisbon": "22.39",
+          "Brasília": "10.65",
+          "Pretoria": "1.50",
+          "New Delhi": "1.17"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Belgium": "2.74",
+          "Lisbon": "35.09",
+          "Beijing": "34.78",
+          "New Delhi": "9.08",
+          "Madrid": "3.70"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "22.33",
+          "Riyadh": "19.20",
+          "Lisbon": "17.88",
+          "Seoul": "12.94",
+          "Rabat": "3.78"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Beijing": "40.25",
+          "Lisbon": "17.99",
+          "Paris": "9.20",
+          "Pretoria": "3.89",
+          "Oslo": "3.65"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Belgium": "4.40",
+          "Beijing": "27.13",
+          "Lisbon": "17.02",
+          "Washington, D.C.": "7.42",
+          "Rome": "6.36"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Abu Dhabi": "7.66",
+          "Beijing": "6.81",
+          "Brasília": "4.04",
+          "Tokyo": "2.58"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Beijing": "22.54",
+          "Lisbon": "16.23",
+          "Pretoria": "4.27",
+          "Washington, D.C.": "3.95"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Belarus": "7.23",
+          "Thailand": "4.92",
+          "Beijing": "21.78",
+          "Lisbon": "19.79",
+          "Brasília": "5.13"
+        }
+      }
+    },
+    "2019": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Washington, D.C.": "23.67",
+          "Brasília": "19.76",
+          "Lisbon": "12.61",
+          "Kuala Lumpur": "4.87",
+          "Amsterdam": "4.77"
+        },
+        "Vegetable Products": {
+          "Thailand": "18.70",
+          "Kuala Lumpur": "12.54",
+          "Lisbon": "11.85",
+          "Paris": "11.52",
+          "Ankara": "7.82"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Brasília": "30.51",
+          "Lisbon": "20.76",
+          "Ankara": "9.37",
+          "Pretoria": "7.35",
+          "New Delhi": "5.63"
+        },
+        "Mineral Products": {
+          "Ankara": "32.63",
+          "Lisbon": "15.75",
+          "Rome": "9.37",
+          "Beijing": "5.87",
+          "Brazzaville": "5.77"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Belgium": "7.36",
+          "Lisbon": "20.97",
+          "Beijing": "13.65",
+          "New Delhi": "11.25",
+          "Pretoria": "6.62"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Beijing": "31.29",
+          "Lisbon": "15.59",
+          "New Delhi": "6.32",
+          "Washington, D.C.": "5.86",
+          "Pretoria": "4.82"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "57.67",
+          "Lisbon": "23.76",
+          "Pretoria": "4.07",
+          "Washington, D.C.": "2.75",
+          "Paris": "2.20"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Lisbon": "39.54",
+          "London": "24.33",
+          "Beijing": "6.99",
+          "Washington, D.C.": "5.73",
+          "Pretoria": "4.85"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "42.35",
+          "Lisbon": "15.23",
+          "New Delhi": "4.49",
+          "Pretoria": "4.26",
+          "Washington, D.C.": "3.78"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "54.80",
+          "Lisbon": "15.47",
+          "Brasília": "12.99",
+          "Pretoria": "3.08",
+          "Harare": "2.69"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Belgium": "2.53",
+          "Beijing": "33.08",
+          "Lisbon": "30.80",
+          "New Delhi": "11.81",
+          "Madrid": "2.97"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "27.96",
+          "Lisbon": "21.97",
+          "Riyadh": "14.14",
+          "Madrid": "8.98",
+          "Seoul": "5.63"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Beijing": "30.61",
+          "Lisbon": "17.27",
+          "Paris": "8.60",
+          "Washington, D.C.": "4.59",
+          "Pretoria": "4.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "25.13",
+          "Lisbon": "16.11",
+          "Washington, D.C.": "10.26",
+          "Rome": "7.98",
+          "London": "5.22"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Belgium": "2.32",
+          "Paris": "60.20",
+          "Beijing": "12.26",
+          "Abu Dhabi": "7.75",
+          "Seoul": "2.43"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Beijing": "21.50",
+          "Paris": "17.73",
+          "Lisbon": "15.32",
+          "Washington, D.C.": "5.37",
+          "London": "4.46"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Russian Federation": "6.02",
+          "Belarus": "4.51",
+          "Lisbon": "25.30",
+          "Beijing": "24.46",
+          "Washington, D.C.": "4.94"
+        }
+      }
+    },
+    "2020": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Belgium": "6.26",
+          "Ireland": "3.63",
+          "Brasília": "24.00",
+          "Washington, D.C.": "23.04",
+          "Lisbon": "11.54"
+        },
+        "Vegetable Products": {
+          "Thailand": "20.09",
+          "Kuala Lumpur": "11.66",
+          "Lisbon": "9.28",
+          "Paris": "9.25",
+          "Ankara": "8.17"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Brasília": "31.72",
+          "Lisbon": "20.70",
+          "Ankara": "9.06",
+          "Pretoria": "7.21",
+          "New Delhi": "5.06"
+        },
+        "Mineral Products": {
+          "New Delhi": "17.40",
+          "Lisbon": "12.81",
+          "Brazzaville": "11.08",
+          "Rabat": "9.18",
+          "Washington, D.C.": "8.67"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Belgium": "5.67",
+          "Lisbon": "18.80",
+          "Beijing": "16.11",
+          "New Delhi": "15.27",
+          "Pretoria": "5.56"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Beijing": "32.78",
+          "Lisbon": "14.84",
+          "New Delhi": "6.18",
+          "Washington, D.C.": "4.38",
+          "Pretoria": "4.28"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "39.08",
+          "Lisbon": "31.64",
+          "Pretoria": "9.05",
+          "Washington, D.C.": "4.03",
+          "Paris": "2.21"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "London": "21.73",
+          "Lisbon": "21.32",
+          "Pretoria": "15.14",
+          "Paris": "9.44",
+          "Beijing": "6.81"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "43.29",
+          "Lisbon": "14.26",
+          "Pretoria": "4.02",
+          "Washington, D.C.": "3.98",
+          "New Delhi": "3.61"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "54.78",
+          "Brasília": "15.78",
+          "Lisbon": "15.00",
+          "Pretoria": "4.13",
+          "Washington, D.C.": "1.52"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Beijing": "42.06",
+          "Lisbon": "28.42",
+          "New Delhi": "6.53",
+          "Ankara": "3.01",
+          "Madrid": "2.89"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Lisbon": "31.75",
+          "Beijing": "23.83",
+          "Washington, D.C.": "6.86",
+          "Riyadh": "5.95",
+          "New Delhi": "3.77"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Beijing": "26.14",
+          "Lisbon": "15.94",
+          "Copenhagen": "8.56",
+          "London": "7.60",
+          "Washington, D.C.": "6.09"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "17.39",
+          "Lisbon": "16.62",
+          "Washington, D.C.": "11.02",
+          "London": "9.01",
+          "Rome": "6.23"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Beijing": "28.70",
+          "Washington, D.C.": "10.55",
+          "Brasília": "9.51",
+          "Tokyo": "7.24",
+          "Abu Dhabi": "6.95"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Beijing": "22.37",
+          "Lisbon": "16.01",
+          "Washington, D.C.": "7.52",
+          "London": "6.61",
+          "Pretoria": "5.04"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Russian Federation": "5.56",
+          "Lisbon": "28.94",
+          "Beijing": "21.46",
+          "Washington, D.C.": "6.26",
+          "London": "4.89"
+        }
+      }
+    },
+    "2021": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Belgium": "6.24",
+          "Washington, D.C.": "27.67",
+          "Brasília": "23.90",
+          "Lisbon": "11.24",
+          "Buenos Aires": "3.15"
+        },
+        "Vegetable Products": {
+          "Thailand": "10.23",
+          "Paris": "12.82",
+          "Kuala Lumpur": "10.50",
+          "New Delhi": "9.87",
+          "Ankara": "8.14"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Brasília": "31.82",
+          "Lisbon": "21.77",
+          "Pretoria": "6.59",
+          "Ankara": "6.02",
+          "New Delhi": "5.27"
+        },
+        "Mineral Products": {
+          "Brazzaville": "13.62",
+          "Lisbon": "12.44",
+          "New Delhi": "9.45",
+          "Abu Dhabi": "8.63",
+          "Rabat": "8.21"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Beijing": "27.57",
+          "Lisbon": "15.08",
+          "New Delhi": "6.71",
+          "Riyadh": "5.42",
+          "Pretoria": "4.86"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "42.41",
+          "Lisbon": "29.15",
+          "Pretoria": "4.61",
+          "Rome": "2.81",
+          "Washington, D.C.": "2.75"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "London": "30.56",
+          "Lisbon": "19.33",
+          "Washington, D.C.": "7.73",
+          "Beijing": "6.24",
+          "Pretoria": "5.73"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "69.01",
+          "Lisbon": "7.63",
+          "Pretoria": "2.55",
+          "New Delhi": "2.39",
+          "Ankara": "2.16"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "45.71",
+          "Brasília": "22.30",
+          "Lisbon": "12.81",
+          "Pretoria": "3.99",
+          "New Delhi": "2.37"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Beijing": "56.15",
+          "Lisbon": "19.82",
+          "New Delhi": "5.00",
+          "Ankara": "3.02",
+          "Madrid": "2.53"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Thailand": "14.54",
+          "Lisbon": "27.61",
+          "Beijing": "18.32",
+          "Riyadh": "6.87",
+          "New Delhi": "4.35"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Beijing": "21.15",
+          "Lisbon": "12.99",
+          "Oslo": "10.44",
+          "Rome": "8.78",
+          "London": "7.26"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "18.68",
+          "Lisbon": "16.38",
+          "Rome": "8.71",
+          "London": "7.73",
+          "Washington, D.C.": "7.55"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Beijing": "19.92",
+          "Brasília": "17.21",
+          "Abu Dhabi": "13.70",
+          "Tokyo": "9.30",
+          "Ottawa": "5.53"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Beijing": "22.46",
+          "Lisbon": "14.78",
+          "London": "6.81",
+          "Rome": "5.02",
+          "Washington, D.C.": "4.90"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Lisbon": "27.87",
+          "Beijing": "19.60",
+          "Washington, D.C.": "6.86",
+          "London": "6.77",
+          "Paris": "5.44"
+        }
+      }
+    },
+    "2022": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Washington, D.C.": "26.86",
+          "Brasília": "26.60",
+          "Lisbon": "9.86",
+          "Amsterdam": "4.29",
+          "Buenos Aires": "2.99"
+        },
+        "Vegetable Products": {
+          "Jakarta": "14.54",
+          "New Delhi": "14.54",
+          "Kuala Lumpur": "13.44",
+          "Buenos Aires": "8.85",
+          "Lisbon": "6.45"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Brasília": "30.87",
+          "Lisbon": "22.50",
+          "Pretoria": "6.45",
+          "New Delhi": "4.82",
+          "Ankara": "4.69"
+        },
+        "Mineral Products": {
+          "Rabat": "19.57",
+          "Berlin": "11.70",
+          "New Delhi": "9.63",
+          "Lisbon": "6.81",
+          "Brazzaville": "6.34"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Belgium": "8.49",
+          "Beijing": "18.08",
+          "Lisbon": "14.15",
+          "New Delhi": "12.28",
+          "Washington, D.C.": "6.30"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Beijing": "33.04",
+          "Lisbon": "11.97",
+          "New Delhi": "7.72",
+          "Seoul": "6.15",
+          "Washington, D.C.": "5.07"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "41.32",
+          "Lisbon": "22.11",
+          "Madrid": "13.43",
+          "New Delhi": "4.50",
+          "Pretoria": "2.87"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "London": "35.33",
+          "Lisbon": "19.75",
+          "Madrid": "9.08",
+          "Beijing": "8.44",
+          "New Delhi": "4.15"
+        },
+        "Textiles and Textile Articles": {
+          "Namibia": "3.67",
+          "Beijing": "56.39",
+          "Lisbon": "8.72",
+          "Pretoria": "3.52",
+          "Ankara": "2.92"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "59.81",
+          "Brasília": "15.57",
+          "Lisbon": "10.64",
+          "Pretoria": "2.25",
+          "Ankara": "1.79"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Beijing": "54.14",
+          "Lisbon": "19.14",
+          "New Delhi": "6.50",
+          "Abu Dhabi": "3.41",
+          "Madrid": "2.24"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Thailand": "15.41",
+          "Lisbon": "24.06",
+          "Beijing": "16.47",
+          "Rabat": "6.95",
+          "Stockholm": "5.97"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Beijing": "30.32",
+          "Lisbon": "15.56",
+          "London": "8.98",
+          "Rome": "6.10",
+          "Paris": "5.80"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "24.05",
+          "Lisbon": "17.29",
+          "Washington, D.C.": "9.39",
+          "London": "6.50",
+          "Rome": "4.74"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Beijing": "26.74",
+          "Abu Dhabi": "20.62",
+          "Tokyo": "11.17",
+          "Lisbon": "5.08",
+          "Brasília": "4.76"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Beijing": "26.35",
+          "Lisbon": "14.57",
+          "London": "5.90",
+          "Washington, D.C.": "5.75",
+          "Abu Dhabi": "5.38"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Belarus": "6.63",
+          "Lisbon": "24.42",
+          "Beijing": "23.07",
+          "Washington, D.C.": "8.00",
+          "London": "4.44"
+        }
+      }
     }
+  }
 }

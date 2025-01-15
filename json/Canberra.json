@@ -1,3 +1,4286 @@
 {
-    "Main Partners": {}
+  "Main Partners": {
+    "1988": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "4.68",
+          "Wellington": "42.32",
+          "London": "7.17",
+          "Ottawa": "3.76",
+          "Washington, D.C.": "3.33"
+        },
+        "Vegetable Products": {
+          "Papua New Guinea": "9.20",
+          "Washington, D.C.": "17.05",
+          "Wellington": "9.51",
+          "Kuala Lumpur": "8.13",
+          "Jakarta": "7.75"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "6.44",
+          "Washington, D.C.": "18.51",
+          "London": "11.35",
+          "Wellington": "8.04",
+          "Paris": "5.69"
+        },
+        "Mineral Products": {
+          "Nauru": "24.43",
+          "Ottawa": "24.38",
+          "Washington, D.C.": "10.19",
+          "Tokyo": "7.58",
+          "Rabat": "6.64"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Special Categories": "5.69",
+          "Washington, D.C.": "27.28",
+          "London": "13.12",
+          "Tokyo": "9.58",
+          "Berlin": "9.56"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Other Asia, nes": "7.00",
+          "Washington, D.C.": "20.59",
+          "Tokyo": "16.85",
+          "London": "7.25",
+          "Berlin": "6.91"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Other Asia, nes": "10.15",
+          "Wellington": "16.65",
+          "Beijing": "15.64",
+          "Seoul": "8.62",
+          "Rome": "8.40"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "18.78",
+          "Wellington": "13.23",
+          "Ottawa": "10.94",
+          "London": "10.52",
+          "Helsinki": "7.17"
+        },
+        "Textiles and Textile Articles": {
+          "Other Asia, nes": "9.74",
+          "Beijing": "14.77",
+          "Wellington": "9.38",
+          "Seoul": "8.84",
+          "Tokyo": "8.56"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Other Asia, nes": "24.73",
+          "Seoul": "17.53",
+          "Beijing": "14.56",
+          "Rome": "10.24",
+          "Hong Kong": "3.93"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Rome": "14.68",
+          "Tokyo": "14.51",
+          "Washington, D.C.": "8.55",
+          "London": "7.18",
+          "Berlin": "5.88"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Nauru": "12.03",
+          "Washington, D.C.": "13.31",
+          "Ottawa": "12.47",
+          "Tokyo": "11.61",
+          "Wellington": "8.38"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Special Categories": "6.70",
+          "Tokyo": "25.32",
+          "Washington, D.C.": "10.23",
+          "London": "8.30",
+          "Berlin": "6.86"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Other Asia, nes": "4.57",
+          "Washington, D.C.": "26.42",
+          "Tokyo": "25.96",
+          "Berlin": "9.07",
+          "London": "6.79"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "47.66",
+          "Washington, D.C.": "23.20",
+          "Berlin": "7.37",
+          "London": "5.10",
+          "Paris": "3.77"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Other Asia, nes": "4.75",
+          "Tokyo": "23.19",
+          "Washington, D.C.": "21.21",
+          "London": "7.78",
+          "Berlin": "7.60"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Other Asia, nes": "5.25",
+          "Washington, D.C.": "33.83",
+          "Tokyo": "14.65",
+          "London": "9.88",
+          "Berlin": "6.11"
+        }
+      }
+    },
+    "1989": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "6.51",
+          "Wellington": "40.90",
+          "Ottawa": "5.77",
+          "London": "4.90",
+          "Washington, D.C.": "3.59"
+        },
+        "Vegetable Products": {
+          "Papua New Guinea": "7.53",
+          "Washington, D.C.": "15.52",
+          "Wellington": "9.82",
+          "Jakarta": "7.67",
+          "Kuala Lumpur": "6.91"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.57",
+          "Washington, D.C.": "18.09",
+          "London": "10.00",
+          "Wellington": "7.32",
+          "Paris": "5.84"
+        },
+        "Mineral Products": {
+          "Nauru": "17.33",
+          "Ottawa": "16.53",
+          "Washington, D.C.": "13.54",
+          "Tokyo": "10.86",
+          "New Delhi": "4.73"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Special Categories": "11.16",
+          "Washington, D.C.": "25.49",
+          "London": "12.60",
+          "Berlin": "9.45",
+          "Tokyo": "8.35"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Special Categories": "7.02",
+          "Other Asia, nes": "6.78",
+          "Washington, D.C.": "21.33",
+          "Tokyo": "16.57",
+          "London": "6.93"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Other Asia, nes": "9.15",
+          "Beijing": "21.13",
+          "Wellington": "14.93",
+          "Rome": "8.23",
+          "Seoul": "7.65"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "18.65",
+          "Wellington": "13.24",
+          "Ottawa": "10.87",
+          "London": "10.50",
+          "Helsinki": "5.97"
+        },
+        "Textiles and Textile Articles": {
+          "Other Asia, nes": "8.96",
+          "Beijing": "14.75",
+          "Seoul": "9.29",
+          "Tokyo": "7.84",
+          "Wellington": "7.51"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Other Asia, nes": "22.48",
+          "Beijing": "18.67",
+          "Seoul": "15.01",
+          "Rome": "9.39",
+          "Wellington": "3.45"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "6.85",
+          "Rome": "16.22",
+          "Tokyo": "8.49",
+          "Washington, D.C.": "7.75",
+          "London": "6.59"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Nauru": "8.06",
+          "Washington, D.C.": "12.16",
+          "Ottawa": "12.09",
+          "Tokyo": "9.13",
+          "Wellington": "8.77"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "8.75",
+          "Tokyo": "18.19",
+          "Washington, D.C.": "11.29",
+          "London": "8.10",
+          "Berlin": "6.39"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Other Asia, nes": "4.65",
+          "Washington, D.C.": "28.49",
+          "Tokyo": "24.57",
+          "Berlin": "8.19",
+          "London": "6.06"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "48.27",
+          "Washington, D.C.": "26.42",
+          "Berlin": "6.39",
+          "London": "4.52",
+          "Paris": "3.09"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Other Asia, nes": "4.62",
+          "Tokyo": "23.39",
+          "Washington, D.C.": "22.92",
+          "London": "7.12",
+          "Berlin": "7.08"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Other Asia, nes": "6.26",
+          "Washington, D.C.": "32.09",
+          "Tokyo": "15.34",
+          "London": "9.41",
+          "Berlin": "6.64"
+        }
+      }
+    },
+    "1990": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "6.22",
+          "Wellington": "38.84",
+          "Ottawa": "6.31",
+          "London": "3.84",
+          "Kuala Lumpur": "3.47"
+        },
+        "Vegetable Products": {
+          "Papua New Guinea": "5.46",
+          "Washington, D.C.": "18.22",
+          "Wellington": "10.37",
+          "Beijing": "5.71",
+          "Jakarta": "5.51"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.32",
+          "Washington, D.C.": "20.53",
+          "London": "10.02",
+          "Wellington": "7.76",
+          "Paris": "5.92"
+        },
+        "Mineral Products": {
+          "Nauru": "15.86",
+          "Ottawa": "13.87",
+          "Washington, D.C.": "9.47",
+          "Tokyo": "8.75",
+          "New Delhi": "7.32"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Special Categories": "10.57",
+          "Washington, D.C.": "25.46",
+          "London": "12.76",
+          "Berlin": "9.79",
+          "Tokyo": "7.50"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Other Asia, nes": "5.94",
+          "Washington, D.C.": "22.34",
+          "Tokyo": "17.08",
+          "London": "7.71",
+          "Berlin": "6.87"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Other Asia, nes": "7.54",
+          "Beijing": "23.78",
+          "Wellington": "17.62",
+          "Rome": "7.94",
+          "New Delhi": "7.02"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "20.52",
+          "Wellington": "14.92",
+          "London": "12.41",
+          "Ottawa": "8.36",
+          "Helsinki": "5.44"
+        },
+        "Textiles and Textile Articles": {
+          "Other Asia, nes": "8.13",
+          "Beijing": "16.54",
+          "Seoul": "9.21",
+          "Wellington": "7.73",
+          "Washington, D.C.": "7.47"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Other Asia, nes": "16.48",
+          "Beijing": "23.15",
+          "Seoul": "16.95",
+          "Rome": "9.71",
+          "Wellington": "5.49"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "18.85",
+          "Rome": "13.04",
+          "Washington, D.C.": "7.21",
+          "Tokyo": "6.95",
+          "London": "5.92"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Nauru": "6.90",
+          "Washington, D.C.": "10.39",
+          "Wellington": "9.08",
+          "Ottawa": "7.75",
+          "Tokyo": "7.43"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "7.31",
+          "Tokyo": "18.10",
+          "Washington, D.C.": "12.18",
+          "London": "8.49",
+          "Berlin": "8.00"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Other Asia, nes": "4.28",
+          "Washington, D.C.": "29.10",
+          "Tokyo": "22.72",
+          "Berlin": "9.05",
+          "London": "6.45"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "44.81",
+          "Washington, D.C.": "33.59",
+          "Berlin": "5.78",
+          "London": "4.37",
+          "Stockholm": "1.98"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Other Asia, nes": "4.07",
+          "Washington, D.C.": "25.06",
+          "Tokyo": "21.72",
+          "Berlin": "7.43",
+          "London": "7.41"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Other Asia, nes": "6.08",
+          "Washington, D.C.": "30.89",
+          "Tokyo": "15.36",
+          "London": "9.48",
+          "Berlin": "7.12"
+        }
+      }
+    },
+    "1991": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "8.13",
+          "Wellington": "37.57",
+          "Ottawa": "4.52",
+          "Kuala Lumpur": "3.91",
+          "Santiago": "3.28"
+        },
+        "Vegetable Products": {
+          "Papua New Guinea": "5.12",
+          "Washington, D.C.": "17.73",
+          "Wellington": "10.73",
+          "Jakarta": "6.20",
+          "Kuala Lumpur": "5.48"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "8.34",
+          "Washington, D.C.": "22.14",
+          "London": "9.27",
+          "Wellington": "8.39",
+          "Paris": "4.97"
+        },
+        "Mineral Products": {
+          "New Caledonia": "9.99",
+          "Washington, D.C.": "16.43",
+          "Tokyo": "10.85",
+          "New Delhi": "7.97",
+          "Ottawa": "7.54"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Special Categories": "12.08",
+          "Washington, D.C.": "25.80",
+          "London": "11.36",
+          "Berlin": "9.41",
+          "Tokyo": "7.64"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Other Asia, nes": "6.13",
+          "Washington, D.C.": "21.51",
+          "Tokyo": "16.50",
+          "Berlin": "6.73",
+          "London": "6.37"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Other Asia, nes": "6.57",
+          "Beijing": "29.02",
+          "Wellington": "17.72",
+          "Rome": "7.74",
+          "New Delhi": "5.85"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "22.74",
+          "Wellington": "15.61",
+          "London": "12.01",
+          "Ottawa": "5.64",
+          "Berlin": "5.39"
+        },
+        "Textiles and Textile Articles": {
+          "Other Asia, nes": "8.60",
+          "Beijing": "21.68",
+          "Seoul": "7.47",
+          "Wellington": "7.15",
+          "Washington, D.C.": "6.98"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Other Asia, nes": "13.38",
+          "Beijing": "28.51",
+          "Seoul": "16.96",
+          "Rome": "7.70",
+          "Jakarta": "4.73"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "37.28",
+          "Rome": "8.49",
+          "Washington, D.C.": "5.50",
+          "London": "5.50",
+          "Wellington": "5.27"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Washington, D.C.": "13.50",
+          "Wellington": "11.81",
+          "London": "8.22",
+          "Tokyo": "7.80",
+          "Berlin": "5.26"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "7.26",
+          "Tokyo": "16.06",
+          "Washington, D.C.": "14.00",
+          "Wellington": "8.40",
+          "London": "7.92"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Other Asia, nes": "4.76",
+          "Washington, D.C.": "30.38",
+          "Tokyo": "20.90",
+          "Berlin": "9.26",
+          "London": "5.76"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "42.38",
+          "Washington, D.C.": "34.82",
+          "London": "4.23",
+          "Berlin": "3.88",
+          "Paris": "3.08"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Other Asia, nes": "4.30",
+          "Washington, D.C.": "25.92",
+          "Tokyo": "20.27",
+          "Berlin": "6.95",
+          "London": "6.73"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Other Asia, nes": "7.04",
+          "Washington, D.C.": "28.20",
+          "Tokyo": "17.44",
+          "London": "7.49",
+          "Berlin": "6.64"
+        }
+      }
+    },
+    "1992": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "8.05",
+          "Wellington": "38.16",
+          "Washington, D.C.": "5.03",
+          "Ottawa": "3.60",
+          "Hanoi": "3.26"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "18.04",
+          "Wellington": "9.94",
+          "Kuala Lumpur": "6.44",
+          "Jakarta": "5.52",
+          "Madrid": "4.99"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "8.30",
+          "Washington, D.C.": "20.51",
+          "London": "10.21",
+          "Wellington": "10.20",
+          "Amsterdam": "5.10"
+        },
+        "Mineral Products": {
+          "New Caledonia": "11.51",
+          "Nauru": "11.22",
+          "Washington, D.C.": "18.22",
+          "Tokyo": "7.50",
+          "Ottawa": "6.91"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Special Categories": "10.60",
+          "Washington, D.C.": "23.54",
+          "London": "12.58",
+          "Berlin": "9.03",
+          "Tokyo": "7.27"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Other Asia, nes": "6.39",
+          "Washington, D.C.": "21.67",
+          "Tokyo": "15.84",
+          "Berlin": "7.23",
+          "London": "6.25"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Other Asia, nes": "6.28",
+          "Beijing": "30.91",
+          "Wellington": "16.66",
+          "Rome": "8.75",
+          "New Delhi": "5.97"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "21.81",
+          "Wellington": "15.16",
+          "London": "10.83",
+          "Helsinki": "5.96",
+          "Ottawa": "5.70"
+        },
+        "Textiles and Textile Articles": {
+          "Other Asia, nes": "6.60",
+          "Beijing": "24.50",
+          "Wellington": "7.75",
+          "Washington, D.C.": "7.23",
+          "Tokyo": "6.58"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Other Asia, nes": "9.49",
+          "Beijing": "36.48",
+          "Seoul": "14.50",
+          "Rome": "7.10",
+          "Jakarta": "5.69"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "38.01",
+          "Wellington": "8.11",
+          "Rome": "6.96",
+          "London": "5.20",
+          "Washington, D.C.": "5.14"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Washington, D.C.": "14.49",
+          "Wellington": "10.77",
+          "Tokyo": "7.78",
+          "London": "6.67",
+          "Berlin": "5.24"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "8.09",
+          "Tokyo": "15.53",
+          "Washington, D.C.": "12.80",
+          "Wellington": "8.83",
+          "Berlin": "7.19"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Other Asia, nes": "5.19",
+          "Washington, D.C.": "29.84",
+          "Tokyo": "19.97",
+          "Berlin": "7.17",
+          "London": "5.55"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "52.65",
+          "Washington, D.C.": "28.38",
+          "Berlin": "5.71",
+          "London": "3.02",
+          "Stockholm": "2.04"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "24.11",
+          "Tokyo": "20.97",
+          "Berlin": "6.57",
+          "London": "6.43",
+          "Beijing": "4.76"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Other Asia, nes": "7.05",
+          "Washington, D.C.": "27.44",
+          "Tokyo": "17.28",
+          "Beijing": "7.17",
+          "London": "6.95"
+        }
+      }
+    },
+    "1993": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "8.81",
+          "Wellington": "37.99",
+          "Washington, D.C.": "5.39",
+          "Kuala Lumpur": "3.53",
+          "Ottawa": "3.39"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "18.71",
+          "Wellington": "8.24",
+          "Kuala Lumpur": "7.50",
+          "New Delhi": "5.27",
+          "Jakarta": "5.02"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "8.84",
+          "Washington, D.C.": "22.56",
+          "Wellington": "9.86",
+          "London": "9.22",
+          "Amsterdam": "4.72"
+        },
+        "Mineral Products": {
+          "New Caledonia": "13.28",
+          "Nauru": "6.01",
+          "Washington, D.C.": "19.55",
+          "Tokyo": "10.43",
+          "New Delhi": "7.16"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Special Categories": "7.27",
+          "Washington, D.C.": "25.67",
+          "London": "12.42",
+          "Berlin": "8.69",
+          "Tokyo": "7.47"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Other Asia, nes": "5.95",
+          "Washington, D.C.": "21.03",
+          "Tokyo": "15.70",
+          "Berlin": "6.87",
+          "London": "6.32"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Other Asia, nes": "5.38",
+          "Beijing": "33.49",
+          "Wellington": "17.95",
+          "Rome": "7.71",
+          "New Delhi": "6.44"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "22.52",
+          "Wellington": "16.35",
+          "London": "10.35",
+          "Helsinki": "6.56",
+          "Ottawa": "5.97"
+        },
+        "Textiles and Textile Articles": {
+          "Other Asia, nes": "6.15",
+          "Beijing": "27.33",
+          "Wellington": "7.93",
+          "Washington, D.C.": "7.49",
+          "Seoul": "6.11"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Other Asia, nes": "7.14",
+          "Beijing": "42.78",
+          "Seoul": "9.21",
+          "Rome": "6.40",
+          "Jakarta": "5.54"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "32.99",
+          "Wellington": "10.68",
+          "Rome": "7.14",
+          "Washington, D.C.": "5.65",
+          "Tokyo": "4.41"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Washington, D.C.": "13.94",
+          "Wellington": "13.41",
+          "Tokyo": "8.90",
+          "Berlin": "6.54",
+          "London": "4.81"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "7.54",
+          "Tokyo": "17.09",
+          "Washington, D.C.": "13.92",
+          "Wellington": "9.37",
+          "Berlin": "6.85"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Other Asia, nes": "5.36",
+          "Washington, D.C.": "30.06",
+          "Tokyo": "19.89",
+          "Berlin": "6.56",
+          "London": "5.50"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "58.30",
+          "Washington, D.C.": "16.69",
+          "Berlin": "7.74",
+          "Seoul": "6.03",
+          "London": "2.75"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "22.80",
+          "Tokyo": "22.10",
+          "Berlin": "6.54",
+          "London": "6.16",
+          "Beijing": "5.27"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Washington, D.C.": "27.40",
+          "Tokyo": "17.97",
+          "Beijing": "8.32",
+          "Berlin": "6.56",
+          "London": "6.28"
+        }
+      }
+    },
+    "1994": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "11.73",
+          "Wellington": "38.04",
+          "Washington, D.C.": "3.93",
+          "Hanoi": "3.29",
+          "Kuala Lumpur": "3.22"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "20.21",
+          "Wellington": "7.65",
+          "Kuala Lumpur": "7.47",
+          "Jakarta": "5.56",
+          "New Delhi": "5.31"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "8.40",
+          "Washington, D.C.": "21.46",
+          "Wellington": "10.79",
+          "London": "9.00",
+          "Rome": "4.66"
+        },
+        "Mineral Products": {
+          "New Caledonia": "12.28",
+          "Washington, D.C.": "13.90",
+          "Tokyo": "11.96",
+          "Ottawa": "9.79",
+          "Jakarta": "6.15"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "25.77",
+          "London": "12.16",
+          "Berlin": "8.86",
+          "Tokyo": "7.20",
+          "Paris": "5.89"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Washington, D.C.": "20.37",
+          "Tokyo": "16.10",
+          "Berlin": "6.16",
+          "London": "5.91",
+          "Wellington": "5.63"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "33.86",
+          "Wellington": "15.40",
+          "Rome": "9.77",
+          "New Delhi": "7.29",
+          "Paris": "5.13"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "20.44",
+          "Wellington": "17.53",
+          "London": "10.23",
+          "Helsinki": "6.88",
+          "Ottawa": "5.14"
+        },
+        "Textiles and Textile Articles": {
+          "Other Asia, nes": "6.03",
+          "Beijing": "27.68",
+          "Wellington": "7.93",
+          "Washington, D.C.": "7.49",
+          "Seoul": "6.59"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "46.62",
+          "Rome": "8.19",
+          "Jakarta": "6.97",
+          "Seoul": "5.06",
+          "Wellington": "4.71"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "24.12",
+          "Wellington": "11.00",
+          "Rome": "9.69",
+          "Washington, D.C.": "6.19",
+          "Tokyo": "4.43"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Wellington": "12.57",
+          "Washington, D.C.": "11.82",
+          "Tokyo": "6.77",
+          "Berlin": "6.71",
+          "Bern": "5.57"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "7.14",
+          "Tokyo": "15.69",
+          "Washington, D.C.": "14.39",
+          "Wellington": "8.97",
+          "Berlin": "7.35"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Washington, D.C.": "28.94",
+          "Tokyo": "17.77",
+          "Berlin": "6.96",
+          "London": "5.74"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "52.34",
+          "Washington, D.C.": "21.16",
+          "Berlin": "7.64",
+          "London": "4.28",
+          "Seoul": "3.05"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "23.33",
+          "Tokyo": "20.21",
+          "Berlin": "6.65",
+          "London": "6.42",
+          "Beijing": "5.48"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Washington, D.C.": "29.00",
+          "Tokyo": "16.64",
+          "Beijing": "8.24",
+          "Berlin": "6.13",
+          "London": "6.11"
+        }
+      }
+    },
+    "1995": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "12.49",
+          "Wellington": "37.59",
+          "Washington, D.C.": "5.47",
+          "Ottawa": "4.50",
+          "Hanoi": "2.68"
+        },
+        "Vegetable Products": {
+          "Papua New Guinea": "5.35",
+          "Washington, D.C.": "21.82",
+          "Kuala Lumpur": "7.68",
+          "Wellington": "7.08",
+          "New Delhi": "5.06"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "8.68",
+          "Washington, D.C.": "21.70",
+          "Wellington": "10.98",
+          "London": "8.26",
+          "Rome": "5.37"
+        },
+        "Mineral Products": {
+          "New Caledonia": "14.73",
+          "Washington, D.C.": "14.31",
+          "Ottawa": "11.08",
+          "Tokyo": "9.97",
+          "Jakarta": "8.30"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "8.68",
+          "Washington, D.C.": "24.86",
+          "London": "11.53",
+          "Berlin": "8.59",
+          "Tokyo": "6.11"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "6.05",
+          "Washington, D.C.": "19.55",
+          "Tokyo": "14.93",
+          "Berlin": "6.01",
+          "Wellington": "5.72"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "35.30",
+          "Wellington": "15.70",
+          "Rome": "10.24",
+          "New Delhi": "6.72",
+          "Paris": "5.86"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "19.66",
+          "Wellington": "16.11",
+          "London": "9.08",
+          "Helsinki": "8.16",
+          "Ottawa": "5.62"
+        },
+        "Textiles and Textile Articles": {
+          "Other Asia, nes": "5.68",
+          "Beijing": "27.88",
+          "Wellington": "8.14",
+          "Washington, D.C.": "7.24",
+          "Seoul": "6.50"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "46.13",
+          "Rome": "10.99",
+          "Jakarta": "6.05",
+          "Wellington": "4.42",
+          "Seoul": "3.80"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "19.21",
+          "Wellington": "12.83",
+          "Rome": "10.91",
+          "Washington, D.C.": "6.38",
+          "London": "4.73"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Washington, D.C.": "13.62",
+          "Wellington": "12.47",
+          "Berlin": "6.54",
+          "Ottawa": "5.32",
+          "Tokyo": "5.27"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "6.19",
+          "Tokyo": "16.32",
+          "Washington, D.C.": "13.45",
+          "Berlin": "7.85",
+          "Wellington": "7.77"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Washington, D.C.": "28.73",
+          "Tokyo": "14.68",
+          "Berlin": "8.51",
+          "London": "5.94"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "44.48",
+          "Washington, D.C.": "20.03",
+          "Berlin": "8.25",
+          "London": "5.28",
+          "Seoul": "4.97"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "22.96",
+          "Tokyo": "17.48",
+          "Berlin": "7.43",
+          "London": "6.49",
+          "Beijing": "5.50"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Washington, D.C.": "29.04",
+          "Tokyo": "15.12",
+          "Beijing": "9.20",
+          "Berlin": "6.39",
+          "London": "5.84"
+        }
+      }
+    },
+    "1996": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "12.68",
+          "Wellington": "39.30",
+          "Washington, D.C.": "6.23",
+          "Ottawa": "5.06",
+          "Copenhagen": "2.62"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "18.68",
+          "Wellington": "8.01",
+          "Kuala Lumpur": "7.88",
+          "Madrid": "5.34",
+          "New Delhi": "4.67"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "8.55",
+          "Washington, D.C.": "21.96",
+          "Wellington": "10.49",
+          "London": "9.11",
+          "Rome": "5.03"
+        },
+        "Mineral Products": {
+          "New Caledonia": "15.06",
+          "Jordan": "6.15",
+          "Washington, D.C.": "12.20",
+          "Tokyo": "9.55",
+          "Ottawa": "7.42"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "6.69",
+          "Washington, D.C.": "27.59",
+          "London": "12.02",
+          "Berlin": "8.10",
+          "Tokyo": "5.28"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "5.63",
+          "Washington, D.C.": "20.43",
+          "Tokyo": "14.67",
+          "Berlin": "6.13",
+          "Wellington": "5.46"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "36.12",
+          "Wellington": "14.35",
+          "Rome": "10.41",
+          "New Delhi": "7.33",
+          "Paris": "5.00"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "20.97",
+          "Wellington": "16.57",
+          "London": "9.60",
+          "Helsinki": "6.27",
+          "Ottawa": "6.18"
+        },
+        "Textiles and Textile Articles": {
+          "Other Asia, nes": "5.45",
+          "Beijing": "28.91",
+          "Wellington": "7.80",
+          "Washington, D.C.": "6.81",
+          "Seoul": "5.50"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "47.26",
+          "Rome": "12.64",
+          "Jakarta": "6.11",
+          "Wellington": "4.42",
+          "New Delhi": "3.26"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "16.25",
+          "Wellington": "12.41",
+          "Rome": "11.78",
+          "Washington, D.C.": "6.90",
+          "London": "5.08"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Wellington": "13.17",
+          "Washington, D.C.": "12.76",
+          "Berlin": "6.29",
+          "Santiago": "6.03",
+          "Pretoria": "5.73"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "6.59",
+          "Washington, D.C.": "15.18",
+          "Tokyo": "13.17",
+          "Wellington": "8.23",
+          "Berlin": "6.93"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Washington, D.C.": "28.63",
+          "Tokyo": "12.97",
+          "Berlin": "7.69",
+          "London": "6.61"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "36.23",
+          "Washington, D.C.": "28.14",
+          "Berlin": "7.07",
+          "Seoul": "6.98",
+          "London": "5.99"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "24.93",
+          "Tokyo": "14.82",
+          "London": "6.95",
+          "Berlin": "6.69",
+          "Beijing": "5.81"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Washington, D.C.": "29.63",
+          "Tokyo": "13.24",
+          "Beijing": "10.03",
+          "London": "6.38",
+          "Berlin": "5.78"
+        }
+      }
+    },
+    "1997": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "13.17",
+          "Wellington": "37.39",
+          "Washington, D.C.": "5.77",
+          "Ottawa": "5.24",
+          "Pretoria": "3.32"
+        },
+        "Vegetable Products": {
+          "Papua New Guinea": "5.87",
+          "Washington, D.C.": "17.46",
+          "Kuala Lumpur": "7.78",
+          "Wellington": "7.44",
+          "Madrid": "5.16"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "9.09",
+          "Washington, D.C.": "21.01",
+          "Wellington": "9.73",
+          "London": "8.94",
+          "Rome": "4.80"
+        },
+        "Mineral Products": {
+          "New Caledonia": "11.73",
+          "Washington, D.C.": "10.89",
+          "Ottawa": "10.17",
+          "New Delhi": "9.13",
+          "Tokyo": "8.57"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "5.64",
+          "Washington, D.C.": "27.55",
+          "London": "12.83",
+          "Berlin": "7.80",
+          "Tokyo": "5.18"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "5.94",
+          "Washington, D.C.": "20.71",
+          "Tokyo": "13.72",
+          "Berlin": "5.87",
+          "London": "5.61"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "39.14",
+          "Wellington": "11.06",
+          "Rome": "8.54",
+          "New Delhi": "7.60",
+          "Paris": "4.99"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "21.24",
+          "Wellington": "14.65",
+          "London": "9.93",
+          "Helsinki": "6.51",
+          "Jakarta": "5.49"
+        },
+        "Textiles and Textile Articles": {
+          "Other Asia, nes": "5.06",
+          "Beijing": "29.84",
+          "Wellington": "7.50",
+          "Washington, D.C.": "6.88",
+          "Seoul": "5.47"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "46.93",
+          "Rome": "12.11",
+          "Jakarta": "5.89",
+          "Wellington": "4.34",
+          "Washington, D.C.": "3.36"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "9.51",
+          "Rome": "10.34",
+          "Wellington": "10.06",
+          "Washington, D.C.": "8.05",
+          "Seoul": "7.53"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Washington, D.C.": "12.90",
+          "Wellington": "12.27",
+          "Berlin": "6.49",
+          "London": "5.97",
+          "Ottawa": "5.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "7.49",
+          "Washington, D.C.": "14.80",
+          "Tokyo": "11.18",
+          "Wellington": "7.86",
+          "London": "6.77"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Washington, D.C.": "27.88",
+          "Tokyo": "12.98",
+          "London": "6.52",
+          "Berlin": "6.41"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "41.90",
+          "Washington, D.C.": "22.11",
+          "Seoul": "8.14",
+          "Berlin": "7.92",
+          "London": "4.96"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "23.54",
+          "Tokyo": "15.68",
+          "London": "6.89",
+          "Beijing": "6.32",
+          "Berlin": "6.16"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Washington, D.C.": "29.04",
+          "Tokyo": "13.24",
+          "Beijing": "11.00",
+          "London": "6.43",
+          "Berlin": "5.52"
+        }
+      }
+    },
+    "1998": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "13.22",
+          "Wellington": "38.27",
+          "Washington, D.C.": "6.34",
+          "Pretoria": "3.92",
+          "Ottawa": "3.38"
+        },
+        "Vegetable Products": {
+          "Papua New Guinea": "5.13",
+          "Washington, D.C.": "15.43",
+          "Kuala Lumpur": "8.48",
+          "Wellington": "7.46",
+          "Jakarta": "4.49"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Ireland": "11.08",
+          "Thailand": "8.96",
+          "Washington, D.C.": "15.26",
+          "Wellington": "10.08",
+          "London": "7.56"
+        },
+        "Mineral Products": {
+          "New Caledonia": "11.66",
+          "Jordan": "9.69",
+          "Ottawa": "12.28",
+          "Washington, D.C.": "8.72",
+          "Tokyo": "7.16"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "5.29",
+          "Washington, D.C.": "28.27",
+          "London": "12.56",
+          "Berlin": "8.52",
+          "Tokyo": "4.72"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Washington, D.C.": "20.07",
+          "Tokyo": "13.08",
+          "Beijing": "6.24",
+          "Berlin": "5.73",
+          "London": "5.58"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "42.73",
+          "Rome": "8.53",
+          "New Delhi": "7.45",
+          "Wellington": "7.04",
+          "Paris": "4.48"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "19.32",
+          "Wellington": "15.64",
+          "London": "10.01",
+          "Jakarta": "7.00",
+          "Helsinki": "6.52"
+        },
+        "Textiles and Textile Articles": {
+          "Other Asia, nes": "4.81",
+          "Beijing": "32.31",
+          "Wellington": "6.68",
+          "Washington, D.C.": "6.65",
+          "Seoul": "4.85"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "48.96",
+          "Rome": "12.86",
+          "Jakarta": "5.49",
+          "Wellington": "3.31",
+          "New Delhi": "2.85"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "4.21",
+          "Seoul": "20.91",
+          "Jakarta": "19.46",
+          "Washington, D.C.": "18.42",
+          "Rome": "5.43"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Washington, D.C.": "18.00",
+          "Wellington": "10.29",
+          "Berlin": "7.05",
+          "London": "6.49",
+          "Ottawa": "5.22"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "7.16",
+          "Washington, D.C.": "14.22",
+          "Tokyo": "11.99",
+          "Beijing": "7.50",
+          "Berlin": "7.30"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Washington, D.C.": "26.62",
+          "Tokyo": "12.70",
+          "Berlin": "7.04",
+          "London": "6.09"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "42.62",
+          "Washington, D.C.": "23.98",
+          "Berlin": "8.69",
+          "Seoul": "6.17",
+          "London": "4.49"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "23.23",
+          "Tokyo": "15.83",
+          "Beijing": "6.71",
+          "Berlin": "6.70",
+          "London": "6.53"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Washington, D.C.": "29.48",
+          "Tokyo": "12.29",
+          "Beijing": "11.43",
+          "London": "6.35",
+          "Berlin": "5.59"
+        }
+      }
+    },
+    "1999": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "12.92",
+          "Wellington": "38.23",
+          "Washington, D.C.": "5.98",
+          "Ottawa": "5.37",
+          "Pretoria": "4.02"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "14.38",
+          "Kuala Lumpur": "8.24",
+          "Wellington": "7.79",
+          "Hanoi": "5.11",
+          "Rome": "4.82"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "8.82",
+          "Ireland": "8.69",
+          "Washington, D.C.": "14.73",
+          "Wellington": "10.85",
+          "London": "7.62"
+        },
+        "Mineral Products": {
+          "New Caledonia": "12.50",
+          "Washington, D.C.": "17.70",
+          "Ottawa": "13.15",
+          "Tokyo": "7.84",
+          "New Delhi": "5.32"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "5.69",
+          "Washington, D.C.": "26.11",
+          "London": "12.60",
+          "Berlin": "8.33",
+          "Paris": "5.07"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Other Asia, nes": "5.49",
+          "Washington, D.C.": "20.02",
+          "Tokyo": "12.65",
+          "Beijing": "7.10",
+          "Berlin": "5.70"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "42.63",
+          "Rome": "7.51",
+          "New Delhi": "6.46",
+          "Buenos Aires": "6.21",
+          "Wellington": "6.04"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "17.38",
+          "Wellington": "15.61",
+          "Jakarta": "8.73",
+          "London": "8.25",
+          "Helsinki": "5.49"
+        },
+        "Textiles and Textile Articles": {
+          "Fiji": "4.96",
+          "Beijing": "35.96",
+          "Wellington": "6.91",
+          "Washington, D.C.": "5.80",
+          "Seoul": "4.71"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "53.04",
+          "Rome": "10.13",
+          "Jakarta": "4.92",
+          "Wellington": "4.10",
+          "Hanoi": "3.01"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "8.34",
+          "Washington, D.C.": "17.15",
+          "Seoul": "13.52",
+          "Jakarta": "8.79",
+          "Rome": "7.32"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Washington, D.C.": "17.97",
+          "Wellington": "11.29",
+          "Berlin": "6.54",
+          "Beijing": "6.15",
+          "Tokyo": "5.11"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "7.55",
+          "Washington, D.C.": "13.01",
+          "Tokyo": "12.12",
+          "Beijing": "8.74",
+          "Wellington": "7.10"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Washington, D.C.": "25.50",
+          "Tokyo": "11.98",
+          "Berlin": "6.46",
+          "Kuala Lumpur": "5.50"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "40.09",
+          "Washington, D.C.": "22.45",
+          "Berlin": "8.02",
+          "Seoul": "4.88"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "22.28",
+          "Tokyo": "15.47",
+          "Beijing": "7.30",
+          "Berlin": "6.42",
+          "London": "5.75"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Washington, D.C.": "29.57",
+          "Beijing": "12.27",
+          "Tokyo": "12.08",
+          "London": "6.22",
+          "Berlin": "5.72"
+        }
+      }
+    },
+    "2000": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "9.71",
+          "Wellington": "34.70",
+          "Copenhagen": "7.97",
+          "Washington, D.C.": "5.63",
+          "Ottawa": "5.51"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "15.80",
+          "Wellington": "8.36",
+          "Kuala Lumpur": "7.15",
+          "Madrid": "5.38",
+          "Rome": "4.85"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.93",
+          "Washington, D.C.": "15.15",
+          "Wellington": "12.63",
+          "Brasília": "10.84",
+          "London": "8.18"
+        },
+        "Mineral Products": {
+          "New Caledonia": "11.84",
+          "Peru": "6.50",
+          "Ottawa": "17.93",
+          "Washington, D.C.": "12.04",
+          "Rabat": "7.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "4.99",
+          "Washington, D.C.": "29.73",
+          "London": "11.54",
+          "Berlin": "8.00",
+          "Paris": "4.88"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Other Asia, nes": "5.55",
+          "Washington, D.C.": "19.90",
+          "Tokyo": "12.34",
+          "Beijing": "8.54",
+          "Seoul": "5.49"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "44.35",
+          "Rome": "8.32",
+          "New Delhi": "5.86",
+          "Buenos Aires": "5.64",
+          "Paris": "5.43"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Wellington": "16.64",
+          "Washington, D.C.": "16.23",
+          "Jakarta": "7.78",
+          "London": "7.11",
+          "Helsinki": "5.64"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "41.02",
+          "Wellington": "6.02",
+          "Washington, D.C.": "5.23",
+          "Seoul": "4.52",
+          "New Delhi": "4.01"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "54.76",
+          "Rome": "8.89",
+          "Jakarta": "4.44",
+          "Hanoi": "3.36",
+          "Wellington": "3.08"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "9.17",
+          "Seoul": "14.16",
+          "Washington, D.C.": "8.64",
+          "Rome": "8.14",
+          "Beijing": "6.71"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Wellington": "9.89",
+          "Beijing": "9.88",
+          "Washington, D.C.": "9.26",
+          "Ottawa": "7.37",
+          "Berlin": "6.37"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "8.37",
+          "Washington, D.C.": "12.26",
+          "Beijing": "11.36",
+          "Tokyo": "10.70",
+          "Wellington": "7.23"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Washington, D.C.": "24.41",
+          "Tokyo": "11.75",
+          "Beijing": "6.11",
+          "Kuala Lumpur": "6.11",
+          "London": "6.01"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "42.21",
+          "Washington, D.C.": "21.25",
+          "London": "7.38",
+          "Berlin": "7.34",
+          "Seoul": "4.71"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "21.84",
+          "Tokyo": "15.32",
+          "Beijing": "8.80",
+          "London": "6.52",
+          "Berlin": "5.65"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "5.28",
+          "Washington, D.C.": "27.48",
+          "Beijing": "14.51",
+          "Tokyo": "9.80",
+          "London": "5.08"
+        }
+      }
+    },
+    "2001": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "8.33",
+          "Wellington": "35.04",
+          "Ottawa": "7.80",
+          "Copenhagen": "5.94",
+          "Washington, D.C.": "5.77"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "13.16",
+          "Wellington": "10.28",
+          "Kuala Lumpur": "7.37",
+          "Rome": "5.68",
+          "Beijing": "5.12"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "8.24",
+          "Washington, D.C.": "15.26",
+          "Wellington": "14.14",
+          "London": "8.79",
+          "Brasília": "6.43"
+        },
+        "Mineral Products": {
+          "New Caledonia": "12.75",
+          "Ottawa": "22.28",
+          "Beijing": "10.89",
+          "Washington, D.C.": "10.77",
+          "Rabat": "6.98"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Unspecified": "6.45",
+          "Washington, D.C.": "26.25",
+          "London": "11.23",
+          "Berlin": "6.80",
+          "Paris": "4.79"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "6.19",
+          "Washington, D.C.": "18.72",
+          "Tokyo": "13.13",
+          "Beijing": "8.58",
+          "Seoul": "5.87"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "44.41",
+          "Rome": "7.95",
+          "Buenos Aires": "6.66",
+          "Wellington": "5.61",
+          "New Delhi": "5.61"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Washington, D.C.": "17.07",
+          "Wellington": "16.01",
+          "London": "8.57",
+          "Jakarta": "6.24",
+          "Helsinki": "5.97"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "45.76",
+          "Wellington": "5.77",
+          "Washington, D.C.": "4.35",
+          "Seoul": "3.91",
+          "Hong Kong": "3.81"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "56.31",
+          "Rome": "9.07",
+          "Jakarta": "3.59",
+          "Hanoi": "3.45",
+          "Hong Kong": "2.95"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "8.28",
+          "Seoul": "14.57",
+          "Jakarta": "12.30",
+          "Rome": "6.65",
+          "Beijing": "6.47"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "10.58",
+          "Washington, D.C.": "8.81",
+          "Ottawa": "8.80",
+          "Wellington": "6.75",
+          "Berlin": "6.37"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "6.99",
+          "Beijing": "12.45",
+          "Tokyo": "12.23",
+          "Washington, D.C.": "12.06",
+          "Berlin": "6.15"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Washington, D.C.": "22.66",
+          "Tokyo": "12.27",
+          "Beijing": "7.37",
+          "Berlin": "6.31",
+          "London": "5.42"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "42.32",
+          "Washington, D.C.": "18.74",
+          "Berlin": "10.19",
+          "London": "5.13",
+          "Seoul": "4.21"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "20.27",
+          "Tokyo": "15.17",
+          "Beijing": "10.08",
+          "Berlin": "6.47",
+          "London": "5.87"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "5.26",
+          "Washington, D.C.": "26.82",
+          "Beijing": "15.67",
+          "Tokyo": "9.47",
+          "Berlin": "5.30"
+        }
+      }
+    },
+    "2002": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "6.09",
+          "Wellington": "32.10",
+          "Ottawa": "8.65",
+          "Copenhagen": "8.09",
+          "Washington, D.C.": "5.32"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "11.71",
+          "Wellington": "10.12",
+          "Kuala Lumpur": "7.75",
+          "Rome": "5.90",
+          "Beijing": "5.60"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Ireland": "8.19",
+          "Thailand": "7.89",
+          "Washington, D.C.": "16.04",
+          "Wellington": "13.83",
+          "London": "7.02"
+        },
+        "Mineral Products": {
+          "New Caledonia": "12.01",
+          "Ottawa": "23.01",
+          "Washington, D.C.": "9.66",
+          "Beijing": "7.23",
+          "Tokyo": "5.61"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Ireland": "5.72",
+          "Washington, D.C.": "24.36",
+          "London": "11.83",
+          "Berlin": "8.48",
+          "Paris": "5.41"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "7.24",
+          "Washington, D.C.": "17.71",
+          "Tokyo": "12.47",
+          "Beijing": "9.14",
+          "Berlin": "5.87"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "44.99",
+          "Rome": "9.34",
+          "Wellington": "6.79",
+          "New Delhi": "6.15",
+          "Buenos Aires": "5.18"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Wellington": "16.49",
+          "Washington, D.C.": "14.46",
+          "London": "8.44",
+          "Jakarta": "7.32",
+          "Beijing": "5.69"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "47.92",
+          "Wellington": "6.42",
+          "New Delhi": "4.02",
+          "Washington, D.C.": "3.85",
+          "Seoul": "3.40"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "58.71",
+          "Rome": "8.08",
+          "Hanoi": "3.80",
+          "Jakarta": "3.14",
+          "Hong Kong": "3.07"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "12.43",
+          "Jakarta": "13.17",
+          "Seoul": "12.79",
+          "Rome": "6.72",
+          "Beijing": "6.64"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "14.04",
+          "Washington, D.C.": "10.30",
+          "Ottawa": "9.01",
+          "Wellington": "6.90",
+          "Berlin": "5.83"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "7.10",
+          "Beijing": "15.13",
+          "Tokyo": "11.51",
+          "Washington, D.C.": "10.73",
+          "Berlin": "6.08"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Washington, D.C.": "20.66",
+          "Tokyo": "11.33",
+          "Beijing": "9.96",
+          "Berlin": "6.31"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Tokyo": "36.03",
+          "Washington, D.C.": "26.85",
+          "Berlin": "8.80",
+          "Paris": "4.09",
+          "London": "3.60"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "20.34",
+          "Tokyo": "14.47",
+          "Beijing": "11.22",
+          "Berlin": "6.55",
+          "London": "5.02"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "9.16",
+          "Washington, D.C.": "22.28",
+          "Beijing": "16.94",
+          "Tokyo": "8.95",
+          "Berlin": "5.55"
+        }
+      }
+    },
+    "2003": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Thailand": "5.90",
+          "Wellington": "31.24",
+          "Copenhagen": "9.44",
+          "Ottawa": "7.74",
+          "Hanoi": "5.66"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "12.96",
+          "Wellington": "10.42",
+          "Kuala Lumpur": "7.26",
+          "London": "5.76",
+          "Beijing": "5.67"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Ireland": "9.57",
+          "Thailand": "7.85",
+          "Washington, D.C.": "15.56",
+          "Wellington": "14.39",
+          "London": "6.03"
+        },
+        "Mineral Products": {
+          "New Caledonia": "13.03",
+          "Peru": "8.32",
+          "Ottawa": "20.46",
+          "Tokyo": "8.12",
+          "Washington, D.C.": "7.84"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "23.21",
+          "London": "12.07",
+          "Berlin": "8.37",
+          "Rome": "5.62",
+          "Paris": "5.54"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "6.74",
+          "Washington, D.C.": "16.28",
+          "Tokyo": "12.54",
+          "Beijing": "9.60",
+          "Berlin": "6.48"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "48.67",
+          "Rome": "8.70",
+          "New Delhi": "6.39",
+          "Wellington": "5.84",
+          "Paris": "5.24"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Wellington": "16.22",
+          "Washington, D.C.": "12.43",
+          "London": "7.93",
+          "Jakarta": "7.51",
+          "Beijing": "6.29"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "50.42",
+          "Wellington": "7.23",
+          "New Delhi": "3.65",
+          "Washington, D.C.": "3.62",
+          "Rome": "3.20"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "61.13",
+          "Rome": "8.53",
+          "Hanoi": "3.23",
+          "Hong Kong": "3.03",
+          "Jakarta": "2.41"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "16.34",
+          "Thailand": "5.20",
+          "Jakarta": "20.24",
+          "Beijing": "7.16",
+          "Rome": "5.92"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "14.87",
+          "Washington, D.C.": "9.75",
+          "Ottawa": "8.33",
+          "Jakarta": "7.04",
+          "Berlin": "5.27"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "6.45",
+          "Beijing": "16.08",
+          "Tokyo": "12.82",
+          "Washington, D.C.": "9.44",
+          "Berlin": "6.06"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Washington, D.C.": "17.97",
+          "Beijing": "12.18",
+          "Tokyo": "11.72",
+          "Berlin": "6.65",
+          "Seoul": "6.63"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "4.21",
+          "Tokyo": "37.76",
+          "Washington, D.C.": "21.75",
+          "Berlin": "10.46",
+          "Paris": "5.67"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "17.83",
+          "Tokyo": "14.88",
+          "Beijing": "12.49",
+          "Berlin": "7.11",
+          "London": "4.65"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "6.64",
+          "Washington, D.C.": "21.85",
+          "Beijing": "20.62",
+          "Tokyo": "6.88",
+          "Berlin": "5.87"
+        }
+      }
+    },
+    "2004": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "32.74",
+          "Copenhagen": "11.69",
+          "Ottawa": "8.80",
+          "Hanoi": "7.58",
+          "Beijing": "5.43"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "13.39",
+          "Wellington": "11.07",
+          "Kuala Lumpur": "7.60",
+          "Rome": "6.23",
+          "Beijing": "5.73"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Ireland": "9.56",
+          "Thailand": "6.97",
+          "Wellington": "15.94",
+          "Washington, D.C.": "11.63",
+          "London": "6.29"
+        },
+        "Mineral Products": {
+          "New Caledonia": "11.96",
+          "Ottawa": "18.53",
+          "Tokyo": "9.97",
+          "Washington, D.C.": "9.18",
+          "Jakarta": "8.84"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Ireland": "5.58",
+          "Washington, D.C.": "22.75",
+          "London": "11.82",
+          "Berlin": "8.13",
+          "Paris": "5.73"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "6.72",
+          "Washington, D.C.": "15.68",
+          "Beijing": "11.64",
+          "Tokyo": "11.53",
+          "Berlin": "6.16"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "53.57",
+          "Rome": "7.09",
+          "New Delhi": "6.57",
+          "Wellington": "4.33",
+          "Hong Kong": "4.24"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Wellington": "15.81",
+          "Washington, D.C.": "11.01",
+          "Beijing": "8.06",
+          "London": "7.94",
+          "Jakarta": "7.79"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "54.21",
+          "Wellington": "6.26",
+          "New Delhi": "3.74",
+          "Washington, D.C.": "3.26",
+          "Rome": "3.03"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "63.33",
+          "Rome": "7.20",
+          "Hong Kong": "3.79",
+          "Hanoi": "3.58",
+          "Jakarta": "2.28"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "17.58",
+          "Jakarta": "11.56",
+          "Beijing": "9.24",
+          "Rome": "5.89",
+          "Washington, D.C.": "5.67"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "20.36",
+          "Washington, D.C.": "8.37",
+          "Ottawa": "8.10",
+          "Wellington": "5.36",
+          "Berlin": "5.19"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Other Asia, nes": "6.91",
+          "Beijing": "19.53",
+          "Tokyo": "11.65",
+          "Washington, D.C.": "8.61",
+          "Berlin": "5.53"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Washington, D.C.": "17.20",
+          "Beijing": "15.97",
+          "Tokyo": "10.56",
+          "Berlin": "6.32",
+          "Seoul": "6.12"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "4.51",
+          "Tokyo": "38.67",
+          "Washington, D.C.": "17.55",
+          "Berlin": "9.17",
+          "Paris": "7.58"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Washington, D.C.": "16.48",
+          "Beijing": "14.81",
+          "Tokyo": "14.11",
+          "Berlin": "6.67",
+          "London": "4.51"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "5.50",
+          "Washington, D.C.": "22.34",
+          "Beijing": "22.08",
+          "Berlin": "6.35",
+          "Tokyo": "5.73"
+        }
+      }
+    },
+    "2005": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "32.96",
+          "Copenhagen": "9.41",
+          "Ottawa": "8.68",
+          "Washington, D.C.": "8.02",
+          "Hanoi": "7.67"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "12.99",
+          "Wellington": "11.18",
+          "Kuala Lumpur": "7.12",
+          "Rome": "6.03",
+          "Beijing": "5.49"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Ireland": "9.60",
+          "Thailand": "7.55",
+          "Wellington": "16.11",
+          "Washington, D.C.": "10.59",
+          "London": "6.06"
+        },
+        "Mineral Products": {
+          "New Caledonia": "9.72",
+          "Ottawa": "22.30",
+          "Washington, D.C.": "10.25",
+          "Tokyo": "8.02",
+          "Rabat": "7.58"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Ireland": "5.42",
+          "Washington, D.C.": "23.83",
+          "London": "10.21",
+          "Berlin": "7.87",
+          "Paris": "5.59"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "7.55",
+          "Washington, D.C.": "15.29",
+          "Beijing": "13.71",
+          "Tokyo": "11.10",
+          "Berlin": "5.80"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "54.71",
+          "New Delhi": "7.08",
+          "Rome": "7.03",
+          "Hong Kong": "4.89",
+          "Paris": "4.73"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Wellington": "16.14",
+          "Washington, D.C.": "11.54",
+          "Beijing": "9.23",
+          "London": "7.28",
+          "Jakarta": "6.47"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "57.76",
+          "Wellington": "5.58",
+          "New Delhi": "3.58",
+          "Washington, D.C.": "3.03",
+          "Rome": "2.78"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "64.35",
+          "Rome": "6.67",
+          "Hanoi": "3.76",
+          "Hong Kong": "2.99",
+          "Jakarta": "2.55"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "15.48",
+          "Beijing": "10.15",
+          "London": "9.53",
+          "Wellington": "5.08"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "19.69",
+          "Ottawa": "10.07",
+          "Washington, D.C.": "9.29",
+          "Berlin": "5.63",
+          "Seoul": "5.45"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "6.24",
+          "Other Asia, nes": "6.16",
+          "Beijing": "20.82",
+          "Tokyo": "8.72",
+          "Washington, D.C.": "8.05"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "18.33",
+          "Washington, D.C.": "16.63",
+          "Tokyo": "10.45",
+          "Berlin": "7.37",
+          "Kuala Lumpur": "5.36"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "7.24",
+          "Tokyo": "35.51",
+          "Washington, D.C.": "15.62",
+          "Paris": "8.10",
+          "Berlin": "7.67"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Beijing": "16.29",
+          "Washington, D.C.": "15.91",
+          "Tokyo": "13.17",
+          "Berlin": "6.59",
+          "London": "4.20"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "4.80",
+          "Beijing": "24.00",
+          "Washington, D.C.": "21.61",
+          "Berlin": "6.13",
+          "Tokyo": "5.69"
+        }
+      }
+    },
+    "2006": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "30.65",
+          "Copenhagen": "9.48",
+          "Hanoi": "8.74",
+          "Washington, D.C.": "8.24",
+          "Ottawa": "7.90"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "10.68",
+          "Wellington": "10.46",
+          "Kuala Lumpur": "7.91",
+          "Rome": "6.91",
+          "Beijing": "5.82"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Ireland": "9.59",
+          "Thailand": "6.94",
+          "Wellington": "15.64",
+          "Washington, D.C.": "10.84",
+          "Beijing": "6.09"
+        },
+        "Mineral Products": {
+          "New Caledonia": "11.31",
+          "Ottawa": "26.37",
+          "Washington, D.C.": "14.87",
+          "Jakarta": "7.99",
+          "Tokyo": "6.02"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "23.58",
+          "London": "9.98",
+          "Berlin": "7.50",
+          "Paris": "5.78",
+          "Beijing": "5.05"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "10.00",
+          "Beijing": "15.15",
+          "Washington, D.C.": "14.41",
+          "Tokyo": "10.10",
+          "Berlin": "4.89"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "56.85",
+          "Rome": "6.99",
+          "New Delhi": "6.39",
+          "Hong Kong": "4.86",
+          "Paris": "4.56"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Wellington": "15.07",
+          "Beijing": "11.56",
+          "Washington, D.C.": "11.14",
+          "Jakarta": "7.20",
+          "London": "7.19"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "60.54",
+          "Wellington": "4.83",
+          "New Delhi": "3.14",
+          "Washington, D.C.": "2.74",
+          "Rome": "2.28"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "67.32",
+          "Rome": "6.03",
+          "Hanoi": "4.04",
+          "Hong Kong": "3.15",
+          "Jakarta": "2.31"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "10.65",
+          "Washington, D.C.": "8.70",
+          "Jakarta": "8.33",
+          "London": "7.42"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "18.89",
+          "Ottawa": "11.43",
+          "Washington, D.C.": "10.06",
+          "Seoul": "6.52",
+          "Berlin": "5.61"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "8.78",
+          "Other Asia, nes": "6.01",
+          "Beijing": "21.66",
+          "Tokyo": "8.31",
+          "Washington, D.C.": "7.41"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "20.55",
+          "Washington, D.C.": "16.89",
+          "Tokyo": "8.99",
+          "Berlin": "6.77",
+          "Kuala Lumpur": "4.93"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "7.89",
+          "Tokyo": "32.03",
+          "Washington, D.C.": "18.92",
+          "Berlin": "7.63",
+          "Seoul": "7.02"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Beijing": "17.90",
+          "Washington, D.C.": "16.49",
+          "Tokyo": "11.67",
+          "Berlin": "6.28",
+          "Seoul": "3.98"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "4.96",
+          "Beijing": "26.10",
+          "Washington, D.C.": "21.45",
+          "Berlin": "5.93",
+          "Tokyo": "4.46"
+        }
+      }
+    },
+    "2007": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "30.23",
+          "Copenhagen": "10.78",
+          "Washington, D.C.": "9.84",
+          "Ottawa": "9.04",
+          "Hanoi": "7.42"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "10.54",
+          "Wellington": "10.24",
+          "Kuala Lumpur": "8.65",
+          "Beijing": "6.72",
+          "Madrid": "6.42"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Ireland": "9.27",
+          "Thailand": "6.32",
+          "Wellington": "15.49",
+          "Washington, D.C.": "10.10",
+          "Beijing": "6.34"
+        },
+        "Mineral Products": {
+          "New Caledonia": "11.84",
+          "Peru": "8.23",
+          "Ottawa": "17.94",
+          "Washington, D.C.": "12.92",
+          "Jakarta": "12.34"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "22.55",
+          "London": "10.96",
+          "Berlin": "8.34",
+          "Beijing": "6.39",
+          "Paris": "5.76"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "11.47",
+          "Beijing": "16.76",
+          "Washington, D.C.": "13.30",
+          "Tokyo": "10.08",
+          "Berlin": "4.90"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "58.14",
+          "Rome": "7.04",
+          "New Delhi": "5.71",
+          "Paris": "4.78",
+          "Buenos Aires": "3.87"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Wellington": "14.54",
+          "Beijing": "13.20",
+          "Washington, D.C.": "10.44",
+          "Jakarta": "7.29",
+          "London": "7.01"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "61.22",
+          "Wellington": "4.73",
+          "New Delhi": "3.00",
+          "Washington, D.C.": "2.66",
+          "Rome": "2.33"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "67.55",
+          "Rome": "6.23",
+          "Hanoi": "3.83",
+          "Hong Kong": "3.12",
+          "Jakarta": "2.36"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "10.44",
+          "Thailand": "8.92",
+          "London": "18.71",
+          "Tokyo": "8.07"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "17.73",
+          "Washington, D.C.": "9.73",
+          "Ottawa": "8.02",
+          "Santiago": "5.31",
+          "Wellington": "4.89"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "8.95",
+          "Other Asia, nes": "5.79",
+          "Beijing": "23.92",
+          "Tokyo": "7.54",
+          "Washington, D.C.": "6.39"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "23.14",
+          "Washington, D.C.": "15.69",
+          "Tokyo": "8.98",
+          "Berlin": "6.60",
+          "Kuala Lumpur": "4.92"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "11.55",
+          "Tokyo": "30.81",
+          "Washington, D.C.": "16.68",
+          "Berlin": "7.95",
+          "Seoul": "5.11"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "4.33",
+          "Beijing": "19.42",
+          "Washington, D.C.": "15.22",
+          "Tokyo": "11.38",
+          "Berlin": "6.39"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Beijing": "26.77",
+          "Washington, D.C.": "20.17",
+          "Berlin": "6.03",
+          "London": "3.96",
+          "Tokyo": "3.75"
+        }
+      }
+    },
+    "2008": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "34.17",
+          "Washington, D.C.": "12.54",
+          "Copenhagen": "12.30",
+          "Ottawa": "6.80",
+          "Hanoi": "5.02"
+        },
+        "Vegetable Products": {
+          "Thailand": "6.38",
+          "Kuala Lumpur": "11.58",
+          "Washington, D.C.": "10.94",
+          "Beijing": "8.31",
+          "Wellington": "8.21"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Ireland": "8.04",
+          "Thailand": "7.17",
+          "Wellington": "14.90",
+          "Washington, D.C.": "10.17",
+          "Beijing": "7.32"
+        },
+        "Mineral Products": {
+          "New Caledonia": "6.66",
+          "Ottawa": "28.40",
+          "Rabat": "15.11",
+          "Tokyo": "8.11",
+          "Jakarta": "5.47"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "20.44",
+          "London": "8.10",
+          "Beijing": "8.09",
+          "Berlin": "6.93",
+          "Paris": "5.43"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "9.56",
+          "Thailand": "5.42",
+          "Beijing": "18.53",
+          "Washington, D.C.": "12.89",
+          "Tokyo": "9.63"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "57.71",
+          "Rome": "6.39",
+          "New Delhi": "5.84",
+          "Paris": "5.44",
+          "Buenos Aires": "5.22"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Unspecified": "6.96",
+          "Wellington": "14.14",
+          "Beijing": "13.94",
+          "Washington, D.C.": "10.71",
+          "London": "6.47"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "62.72",
+          "Wellington": "3.88",
+          "New Delhi": "3.35",
+          "Washington, D.C.": "2.97",
+          "Rome": "2.24"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "68.40",
+          "Rome": "5.98",
+          "Hanoi": "4.33",
+          "Hong Kong": "2.93",
+          "Jakarta": "2.87"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Thailand": "12.81",
+          "Papua New Guinea": "11.69",
+          "London": "24.83",
+          "Beijing": "6.58"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "17.04",
+          "Santiago": "12.97",
+          "Ottawa": "12.61",
+          "Rabat": "6.08",
+          "Washington, D.C.": "6.02"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "12.35",
+          "Other Asia, nes": "5.10",
+          "Beijing": "24.67",
+          "Tokyo": "6.62",
+          "Washington, D.C.": "5.92"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "24.55",
+          "Washington, D.C.": "15.70",
+          "Tokyo": "8.96",
+          "Berlin": "7.26",
+          "Kuala Lumpur": "5.41"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "11.04",
+          "Tokyo": "29.24",
+          "Washington, D.C.": "17.19",
+          "Berlin": "9.00",
+          "Paris": "4.19"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "4.33",
+          "Beijing": "20.51",
+          "Washington, D.C.": "15.05",
+          "Tokyo": "10.96",
+          "Berlin": "6.55"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Beijing": "25.74",
+          "Washington, D.C.": "17.19",
+          "Berlin": "5.35",
+          "London": "3.62",
+          "Tokyo": "3.22"
+        }
+      }
+    },
+    "2009": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "29.10",
+          "Copenhagen": "13.40",
+          "Washington, D.C.": "10.63",
+          "Ottawa": "8.72",
+          "Beijing": "5.68"
+        },
+        "Vegetable Products": {
+          "Thailand": "6.90",
+          "Washington, D.C.": "12.81",
+          "Kuala Lumpur": "10.61",
+          "Beijing": "8.01",
+          "Wellington": "7.89"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Ireland": "8.13",
+          "Thailand": "6.99",
+          "Wellington": "15.23",
+          "Washington, D.C.": "10.70",
+          "Beijing": "6.94"
+        },
+        "Mineral Products": {
+          "New Caledonia": "9.89",
+          "Peru": "8.96",
+          "Ottawa": "18.57",
+          "Tokyo": "11.61",
+          "Santiago": "8.38"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "18.93",
+          "Berlin": "7.85",
+          "London": "7.70",
+          "Paris": "7.68",
+          "Beijing": "6.93"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "5.73",
+          "Thailand": "5.66",
+          "Beijing": "21.06",
+          "Washington, D.C.": "13.32",
+          "Tokyo": "10.04"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "59.52",
+          "Paris": "7.40",
+          "Rome": "6.58",
+          "New Delhi": "6.57",
+          "Buenos Aires": "2.48"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Beijing": "14.97",
+          "Wellington": "13.65",
+          "Washington, D.C.": "11.60",
+          "London": "6.88",
+          "Jakarta": "6.82"
+        },
+        "Textiles and Textile Articles": {
+          "Beijing": "64.10",
+          "New Delhi": "3.56",
+          "Wellington": "3.29",
+          "Washington, D.C.": "2.80",
+          "Rome": "1.97"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "69.06",
+          "Rome": "5.65",
+          "Hanoi": "4.79",
+          "Hong Kong": "3.18",
+          "Jakarta": "2.54"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Thailand": "21.91",
+          "Papua New Guinea": "15.12",
+          "Washington, D.C.": "10.80",
+          "Beijing": "6.95"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Santiago": "18.89",
+          "Beijing": "17.54",
+          "Ottawa": "6.99",
+          "Washington, D.C.": "6.16",
+          "London": "5.11"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "8.49",
+          "Other Asia, nes": "4.78",
+          "Beijing": "26.27",
+          "Tokyo": "10.21",
+          "Washington, D.C.": "6.74"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Thailand": "5.85",
+          "Beijing": "26.46",
+          "Washington, D.C.": "14.55",
+          "Tokyo": "7.50",
+          "Berlin": "6.92"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "12.76",
+          "Tokyo": "33.05",
+          "Berlin": "11.96",
+          "Washington, D.C.": "10.24",
+          "Seoul": "7.40"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "5.35",
+          "Beijing": "23.39",
+          "Washington, D.C.": "13.38",
+          "Tokyo": "10.20",
+          "Berlin": "6.84"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Special Categories": "26.19",
+          "Beijing": "23.42",
+          "Washington, D.C.": "15.04",
+          "Berlin": "4.19",
+          "London": "2.98"
+        }
+      }
+    },
+    "2010": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "34.97",
+          "Washington, D.C.": "11.68",
+          "Copenhagen": "11.64",
+          "Ottawa": "6.95",
+          "Beijing": "6.38"
+        },
+        "Vegetable Products": {
+          "Thailand": "6.57",
+          "Washington, D.C.": "10.83",
+          "Kuala Lumpur": "10.16",
+          "Wellington": "8.67",
+          "Beijing": "8.11"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.63",
+          "Ireland": "6.54",
+          "Wellington": "16.46",
+          "Washington, D.C.": "10.40",
+          "Beijing": "6.53"
+        },
+        "Mineral Products": {
+          "New Caledonia": "11.96",
+          "Brasília": "18.87",
+          "Ottawa": "8.53",
+          "Washington, D.C.": "7.33",
+          "Tokyo": "6.81"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "19.01",
+          "Beijing": "7.78",
+          "London": "7.49",
+          "Berlin": "7.46",
+          "Paris": "6.60"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Thailand": "7.15",
+          "Unspecified": "5.34",
+          "Beijing": "21.76",
+          "Washington, D.C.": "13.61",
+          "Tokyo": "10.49"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "60.81",
+          "Paris": "6.10",
+          "New Delhi": "5.89",
+          "Rome": "5.70",
+          "Buenos Aires": "3.20"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Unspecified": "8.35",
+          "Beijing": "15.23",
+          "Wellington": "13.97",
+          "Washington, D.C.": "10.06",
+          "Jakarta": "6.41"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "1.84",
+          "Beijing": "66.01",
+          "New Delhi": "3.57",
+          "Wellington": "3.16",
+          "Washington, D.C.": "2.90"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "71.22",
+          "Rome": "5.11",
+          "Hanoi": "4.83",
+          "Jakarta": "3.01",
+          "Hong Kong": "2.21"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "20.43",
+          "Thailand": "17.29",
+          "Beijing": "8.86",
+          "Washington, D.C.": "8.79",
+          "Wellington": "5.86"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Santiago": "21.41",
+          "Beijing": "18.89",
+          "Washington, D.C.": "7.03",
+          "Brasília": "6.33",
+          "Seoul": "4.94"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "9.30",
+          "Beijing": "28.77",
+          "Tokyo": "7.34",
+          "Washington, D.C.": "6.31",
+          "Santiago": "6.12"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "31.65",
+          "Washington, D.C.": "15.03",
+          "Tokyo": "7.68",
+          "Berlin": "5.82",
+          "Kuala Lumpur": "5.31"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "13.84",
+          "Tokyo": "32.77",
+          "Berlin": "11.48",
+          "Washington, D.C.": "10.88",
+          "Seoul": "8.27"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "5.33",
+          "Beijing": "24.53",
+          "Washington, D.C.": "13.48",
+          "Tokyo": "10.83",
+          "Berlin": "6.46"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Beijing": "23.42",
+          "Washington, D.C.": "14.78",
+          "Berlin": "4.25",
+          "London": "2.72",
+          "Bern": "2.41"
+        }
+      }
+    },
+    "2011": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "33.50",
+          "Washington, D.C.": "13.88",
+          "Copenhagen": "9.80",
+          "Beijing": "8.15",
+          "Ottawa": "5.00"
+        },
+        "Vegetable Products": {
+          "Kuala Lumpur": "10.61",
+          "Washington, D.C.": "9.95",
+          "Wellington": "9.30",
+          "Beijing": "7.93",
+          "New Delhi": "5.44"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "8.49",
+          "Wellington": "16.60",
+          "Washington, D.C.": "9.57",
+          "Beijing": "6.51"
+        },
+        "Mineral Products": {
+          "Brasília": "17.62",
+          "Mexico City": "14.34",
+          "Ottawa": "8.82",
+          "Beijing": "8.20",
+          "Washington, D.C.": "8.00"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Ireland": "6.47",
+          "Washington, D.C.": "17.19",
+          "London": "7.54",
+          "Beijing": "7.37",
+          "Berlin": "7.32"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Thailand": "7.10",
+          "Unspecified": "5.66",
+          "Beijing": "22.61",
+          "Washington, D.C.": "12.66",
+          "Tokyo": "10.71"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "58.91",
+          "Rome": "7.33",
+          "Paris": "6.19",
+          "New Delhi": "6.11",
+          "Buenos Aires": "3.19"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Unspecified": "7.78",
+          "Beijing": "17.23",
+          "Wellington": "13.19",
+          "Washington, D.C.": "9.29",
+          "London": "6.51"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "3.02",
+          "Beijing": "65.30",
+          "New Delhi": "3.99",
+          "Wellington": "2.89",
+          "Washington, D.C.": "2.62"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "69.70",
+          "Rome": "5.68",
+          "Hanoi": "5.52",
+          "Jakarta": "3.82",
+          "Hong Kong": "2.22"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "21.51",
+          "Thailand": "7.63",
+          "Washington, D.C.": "10.12",
+          "Beijing": "8.09",
+          "London": "7.37"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Papua New Guinea": "8.51",
+          "Santiago": "15.54",
+          "London": "13.18",
+          "Beijing": "12.15",
+          "Washington, D.C.": "5.81"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "7.66",
+          "Beijing": "28.34",
+          "Tokyo": "6.48",
+          "Jakarta": "6.17",
+          "Washington, D.C.": "6.16"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "33.00",
+          "Washington, D.C.": "16.51",
+          "Tokyo": "7.15",
+          "Berlin": "5.88",
+          "Kuala Lumpur": "4.15"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "10.20",
+          "Tokyo": "27.57",
+          "Washington, D.C.": "14.37",
+          "Berlin": "11.41",
+          "Seoul": "8.57"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "4.09",
+          "Beijing": "25.34",
+          "Washington, D.C.": "14.30",
+          "Tokyo": "9.37",
+          "Berlin": "6.42"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "31.70",
+          "Beijing": "21.43",
+          "Washington, D.C.": "14.13",
+          "Berlin": "4.09",
+          "Bern": "2.62"
+        }
+      }
+    },
+    "2012": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "28.24",
+          "Washington, D.C.": "14.39",
+          "Copenhagen": "9.08",
+          "Beijing": "8.07",
+          "Hanoi": "5.59"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "10.87",
+          "Kuala Lumpur": "9.02",
+          "Beijing": "8.38",
+          "Wellington": "8.19",
+          "New Delhi": "7.17"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "8.14",
+          "Wellington": "17.47",
+          "Washington, D.C.": "9.60",
+          "Beijing": "6.30"
+        },
+        "Mineral Products": {
+          "Mexico City": "25.97",
+          "Ottawa": "11.90",
+          "Washington, D.C.": "10.21",
+          "Santiago": "7.05",
+          "Tokyo": "5.66"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "17.89",
+          "Beijing": "7.88",
+          "Berlin": "7.73",
+          "London": "6.77",
+          "Rome": "6.24"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Thailand": "6.83",
+          "Unspecified": "5.21",
+          "Beijing": "23.80",
+          "Washington, D.C.": "12.57",
+          "Tokyo": "10.94"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "58.57",
+          "Rome": "7.51",
+          "Paris": "6.25",
+          "New Delhi": "5.63",
+          "Buenos Aires": "2.80"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Beijing": "20.52",
+          "Wellington": "11.42",
+          "Washington, D.C.": "9.56",
+          "London": "6.75",
+          "Jakarta": "6.58"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "4.56",
+          "Beijing": "64.37",
+          "New Delhi": "3.97",
+          "Washington, D.C.": "2.67",
+          "Wellington": "2.36"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "68.35",
+          "Hanoi": "7.02",
+          "Rome": "5.36",
+          "Jakarta": "4.38",
+          "Hong Kong": "1.58"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "23.00",
+          "Thailand": "10.31",
+          "Beijing": "9.87",
+          "Jakarta": "9.11",
+          "Bern": "6.84"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Papua New Guinea": "8.44",
+          "Santiago": "27.27",
+          "Beijing": "13.13",
+          "Mexico City": "7.76",
+          "Washington, D.C.": "5.00"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "7.82",
+          "Beijing": "30.33",
+          "Santiago": "6.95",
+          "Tokyo": "6.65",
+          "Washington, D.C.": "6.28"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "30.16",
+          "Washington, D.C.": "17.25",
+          "Tokyo": "6.58",
+          "Berlin": "6.57",
+          "Seoul": "4.52"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "11.78",
+          "Tokyo": "27.79",
+          "Washington, D.C.": "15.28",
+          "Berlin": "8.70",
+          "Seoul": "6.93"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "4.62",
+          "Beijing": "24.45",
+          "Washington, D.C.": "14.91",
+          "Tokyo": "9.75",
+          "Berlin": "6.21"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "26.37",
+          "Beijing": "23.66",
+          "Washington, D.C.": "15.56",
+          "Berlin": "4.35",
+          "Bern": "2.86"
+        }
+      }
+    },
+    "2013": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "26.52",
+          "Washington, D.C.": "12.96",
+          "Copenhagen": "10.11",
+          "Beijing": "8.66",
+          "Hanoi": "5.32"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "10.91",
+          "Beijing": "8.88",
+          "Wellington": "8.24",
+          "Kuala Lumpur": "7.35",
+          "New Delhi": "5.55"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.79",
+          "Wellington": "19.48",
+          "Washington, D.C.": "10.13",
+          "Beijing": "5.99"
+        },
+        "Mineral Products": {
+          "Ottawa": "13.85",
+          "Washington, D.C.": "11.01",
+          "Beijing": "10.91",
+          "Santiago": "10.61",
+          "Tokyo": "6.44"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "17.83",
+          "Beijing": "9.05",
+          "Berlin": "8.77",
+          "Paris": "5.94",
+          "London": "5.78"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Thailand": "8.29",
+          "Unspecified": "5.01",
+          "Beijing": "24.82",
+          "Washington, D.C.": "12.98",
+          "Tokyo": "9.44"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "59.15",
+          "Rome": "8.33",
+          "Paris": "6.05",
+          "New Delhi": "5.24",
+          "Buenos Aires": "2.44"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Beijing": "22.40",
+          "Wellington": "11.07",
+          "Washington, D.C.": "9.23",
+          "Jakarta": "5.85",
+          "London": "5.80"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "5.16",
+          "Beijing": "62.97",
+          "New Delhi": "3.87",
+          "Washington, D.C.": "2.59",
+          "Wellington": "2.18"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "66.41",
+          "Hanoi": "7.90",
+          "Rome": "5.43",
+          "Jakarta": "4.38",
+          "Hong Kong": "1.84"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "24.57",
+          "Beijing": "12.01",
+          "Wellington": "7.33",
+          "Bern": "6.96",
+          "Washington, D.C.": "6.33"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Papua New Guinea": "9.38",
+          "Santiago": "22.56",
+          "Beijing": "14.18",
+          "Washington, D.C.": "5.39",
+          "Ottawa": "4.01"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Thailand": "6.21",
+          "Unspecified": "5.50",
+          "Beijing": "30.05",
+          "Tokyo": "6.94",
+          "Washington, D.C.": "5.66"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "32.88",
+          "Washington, D.C.": "14.43",
+          "Berlin": "6.02",
+          "Tokyo": "5.16",
+          "Rome": "4.14"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "15.27",
+          "Tokyo": "26.25",
+          "Washington, D.C.": "11.75",
+          "Berlin": "10.50",
+          "Seoul": "7.16"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "5.67",
+          "Beijing": "26.37",
+          "Washington, D.C.": "13.02",
+          "Tokyo": "8.58",
+          "Berlin": "6.38"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "23.11",
+          "Beijing": "25.42",
+          "Washington, D.C.": "15.53",
+          "Berlin": "4.30",
+          "Bern": "3.65"
+        }
+      }
+    },
+    "2014": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "25.79",
+          "Washington, D.C.": "13.86",
+          "Copenhagen": "10.88",
+          "Beijing": "9.52",
+          "Hanoi": "5.52"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "10.57",
+          "Beijing": "8.81",
+          "Wellington": "8.72",
+          "Kuala Lumpur": "7.56",
+          "New Delhi": "5.51"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.29",
+          "Wellington": "20.34",
+          "Washington, D.C.": "9.60",
+          "Beijing": "5.71"
+        },
+        "Mineral Products": {
+          "Ottawa": "14.04",
+          "Washington, D.C.": "11.94",
+          "Beijing": "10.02",
+          "Mexico City": "9.19",
+          "Santiago": "8.52"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "16.57",
+          "Beijing": "9.56",
+          "Berlin": "9.48",
+          "London": "5.65",
+          "Paris": "5.37"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Thailand": "7.98",
+          "Unspecified": "5.60",
+          "Beijing": "26.60",
+          "Washington, D.C.": "12.01",
+          "Tokyo": "7.51"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "56.92",
+          "Rome": "9.22",
+          "Paris": "5.71",
+          "New Delhi": "5.46",
+          "Hanoi": "2.95"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Beijing": "24.33",
+          "Wellington": "10.71",
+          "Washington, D.C.": "8.73",
+          "Jakarta": "6.79",
+          "London": "5.45"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "5.51",
+          "Beijing": "61.86",
+          "New Delhi": "4.13",
+          "Washington, D.C.": "2.40",
+          "Jakarta": "2.15"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "63.55",
+          "Hanoi": "9.32",
+          "Rome": "5.60",
+          "Jakarta": "5.25",
+          "Brasília": "1.71"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "24.06",
+          "Thailand": "4.70",
+          "Beijing": "14.14",
+          "Washington, D.C.": "9.20",
+          "Wellington": "6.77"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Papua New Guinea": "9.36",
+          "Santiago": "17.11",
+          "Beijing": "13.31",
+          "Washington, D.C.": "7.35",
+          "Kuala Lumpur": "5.27"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "5.44",
+          "Beijing": "31.12",
+          "Tokyo": "8.56",
+          "Washington, D.C.": "5.93",
+          "Seoul": "4.41"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "33.83",
+          "Washington, D.C.": "14.08",
+          "Berlin": "5.38",
+          "Tokyo": "4.66",
+          "Seoul": "4.46"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "15.04",
+          "Tokyo": "24.49",
+          "Washington, D.C.": "13.18",
+          "Berlin": "11.01",
+          "Seoul": "6.75"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "5.17",
+          "Beijing": "27.33",
+          "Washington, D.C.": "12.92",
+          "Tokyo": "7.75",
+          "Berlin": "6.28"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "27.55",
+          "Beijing": "24.47",
+          "Washington, D.C.": "14.82",
+          "Berlin": "4.15",
+          "Bern": "3.11"
+        }
+      }
+    },
+    "2015": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "26.36",
+          "Washington, D.C.": "12.90",
+          "Copenhagen": "10.62",
+          "Beijing": "8.13",
+          "Hanoi": "5.06"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "10.13",
+          "Beijing": "9.76",
+          "Kuala Lumpur": "7.82",
+          "Wellington": "7.32",
+          "Hanoi": "6.29"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.34",
+          "Wellington": "19.41",
+          "Washington, D.C.": "10.22",
+          "Beijing": "5.65"
+        },
+        "Mineral Products": {
+          "Mexico City": "18.31",
+          "Ottawa": "11.71",
+          "Santiago": "10.23",
+          "Washington, D.C.": "9.94",
+          "Beijing": "8.46"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "17.87",
+          "Beijing": "11.21",
+          "Berlin": "9.31",
+          "Bern": "5.68",
+          "London": "4.98"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Thailand": "7.36",
+          "Unspecified": "6.43",
+          "Beijing": "29.43",
+          "Washington, D.C.": "12.42",
+          "Tokyo": "6.84"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "53.93",
+          "Rome": "10.29",
+          "Paris": "6.20",
+          "New Delhi": "5.72",
+          "Hanoi": "3.82"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Beijing": "26.55",
+          "Wellington": "10.28",
+          "Washington, D.C.": "9.00",
+          "Jakarta": "7.26",
+          "London": "4.78"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "6.95",
+          "Beijing": "60.74",
+          "New Delhi": "4.60",
+          "Jakarta": "2.54",
+          "Washington, D.C.": "2.34"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "61.57",
+          "Hanoi": "12.05",
+          "Jakarta": "5.82",
+          "Rome": "4.77",
+          "Washington, D.C.": "1.83"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "25.55",
+          "Beijing": "15.52",
+          "Wellington": "6.78",
+          "Tokyo": "6.01",
+          "Washington, D.C.": "5.76"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Papua New Guinea": "6.35",
+          "Beijing": "15.37",
+          "Santiago": "14.42",
+          "Seoul": "6.61",
+          "Mexico City": "5.47"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Thailand": "6.24",
+          "Unspecified": "5.44",
+          "Beijing": "34.15",
+          "Tokyo": "12.12",
+          "Washington, D.C.": "5.59"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "35.26",
+          "Washington, D.C.": "14.47",
+          "Seoul": "5.43",
+          "Berlin": "4.39",
+          "Kuala Lumpur": "4.31"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "17.32",
+          "Tokyo": "23.38",
+          "Washington, D.C.": "13.90",
+          "Berlin": "10.85",
+          "Seoul": "7.30"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "5.89",
+          "Beijing": "28.72",
+          "Washington, D.C.": "13.20",
+          "Tokyo": "7.62",
+          "Berlin": "5.78"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "25.54",
+          "Beijing": "26.11",
+          "Washington, D.C.": "14.60",
+          "Berlin": "4.03",
+          "Bern": "3.38"
+        }
+      }
+    },
+    "2016": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "26.98",
+          "Washington, D.C.": "12.15",
+          "Copenhagen": "9.75",
+          "Beijing": "8.76",
+          "Hanoi": "5.26"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "9.59",
+          "Beijing": "9.31",
+          "Wellington": "8.22",
+          "Kuala Lumpur": "7.91",
+          "Hanoi": "6.69"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.37",
+          "Wellington": "21.91",
+          "Washington, D.C.": "9.29",
+          "Beijing": "5.49"
+        },
+        "Mineral Products": {
+          "Peru": "16.46",
+          "Mexico City": "15.24",
+          "Washington, D.C.": "11.55",
+          "Santiago": "8.89",
+          "Ottawa": "6.90"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Ireland": "7.71",
+          "Washington, D.C.": "17.21",
+          "Beijing": "11.59",
+          "Berlin": "9.76",
+          "Bern": "4.83"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Thailand": "7.14",
+          "Unspecified": "7.11",
+          "Beijing": "29.72",
+          "Washington, D.C.": "12.00",
+          "Tokyo": "6.71"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "53.07",
+          "Rome": "11.95",
+          "Paris": "8.25",
+          "New Delhi": "5.79",
+          "Hanoi": "4.37"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Beijing": "26.77",
+          "Wellington": "10.60",
+          "Washington, D.C.": "8.37",
+          "Jakarta": "7.67",
+          "London": "4.92"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "7.34",
+          "Beijing": "59.89",
+          "New Delhi": "4.81",
+          "Jakarta": "2.85",
+          "Hanoi": "2.74"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "58.79",
+          "Hanoi": "14.20",
+          "Jakarta": "6.23",
+          "Rome": "5.53",
+          "Washington, D.C.": "1.62"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "21.77",
+          "Thailand": "8.57",
+          "Tokyo": "16.21",
+          "Beijing": "12.32",
+          "Washington, D.C.": "6.08"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Papua New Guinea": "8.02",
+          "Beijing": "15.59",
+          "Santiago": "6.58",
+          "Washington, D.C.": "6.06",
+          "Seoul": "5.88"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Thailand": "6.02",
+          "Unspecified": "5.87",
+          "Other Asia, nes": "4.83",
+          "Beijing": "36.64",
+          "Washington, D.C.": "6.24"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "36.90",
+          "Washington, D.C.": "13.52",
+          "Berlin": "5.06",
+          "Tokyo": "4.63",
+          "Kuala Lumpur": "3.59"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "18.24",
+          "Tokyo": "22.99",
+          "Washington, D.C.": "13.91",
+          "Berlin": "12.29",
+          "Seoul": "7.26"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "6.27",
+          "Beijing": "28.19",
+          "Washington, D.C.": "12.89",
+          "Tokyo": "7.36",
+          "Berlin": "6.54"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "11.45",
+          "Beijing": "30.48",
+          "Washington, D.C.": "18.00",
+          "Berlin": "4.97",
+          "Bern": "4.10"
+        }
+      }
+    },
+    "2017": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "31.44",
+          "Washington, D.C.": "14.46",
+          "Copenhagen": "8.84",
+          "Beijing": "5.70",
+          "Amsterdam": "4.58"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "11.26",
+          "Kuala Lumpur": "8.82",
+          "Wellington": "7.58",
+          "Beijing": "7.52",
+          "Hanoi": "6.36"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.20",
+          "Wellington": "20.86",
+          "Washington, D.C.": "9.04",
+          "Beijing": "6.49"
+        },
+        "Mineral Products": {
+          "Peru": "13.92",
+          "Mexico City": "17.14",
+          "Washington, D.C.": "14.52",
+          "Santiago": "10.60",
+          "Tokyo": "7.69"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "18.39",
+          "Beijing": "12.86",
+          "Berlin": "9.72",
+          "Paris": "4.88",
+          "London": "4.72"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "8.31",
+          "Thailand": "6.98",
+          "Beijing": "29.69",
+          "Washington, D.C.": "10.90",
+          "Tokyo": "6.97"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "52.35",
+          "Rome": "14.50",
+          "Paris": "7.62",
+          "New Delhi": "5.84",
+          "Hanoi": "4.56"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Beijing": "27.18",
+          "Wellington": "10.19",
+          "Washington, D.C.": "9.05",
+          "Jakarta": "7.09",
+          "Kuala Lumpur": "4.68"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "6.79",
+          "Beijing": "60.43",
+          "New Delhi": "5.01",
+          "Hanoi": "2.82",
+          "Jakarta": "2.76"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "57.91",
+          "Hanoi": "14.87",
+          "Rome": "6.18",
+          "Jakarta": "5.66",
+          "New Delhi": "1.64"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "22.83",
+          "Thailand": "4.70",
+          "Tokyo": "19.52",
+          "Beijing": "14.89",
+          "Wellington": "4.98"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Peru": "6.21",
+          "Beijing": "18.04",
+          "Washington, D.C.": "8.46",
+          "Seoul": "8.35",
+          "Mexico City": "7.69"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "7.32",
+          "Other Asia, nes": "5.22",
+          "Beijing": "39.78",
+          "Washington, D.C.": "6.31",
+          "Seoul": "3.95"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "38.70",
+          "Washington, D.C.": "13.26",
+          "Berlin": "5.43",
+          "Tokyo": "4.52",
+          "Kuala Lumpur": "3.52"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "15.68",
+          "Seoul": "21.68",
+          "Tokyo": "19.98",
+          "Washington, D.C.": "11.88",
+          "Berlin": "8.65"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Beijing": "28.04",
+          "Washington, D.C.": "12.44",
+          "Tokyo": "7.31",
+          "Seoul": "6.42",
+          "Berlin": "6.02"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "41.94",
+          "Beijing": "21.57",
+          "Washington, D.C.": "11.33",
+          "Berlin": "3.21",
+          "Bern": "2.41"
+        }
+      }
+    },
+    "2018": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "30.57",
+          "Washington, D.C.": "14.19",
+          "Copenhagen": "8.04",
+          "Beijing": "6.53",
+          "Amsterdam": "4.48"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "11.84",
+          "Kuala Lumpur": "8.28",
+          "Beijing": "7.69",
+          "Wellington": "6.94",
+          "Hanoi": "6.25"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.34",
+          "Wellington": "19.35",
+          "Washington, D.C.": "8.78",
+          "Beijing": "6.35",
+          "Paris": "5.49"
+        },
+        "Mineral Products": {
+          "Peru": "8.04",
+          "Mexico City": "18.47",
+          "Washington, D.C.": "14.27",
+          "Santiago": "8.55",
+          "Tokyo": "7.16"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "19.40",
+          "Beijing": "13.32",
+          "Berlin": "9.91",
+          "Paris": "5.02",
+          "London": "4.61"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "8.72",
+          "Thailand": "6.87",
+          "Beijing": "30.58",
+          "Washington, D.C.": "10.72",
+          "Tokyo": "6.73"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "50.33",
+          "Rome": "16.91",
+          "Paris": "7.94",
+          "New Delhi": "6.01",
+          "Hanoi": "5.19"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Beijing": "27.90",
+          "Wellington": "8.84",
+          "Washington, D.C.": "7.88",
+          "Jakarta": "6.85",
+          "Kuala Lumpur": "4.84"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "7.11",
+          "Beijing": "60.52",
+          "New Delhi": "4.95",
+          "Hanoi": "3.34",
+          "Jakarta": "2.67"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "56.25",
+          "Hanoi": "16.02",
+          "Rome": "6.76",
+          "Jakarta": "5.69",
+          "New Delhi": "1.77"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "23.67",
+          "Tokyo": "16.30",
+          "Beijing": "15.70",
+          "Wellington": "5.03",
+          "New Delhi": "4.19"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "19.67",
+          "Seoul": "8.62",
+          "Mexico City": "8.24",
+          "Washington, D.C.": "8.22",
+          "Kuala Lumpur": "5.32"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "7.77",
+          "Other Asia, nes": "4.64",
+          "Beijing": "40.92",
+          "Washington, D.C.": "5.67",
+          "Kuala Lumpur": "4.20"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "39.98",
+          "Washington, D.C.": "12.61",
+          "Berlin": "5.85",
+          "Tokyo": "4.45",
+          "Kuala Lumpur": "3.41"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "18.47",
+          "Tokyo": "24.69",
+          "Washington, D.C.": "12.76",
+          "Berlin": "9.80",
+          "Seoul": "6.59"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "5.79",
+          "Beijing": "30.69",
+          "Washington, D.C.": "12.35",
+          "Tokyo": "7.57",
+          "Berlin": "6.27"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "20.43",
+          "Beijing": "30.44",
+          "Washington, D.C.": "14.91",
+          "Berlin": "4.43",
+          "Bern": "3.17"
+        }
+      }
+    },
+    "2019": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "29.24",
+          "Washington, D.C.": "16.33",
+          "Copenhagen": "9.69",
+          "Beijing": "6.06",
+          "Amsterdam": "5.16"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "11.30",
+          "Kuala Lumpur": "7.35",
+          "Beijing": "7.20",
+          "Wellington": "6.63",
+          "Hanoi": "6.03"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.06",
+          "Wellington": "18.08",
+          "Washington, D.C.": "8.51",
+          "Beijing": "6.34"
+        },
+        "Mineral Products": {
+          "Washington, D.C.": "15.60",
+          "Santiago": "15.56",
+          "Tokyo": "10.58",
+          "Jakarta": "7.35",
+          "Ottawa": "6.60"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "20.19",
+          "Beijing": "12.30",
+          "Berlin": "9.68",
+          "Paris": "6.86",
+          "London": "5.37"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "8.10",
+          "Thailand": "5.88",
+          "Beijing": "31.72",
+          "Washington, D.C.": "11.55",
+          "Tokyo": "7.42"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "47.30",
+          "Rome": "18.22",
+          "Paris": "9.75",
+          "New Delhi": "5.65",
+          "Hanoi": "3.89"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Beijing": "30.45",
+          "Washington, D.C.": "8.08",
+          "Wellington": "7.66",
+          "Jakarta": "6.31",
+          "Kuala Lumpur": "5.09"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "7.79",
+          "Beijing": "59.01",
+          "New Delhi": "5.35",
+          "Hanoi": "3.81",
+          "Jakarta": "2.68"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "53.99",
+          "Hanoi": "18.83",
+          "Rome": "6.26",
+          "Jakarta": "5.79",
+          "New Delhi": "1.63"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "28.44",
+          "Thailand": "11.06",
+          "Beijing": "14.67",
+          "Tokyo": "6.38",
+          "Washington, D.C.": "5.90"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "23.39",
+          "Seoul": "9.12",
+          "Washington, D.C.": "8.17",
+          "Kuala Lumpur": "6.42",
+          "Santiago": "5.81"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "7.41",
+          "Other Asia, nes": "3.80",
+          "Beijing": "42.63",
+          "Washington, D.C.": "6.08",
+          "Berlin": "3.61"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "41.57",
+          "Washington, D.C.": "13.27",
+          "Berlin": "5.34",
+          "Tokyo": "3.98",
+          "Hanoi": "3.16"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "16.23",
+          "Tokyo": "22.76",
+          "Washington, D.C.": "15.83",
+          "Berlin": "9.51",
+          "Seoul": "7.15"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "5.15",
+          "Beijing": "31.49",
+          "Washington, D.C.": "13.38",
+          "Tokyo": "6.92",
+          "Berlin": "5.96"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "16.32",
+          "Beijing": "31.74",
+          "Washington, D.C.": "15.91",
+          "Berlin": "4.57",
+          "Bern": "3.52"
+        }
+      }
+    },
+    "2020": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "29.97",
+          "Washington, D.C.": "17.49",
+          "Copenhagen": "8.54",
+          "Hanoi": "5.58",
+          "Beijing": "4.99"
+        },
+        "Vegetable Products": {
+          "Washington, D.C.": "9.56",
+          "Wellington": "7.65",
+          "Kuala Lumpur": "7.43",
+          "Beijing": "7.34",
+          "New Delhi": "6.39"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.23",
+          "Wellington": "15.89",
+          "Washington, D.C.": "8.86",
+          "Beijing": "6.49"
+        },
+        "Mineral Products": {
+          "Thailand": "8.51",
+          "Washington, D.C.": "14.27",
+          "Santiago": "11.43",
+          "Tokyo": "9.24",
+          "Mexico City": "9.12"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Washington, D.C.": "18.30",
+          "Beijing": "15.23",
+          "Berlin": "9.83",
+          "Paris": "6.38",
+          "London": "5.37"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Thailand": "5.67",
+          "Beijing": "36.49",
+          "Washington, D.C.": "11.19",
+          "Tokyo": "6.53",
+          "Kuala Lumpur": "5.75"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "43.76",
+          "Rome": "18.21",
+          "Paris": "12.57",
+          "New Delhi": "5.22",
+          "Hanoi": "5.11"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Beijing": "34.85",
+          "Washington, D.C.": "7.53",
+          "Wellington": "7.48",
+          "Jakarta": "7.26",
+          "Kuala Lumpur": "5.21"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "6.50",
+          "Beijing": "65.54",
+          "New Delhi": "4.43",
+          "Hanoi": "3.56",
+          "Jakarta": "2.22"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Beijing": "51.65",
+          "Hanoi": "21.34",
+          "Rome": "6.21",
+          "Jakarta": "5.98",
+          "Washington, D.C.": "1.60"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "20.43",
+          "Thailand": "11.06",
+          "Beijing": "12.41",
+          "Washington, D.C.": "7.51",
+          "Hong Kong": "4.53"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "19.82",
+          "Seoul": "7.51",
+          "London": "7.39",
+          "Hong Kong": "6.96",
+          "Washington, D.C.": "6.52"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "4.22",
+          "Other Asia, nes": "4.22",
+          "Beijing": "46.11",
+          "Washington, D.C.": "6.22",
+          "Seoul": "3.79"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "43.53",
+          "Washington, D.C.": "12.49",
+          "Berlin": "5.36",
+          "Tokyo": "3.73",
+          "Hanoi": "3.25"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "14.99",
+          "Tokyo": "26.01",
+          "Washington, D.C.": "16.90",
+          "Beijing": "8.22",
+          "Berlin": "7.66"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "4.78",
+          "Beijing": "34.73",
+          "Washington, D.C.": "12.81",
+          "Tokyo": "6.94",
+          "Berlin": "5.56"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "9.89",
+          "Beijing": "36.67",
+          "Washington, D.C.": "14.95",
+          "Berlin": "4.60",
+          "Bern": "3.27"
+        }
+      }
+    },
+    "2021": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "28.66",
+          "Washington, D.C.": "13.87",
+          "Copenhagen": "8.98",
+          "Hanoi": "6.91",
+          "Amsterdam": "6.62"
+        },
+        "Vegetable Products": {
+          "Kuala Lumpur": "10.34",
+          "Beijing": "9.04",
+          "Washington, D.C.": "8.60",
+          "Wellington": "7.06",
+          "Hanoi": "6.03"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "7.03",
+          "Wellington": "12.83",
+          "Washington, D.C.": "8.31",
+          "Beijing": "6.97"
+        },
+        "Mineral Products": {
+          "Mauritania": "8.37",
+          "Santiago": "14.12",
+          "Mexico City": "13.23",
+          "Ottawa": "12.03",
+          "Washington, D.C.": "10.77"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Belgium": "6.18",
+          "Washington, D.C.": "15.72",
+          "Beijing": "15.29",
+          "Berlin": "8.34",
+          "London": "4.41"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "9.56",
+          "Thailand": "6.18",
+          "Beijing": "34.62",
+          "Washington, D.C.": "9.25",
+          "Kuala Lumpur": "6.04"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "44.45",
+          "Rome": "17.06",
+          "Paris": "12.65",
+          "New Delhi": "5.84",
+          "Hanoi": "4.40"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Beijing": "35.48",
+          "Washington, D.C.": "7.55",
+          "Jakarta": "6.94",
+          "Wellington": "6.73",
+          "Kuala Lumpur": "4.48"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "7.58",
+          "Beijing": "58.94",
+          "New Delhi": "5.94",
+          "Hanoi": "4.19",
+          "Jakarta": "2.58"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Cambodia": "1.55",
+          "Beijing": "53.02",
+          "Hanoi": "18.83",
+          "Jakarta": "7.03",
+          "Rome": "6.16"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "15.17",
+          "Cote dIvoire": "4.36",
+          "Beijing": "16.93",
+          "Washington, D.C.": "10.37",
+          "New Delhi": "4.76"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "21.65",
+          "Seoul": "6.78",
+          "Warsaw": "5.60",
+          "Washington, D.C.": "5.49",
+          "Santiago": "5.05"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "9.65",
+          "Other Asia, nes": "3.92",
+          "Beijing": "43.83",
+          "Washington, D.C.": "4.65",
+          "Seoul": "3.08"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "43.47",
+          "Washington, D.C.": "11.69",
+          "Berlin": "5.36",
+          "Tokyo": "3.92",
+          "Hanoi": "3.22"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "15.68",
+          "Tokyo": "25.14",
+          "Washington, D.C.": "13.06",
+          "Beijing": "11.31",
+          "Seoul": "7.30"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "5.11",
+          "Beijing": "34.10",
+          "Washington, D.C.": "11.26",
+          "Tokyo": "7.15",
+          "Berlin": "5.14"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "15.09",
+          "Beijing": "36.56",
+          "Washington, D.C.": "13.71",
+          "Berlin": "4.24",
+          "Bern": "3.43"
+        }
+      }
+    },
+    "2022": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Wellington": "27.99",
+          "Washington, D.C.": "11.39",
+          "Hanoi": "9.16",
+          "Copenhagen": "8.79",
+          "Amsterdam": "6.90"
+        },
+        "Vegetable Products": {
+          "Kuala Lumpur": "10.86",
+          "Beijing": "9.40",
+          "Washington, D.C.": "8.13",
+          "New Delhi": "6.58",
+          "Hanoi": "6.14"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Thailand": "8.16",
+          "Wellington": "11.12",
+          "Washington, D.C.": "8.55",
+          "Beijing": "7.42",
+          "Rome": "5.79"
+        },
+        "Mineral Products": {
+          "Mauritania": "8.90",
+          "Thailand": "8.49",
+          "Mexico City": "13.99",
+          "Ottawa": "13.72",
+          "Tokyo": "8.41"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Ireland": "4.19",
+          "Beijing": "16.52",
+          "Washington, D.C.": "15.42",
+          "Berlin": "8.45",
+          "Paris": "3.79"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "8.03",
+          "Thailand": "5.10",
+          "Beijing": "38.40",
+          "Washington, D.C.": "10.89",
+          "Tokyo": "5.26"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Beijing": "45.66",
+          "Rome": "16.38",
+          "Paris": "12.38",
+          "New Delhi": "5.48",
+          "Hanoi": "4.92"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Beijing": "35.79",
+          "Washington, D.C.": "6.54",
+          "Jakarta": "6.51",
+          "Wellington": "5.95",
+          "Berlin": "4.84"
+        },
+        "Textiles and Textile Articles": {
+          "Bangladesh": "7.84",
+          "Beijing": "57.86",
+          "New Delhi": "6.11",
+          "Hanoi": "4.92",
+          "Jakarta": "2.48"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Cambodia": "1.85",
+          "Beijing": "50.16",
+          "Hanoi": "21.89",
+          "Jakarta": "8.05",
+          "Rome": "6.04"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Papua New Guinea": "14.59",
+          "Beijing": "16.95",
+          "Washington, D.C.": "11.16",
+          "Hong Kong": "4.90",
+          "New Delhi": "4.68"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Beijing": "25.09",
+          "Seoul": "9.35",
+          "Hong Kong": "6.85",
+          "Kuala Lumpur": "5.68",
+          "Ottawa": "5.10"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Unspecified": "10.59",
+          "Other Asia, nes": "3.81",
+          "Beijing": "45.16",
+          "Washington, D.C.": "4.56",
+          "Kuala Lumpur": "3.41"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Beijing": "43.16",
+          "Washington, D.C.": "12.27",
+          "Berlin": "4.82",
+          "Tokyo": "3.57",
+          "Hanoi": "3.43"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Thailand": "15.11",
+          "Tokyo": "22.45",
+          "Beijing": "14.34",
+          "Washington, D.C.": "14.01",
+          "Seoul": "8.77"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Thailand": "4.87",
+          "Beijing": "34.66",
+          "Washington, D.C.": "11.55",
+          "Tokyo": "6.35",
+          "Berlin": "5.00"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "14.60",
+          "Beijing": "36.67",
+          "Washington, D.C.": "13.64",
+          "Berlin": "3.98",
+          "Bern": "3.67"
+        }
+      }
+    }
+  }
 }

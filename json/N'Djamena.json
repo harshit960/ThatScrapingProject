@@ -1,127 +1,127 @@
 {
-    "Main Partners": {
-        "1995": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "France": "56.84",
-                    "Netherlands": "15.22",
-                    "Cameroon": "14.94",
-                    "Germany": "4.95",
-                    "Sweden": "4.03"
-                },
-                "Vegetable Products": {
-                    "France": "46.08",
-                    "Italy": "20.90",
-                    "Malaysia": "10.64",
-                    "United States": "5.68",
-                    "Cameroon": "5.53"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "France": "59.49",
-                    "Cameroon": "14.68",
-                    "Belgium-Luxembourg": "11.54",
-                    "Central African Republic": "8.75",
-                    "Norway": "1.55"
-                },
-                "Mineral Products": {
-                    "Cameroon": "89.19",
-                    "Nigeria": "5.91",
-                    "France": "1.65",
-                    "Belgium-Luxembourg": "1.28",
-                    "China": "0.86"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "France": "37.48",
-                    "Spain": "11.47",
-                    "Netherlands": "10.05",
-                    "Germany": "7.04",
-                    "Cameroon": "5.78"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "France": "47.21",
-                    "United States": "18.54",
-                    "Unspecified": "10.56",
-                    "Cameroon": "10.27",
-                    "Cote dIvoire": "6.55"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "France": "69.08",
-                    "Unspecified": "9.43",
-                    "Cote dIvoire": "7.68",
-                    "United States": "7.39",
-                    "Cameroon": "2.16"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "France": "66.10",
-                    "Unspecified": "18.76",
-                    "Cameroon": "8.01",
-                    "Spain": "1.34",
-                    "United States": "1.25"
-                },
-                "Textiles and Textile Articles": {
-                    "France": "49.10",
-                    "Cameroon": "14.09",
-                    "Unspecified": "9.65",
-                    "Japan": "8.59",
-                    "United States": "3.71"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "France": "74.26",
-                    "Cameroon": "10.36",
-                    "Nigeria": "5.61",
-                    "Belgium-Luxembourg": "3.33",
-                    "United States": "2.65"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "France": "41.95",
-                    "China": "16.41",
-                    "Central African Republic": "12.46",
-                    "Cameroon": "9.34",
-                    "Fm Sudan": "3.95"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Cameroon": "37.52",
-                    "Nigeria": "27.13",
-                    "France": "21.29",
-                    "China": "4.71",
-                    "United States": "4.41"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "France": "36.25",
-                    "Cameroon": "16.22",
-                    "Japan": "13.75",
-                    "United States": "10.12",
-                    "China": "3.94"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "France": "54.19",
-                    "United States": "20.83",
-                    "Unspecified": "9.07",
-                    "Japan": "2.31",
-                    "Germany": "2.25"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "France": "54.83",
-                    "China": "20.40",
-                    "Japan": "10.65",
-                    "Italy": "4.10",
-                    "Germany": "2.93"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "France": "48.97",
-                    "United States": "10.34",
-                    "Cameroon": "9.75",
-                    "Unspecified": "7.46",
-                    "China": "5.01"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "France": "48.46",
-                    "United States": "21.45",
-                    "China": "9.86",
-                    "Unspecified": "6.51",
-                    "Denmark": "3.10"
-                }
-            }
+  "Main Partners": {
+    "1995": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Paris": "56.84",
+          "Amsterdam": "15.22",
+          "Yaoundé": "14.94",
+          "Berlin": "4.95",
+          "Stockholm": "4.03"
+        },
+        "Vegetable Products": {
+          "Paris": "46.08",
+          "Rome": "20.90",
+          "Kuala Lumpur": "10.64",
+          "Washington, D.C.": "5.68",
+          "Yaoundé": "5.53"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Central African Republic": "8.75",
+          "Paris": "59.49",
+          "Yaoundé": "14.68",
+          "Brussels": "11.54",
+          "Oslo": "1.55"
+        },
+        "Mineral Products": {
+          "Nigeria": "5.91",
+          "Yaoundé": "89.19",
+          "Paris": "1.65",
+          "Brussels": "1.28",
+          "Beijing": "0.86"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Paris": "37.48",
+          "Madrid": "11.47",
+          "Amsterdam": "10.05",
+          "Berlin": "7.04",
+          "Yaoundé": "5.78"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Unspecified": "10.56",
+          "Cote dIvoire": "6.55",
+          "Paris": "47.21",
+          "Washington, D.C.": "18.54",
+          "Yaoundé": "10.27"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Unspecified": "9.43",
+          "Cote dIvoire": "7.68",
+          "Paris": "69.08",
+          "Washington, D.C.": "7.39",
+          "Yaoundé": "2.16"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Unspecified": "18.76",
+          "Paris": "66.10",
+          "Yaoundé": "8.01",
+          "Madrid": "1.34",
+          "Washington, D.C.": "1.25"
+        },
+        "Textiles and Textile Articles": {
+          "Unspecified": "9.65",
+          "Paris": "49.10",
+          "Yaoundé": "14.09",
+          "Tokyo": "8.59",
+          "Washington, D.C.": "3.71"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Nigeria": "5.61",
+          "Paris": "74.26",
+          "Yaoundé": "10.36",
+          "Brussels": "3.33",
+          "Washington, D.C.": "2.65"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Central African Republic": "12.46",
+          "Fm Sudan": "3.95",
+          "Paris": "41.95",
+          "Beijing": "16.41",
+          "Yaoundé": "9.34"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Nigeria": "27.13",
+          "Yaoundé": "37.52",
+          "Paris": "21.29",
+          "Beijing": "4.71",
+          "Washington, D.C.": "4.41"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Paris": "36.25",
+          "Yaoundé": "16.22",
+          "Tokyo": "13.75",
+          "Washington, D.C.": "10.12",
+          "Beijing": "3.94"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Unspecified": "9.07",
+          "Paris": "54.19",
+          "Washington, D.C.": "20.83",
+          "Tokyo": "2.31",
+          "Berlin": "2.25"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Paris": "54.83",
+          "Beijing": "20.40",
+          "Tokyo": "10.65",
+          "Rome": "4.10",
+          "Berlin": "2.93"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Unspecified": "7.46",
+          "Paris": "48.97",
+          "Washington, D.C.": "10.34",
+          "Yaoundé": "9.75",
+          "Beijing": "5.01"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "6.51",
+          "Paris": "48.46",
+          "Washington, D.C.": "21.45",
+          "Beijing": "9.86",
+          "Copenhagen": "3.10"
         }
+      }
     }
+  }
 }

@@ -1,742 +1,741 @@
 {
-    "Main Partners": {
-        "2017": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Germany": "26.44",
-                    "Hungary": "11.89",
-                    "Russian Federation": "7.34",
-                    "Ukraine": "7.18",
-                    "Belarus": "5.68"
-                },
-                "Vegetable Products": {
-                    "Kazakhstan": "51.53",
-                    "Russian Federation": "19.62",
-                    "China": "6.30",
-                    "Malaysia": "5.31",
-                    "Turkey": "3.42"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Brazil": "55.22",
-                    "Russian Federation": "18.12",
-                    "Kazakhstan": "4.75",
-                    "Latvia": "4.64",
-                    "Argentina": "2.99"
-                },
-                "Mineral Products": {
-                    "Kazakhstan": "47.37",
-                    "Tajikistan": "24.81",
-                    "Greece": "9.18",
-                    "Russian Federation": "8.05",
-                    "Kyrgyz Republic": "2.35"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "China": "16.41",
-                    "Russian Federation": "12.95",
-                    "India": "12.75",
-                    "Turkey": "6.27",
-                    "Germany": "5.39"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "37.09",
-                    "Korea, Rep.": "17.29",
-                    "Russian Federation": "14.86",
-                    "Turkey": "8.23",
-                    "Germany": "2.80"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "74.95",
-                    "Turkey": "8.02",
-                    "Finland": "4.04",
-                    "Afghanistan": "3.79",
-                    "Germany": "1.81"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Russian Federation": "75.41",
-                    "China": "6.24",
-                    "Turkey": "4.40",
-                    "Ukraine": "2.33",
-                    "Finland": "2.28"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "60.68",
-                    "Turkey": "13.20",
-                    "Russian Federation": "5.44",
-                    "Korea, Rep.": "5.10",
-                    "Bangladesh": "4.50"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "85.77",
-                    "Turkey": "7.92",
-                    "Italy": "1.61",
-                    "Russian Federation": "0.94",
-                    "Moldova": "0.85"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Russian Federation": "44.64",
-                    "China": "21.65",
-                    "Germany": "9.08",
-                    "Turkey": "3.93",
-                    "Ukraine": "3.82"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Kazakhstan": "40.21",
-                    "Russian Federation": "20.80",
-                    "Tajikistan": "13.00",
-                    "China": "6.31",
-                    "Greece": "5.63"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Russian Federation": "35.15",
-                    "China": "24.31",
-                    "Kazakhstan": "21.27",
-                    "Korea, Rep.": "2.99",
-                    "United Kingdom": "2.79"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "China": "38.97",
-                    "Russian Federation": "9.13",
-                    "Turkey": "7.99",
-                    "Germany": "7.55",
-                    "Korea, Rep.": "6.80"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Korea, Rep.": "50.75",
-                    "China": "8.80",
-                    "Germany": "7.85",
-                    "Belarus": "6.73",
-                    "Japan": "5.69"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "28.21",
-                    "Russian Federation": "15.91",
-                    "Korea, Rep.": "12.26",
-                    "Turkey": "5.92",
-                    "Germany": "5.68"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "China": "34.19",
-                    "Korea, Rep.": "12.09",
-                    "Germany": "9.12",
-                    "Lithuania": "7.78",
-                    "Russian Federation": "6.22"
-                }
-            }
+  "Main Partners": {
+    "2017": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Russian Federation": "7.34",
+          "Ukraine": "7.18",
+          "Belarus": "5.68",
+          "Berlin": "26.44",
+          "Budapest": "11.89"
         },
-        "2018": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Kazakhstan": "20.71",
-                    "Germany": "16.34",
-                    "Austria": "7.69",
-                    "Ukraine": "7.44",
-                    "Belarus": "7.07"
-                },
-                "Vegetable Products": {
-                    "Kazakhstan": "56.79",
-                    "Russian Federation": "19.02",
-                    "China": "5.88",
-                    "Malaysia": "4.52",
-                    "Turkey": "2.79"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Russian Federation": "33.16",
-                    "Ukraine": "17.82",
-                    "Kazakhstan": "9.03",
-                    "Latvia": "7.59",
-                    "Pakistan": "6.88"
-                },
-                "Mineral Products": {
-                    "Kazakhstan": "46.19",
-                    "Tajikistan": "28.45",
-                    "Kyrgyz Republic": "6.97",
-                    "Russian Federation": "6.91",
-                    "Iran, Islamic Rep.": "4.28"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "China": "15.79",
-                    "Russian Federation": "14.26",
-                    "India": "8.55",
-                    "Latvia": "7.56",
-                    "Turkey": "7.29"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "36.12",
-                    "Korea, Rep.": "15.77",
-                    "Russian Federation": "15.52",
-                    "Turkey": "7.22",
-                    "United States": "4.26"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "79.53",
-                    "Turkey": "10.56",
-                    "Afghanistan": "1.88",
-                    "Italy": "1.38",
-                    "Finland": "1.31"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Russian Federation": "78.85",
-                    "China": "5.06",
-                    "Ukraine": "3.35",
-                    "Turkey": "2.66",
-                    "Kazakhstan": "2.53"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "58.65",
-                    "Turkey": "16.28",
-                    "Korea, Rep.": "5.51",
-                    "Russian Federation": "5.30",
-                    "Bangladesh": "4.69"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "74.83",
-                    "Turkey": "12.23",
-                    "Italy": "2.30",
-                    "United States": "1.73",
-                    "Russian Federation": "1.72"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Russian Federation": "36.37",
-                    "China": "18.86",
-                    "Kazakhstan": "14.15",
-                    "Kyrgyz Republic": "5.56",
-                    "Iran, Islamic Rep.": "4.77"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Kazakhstan": "42.02",
-                    "Russian Federation": "26.33",
-                    "Tajikistan": "15.11",
-                    "China": "5.72",
-                    "Kyrgyz Republic": "4.00"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Russian Federation": "37.73",
-                    "China": "21.01",
-                    "Kazakhstan": "20.13",
-                    "Korea, Rep.": "8.42",
-                    "Turkey": "4.45"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "China": "32.99",
-                    "Turkey": "10.87",
-                    "Japan": "10.71",
-                    "Russian Federation": "8.43",
-                    "Korea, Rep.": "7.23"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Korea, Rep.": "44.55",
-                    "Belarus": "12.73",
-                    "China": "8.59",
-                    "United States": "6.09",
-                    "Germany": "5.78"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "24.81",
-                    "Russian Federation": "15.46",
-                    "Korea, Rep.": "13.84",
-                    "Turkey": "7.57",
-                    "Japan": "4.93"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "China": "32.22",
-                    "Korea, Rep.": "18.83",
-                    "Turkey": "9.93",
-                    "Russian Federation": "6.13",
-                    "Germany": "5.21"
-                }
-            }
+        "Vegetable Products": {
+          "Kazakhstan": "51.53",
+          "Russian Federation": "19.62",
+          "Beijing": "6.30",
+          "Kuala Lumpur": "5.31",
+          "Ankara": "3.42"
         },
-        "2019": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Kazakhstan": "37.64",
-                    "Belarus": "12.24",
-                    "Germany": "7.08",
-                    "Austria": "6.54",
-                    "Ukraine": "5.71"
-                },
-                "Vegetable Products": {
-                    "Kazakhstan": "56.12",
-                    "Russian Federation": "20.25",
-                    "Malaysia": "6.06",
-                    "China": "4.80",
-                    "Ecuador": "2.80"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Russian Federation": "32.94",
-                    "Brazil": "14.10",
-                    "Mexico": "12.48",
-                    "Ukraine": "6.81",
-                    "Latvia": "5.75"
-                },
-                "Mineral Products": {
-                    "Kazakhstan": "63.40",
-                    "Tajikistan": "16.73",
-                    "Kyrgyz Republic": "5.38",
-                    "Russian Federation": "3.65",
-                    "Iran, Islamic Rep.": "3.27"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "China": "15.03",
-                    "Russian Federation": "14.90",
-                    "India": "8.71",
-                    "Turkey": "7.13",
-                    "Latvia": "5.36"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "35.82",
-                    "Korea, Rep.": "17.69",
-                    "Russian Federation": "12.31",
-                    "Turkey": "7.73",
-                    "Iran, Islamic Rep.": "4.73"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "74.15",
-                    "Turkey": "13.93",
-                    "Afghanistan": "2.77",
-                    "Korea, Rep.": "2.71",
-                    "Italy": "1.14"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Russian Federation": "73.03",
-                    "China": "7.12",
-                    "Turkey": "4.49",
-                    "Kazakhstan": "3.69",
-                    "Ukraine": "2.68"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "53.31",
-                    "Turkey": "18.16",
-                    "Russian Federation": "7.98",
-                    "Korea, Rep.": "4.61",
-                    "Bangladesh": "4.30"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "63.97",
-                    "Turkey": "20.89",
-                    "Vietnam": "2.99",
-                    "Italy": "2.58",
-                    "Russian Federation": "2.56"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Russian Federation": "28.64",
-                    "China": "21.92",
-                    "Kazakhstan": "8.06",
-                    "Germany": "6.64",
-                    "Turkey": "5.72"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Kazakhstan": "58.30",
-                    "Russian Federation": "14.59",
-                    "Tajikistan": "8.47",
-                    "China": "5.90",
-                    "Singapore": "3.39"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Russian Federation": "38.28",
-                    "China": "21.60",
-                    "Kazakhstan": "16.63",
-                    "Korea, Rep.": "9.35",
-                    "Turkey": "3.63"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "China": "35.80",
-                    "Korea, Rep.": "11.50",
-                    "Turkey": "8.87",
-                    "Russian Federation": "7.55",
-                    "Germany": "7.05"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Korea, Rep.": "32.99",
-                    "China": "16.69",
-                    "United States": "11.12",
-                    "Russian Federation": "9.86",
-                    "Belarus": "6.30"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "27.88",
-                    "Russian Federation": "15.33",
-                    "Korea, Rep.": "14.10",
-                    "Turkey": "7.00",
-                    "Germany": "4.79"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "China": "33.13",
-                    "Korea, Rep.": "24.81",
-                    "Turkey": "9.57",
-                    "Russian Federation": "5.82",
-                    "Lithuania": "4.80"
-                }
-            }
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Russian Federation": "18.12",
+          "Kazakhstan": "4.75",
+          "Latvia": "4.64",
+          "Brasília": "55.22",
+          "Buenos Aires": "2.99"
         },
-        "2020": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Belarus": "22.28",
-                    "Kazakhstan": "11.63",
-                    "Russian Federation": "8.54",
-                    "Ukraine": "7.86",
-                    "Austria": "6.56"
-                },
-                "Vegetable Products": {
-                    "Kazakhstan": "61.22",
-                    "Russian Federation": "20.95",
-                    "China": "3.53",
-                    "Malaysia": "3.01",
-                    "Ecuador": "1.94"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Russian Federation": "53.00",
-                    "Kazakhstan": "7.71",
-                    "Brazil": "6.48",
-                    "Latvia": "3.67",
-                    "Lithuania": "3.24"
-                },
-                "Mineral Products": {
-                    "Kazakhstan": "68.94",
-                    "Tajikistan": "12.34",
-                    "Russian Federation": "6.73",
-                    "Kyrgyz Republic": "4.91",
-                    "Azerbaijan": "2.41"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Russian Federation": "15.41",
-                    "India": "13.31",
-                    "China": "12.17",
-                    "Turkey": "8.01",
-                    "Latvia": "4.60"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "35.04",
-                    "Korea, Rep.": "16.55",
-                    "Russian Federation": "14.03",
-                    "Turkey": "7.33",
-                    "Latvia": "5.73"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "64.01",
-                    "Turkey": "20.26",
-                    "Korea, Rep.": "3.98",
-                    "Afghanistan": "1.57",
-                    "Kyrgyz Republic": "1.52"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Russian Federation": "76.26",
-                    "China": "8.16",
-                    "Turkey": "5.22",
-                    "Ukraine": "1.89",
-                    "Finland": "1.26"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "51.33",
-                    "Turkey": "17.54",
-                    "Russian Federation": "7.35",
-                    "Korea, Rep.": "4.44",
-                    "Bangladesh": "3.81"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "56.15",
-                    "Turkey": "21.87",
-                    "Vietnam": "5.17",
-                    "Russian Federation": "3.15",
-                    "Italy": "2.96"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Russian Federation": "30.64",
-                    "China": "20.14",
-                    "Kazakhstan": "13.62",
-                    "Italy": "5.44",
-                    "Germany": "3.78"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Kazakhstan": "54.89",
-                    "Russian Federation": "19.93",
-                    "China": "7.28",
-                    "Tajikistan": "4.57",
-                    "Kyrgyz Republic": "3.21"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Russian Federation": "41.71",
-                    "China": "22.05",
-                    "Kazakhstan": "17.19",
-                    "Korea, Rep.": "5.84",
-                    "Turkey": "3.35"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "China": "36.23",
-                    "Russian Federation": "9.56",
-                    "Turkey": "7.66",
-                    "Korea, Rep.": "7.65",
-                    "Czech Republic": "6.82"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Korea, Rep.": "43.63",
-                    "China": "17.55",
-                    "Russian Federation": "7.44",
-                    "Kazakhstan": "5.15",
-                    "Japan": "5.11"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "27.79",
-                    "Russian Federation": "16.33",
-                    "Korea, Rep.": "12.28",
-                    "Turkey": "6.55",
-                    "Germany": "4.22"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "China": "36.78",
-                    "Korea, Rep.": "19.84",
-                    "Turkey": "7.44",
-                    "Germany": "6.81",
-                    "Lithuania": "5.56"
-                }
-            }
+        "Mineral Products": {
+          "Kazakhstan": "47.37",
+          "Tajikistan": "24.81",
+          "Russian Federation": "8.05",
+          "Kyrgyz Republic": "2.35",
+          "Athens": "9.18"
         },
-        "2021": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Kazakhstan": "24.57",
-                    "Belarus": "21.98",
-                    "Russian Federation": "8.82",
-                    "Ukraine": "4.94",
-                    "Turkey": "4.72"
-                },
-                "Vegetable Products": {
-                    "Kazakhstan": "55.55",
-                    "Russian Federation": "25.51",
-                    "China": "2.86",
-                    "Turkey": "1.95",
-                    "Ecuador": "1.71"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Russian Federation": "32.49",
-                    "Brazil": "27.67",
-                    "Kazakhstan": "5.52",
-                    "Argentina": "4.90",
-                    "Sudan": "3.32"
-                },
-                "Mineral Products": {
-                    "Kazakhstan": "62.41",
-                    "Russian Federation": "22.96",
-                    "Tajikistan": "4.83",
-                    "Kyrgyz Republic": "4.67",
-                    "Azerbaijan": "1.76"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "China": "17.73",
-                    "Russian Federation": "15.36",
-                    "India": "11.77",
-                    "Turkey": "7.76",
-                    "Netherlands": "4.56"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "31.24",
-                    "Russian Federation": "16.28",
-                    "Korea, Rep.": "14.14",
-                    "Turkey": "8.41",
-                    "Iran, Islamic Rep.": "5.58"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "64.79",
-                    "Turkey": "12.61",
-                    "Korea, Rep.": "4.60",
-                    "Turkmenistan": "3.95",
-                    "Afghanistan": "2.14"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Russian Federation": "74.14",
-                    "China": "5.96",
-                    "Turkey": "5.13",
-                    "Ukraine": "2.38",
-                    "Finland": "2.29"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "55.58",
-                    "Turkey": "18.57",
-                    "Russian Federation": "6.80",
-                    "Bangladesh": "3.67",
-                    "Korea, Rep.": "2.00"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "55.57",
-                    "Turkey": "24.53",
-                    "Vietnam": "4.23",
-                    "Russian Federation": "3.40",
-                    "Italy": "2.41"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Russian Federation": "34.08",
-                    "China": "21.52",
-                    "Kazakhstan": "14.85",
-                    "Turkey": "7.75",
-                    "Kyrgyz Republic": "3.00"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Kazakhstan": "56.83",
-                    "Russian Federation": "28.86",
-                    "China": "4.65",
-                    "Azerbaijan": "2.11",
-                    "Tajikistan": "1.67"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Russian Federation": "43.70",
-                    "Kazakhstan": "19.44",
-                    "China": "14.03",
-                    "Ukraine": "5.85",
-                    "Turkey": "4.45"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "China": "38.37",
-                    "Turkey": "13.94",
-                    "Russian Federation": "10.70",
-                    "Korea, Rep.": "7.08",
-                    "Germany": "4.76"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Korea, Rep.": "32.77",
-                    "China": "19.20",
-                    "Russian Federation": "10.97",
-                    "France": "5.77",
-                    "Kazakhstan": "4.94"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "26.69",
-                    "Russian Federation": "19.27",
-                    "Korea, Rep.": "9.67",
-                    "Turkey": "8.76",
-                    "Kazakhstan": "4.59"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "China": "32.42",
-                    "Korea, Rep.": "12.36",
-                    "Italy": "9.56",
-                    "Turkey": "8.94",
-                    "Germany": "7.18"
-                }
-            }
+        "Products of the Chemical or Allied Industries": {
+          "Russian Federation": "12.95",
+          "Beijing": "16.41",
+          "New Delhi": "12.75",
+          "Ankara": "6.27",
+          "Berlin": "5.39"
         },
-        "2022": {
-            "Imports": {
-                "Animals & Animal Products": {
-                    "Belarus": "24.51",
-                    "Kazakhstan": "22.67",
-                    "Kyrgyz Republic": "12.59",
-                    "Russian Federation": "10.81",
-                    "Turkey": "2.66"
-                },
-                "Vegetable Products": {
-                    "Kazakhstan": "58.92",
-                    "Russian Federation": "19.98",
-                    "Ecuador": "2.96",
-                    "China": "2.58",
-                    "Indonesia": "2.54"
-                },
-                "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
-                    "Brazil": "31.88",
-                    "Russian Federation": "29.73",
-                    "Kazakhstan": "5.84",
-                    "India": "2.95",
-                    "Lithuania": "2.61"
-                },
-                "Mineral Products": {
-                    "Kazakhstan": "69.17",
-                    "Tajikistan": "10.98",
-                    "Russian Federation": "7.76",
-                    "Kyrgyz Republic": "4.85",
-                    "Azerbaijan": "3.57"
-                },
-                "Products of the Chemical or Allied Industries": {
-                    "Russian Federation": "15.81",
-                    "China": "13.64",
-                    "India": "11.33",
-                    "Turkey": "8.70",
-                    "Germany": "4.52"
-                },
-                "Plastics and Articles thereof; Rubber and Articles thereof": {
-                    "China": "37.65",
-                    "Korea, Rep.": "15.21",
-                    "Russian Federation": "13.15",
-                    "Turkey": "7.46",
-                    "Iran, Islamic Rep.": "4.92"
-                },
-                "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
-                    "China": "66.45",
-                    "Turkey": "17.74",
-                    "Korea, Rep.": "4.15",
-                    "Finland": "1.67",
-                    "Russian Federation": "1.56"
-                },
-                "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
-                    "Russian Federation": "71.47",
-                    "China": "9.35",
-                    "Turkey": "5.47",
-                    "Belarus": "5.37",
-                    "Germany": "1.39"
-                },
-                "Textiles and Textile Articles": {
-                    "China": "55.59",
-                    "Turkey": "16.69",
-                    "Russian Federation": "5.80",
-                    "Bangladesh": "3.24",
-                    "Tajikistan": "2.92"
-                },
-                "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
-                    "China": "57.59",
-                    "Turkey": "24.13",
-                    "Vietnam": "4.71",
-                    "Italy": "2.86",
-                    "Russian Federation": "2.06"
-                },
-                "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
-                    "Russian Federation": "36.60",
-                    "China": "27.44",
-                    "Kazakhstan": "7.92",
-                    "Turkey": "5.15",
-                    "Iran, Islamic Rep.": "3.54"
-                },
-                "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
-                    "Kazakhstan": "55.21",
-                    "Russian Federation": "20.27",
-                    "Tajikistan": "8.67",
-                    "China": "7.18",
-                    "Azerbaijan": "3.53"
-                },
-                "Base Metals and Articles of Base Metal": {
-                    "Russian Federation": "48.86",
-                    "Kazakhstan": "18.07",
-                    "China": "14.65",
-                    "Korea, Rep.": "3.84",
-                    "Turkey": "3.59"
-                },
-                "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
-                    "China": "44.31",
-                    "Turkey": "10.80",
-                    "Russian Federation": "7.99",
-                    "Korea, Rep.": "6.27",
-                    "Germany": "4.25"
-                },
-                "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
-                    "Korea, Rep.": "36.37",
-                    "China": "23.04",
-                    "Germany": "13.24",
-                    "Kazakhstan": "7.01",
-                    "Russian Federation": "3.18"
-                },
-                "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
-                    "China": "29.58",
-                    "Russian Federation": "18.19",
-                    "Korea, Rep.": "10.32",
-                    "Turkey": "7.46",
-                    "Kazakhstan": "4.95"
-                },
-                "Miscellaneous Manufactured Articles": {
-                    "China": "33.96",
-                    "Korea, Rep.": "11.68",
-                    "Turkey": "8.03",
-                    "Unspecified": "6.00",
-                    "Russian Federation": "5.80"
-                }
-            }
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Russian Federation": "14.86",
+          "Beijing": "37.09",
+          "Seoul": "17.29",
+          "Ankara": "8.23",
+          "Berlin": "2.80"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Afghanistan": "3.79",
+          "Beijing": "74.95",
+          "Ankara": "8.02",
+          "Helsinki": "4.04",
+          "Berlin": "1.81"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Russian Federation": "75.41",
+          "Ukraine": "2.33",
+          "Beijing": "6.24",
+          "Ankara": "4.40",
+          "Helsinki": "2.28"
+        },
+        "Textiles and Textile Articles": {
+          "Russian Federation": "5.44",
+          "Bangladesh": "4.50",
+          "Beijing": "60.68",
+          "Ankara": "13.20",
+          "Seoul": "5.10"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Russian Federation": "0.94",
+          "Moldova": "0.85",
+          "Beijing": "85.77",
+          "Ankara": "7.92",
+          "Rome": "1.61"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Russian Federation": "44.64",
+          "Ukraine": "3.82",
+          "Beijing": "21.65",
+          "Berlin": "9.08",
+          "Ankara": "3.93"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Kazakhstan": "40.21",
+          "Russian Federation": "20.80",
+          "Tajikistan": "13.00",
+          "Beijing": "6.31",
+          "Athens": "5.63"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Russian Federation": "35.15",
+          "Kazakhstan": "21.27",
+          "Beijing": "24.31",
+          "Seoul": "2.99",
+          "London": "2.79"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Russian Federation": "9.13",
+          "Beijing": "38.97",
+          "Ankara": "7.99",
+          "Berlin": "7.55",
+          "Seoul": "6.80"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Belarus": "6.73",
+          "Seoul": "50.75",
+          "Beijing": "8.80",
+          "Berlin": "7.85",
+          "Tokyo": "5.69"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Russian Federation": "15.91",
+          "Beijing": "28.21",
+          "Seoul": "12.26",
+          "Ankara": "5.92",
+          "Berlin": "5.68"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Lithuania": "7.78",
+          "Russian Federation": "6.22",
+          "Beijing": "34.19",
+          "Seoul": "12.09",
+          "Berlin": "9.12"
         }
+      }
+    },
+    "2018": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Kazakhstan": "20.71",
+          "Ukraine": "7.44",
+          "Belarus": "7.07",
+          "Berlin": "16.34",
+          "Vienna": "7.69"
+        },
+        "Vegetable Products": {
+          "Kazakhstan": "56.79",
+          "Russian Federation": "19.02",
+          "Beijing": "5.88",
+          "Kuala Lumpur": "4.52",
+          "Ankara": "2.79"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Russian Federation": "33.16",
+          "Ukraine": "17.82",
+          "Kazakhstan": "9.03",
+          "Latvia": "7.59",
+          "Islamabad": "6.88"
+        },
+        "Mineral Products": {
+          "Kazakhstan": "46.19",
+          "Tajikistan": "28.45",
+          "Kyrgyz Republic": "6.97",
+          "Russian Federation": "6.91",
+          "Iran, Islamic Rep.": "4.28"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Russian Federation": "14.26",
+          "Latvia": "7.56",
+          "Beijing": "15.79",
+          "New Delhi": "8.55",
+          "Ankara": "7.29"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Russian Federation": "15.52",
+          "Beijing": "36.12",
+          "Seoul": "15.77",
+          "Ankara": "7.22",
+          "Washington, D.C.": "4.26"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Afghanistan": "1.88",
+          "Beijing": "79.53",
+          "Ankara": "10.56",
+          "Rome": "1.38",
+          "Helsinki": "1.31"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Russian Federation": "78.85",
+          "Ukraine": "3.35",
+          "Kazakhstan": "2.53",
+          "Beijing": "5.06",
+          "Ankara": "2.66"
+        },
+        "Textiles and Textile Articles": {
+          "Russian Federation": "5.30",
+          "Bangladesh": "4.69",
+          "Beijing": "58.65",
+          "Ankara": "16.28",
+          "Seoul": "5.51"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Russian Federation": "1.72",
+          "Beijing": "74.83",
+          "Ankara": "12.23",
+          "Rome": "2.30",
+          "Washington, D.C.": "1.73"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Russian Federation": "36.37",
+          "Kazakhstan": "14.15",
+          "Kyrgyz Republic": "5.56",
+          "Iran, Islamic Rep.": "4.77",
+          "Beijing": "18.86"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Kazakhstan": "42.02",
+          "Russian Federation": "26.33",
+          "Tajikistan": "15.11",
+          "Kyrgyz Republic": "4.00",
+          "Beijing": "5.72"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Russian Federation": "37.73",
+          "Kazakhstan": "20.13",
+          "Beijing": "21.01",
+          "Seoul": "8.42",
+          "Ankara": "4.45"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Russian Federation": "8.43",
+          "Beijing": "32.99",
+          "Ankara": "10.87",
+          "Tokyo": "10.71",
+          "Seoul": "7.23"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Belarus": "12.73",
+          "Seoul": "44.55",
+          "Beijing": "8.59",
+          "Washington, D.C.": "6.09",
+          "Berlin": "5.78"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Russian Federation": "15.46",
+          "Beijing": "24.81",
+          "Seoul": "13.84",
+          "Ankara": "7.57",
+          "Tokyo": "4.93"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Russian Federation": "6.13",
+          "Beijing": "32.22",
+          "Seoul": "18.83",
+          "Ankara": "9.93",
+          "Berlin": "5.21"
+        }
+      }
+    },
+    "2019": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Kazakhstan": "37.64",
+          "Belarus": "12.24",
+          "Ukraine": "5.71",
+          "Berlin": "7.08",
+          "Vienna": "6.54"
+        },
+        "Vegetable Products": {
+          "Kazakhstan": "56.12",
+          "Russian Federation": "20.25",
+          "Ecuador": "2.80",
+          "Kuala Lumpur": "6.06",
+          "Beijing": "4.80"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Russian Federation": "32.94",
+          "Ukraine": "6.81",
+          "Latvia": "5.75",
+          "Brasília": "14.10",
+          "Mexico City": "12.48"
+        },
+        "Mineral Products": {
+          "Kazakhstan": "63.40",
+          "Tajikistan": "16.73",
+          "Kyrgyz Republic": "5.38",
+          "Russian Federation": "3.65",
+          "Iran, Islamic Rep.": "3.27"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Russian Federation": "14.90",
+          "Latvia": "5.36",
+          "Beijing": "15.03",
+          "New Delhi": "8.71",
+          "Ankara": "7.13"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Russian Federation": "12.31",
+          "Iran, Islamic Rep.": "4.73",
+          "Beijing": "35.82",
+          "Seoul": "17.69",
+          "Ankara": "7.73"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Afghanistan": "2.77",
+          "Beijing": "74.15",
+          "Ankara": "13.93",
+          "Seoul": "2.71",
+          "Rome": "1.14"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Russian Federation": "73.03",
+          "Kazakhstan": "3.69",
+          "Ukraine": "2.68",
+          "Beijing": "7.12",
+          "Ankara": "4.49"
+        },
+        "Textiles and Textile Articles": {
+          "Russian Federation": "7.98",
+          "Bangladesh": "4.30",
+          "Beijing": "53.31",
+          "Ankara": "18.16",
+          "Seoul": "4.61"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Russian Federation": "2.56",
+          "Beijing": "63.97",
+          "Ankara": "20.89",
+          "Hanoi": "2.99",
+          "Rome": "2.58"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Russian Federation": "28.64",
+          "Kazakhstan": "8.06",
+          "Beijing": "21.92",
+          "Berlin": "6.64",
+          "Ankara": "5.72"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Kazakhstan": "58.30",
+          "Russian Federation": "14.59",
+          "Tajikistan": "8.47",
+          "Beijing": "5.90"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Russian Federation": "38.28",
+          "Kazakhstan": "16.63",
+          "Beijing": "21.60",
+          "Seoul": "9.35",
+          "Ankara": "3.63"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Russian Federation": "7.55",
+          "Beijing": "35.80",
+          "Seoul": "11.50",
+          "Ankara": "8.87",
+          "Berlin": "7.05"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Russian Federation": "9.86",
+          "Belarus": "6.30",
+          "Seoul": "32.99",
+          "Beijing": "16.69",
+          "Washington, D.C.": "11.12"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Russian Federation": "15.33",
+          "Beijing": "27.88",
+          "Seoul": "14.10",
+          "Ankara": "7.00",
+          "Berlin": "4.79"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Russian Federation": "5.82",
+          "Lithuania": "4.80",
+          "Beijing": "33.13",
+          "Seoul": "24.81",
+          "Ankara": "9.57"
+        }
+      }
+    },
+    "2020": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Belarus": "22.28",
+          "Kazakhstan": "11.63",
+          "Russian Federation": "8.54",
+          "Ukraine": "7.86",
+          "Vienna": "6.56"
+        },
+        "Vegetable Products": {
+          "Kazakhstan": "61.22",
+          "Russian Federation": "20.95",
+          "Ecuador": "1.94",
+          "Beijing": "3.53",
+          "Kuala Lumpur": "3.01"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Russian Federation": "53.00",
+          "Kazakhstan": "7.71",
+          "Latvia": "3.67",
+          "Lithuania": "3.24",
+          "Brasília": "6.48"
+        },
+        "Mineral Products": {
+          "Kazakhstan": "68.94",
+          "Tajikistan": "12.34",
+          "Russian Federation": "6.73",
+          "Kyrgyz Republic": "4.91",
+          "Azerbaijan": "2.41"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Russian Federation": "15.41",
+          "Latvia": "4.60",
+          "New Delhi": "13.31",
+          "Beijing": "12.17",
+          "Ankara": "8.01"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Russian Federation": "14.03",
+          "Latvia": "5.73",
+          "Beijing": "35.04",
+          "Seoul": "16.55",
+          "Ankara": "7.33"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Afghanistan": "1.57",
+          "Kyrgyz Republic": "1.52",
+          "Beijing": "64.01",
+          "Ankara": "20.26",
+          "Seoul": "3.98"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Russian Federation": "76.26",
+          "Ukraine": "1.89",
+          "Beijing": "8.16",
+          "Ankara": "5.22",
+          "Helsinki": "1.26"
+        },
+        "Textiles and Textile Articles": {
+          "Russian Federation": "7.35",
+          "Bangladesh": "3.81",
+          "Beijing": "51.33",
+          "Ankara": "17.54",
+          "Seoul": "4.44"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Russian Federation": "3.15",
+          "Beijing": "56.15",
+          "Ankara": "21.87",
+          "Hanoi": "5.17",
+          "Rome": "2.96"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Russian Federation": "30.64",
+          "Kazakhstan": "13.62",
+          "Beijing": "20.14",
+          "Rome": "5.44",
+          "Berlin": "3.78"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Kazakhstan": "54.89",
+          "Russian Federation": "19.93",
+          "Tajikistan": "4.57",
+          "Kyrgyz Republic": "3.21",
+          "Beijing": "7.28"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Russian Federation": "41.71",
+          "Kazakhstan": "17.19",
+          "Beijing": "22.05",
+          "Seoul": "5.84",
+          "Ankara": "3.35"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Russian Federation": "9.56",
+          "Czech Republic": "6.82",
+          "Beijing": "36.23",
+          "Ankara": "7.66",
+          "Seoul": "7.65"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Russian Federation": "7.44",
+          "Kazakhstan": "5.15",
+          "Seoul": "43.63",
+          "Beijing": "17.55",
+          "Tokyo": "5.11"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Russian Federation": "16.33",
+          "Beijing": "27.79",
+          "Seoul": "12.28",
+          "Ankara": "6.55",
+          "Berlin": "4.22"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Lithuania": "5.56",
+          "Beijing": "36.78",
+          "Seoul": "19.84",
+          "Ankara": "7.44",
+          "Berlin": "6.81"
+        }
+      }
+    },
+    "2021": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Kazakhstan": "24.57",
+          "Belarus": "21.98",
+          "Russian Federation": "8.82",
+          "Ukraine": "4.94",
+          "Ankara": "4.72"
+        },
+        "Vegetable Products": {
+          "Kazakhstan": "55.55",
+          "Russian Federation": "25.51",
+          "Ecuador": "1.71",
+          "Beijing": "2.86",
+          "Ankara": "1.95"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Russian Federation": "32.49",
+          "Kazakhstan": "5.52",
+          "Sudan": "3.32",
+          "Brasília": "27.67",
+          "Buenos Aires": "4.90"
+        },
+        "Mineral Products": {
+          "Kazakhstan": "62.41",
+          "Russian Federation": "22.96",
+          "Tajikistan": "4.83",
+          "Kyrgyz Republic": "4.67",
+          "Azerbaijan": "1.76"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Russian Federation": "15.36",
+          "Beijing": "17.73",
+          "New Delhi": "11.77",
+          "Ankara": "7.76",
+          "Amsterdam": "4.56"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Russian Federation": "16.28",
+          "Iran, Islamic Rep.": "5.58",
+          "Beijing": "31.24",
+          "Seoul": "14.14",
+          "Ankara": "8.41"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Turkmenistan": "3.95",
+          "Afghanistan": "2.14",
+          "Beijing": "64.79",
+          "Ankara": "12.61",
+          "Seoul": "4.60"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Russian Federation": "74.14",
+          "Ukraine": "2.38",
+          "Beijing": "5.96",
+          "Ankara": "5.13",
+          "Helsinki": "2.29"
+        },
+        "Textiles and Textile Articles": {
+          "Russian Federation": "6.80",
+          "Bangladesh": "3.67",
+          "Beijing": "55.58",
+          "Ankara": "18.57",
+          "Seoul": "2.00"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Russian Federation": "3.40",
+          "Beijing": "55.57",
+          "Ankara": "24.53",
+          "Hanoi": "4.23",
+          "Rome": "2.41"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Russian Federation": "34.08",
+          "Kazakhstan": "14.85",
+          "Kyrgyz Republic": "3.00",
+          "Beijing": "21.52",
+          "Ankara": "7.75"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Kazakhstan": "56.83",
+          "Russian Federation": "28.86",
+          "Azerbaijan": "2.11",
+          "Tajikistan": "1.67",
+          "Beijing": "4.65"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Russian Federation": "43.70",
+          "Kazakhstan": "19.44",
+          "Ukraine": "5.85",
+          "Beijing": "14.03",
+          "Ankara": "4.45"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Russian Federation": "10.70",
+          "Beijing": "38.37",
+          "Ankara": "13.94",
+          "Seoul": "7.08",
+          "Berlin": "4.76"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Russian Federation": "10.97",
+          "Kazakhstan": "4.94",
+          "Seoul": "32.77",
+          "Beijing": "19.20",
+          "Paris": "5.77"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Russian Federation": "19.27",
+          "Kazakhstan": "4.59",
+          "Beijing": "26.69",
+          "Seoul": "9.67",
+          "Ankara": "8.76"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Beijing": "32.42",
+          "Seoul": "12.36",
+          "Rome": "9.56",
+          "Ankara": "8.94",
+          "Berlin": "7.18"
+        }
+      }
+    },
+    "2022": {
+      "Imports": {
+        "Animals & Animal Products": {
+          "Belarus": "24.51",
+          "Kazakhstan": "22.67",
+          "Kyrgyz Republic": "12.59",
+          "Russian Federation": "10.81",
+          "Ankara": "2.66"
+        },
+        "Vegetable Products": {
+          "Kazakhstan": "58.92",
+          "Russian Federation": "19.98",
+          "Ecuador": "2.96",
+          "Beijing": "2.58",
+          "Jakarta": "2.54"
+        },
+        "Prepared Foodstuffs; Beverages, Spirits, Vinegar, Tobacco and Manufactured Tobacco Substitutes": {
+          "Russian Federation": "29.73",
+          "Kazakhstan": "5.84",
+          "Lithuania": "2.61",
+          "Brasília": "31.88",
+          "New Delhi": "2.95"
+        },
+        "Mineral Products": {
+          "Kazakhstan": "69.17",
+          "Tajikistan": "10.98",
+          "Russian Federation": "7.76",
+          "Kyrgyz Republic": "4.85",
+          "Azerbaijan": "3.57"
+        },
+        "Products of the Chemical or Allied Industries": {
+          "Russian Federation": "15.81",
+          "Beijing": "13.64",
+          "New Delhi": "11.33",
+          "Ankara": "8.70",
+          "Berlin": "4.52"
+        },
+        "Plastics and Articles thereof; Rubber and Articles thereof": {
+          "Russian Federation": "13.15",
+          "Iran, Islamic Rep.": "4.92",
+          "Beijing": "37.65",
+          "Seoul": "15.21",
+          "Ankara": "7.46"
+        },
+        "Raw Hides and Skins, Leather, Furskins, and Articles thereof; Saddlery and Harness; Travel Goods, Handbags, and Similar Containers; Articles of Animal Gut (Other than Silk-worm Gut)": {
+          "Russian Federation": "1.56",
+          "Beijing": "66.45",
+          "Ankara": "17.74",
+          "Seoul": "4.15",
+          "Helsinki": "1.67"
+        },
+        "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of Other Plaiting Materials; Basketware and Wickerwork": {
+          "Russian Federation": "71.47",
+          "Belarus": "5.37",
+          "Beijing": "9.35",
+          "Ankara": "5.47",
+          "Berlin": "1.39"
+        },
+        "Textiles and Textile Articles": {
+          "Russian Federation": "5.80",
+          "Bangladesh": "3.24",
+          "Tajikistan": "2.92",
+          "Beijing": "55.59",
+          "Ankara": "16.69"
+        },
+        "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops, and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair": {
+          "Russian Federation": "2.06",
+          "Beijing": "57.59",
+          "Ankara": "24.13",
+          "Hanoi": "4.71",
+          "Rome": "2.86"
+        },
+        "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware": {
+          "Russian Federation": "36.60",
+          "Kazakhstan": "7.92",
+          "Iran, Islamic Rep.": "3.54",
+          "Beijing": "27.44",
+          "Ankara": "5.15"
+        },
+        "Natural or Cultured Pearls, Precious or Semi-precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin": {
+          "Kazakhstan": "55.21",
+          "Russian Federation": "20.27",
+          "Tajikistan": "8.67",
+          "Azerbaijan": "3.53",
+          "Beijing": "7.18"
+        },
+        "Base Metals and Articles of Base Metal": {
+          "Russian Federation": "48.86",
+          "Kazakhstan": "18.07",
+          "Beijing": "14.65",
+          "Seoul": "3.84",
+          "Ankara": "3.59"
+        },
+        "Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such Articles": {
+          "Russian Federation": "7.99",
+          "Beijing": "44.31",
+          "Ankara": "10.80",
+          "Seoul": "6.27",
+          "Berlin": "4.25"
+        },
+        "Vehicles, Aircraft, Vessels, and Associated Transport Equipment": {
+          "Kazakhstan": "7.01",
+          "Russian Federation": "3.18",
+          "Seoul": "36.37",
+          "Beijing": "23.04",
+          "Berlin": "13.24"
+        },
+        "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof": {
+          "Russian Federation": "18.19",
+          "Kazakhstan": "4.95",
+          "Beijing": "29.58",
+          "Seoul": "10.32",
+          "Ankara": "7.46"
+        },
+        "Miscellaneous Manufactured Articles": {
+          "Unspecified": "6.00",
+          "Russian Federation": "5.80",
+          "Beijing": "33.96",
+          "Seoul": "11.68",
+          "Ankara": "8.03"
+        }
+      }
     }
+  }
 }
